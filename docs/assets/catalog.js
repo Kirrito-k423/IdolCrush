@@ -135,6 +135,7 @@
     if (brandNames.test(text) && !types.includes("brand")) types.push("brand");
     if (brandNames.test(text) && /[×✖]|\s[xX]\s/.test(text) && !pairs.length && !types.includes("collab")) types.push("collab");
     if (types.includes("stage") && /签售|簽售|팬싸|fansign/i.test(text) && !/打歌|人气歌谣|人氣歌謠|音乐银行|音樂銀行|音乐中心|音樂中心|M\s*COUNTDOWN|음악중심|인기가요|뮤직뱅크/i.test(text)) types.splice(types.indexOf("stage"), 1);
+    if (types.includes("stage") && types.includes("host") && !/舞台|打歌|表演|直拍|fancam|facecam/i.test(text)) types.splice(types.indexOf("stage"), 1);
     if (!types.length) types.push("other");
     const category = video.category && video.category !== "other" && Object.hasOwn(categories, video.category) ? video.category : types[0];
     return {...video, artistIds: ids, pairs, types, category};
