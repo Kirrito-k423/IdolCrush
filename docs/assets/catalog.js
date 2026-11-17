@@ -3,11 +3,7 @@
 
   const root = document.documentElement;
   const base = root.dataset.base;
-  const artists = {
-    wonyoung: {name: "张元英", roman: "WONYOUNG", lines: ["WON", "YOUNG"], group: "IVE", native: "장원영", color: "#e8a0c2", tint: "#291a32", search: "jang won young izone iz*one 张员瑛 張員瑛"},
-    wonhee: {name: "李沅禧", roman: "WONHEE", lines: ["WON", "HEE"], group: "ILLIT", native: "원희", color: "#b7bbfa", tint: "#292742", search: "lee won hee 李原禧 李元熙 아일릿"},
-    anna: {name: "田中杏奈", roman: "ANNA", lines: ["ANNA"], group: "MEOVV", native: "안나", color: "#8ed2ca", tint: "#173331", search: "tanaka anna 杏奈 田中アンナ 미야오"}
-  };
+  const artists = globalThis.IC_ARTISTS;
   const categories = {stage: "打歌舞台", group: "团体综艺", brand: "品牌代言", solo: "个人节目"};
   const shapes = {
     arrow: '<path d="M4 12h15m-6-6 6 6-6 6"/>',
@@ -39,22 +35,50 @@
       return "";
     }
   };
-  const path = (id = "home", fragment = "") => {
-    const directory = id === "home" ? "" : `${id}/`;
-    return `${base}${directory}${location.protocol === "file:" ? "index.html" : ""}${fragment}`;
+  const page = root.dataset.page;
+  const view = root.dataset.view;
+  const path = (id = "home", section = "", suffix = "") => {
+    const directory = [id === "home" ? "" : id, section].filter(Boolean).map(part => part + "/").join("");
+    return `${base}${directory}${location.protocol === "file:" ? "index.html" : ""}${suffix}`;
   };
-  const photos = (id) => window.IC_PHOTOS?.[id] || [];
+  const photos = id => (window.IC_PHOTOS?.[id] || []).filter(photo =>
+    Math.max(photo.width, photo.height) >= 3840 && Math.min(photo.width, photo.height) >= 2160);
   const videos = (id) => window.IC_VIDEOS?.[id] || [];
   const feature = id => Math.max(0, videos(id).findIndex(video => video.featured));
-  const photoUrl = item => `${base}assets/photos/${encodeURIComponent(item.file)}`;
+  const photoUrl = item => item.file ? `${base}assets/photos/${encodeURIComponent(item.file)}` : item.originalUrl;
+  const previewUrl = item => item.preview ? `${base}assets/photos/${encodeURIComponent(item.preview)}` : item.previewUrl || photoUrl(item);
+  const responsivePhoto = (item, sizes) => {
+    const preview = esc(previewUrl(item)), full = esc(photoUrl(item));
+    if (!item.previewWidth || preview === full) return `src="${full}"`;
+    return `src="${preview}" srcset="${preview} ${item.previewWidth}w, ${full} ${item.width}w" sizes="${sizes}"`;
+  };
+  const periods = id => window.IC_PERIODS?.[id] || [];
+  const periodLabel = {comeback: "回归期", tour: "巡演期"};
+  const periodName = period => period.debut ? "出道期" : periodLabel[period.type];
+  const includesDate = (period, date) => period.start <= date && date <= period.end;
+  const today = new Intl.DateTimeFormat("sv-SE", {timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit"}).format(new Date());
   const thumbUrl = (item, id) => {
     if (item.thumb) return `${base}assets/thumbs/${encodeURIComponent(item.thumb)}`;
     if (item.youtube) return `https://i.ytimg.com/vi/${encodeURIComponent(item.youtube)}/hqdefault.jpg`;
-    return photos(id)[0] ? photoUrl(photos(id)[0]) : "";
+    return photos(id)[0] ? previewUrl(photos(id)[0]) : "";
   };
   const pad = value => String(value).padStart(2, "0");
   const heading = (key, label, title, side = "") => `<div class="section-heading">
     <div><div class="eyebrow"><span class="slashes" aria-hidden="true"></span>${esc(label)}</div><h2 id="${key}-title">${esc(title)}</h2></div>${side}</div>`;
   const ext = 'target="_blank" rel="noopener noreferrer"';
-  window.IC = {page: root.dataset.page, base, artists, categories, icon, mark, esc, safeLink, path, photos, videos, feature, photoUrl, thumbUrl, pad, heading, ext};
+  const rememberQuery = params => {
+    const next = new URL(location.href);
+    next.search = params.toString();
+    if (next.href !== location.href && location.protocol !== "file:") history.replaceState(null, "", next);
+  };
+  window.IC = {page, view, base, artists, categories, icon, mark, esc, safeLink, path, photos, videos, feature, photoUrl, previewUrl, responsivePhoto, thumbUrl, periods, periodLabel, periodName, includesDate, today, rememberQuery, pad, heading, ext};
+
+  function routeOldBookmark() {
+    if (view !== "home" && view !== "artist") return;
+    const old = {"#calendar": "calendar", "#archive": "videos", "#gallery": "gallery"};
+    const target = old[location.hash];
+    if (target && (page !== "home" || target === "calendar")) location.replace(path(page, target, location.search));
+  }
+  routeOldBookmark();
+  window.addEventListener("hashchange", routeOldBookmark);
 })();

@@ -1,13 +1,13 @@
 (function () {
   "use strict";
 
-  const {artists, photos, videos, photoUrl, thumbUrl, icon, esc, safeLink, ext, pad} = window.IC;
+  const {artists, photos, videos, photoUrl, previewUrl, thumbUrl, icon, esc, safeLink, ext, pad} = window.IC;
   const dialog = document.createElement("dialog");
   dialog.className = "viewer";
   dialog.setAttribute("aria-labelledby", "viewer-title");
   dialog.innerHTML = `<div class="viewer-layout">
     <header class="viewer-head"><div class="viewer-id"><span class="live-dot"></span><span id="viewer-person"></span></div>
-      <div class="viewer-tools"><button class="circle native-full" type="button" aria-label="进入系统全屏">${icon("expand")}</button>
+      <div class="viewer-tools"><button class="photo-zoom mini-btn" type="button" aria-pressed="false">原寸查看</button><button class="circle native-full" type="button" aria-label="进入系统全屏">${icon("expand")}</button>
       <button class="circle viewer-close" type="button" aria-label="关闭放映厅" autofocus>${icon("close")}</button></div></header>
     <div class="viewer-stage">
       <button class="circle viewer-prev" type="button" aria-label="上一个作品">${icon("left")}</button>
@@ -20,6 +20,7 @@
   document.body.append(dialog);
   const screen = dialog.querySelector(".viewer-screen");
   const fullscreenButton = dialog.querySelector(".native-full");
+  const zoomButton = dialog.querySelector(".photo-zoom");
   const fullscreenRoot = document.documentElement;
   fullscreenButton.hidden = !fullscreenRoot.requestFullscreen && !fullscreenRoot.webkitRequestFullscreen;
   let state;
@@ -87,14 +88,38 @@
     const photoMode = type === "photo";
     const item = (photoMode ? photos(id) : videos(id))[queue[cursor]];
     dialog.dataset.mode = type;
+    setZoom(false);
+    zoomButton.hidden = !photoMode;
     dialog.querySelector("#viewer-person").textContent = `${artists[id].roman}  /  ${artists[id].name}`;
     dialog.querySelector(".viewer-count").textContent = `${photoMode ? "PHOTO" : "VIDEO"}  ${pad(cursor + 1)} / ${pad(queue.length)}`;
     dialog.querySelector("#viewer-title").textContent = item.title;
     dialog.querySelectorAll(".viewer-prev, .viewer-next").forEach(button => { button.hidden = queue.length < 2; });
     if (photoMode) {
-      screen.innerHTML = `<img class="viewer-photo" src="${esc(photoUrl(item))}" alt="${esc(item.alt)}">`;
-      dialog.querySelector(".viewer-credit").innerHTML = `${esc(item.date)} · 摄影 ${esc(item.credit)} · <a href="${safeLink(item.licenseUrl)}" ${ext}>${esc(item.license)}</a> · ${esc(item.changes)}`;
-      dialog.querySelector(".viewer-links").innerHTML = `<a class="text-link" href="${safeLink(item.source)}" ${ext}>照片原页 ${icon("outward", 16)}</a>`;
+      const img = document.createElement("img");
+      img.className = "viewer-photo";
+      img.width = item.width;
+      img.height = item.height;
+      img.alt = item.alt;
+      const status = document.createElement("span");
+      const preview = document.createElement("img");
+      preview.className = "viewer-loading-preview";
+      preview.alt = "";
+      preview.src = previewUrl(item);
+      status.className = "photo-status";
+      status.setAttribute("role", "status");
+      status.textContent = "正在载入高清原图…";
+      zoomButton.disabled = true;
+      img.addEventListener("load", () => {
+        preview.remove();
+        status.remove();
+        if (img.isConnected) zoomButton.disabled = false;
+      }, {once: true});
+      img.addEventListener("error", () => { status.textContent = "原图暂未载入，可打开图片来源查看。"; }, {once: true});
+      screen.replaceChildren(img, preview, status);
+      img.src = photoUrl(item);
+      const rights = item.licenseUrl ? `<a href="${safeLink(item.licenseUrl)}" ${ext}>${esc(item.license)}</a>` : esc(item.rights || item.license || "");
+      dialog.querySelector(".viewer-credit").innerHTML = [`${item.width} × ${item.height} px`, esc(item.date), esc(item.credit), rights, esc(item.changes)].filter(Boolean).join(" · ");
+      dialog.querySelector(".viewer-links").innerHTML = `<a class="text-link" href="${esc(photoUrl(item))}" ${ext}>打开原图 ${icon("outward", 15)}</a><a class="text-link" href="${safeLink(item.source)}" ${ext}>图片来源 ${icon("outward", 15)}</a>`;
     } else {
       renderVideo(item);
     }
@@ -104,6 +129,20 @@
     if (!state) return;
     state.cursor = (state.cursor + by + state.queue.length) % state.queue.length;
     render();
+  }
+
+  function setZoom(zoomed) {
+    dialog.classList.toggle("is-zoomed", zoomed);
+    zoomButton.setAttribute("aria-pressed", String(zoomed));
+    zoomButton.textContent = zoomed ? "适应屏幕" : "原寸查看";
+    screen.scrollLeft = 0;
+    screen.scrollTop = 0;
+    if (zoomed && state?.type === "photo") {
+      const picture = photos(state.id)[state.queue[state.cursor]];
+      const [x, y] = (picture.position || "50% 35%").split(" ").map(parseFloat);
+      screen.scrollLeft = screen.scrollWidth * x / 100 - screen.clientWidth / 2;
+      screen.scrollTop = screen.scrollHeight * y / 100 - screen.clientHeight / 2;
+    }
   }
 
   function stopProjection() {
@@ -129,6 +168,7 @@
   };
 
   fullscreenButton.addEventListener("click", toggleFullscreen);
+  zoomButton.addEventListener("click", () => setZoom(!dialog.classList.contains("is-zoomed")));
   document.addEventListener("fullscreenchange", syncFullscreen);
   document.addEventListener("webkitfullscreenchange", syncFullscreen);
   dialog.querySelector(".viewer-close").addEventListener("click", closeViewer);
@@ -159,7 +199,7 @@
     start = event.touches.length === 1 ? [event.touches[0].clientX, event.touches[0].clientY] : null;
   }, {passive: true});
   screen.addEventListener("touchend", event => {
-    if (!start || state?.type !== "photo") return;
+    if (!start || state?.type !== "photo" || dialog.classList.contains("is-zoomed")) return;
     const touch = event.changedTouches[0];
     const dx = touch.clientX - start[0];
     if (Math.abs(dx) > 55 && Math.abs(dx) > 1.4 * Math.abs(touch.clientY - start[1])) move(dx < 0 ? 1 : -1);

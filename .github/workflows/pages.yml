@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'docs/**'
+      - 'scripts/build_pages.mjs'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
   workflow_run:
@@ -36,6 +37,8 @@ jobs:
         with:
           ref: main
           persist-credentials: false
+      - name: Generate artist pages
+        run: node scripts/build_pages.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
