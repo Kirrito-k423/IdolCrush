@@ -6,7 +6,7 @@
   const artists = globalThis.IC_ARTISTS;
   const categories = {
     stage: "打歌 / 舞台", encore: "一位安可", group: "团体综艺", solo: "个人节目 / 综艺",
-    vlog: "直播 / VLOG / INS", behind: "幕后花絮", collab: "品牌联名", shorts: "抖音 / 官抖",
+    vlog: "直播 / VLOG / INS", behind: "幕后花絮", collab: "联名 / 合作", shorts: "抖音 / 官抖",
     appearance: "品牌站台 / 线下活动", fansign: "饭拍 / 签售直拍", travel: "机场出行", brand: "品牌代言",
     music: "MV / 音乐作品", teaser: "预告物料", concert: "演唱会 / 公演", magazine: "杂志 / 时尚", official: "官方物料", host: "主持",
     fanwork: "粉丝应援", award: "年末大赏感言", cp: "CP 向", other: "其他影像"
