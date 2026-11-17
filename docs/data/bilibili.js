@@ -1,16 +1,16 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-17T23:48:26+08:00",
+  "updatedAt": "2026-11-18T00:05:13+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
       "name": "Hearts2Hearts",
       "url": "https://space.bilibili.com/3546824314980440/dynamic",
-      "status": "partial",
-      "checkedAt": "2026-11-17T23:46:49+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-18T00:04:10+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-17T23:46:23+08:00",
-        "lastSuccessAt": "2026-11-17T23:46:40+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T00:03:28+08:00",
+        "lastSuccessAt": "2026-11-18T00:04:01+08:00",
         "headBvids": [
           "BV1E5s36fEyW",
           "BV1B5s36fEKE",
@@ -44,24 +44,30 @@ window.IC_BILIBILI = {
           "BV1vZ4Y6dExS"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 24,
         "total": 1468,
         "pagesFetched": [
           1,
-          19,
-          20,
-          21,
-          22,
-          23
-        ]
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ],
+        "nextPage": 34,
+        "complete": false
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-17T23:46:40+08:00",
-        "lastSuccessAt": "2026-11-17T23:46:49+08:00",
+        "checkedAt": "2026-11-18T00:04:01+08:00",
+        "lastSuccessAt": "2026-11-18T00:04:10+08:00",
         "headId": "1271623856582295623",
-        "historyOffset": "1259741503139348481",
+        "historyOffset": "1256076933938020388",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 4,
@@ -73,10 +79,10 @@ window.IC_BILIBILI = {
       "name": "张元英_ForeverYoung",
       "url": "https://space.bilibili.com/15774483/dynamic",
       "status": "partial",
-      "checkedAt": "2026-11-17T23:47:16+08:00",
+      "checkedAt": "2026-11-18T00:04:30+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-17T23:46:49+08:00",
+        "status": "error",
+        "checkedAt": "2026-11-18T00:04:10+08:00",
         "lastSuccessAt": "2026-11-17T23:47:07+08:00",
         "headBvids": [
           "BV1Hysr6DEqu",
@@ -114,22 +120,17 @@ window.IC_BILIBILI = {
         "error": "HTTP 412",
         "nextPage": 9,
         "total": 2165,
-        "pagesFetched": [
-          1,
-          7,
-          8
-        ]
+        "pagesFetched": []
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-17T23:47:07+08:00",
-        "lastSuccessAt": "2026-11-17T23:47:16+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T00:04:18+08:00",
+        "lastSuccessAt": "2026-11-18T00:04:30+08:00",
         "headId": "1271656889135923205",
-        "historyOffset": "1260947903612977154",
+        "historyOffset": "1253129057374044182",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 1,
+        "pagesFetched": 4,
         "videosAdded": 0
       }
     },
@@ -138,10 +139,10 @@ window.IC_BILIBILI = {
       "name": "XXXErase",
       "url": "https://space.bilibili.com/17379944/dynamic",
       "status": "partial",
-      "checkedAt": "2026-11-17T23:47:36+08:00",
+      "checkedAt": "2026-11-18T00:04:45+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-17T23:47:16+08:00",
+        "status": "error",
+        "checkedAt": "2026-11-18T00:04:30+08:00",
         "lastSuccessAt": "2026-11-17T23:47:25+08:00",
         "headBvids": [
           "BV1ABsT6oECt",
@@ -179,19 +180,18 @@ window.IC_BILIBILI = {
         "error": "HTTP 412",
         "nextPage": 22,
         "total": 2013,
-        "pagesFetched": [
-          1
-        ]
+        "pagesFetched": []
       },
       "dynamic": {
-        "status": "ok",
-        "checkedAt": "2026-11-17T23:47:25+08:00",
-        "lastSuccessAt": "2026-11-17T23:47:36+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-18T00:04:37+08:00",
+        "lastSuccessAt": "2026-11-18T00:04:45+08:00",
         "headId": "1271686468607148039",
         "historyOffset": "1262839544612388867",
         "historyComplete": false,
         "pending": [],
-        "pagesFetched": 4,
+        "error": "动态暂未返回内容",
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -200,11 +200,11 @@ window.IC_BILIBILI = {
       "name": "墙头众多的塔塔",
       "url": "https://space.bilibili.com/1495917219/dynamic",
       "status": "partial",
-      "checkedAt": "2026-11-17T23:47:54+08:00",
+      "checkedAt": "2026-11-18T00:04:54+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-17T23:47:36+08:00",
-        "lastSuccessAt": "2026-11-17T23:47:49+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T00:04:45+08:00",
+        "lastSuccessAt": "2026-11-18T00:04:48+08:00",
         "headBvids": [
           "BV1MTsK6FEP2",
           "BV1NMsP6DED8",
@@ -238,19 +238,18 @@ window.IC_BILIBILI = {
           "BV1L9Q2BWEKi"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 21,
         "total": 619,
         "pagesFetched": [
           1,
-          18,
-          19,
-          20
-        ]
+          20,
+          21
+        ],
+        "nextPage": 22,
+        "complete": true
       },
       "dynamic": {
         "status": "error",
-        "checkedAt": "2026-11-17T23:47:49+08:00",
+        "checkedAt": "2026-11-18T00:04:48+08:00",
         "lastSuccessAt": "2026-11-17T22:41:10+08:00",
         "headId": "1271295682405203976",
         "historyOffset": "1251624809471672389",
@@ -266,11 +265,11 @@ window.IC_BILIBILI = {
       "name": "Ampilu",
       "url": "https://space.bilibili.com/83749720/dynamic",
       "status": "partial",
-      "checkedAt": "2026-11-17T23:48:26+08:00",
+      "checkedAt": "2026-11-18T00:05:13+08:00",
       "uploads": {
         "status": "partial",
-        "checkedAt": "2026-11-17T23:47:54+08:00",
-        "lastSuccessAt": "2026-11-17T23:48:09+08:00",
+        "checkedAt": "2026-11-18T00:04:54+08:00",
+        "lastSuccessAt": "2026-11-18T00:05:03+08:00",
         "headBvids": [
           "BV1wwsr6nEHH",
           "BV1A6sT6xEEe",
@@ -313,12 +312,12 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-17T23:48:09+08:00",
-        "lastSuccessAt": "2026-11-17T23:48:26+08:00",
-        "pending": [],
+        "checkedAt": "2026-11-18T00:05:03+08:00",
+        "lastSuccessAt": "2026-11-18T00:05:13+08:00",
         "headId": "1271669499193458688",
-        "historyOffset": "1263962489608994835",
+        "historyOffset": "1260553307784478726",
         "historyComplete": false,
+        "pending": [],
         "pagesFetched": 4,
         "videosAdded": 0
       }
@@ -3965,6 +3964,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263868988161523732"
         }
       ]
     },
@@ -3984,6 +3988,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263597095288307714"
         }
       ]
     },
@@ -4234,6 +4243,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263485275797979157"
         }
       ]
     },
@@ -4301,6 +4315,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263492435480150034"
         }
       ]
     },
@@ -4344,6 +4363,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263487908591960085"
         }
       ]
     },
@@ -4363,6 +4387,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263474804634157074"
         }
       ]
     },
@@ -4454,6 +4483,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263112807622115332"
         }
       ]
     },
@@ -4473,6 +4507,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263086380718751762"
         }
       ]
     },
@@ -4492,6 +4531,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263109384509063200"
         }
       ]
     },
@@ -4535,6 +4579,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263106309336596497"
         }
       ]
     },
@@ -4621,6 +4670,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263099866903478304"
         }
       ]
     },
@@ -5176,6 +5230,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262022220960497681"
         }
       ]
     },
@@ -5219,6 +5278,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262024720629366825"
         }
       ]
     },
@@ -5238,6 +5302,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262027666990563347"
         }
       ]
     },
@@ -5257,6 +5326,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261997533467508738"
         }
       ]
     },
@@ -5300,6 +5374,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261996790423486465"
         }
       ]
     },
@@ -5367,6 +5446,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262032477321428993"
         }
       ]
     },
@@ -5386,6 +5470,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262017788511256576"
         }
       ]
     },
@@ -5453,6 +5542,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261342164394180610"
         }
       ]
     },
@@ -5496,6 +5590,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261688424691138568"
         }
       ]
     },
@@ -5539,6 +5638,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261673482493624321"
         }
       ]
     },
@@ -5558,6 +5662,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261663956246724627"
         }
       ]
     },
@@ -5577,6 +5686,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261339922448515080"
         }
       ]
     },
@@ -5596,6 +5710,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261628329490907175"
         }
       ]
     },
@@ -5615,6 +5734,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261332565189459976"
         }
       ]
     },
@@ -5658,6 +5782,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260950192826351651"
         }
       ]
     },
@@ -5701,6 +5830,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260951232225214467"
         }
       ]
     },
@@ -5792,6 +5926,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260899035433140233"
         }
       ]
     },
@@ -5859,6 +5998,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260845313979056132"
         }
       ]
     },
@@ -5902,6 +6046,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260928821053358151"
         }
       ]
     },
@@ -5921,6 +6070,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260612608412614679"
         }
       ]
     },
@@ -5940,6 +6094,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260582934435332098"
         }
       ]
     },
@@ -5959,6 +6118,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260891656673034258"
         }
       ]
     },
@@ -5978,6 +6142,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260614867557023748"
         }
       ]
     },
@@ -5997,6 +6166,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260621752366530567"
         }
       ]
     },
@@ -6016,6 +6190,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260889462002417705"
         }
       ]
     },
@@ -6035,6 +6214,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260623706597621766"
         }
       ]
     },
@@ -6054,6 +6238,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260540551708540932"
         }
       ]
     },
@@ -6187,6 +6376,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260553307784478726"
         }
       ]
     },
@@ -6478,6 +6672,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260471660408995849"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260015891389612053"
         }
       ]
     },
@@ -6650,6 +6854,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259726006881615929"
         }
       ]
     },
@@ -6717,6 +6926,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259710476283019337"
         }
       ]
     },
@@ -6736,6 +6950,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259775317379121158"
         }
       ]
     },
@@ -6774,6 +6993,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259640897825406992"
         }
       ]
     },
@@ -6793,6 +7017,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260101438572331026"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259731680509296660"
         }
       ]
     },
@@ -6855,6 +7089,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259455677320921092"
         }
       ]
     },
@@ -6874,6 +7113,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259269812656275488"
         }
       ]
     },
@@ -6931,6 +7175,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259271680969146374"
         }
       ]
     },
@@ -6950,6 +7199,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259389685175681026"
         }
       ]
     },
@@ -6969,6 +7223,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259385841168416809"
         }
       ]
     },
@@ -6988,6 +7247,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259347117754810437"
         }
       ]
     },
@@ -7007,6 +7271,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259417984723583009"
         }
       ]
     },
@@ -7102,6 +7371,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1259063503901163538"
         }
       ]
     },
@@ -7159,6 +7433,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258612747086594055"
         }
       ]
     },
@@ -7178,6 +7457,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258519945695723539"
         }
       ]
     },
@@ -7197,6 +7481,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258550835070107648"
         }
       ]
     },
@@ -7240,6 +7529,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258666799226945591"
         }
       ]
     },
@@ -7278,6 +7572,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258272555603591219"
         }
       ]
     },
@@ -7335,6 +7634,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258246489417711638"
         }
       ]
     },
@@ -7354,6 +7658,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258179749955502089"
         }
       ]
     },
@@ -7392,6 +7701,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258125113658703921"
         }
       ]
     },
@@ -7411,6 +7725,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258295714052571159"
         }
       ]
     },
@@ -7449,6 +7768,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258264820329742375"
         }
       ]
     },
@@ -7468,6 +7792,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258249358486274048"
         }
       ]
     },
@@ -7563,6 +7892,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257777775340683335"
         }
       ]
     },
@@ -7620,6 +7954,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257933643985190949"
         }
       ]
     },
@@ -7696,6 +8035,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257863172205838356"
         }
       ]
     },
@@ -7715,6 +8059,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257908578588557319"
         }
       ]
     },
@@ -7753,6 +8102,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257918186438787075"
         }
       ]
     },
@@ -7829,6 +8183,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257238817053605908"
         }
       ]
     },
@@ -7886,6 +8245,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257499461459902499"
         }
       ]
     },
@@ -7905,6 +8269,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257437579546984455"
         }
       ]
     },
@@ -8057,6 +8426,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257159300074176515"
         }
       ]
     },
@@ -8076,6 +8450,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257191473650073649"
         }
       ]
     },
@@ -8133,6 +8512,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257035605024440337"
         }
       ]
     },
@@ -8152,6 +8536,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257243859402883077"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257056547283927045"
         }
       ]
     },
@@ -8190,6 +8584,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1257112880068689939"
         }
       ]
     },
@@ -8209,6 +8608,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256749525820768263"
         }
       ]
     },
@@ -8228,6 +8632,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256778100244480008"
         }
       ]
     },
@@ -8247,6 +8656,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256664519829094404"
         }
       ]
     },
@@ -8266,6 +8680,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256831984924098563"
         }
       ]
     },
@@ -8285,6 +8704,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256667470486306835"
         }
       ]
     },
@@ -8304,6 +8728,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256379724846858240"
         }
       ]
     },
@@ -8323,6 +8752,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256325608270462985"
         }
       ]
     },
@@ -8361,6 +8795,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256395186723880962"
         }
       ]
     },
@@ -8418,6 +8857,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256294688802996243"
         }
       ]
     },
@@ -8456,6 +8900,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256410648606146563"
         }
       ]
     },
@@ -8475,6 +8924,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256076933938020388"
         }
       ]
     },
@@ -8513,6 +8967,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256091764483162115"
         }
       ]
     },
@@ -8665,6 +9124,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1255705569622229016"
         }
       ]
     },
@@ -8703,6 +9167,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1255703993353502722"
         }
       ]
     },
@@ -8836,6 +9305,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1255707407866134536"
         }
       ]
     },
@@ -8912,6 +9386,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1256096171091296276"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1255187330260533286"
         }
       ]
     },
@@ -8988,6 +9472,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1254866023757119489"
         }
       ]
     },
@@ -9026,6 +9515,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1254918061582974996"
         }
       ]
     },
@@ -9045,6 +9539,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1254984912718528519"
         }
       ]
     },
@@ -9083,6 +9582,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1254405461493415940"
         }
       ]
     },
@@ -9197,6 +9701,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1254167945503834115"
         }
       ]
     },
@@ -9292,6 +9801,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1254152926023122948"
         }
       ]
     },
@@ -9311,6 +9825,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1254524221681303554"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1253783112182136857"
         }
       ]
     },
@@ -9482,6 +10006,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1253479505245241361"
         }
       ]
     },
@@ -9577,6 +10106,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1253129057374044182"
         }
       ]
     },
@@ -31237,6 +31771,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV14HfhB1ELt",
+      "title": "【Hearts2Hearts】Don’t call me darling, I’m too rude!",
+      "date": "2026-02-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV14HfhB1ELt/",
+      "cover": "https://i1.hdslb.com/bfs/archive/384d4360a253da418a6d23c173281d4083a0cd74.jpg",
+      "duration": "0:52",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1rAfxBpEgr",
+      "title": "【Hearts2Hearts】video call with me",
+      "date": "2026-02-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1rAfxBpEgr/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2b082d854dcbeca433863a1894f887d2aa05754d.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1jRftBxErf",
       "title": "【塔塔中字】IVE Killing Voice 260224",
       "date": "2026-02-25",
@@ -31256,6 +31828,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1hCfmBvEYH",
+      "title": "【Hearts2Hearts】当你那个高个子朋友把你当成专属扶手",
+      "date": "2026-02-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1hCfmBvEYH/",
+      "cover": "https://i1.hdslb.com/bfs/archive/559221484848343de6f5a639e8dc9889b410a5f9.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1fKfUBUEH7",
       "title": "【张元英】260223 第二主打 BLACKHOLE MV 张元英CUT",
       "date": "2026-02-25",
@@ -31270,6 +31861,120 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1eofxBjEUe",
+      "title": "【Hearts2Hearts】真的 太.感.动了(ˊᵒ̴̶̷̤ ꇴ ᵒ̴̶̷̤ˋ) | SMTOWN LIVE 2025-26 in FUKUOKA BH2ND",
+      "date": "2026-02-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1eofxBjEUe/",
+      "cover": "https://i2.hdslb.com/bfs/archive/821baa08700a5eaa42e99198b2df38bbea538d16.jpg",
+      "duration": "26:30",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV181fmBPE96",
+      "title": "【Hearts2Hearts】𝙍𝙐𝘿𝙀!",
+      "date": "2026-02-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV181fmBPE96/",
+      "cover": "https://i1.hdslb.com/bfs/archive/55ef87d10e7ddfc8f8c1fc98a91758ee382e7e67.jpg",
+      "duration": "0:38",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV13CfmBvE3d",
+      "title": "【Hearts2Hearts】当你正在分享深刻见解并笑得前仰后合 而你的朋友却只顾着低头玩手机",
+      "date": "2026-02-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV13CfmBvE3d/",
+      "cover": "https://i2.hdslb.com/bfs/archive/5ded7df1f45740537da0847e3ffec7d1ed77d139.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mWfyBDEHM",
+      "title": "【Hearts2Hearts】RUDE! w/ 咲哉",
+      "date": "2026-02-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1mWfyBDEHM/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0568f0e3288eaa72335ab4451ad4abe39d2b2f55.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mWfyBDEEj",
+      "title": "【Hearts2Hearts】RUDE! w/ 希澈 利特",
+      "date": "2026-02-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1mWfyBDEEj/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3ba9532202f264c40a1573eab4c20164b3e28b6e.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZNf2BrEJA",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Dance Practice",
+      "date": "2026-02-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZNf2BrEJA/",
+      "cover": "https://i0.hdslb.com/bfs/archive/9c564d4c2351b9dfdc2ed55482b9e721f2a6c8bb.jpg",
+      "duration": "3:32",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31308,6 +32013,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV13sfzB1EQm",
+      "title": "【Hearts2Hearts】相当厚脸皮的 𝒶𝓉𝓉𝒾𝓉𝓊𝒹𝑒✨",
+      "date": "2026-02-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV13sfzB1EQm/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e06531edf62106c449ca76664d7fd4755f399505.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31370,6 +32094,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1ZUfABpE1A",
+      "title": "【Hearts2Hearts】哈哈哈哈哈哈",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZUfABpE1A/",
+      "cover": "https://i1.hdslb.com/bfs/archive/874d5e95ae8bcf7770b78fcdf8e2bf7fefe85ceb.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1VHfzBmE2s",
+      "title": "【Hearts2Hearts】real footage of us since day one",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1VHfzBmE2s/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0de13fc7c9f30824c0841a09d1acd5ac8e2f8d17.jpg",
+      "duration": "1:01",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1RzfBBjEtU",
       "title": "【张元英】260223 正规二辑  SHOWCASE全场",
       "date": "2026-02-23",
@@ -31384,6 +32146,82 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1MbfABTEPf",
+      "title": "【Hearts2Hearts】when i rage bait sbn a bit too much",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1MbfABTEPf/",
+      "cover": "https://i1.hdslb.com/bfs/archive/3242aa8c7c0d167c0572a26179f575158ebcc977.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KafABNEoc",
+      "title": "【Hearts2Hearts】🆁🆄🅳🅴👎",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1KafABNEoc/",
+      "cover": "https://i0.hdslb.com/bfs/archive/6c4ebb2174021283ceaaecc9431c5b0788adb6f7.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KYfABeEgR",
+      "title": "【Hearts2Hearts】RU👉👈DE",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1KYfABeEgR/",
+      "cover": "https://i2.hdslb.com/bfs/archive/cbd24fa6d2afc0880bdc369695d5f4b25ba5f27c.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KYfABeEMt",
+      "title": "【Hearts2Hearts】跟着跳 💪💪",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1KYfABeEMt/",
+      "cover": "https://i0.hdslb.com/bfs/archive/c00401f134ac44a441d0383e1c5c9e41e265515b.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31408,6 +32246,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV12JfMBmED4",
+      "title": "【Hearts2Hearts】RUDE! w/ MMMN",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV12JfMBmED4/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8bd56abc96b8445d2f926255131a1a8d4535204b.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11HfMBjEf1",
+      "title": "【Hearts2Hearts】Hearts2Hearts《Electric Shock》舞台彩排 (Original Song by f(x))",
+      "date": "2026-02-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV11HfMBjEf1/",
+      "cover": "https://i0.hdslb.com/bfs/archive/bb30d0c62240bab84fca2203682fac2cd3743bdc.jpg",
+      "duration": "2:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1u5fJBQEpb",
+      "title": "【Hearts2Hearts】跟着跳 -",
+      "date": "2026-02-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1u5fJBQEpb/",
+      "cover": "https://i1.hdslb.com/bfs/archive/88eb50db47305f9baadd70a5ef80b92970dc35e5.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1YVfcBzEjJ",
       "title": "【塔塔中字】录制前一秒也忍不住开玩笑 IVE BANG BANG 人歌事前录制花絮 260221",
       "date": "2026-02-22",
@@ -31427,6 +32322,82 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1BPfcB1EEX",
+      "title": "【Hearts2Hearts】以后也要长长久久地见面哦˚.ᐟ",
+      "date": "2026-02-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1BPfcB1EEX/",
+      "cover": "https://i2.hdslb.com/bfs/archive/af84bdc6688697f0348b53027e7f5ec06bfb306a.jpg",
+      "duration": "0:58",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV18VfJBHEuJ",
+      "title": "【Hearts2Hearts】当你朋友一直甩头发 好像她头上有只蜘蛛一样",
+      "date": "2026-02-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV18VfJBHEuJ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9eb5ba6749e21fbf36a1c43737f304bfe9e12cb9.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV185fJBDEMW",
+      "title": "【Hearts2Hearts】can i sue my friend for stealing my food",
+      "date": "2026-02-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV185fJBDEMW/",
+      "cover": "https://i1.hdslb.com/bfs/archive/c02ca704a1f6fa7a4c6caaf7a99d3399e8595b6f.jpg",
+      "duration": "0:24",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14JfJB7E5m",
+      "title": "【Hearts2Hearts】💗rude🖤",
+      "date": "2026-02-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV14JfJB7E5m/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0dfae7799d47fcd75b065d5a3169b312baf6c373.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1w5fpBEEfT",
       "title": "【张元英】被叔叔们逗得一直在笑 | 260219 epikase EPIK思维 vs IVE思维 张元英CUT",
       "date": "2026-02-21",
@@ -31441,6 +32412,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1uRfJBWEr6",
+      "title": "【Hearts2Hearts】𝐸-𝐸-𝐸-𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐 𝑆ℎ𝑜𝑐𝑘 ⚡︎",
+      "date": "2026-02-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1uRfJBWEr6/",
+      "cover": "https://i1.hdslb.com/bfs/archive/321c78ca06d834ed2c9baebab3a8f5d2cc416bb6.jpg",
+      "duration": "0:42",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31484,6 +32474,234 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1n9fuB5ES1",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Cheering Guide | S2U 犹豫不决 Never 从心所欲 🩵",
+      "date": "2026-02-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1n9fuB5ES1/",
+      "cover": "https://i1.hdslb.com/bfs/archive/023370b585e95bfc22cc0cd2bc29687417f0db05.jpg",
+      "duration": "4:28",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mefjBgEv1",
+      "title": "【Hearts2Hearts】when i annoy my friend like it's my full time job",
+      "date": "2026-02-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1mefjBgEv1/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e8dd0a37560d8be313730f9c5bb42540bb2db4ef.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1jLfjBWEe2",
+      "title": "【Hearts2Hearts】I've been 😜 acting ☹️ too ☺️",
+      "date": "2026-02-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1jLfjBWEe2/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a1ad6217bc5105a292f78363cade9c19e4b2c8d3.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1RjfjBQEth",
+      "title": "【Hearts2Hearts】I've been ☺️ acting 😐 too 😜",
+      "date": "2026-02-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1RjfjBQEth/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f3e17aa36c534fbe7ba73d5d6504bf27a35c7c71.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV12qfjBMEVg",
+      "title": "【Hearts2Hearts】当你朋友老是偷看你的手机 好像她自己没有手机一样",
+      "date": "2026-02-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV12qfjBMEVg/",
+      "cover": "https://i2.hdslb.com/bfs/archive/147b94b05d09d9fd5422d07f81caedf75f1d6553.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ypZeBmEeA",
+      "title": "【Hearts2Hearts】𝓡𝓤𝓓𝓔!",
+      "date": "2026-02-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ypZeBmEeA/",
+      "cover": "https://i0.hdslb.com/bfs/archive/3f3aa3be9db22f54a6994f088d528745ce09d409.jpg",
+      "duration": "0:35",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mcZqB8EZ2",
+      "title": "【Hearts2Hearts】Choose Your Hogwarts House 🪄",
+      "date": "2026-02-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1mcZqB8EZ2/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4876e590b38c87bc6fecadbeb3429517d8c59903.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kxZeB1ERQ",
+      "title": "【Hearts2Hearts】ℝ𝕌𝔻𝔼! 🚿🧼",
+      "date": "2026-02-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1kxZeB1ERQ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e220b81042d9352ead622fecb0fcdbe83cb3d0be.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1bRZeBdE7Q",
+      "title": "【Hearts2Hearts】2026 Hearts2Hearts ❮HEARTS 2 HOUSE❯ Official Trailer",
+      "date": "2026-02-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1bRZeBdE7Q/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2b4b5391ee0c797fc12222d89bdb4e8d9c420241.jpg",
+      "duration": "0:35",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1AYfgBmE2N",
+      "title": "Hearts2Hearts《RUDE!》MV",
+      "date": "2026-02-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1AYfgBmE2N/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4fd0e82e80618c37cf1cf2b22cd3a6184f02c6a8.jpg",
+      "duration": "3:36",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11HZeBEEuW",
+      "title": "【Hearts2Hearts】可以斗胆对SEULGI前辈RUDE!吗..? 💛",
+      "date": "2026-02-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV11HZeBEEuW/",
+      "cover": "https://i2.hdslb.com/bfs/archive/36579914866d73d063504c9824c2916eb11df9ae.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11HZeBEEnZ",
+      "title": "【Hearts2Hearts】𝕽𝖀𝕯𝕰! 😱",
+      "date": "2026-02-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV11HZeBEEnZ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/ceea622b87e5b4dff05cece803b62771418e825b.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1ypZeBmEts",
       "title": "【张元英】杀手圆圆 | 260217 'COMING SOON' 先导片 拍摄幕后花絮 张元英CUT",
       "date": "2026-02-19",
@@ -31503,6 +32721,291 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1y7ZaBVEUM",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #IAN",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1y7ZaBVEUM/",
+      "cover": "https://i1.hdslb.com/bfs/archive/7f7d93bf9162c39440ebe32458254dc8ebc258ac.jpg",
+      "duration": "0:34",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1a6Z8BSE1g",
+      "title": "【Hearts2Hearts】we are back again... like tmr?",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1a6Z8BSE1g/",
+      "cover": "https://i2.hdslb.com/bfs/archive/d12567bcb4ff93635f9b4fd2313160a21ca5de15.jpg",
+      "duration": "0:07",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZYZaBAEU3",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #YE_ON",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZYZaBAEU3/",
+      "cover": "https://i0.hdslb.com/bfs/archive/db0a5f34a8d7ce6aaf2a6f5bacb35205fdb68378.jpg",
+      "duration": "0:27",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1TGZaBmEZR",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #JUUN",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1TGZaBmEZR/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a8b8d7e5a7aac57729ce956d22f72666d23d109b.jpg",
+      "duration": "0:26",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1QkZ8BEEYh",
+      "title": "【Hearts2Hearts】(傲娇) (傲娇)",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1QkZ8BEEYh/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ad97733cf270665674627ddffa7950c7612f9c53.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1PnZaBGEXo",
+      "title": "Hearts2Hearts《RUDE!》MV Teaser",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1PnZaBGEXo/",
+      "cover": "https://i1.hdslb.com/bfs/archive/5c9af94b57b859ba96fad3ff1af9b3b6035ae5d1.jpg",
+      "duration": "0:29",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1N7ZaB5E5g",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #YUHA",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1N7ZaB5E5g/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f599780975d0298b7fefb13f62ae14733bb65436.jpg",
+      "duration": "0:22",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1DkZ8BEEhj",
+      "title": "【Hearts2Hearts】随心所欲 Move",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1DkZ8BEEhj/",
+      "cover": "https://i1.hdslb.com/bfs/archive/43af021281b9afe05baf2d4e80ff89c2302922c2.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14LZaB1EL9",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #JIWOO",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV14LZaB1EL9/",
+      "cover": "https://i1.hdslb.com/bfs/archive/ce337c27bd31279da79a5eae8bc0a3b8ec578adb.jpg",
+      "duration": "0:24",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV12LZaByEgs",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #STELLA",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV12LZaByEgs/",
+      "cover": "https://i0.hdslb.com/bfs/archive/52a31272299f1a66a74ec580c9f715f87152cc6e.jpg",
+      "duration": "0:25",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV12GZaB2EDc",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #A_NA",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV12GZaB2EDc/",
+      "cover": "https://i0.hdslb.com/bfs/archive/5631c1b46d0797c237e4f68641dfdd119471ddb8.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV125ZaBLELC",
+      "title": "【Hearts2Hearts】Hearts2Hearts《RUDE!》Mood Sampler #CARMEN",
+      "date": "2026-02-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV125ZaBLELC/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9ff1d1083f8b24b2101add52c61c9d0fa6fc000c.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1M9ZCBEEJJ",
+      "title": "【Hearts2Hearts】扭一扭",
+      "date": "2026-02-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1M9ZCBEEJJ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/90abcbe363275f39f832df78a210438c74899480.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1M9ZCBEEHD",
+      "title": "【Hearts2Hearts】You can’t make me act right",
+      "date": "2026-02-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1M9ZCBEEHD/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e3ee4a00b1787f1ac3ec039d088e92fb728d04d3.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1yuZtBAEU1",
+      "title": "【Hearts2Hearts】RUDE! w/ 泰容",
+      "date": "2026-02-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1yuZtBAEU1/",
+      "cover": "https://i0.hdslb.com/bfs/archive/6316d38d4ac75ed0126aa69e96295d581849ed3f.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1yGZtBcEsP",
       "title": "【张元英】BANG BANG 张元英官方直拍合集 (含团体直拍)(共25P-已更至260923 S)",
       "date": "2026-02-16",
@@ -31517,6 +33020,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tzZABiEzk",
+      "title": "【Hearts2Hearts】breakfast dance 🥣",
+      "date": "2026-02-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1tzZABiEzk/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ddfff1297807d4ed30b1f465f42fa5be929ef205.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZuZMBhEnP",
+      "title": "【Hearts2Hearts】啊真是 这也能叫团队?😠 队友怎么还这样💢 胜方全员存活, 败方全员淘汰! ✦ʚ Hearts Chase EP.15 ɞ✦",
+      "date": "2026-02-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZuZMBhEnP/",
+      "cover": "https://i1.hdslb.com/bfs/archive/a2737efa6e34eb9a684d69e8de3ee704567f1989.jpg",
+      "duration": "37:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KuZtBPEsM",
+      "title": "【Hearts2Hearts】这样做就可以了 ☺️ w/ 最强昌珉",
+      "date": "2026-02-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1KuZtBPEsM/",
+      "cover": "https://i2.hdslb.com/bfs/archive/cf016acd21bcfd134d89671339d5108fb01dbccb.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31546,6 +33106,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1eaZjBUE9Y",
+      "title": "【Hearts2Hearts】还没到啦",
+      "date": "2026-02-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1eaZjBUE9Y/",
+      "cover": "https://i2.hdslb.com/bfs/archive/a669a8c7a5c8042bece59ed9a01d6a7c61db5e3e.jpg",
+      "duration": "0:26",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1ZWZtBXEdr",
       "title": "【塔塔中字】IVE NEWS ROOM采访 260215",
       "date": "2026-02-15",
@@ -31560,6 +33139,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1XaZjBmE9w",
+      "title": "【Hearts2Hearts】you can't make me act right",
+      "date": "2026-02-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1XaZjBmE9w/",
+      "cover": "https://i0.hdslb.com/bfs/archive/eb14b7249419c3bc416e6809191bedcfc25eb6e8.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31603,6 +33201,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1LfZHBvERz",
+      "title": "【Hearts2Hearts】let the party begin",
+      "date": "2026-02-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1LfZHBvERz/",
+      "cover": "https://i2.hdslb.com/bfs/archive/ef6866b8bac579ef0cfed3c9ab21f94e2664e71c.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1LfZHBvE9z",
+      "title": "【Hearts2Hearts】Hop.ᐟ 我的冒险 ⊹ ࣪ ˖",
+      "date": "2026-02-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1LfZHBvE9z/",
+      "cover": "https://i2.hdslb.com/bfs/archive/7035233237cbe503b5e8d1ffbf6462802da641ba.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1n1c7zzEbo",
+      "title": "【Hearts2Hearts】the 4th geol geol unlocked",
+      "date": "2026-02-14",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1n1c7zzEbo/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0d108bab07a8580cef4ed8e882a7bd0b164319f4.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1cjZjBfEZj",
       "title": "【张元英】被耳麦和礼花迫害的小猪",
       "date": "2026-02-14",
@@ -31641,6 +33296,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV179c7zPE7q",
+      "title": "【Hearts2Hearts】acting too rude uh",
+      "date": "2026-02-14",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV179c7zPE7q/",
+      "cover": "https://i1.hdslb.com/bfs/archive/3824d0517ed47c819065363ae944df3d56b82710.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1w5cvz9EuD",
+      "title": "【Hearts2Hearts】很像吧",
+      "date": "2026-02-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1w5cvz9EuD/",
+      "cover": "https://i0.hdslb.com/bfs/archive/81b966c8bd45868e28e3ceb9591bbbb31f15273f.jpg",
+      "duration": "0:08",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1fUc7ziEfB",
       "title": "【张元英】白狐圆圆 | 260213 音/银 BANG BANG 初舞台怼脸+竖屏直拍 (含4K舞台)",
       "date": "2026-02-13",
@@ -31655,6 +33348,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1V7c7zZERk",
+      "title": "【Hearts2Hearts】我是! 猴子中最漂亮的NOSOONGEE~🙊 介绍H2H可爱的小迷你们｜介绍 Hearts2Hearts Plushies",
+      "date": "2026-02-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1V7c7zZERk/",
+      "cover": "https://i0.hdslb.com/bfs/archive/1fd087be372f0a33f4d6882348d6349db1ca1ede.jpg",
+      "duration": "24:38",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31679,6 +33391,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1zNcBz4Eri",
+      "title": "【Hearts2Hearts】S2U公司员工行为守则 | How to Behave When the Heart is Missing",
+      "date": "2026-02-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1zNcBz4Eri/",
+      "cover": "https://i2.hdslb.com/bfs/archive/27102e8281261f329f4d45aef819c66688e4c7a6.jpg",
+      "duration": "1:50",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1uPcqzuEbk",
       "title": "【张元英】劲舞圆来袭 | 260212 MCD BANG BANG初舞台 竖屏+怼脸直拍 (含舞台)",
       "date": "2026-02-12",
@@ -31693,6 +33424,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1r1cbzMEKy",
+      "title": "【Hearts2Hearts】im freezing outside",
+      "date": "2026-02-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1r1cbzMEKy/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ca1235d6f29695433394647b110e8ae599821758.jpg",
+      "duration": "0:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14AFSzeE7q",
+      "title": "【Hearts2Hearts】Guess the Choreo👀🎶",
+      "date": "2026-02-11",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV14AFSzeE7q/",
+      "cover": "https://i2.hdslb.com/bfs/archive/6a5d9db4ac9f22f28f438c832295c6550e6759fc.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31717,6 +33486,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1nZccz4Eam",
+      "title": "【Hearts2Hearts】last 10 seconds of a cooking show",
+      "date": "2026-02-10",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1nZccz4Eam/",
+      "cover": "https://i0.hdslb.com/bfs/archive/800cbafca9a9c8c4d31ac28114ad698ffea4530e.jpg",
+      "duration": "0:20",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1fzFDzZEyH",
       "title": "【张元英】热舞BANG BANG | 先行曲 MV 张元英CUT",
       "date": "2026-02-10",
@@ -31731,6 +33519,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1yZcTzSEo9",
+      "title": "【Hearts2Hearts】为什么叫杯子蛋糕怪物?因为我会用味道撕碎你们👩‍🍳🔥黑白甜品师的最强甜品对决!✦ʚHearts Chase EP.14ɞ✦",
+      "date": "2026-02-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1yZcTzSEo9/",
+      "cover": "https://i1.hdslb.com/bfs/archive/a9b6427f07d2e4f17f3678adf6af64a895828628.jpg",
+      "duration": "34:39",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31755,6 +33562,158 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1FTcMzyEdQ",
+      "title": "【Hearts2Hearts】迟交的作业",
+      "date": "2026-02-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1FTcMzyEdQ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6ca15448733b96f7d8bd677f2d0d79e15c7cd105.jpg",
+      "duration": "0:11",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1EDcKziEp7",
+      "title": "【Hearts2Hearts】红薯叮",
+      "date": "2026-02-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1EDcKziEp7/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f3817053aeee67360aaf4b46267a2d7fc386644f.jpg",
+      "duration": "0:12",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV16ZcczxEhs",
+      "title": "【Hearts2Hearts】玩冻人游戏差点变成真冰块",
+      "date": "2026-02-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV16ZcczxEhs/",
+      "cover": "https://i2.hdslb.com/bfs/archive/a415839c359c697c054a92ceaece3f578b82d6d2.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1uRFxzrEZH",
+      "title": "【Hearts2Hearts】🌊喝下这个 𐔌ᵔ ܸ>⩊<︎︎ ͡ 𐦯",
+      "date": "2026-02-08",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1uRFxzrEZH/",
+      "cover": "https://i0.hdslb.com/bfs/archive/e5db4e72ad7600662f2cab531cb7bc39ffbf71a7.jpg",
+      "duration": "0:13",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ntFZzJEd3",
+      "title": "【Hearts2Hearts】有意思",
+      "date": "2026-02-08",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ntFZzJEd3/",
+      "cover": "https://i2.hdslb.com/bfs/archive/24315213bf693078daae671bbeabbb951e751fe1.jpg",
+      "duration": "0:09",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1HbFZzUEVr",
+      "title": "【Hearts2Hearts】只有你~ 😘",
+      "date": "2026-02-08",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1HbFZzUEVr/",
+      "cover": "https://i0.hdslb.com/bfs/archive/57fc6e5bda4622be68d5091beef8f7a641dccfe0.jpg",
+      "duration": "0:12",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZXFpzLEo6",
+      "title": "【Hearts2Hearts】love you like i do 🫶",
+      "date": "2026-02-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZXFpzLEo6/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ac9889309e0f5a8f1055e84843bb231979c8815a.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1VzFHzKETj",
+      "title": "【Hearts2Hearts】Chase the hotdog 🌭",
+      "date": "2026-02-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1VzFHzKETj/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8c1b61fda55e9118c9e57aa4bf72e20cb75dc3be.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1EuFpz1Esz",
       "title": "【张元英】毛绒绒小狐狸 | 251206 2025 AAA 颁奖礼 饭拍直拍合集 (含团体 & Reaction & 红毯直拍-共56p)",
       "date": "2026-02-07",
@@ -31769,6 +33728,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1YaF6zXEER",
+      "title": "【Hearts2Hearts】只对你~(冻住) 👋(叮)",
+      "date": "2026-02-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1YaF6zXEER/",
+      "cover": "https://i0.hdslb.com/bfs/archive/d2e221d5b91eae073a99fedd7eb5264aee4e6a11.jpg",
+      "duration": "0:11",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1UKFkzEEGZ",
+      "title": "【Hearts2Hearts】在汉江骑自行车~ 吃汉江泡面₊˚⊹♡ | Crunchy Hearts EP.14",
+      "date": "2026-02-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1UKFkzEEGZ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9fffd894ce571786b6ab865e3ad9c158ddc4426e.jpg",
+      "duration": "17:49",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31793,6 +33790,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1zgFwzWEJp",
+      "title": "【Hearts2Hearts】喵喵拳",
+      "date": "2026-02-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1zgFwzWEJp/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6bd23d38267e056e473975f7689f807e94658b83.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1dvFYzqE4W",
       "title": "【塔塔中字】2025 AAA 官方 张元英 Reaction Video 260205",
       "date": "2026-02-05",
@@ -31807,6 +33823,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1zcfdBKET4",
+      "title": "【Hearts2Hearts】ℐ𝓉 𝒿𝓊𝓈𝓉 𝒸ℴ𝓂ℯ𝓈 𝒶𝓊𝓉ℴ𝓂𝒶𝓉𝒾𝒸",
+      "date": "2026-02-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1zcfdBKET4/",
+      "cover": "https://i2.hdslb.com/bfs/archive/b0ea8a94159c7bc36e8a2c647ae1f6e49298eb39.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1nffRBBENp",
+      "title": "【Hearts2Hearts】从胖猫咪ฅ到偶像猫咪ฅ 见了一群小猫咪回来哟 °ʚ₍^. .^₎⟆ɞ° | Crunchy Hearts EP.13",
+      "date": "2026-02-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1nffRBBENp/",
+      "cover": "https://i2.hdslb.com/bfs/archive/5dfe6b6c19575e1531626ea7b34370d470e4bc49.jpg",
+      "duration": "17:56",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31869,6 +33923,158 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1BcfdBKEtP",
+      "title": "【Hearts2Hearts】干嘛学我👎",
+      "date": "2026-02-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1BcfdBKEtP/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8e731c657098873fe70d8fe4b424c3317304155d.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1NEFGzfEYu",
+      "title": "【Hearts2Hearts】this is how i make her smile",
+      "date": "2026-02-03",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1NEFGzfEYu/",
+      "cover": "https://i0.hdslb.com/bfs/archive/74da7a3db5a565dcdca737af251baf24ca155301.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xkFPzgEDH",
+      "title": "【Hearts2Hearts】tell me you like it",
+      "date": "2026-02-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1xkFPzgEDH/",
+      "cover": "https://i2.hdslb.com/bfs/archive/1f10e10609fe70a709623a7df15d036614448c19.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1LNFNzsEnb",
+      "title": "【Hearts2Hearts】和#泰容 前辈FOCUS 🔍",
+      "date": "2026-02-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1LNFNzsEnb/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0cd5fb74c9e17492b0df308038c47fb3843b29ea.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KuFMzJE1T",
+      "title": "【Hearts2Hearts】5年… 跟一周是一样的吗?ㅣCrunchy Hearts EP.12",
+      "date": "2026-02-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1KuFMzJE1T/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c8706c39e38429ee0d38ef1792ce17296e50bffa.jpg",
+      "duration": "19:25",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV16VFPzFE4w",
+      "title": "【Hearts2Hearts】#whatsinmydrafts 在上次的SMTOWN",
+      "date": "2026-02-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV16VFPzFE4w/",
+      "cover": "https://i2.hdslb.com/bfs/archive/a85fdc9b4f79a6055088e20ed86a947568a69107.jpg",
+      "duration": "0:09",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14kFPzgEcN",
+      "title": "【Hearts2Hearts】前辈👉👈",
+      "date": "2026-02-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV14kFPzgEcN/",
+      "cover": "https://i0.hdslb.com/bfs/archive/5f4b1766954f88e8f5348251ba533da6f163050f.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1z46nBdEgn",
+      "title": "【Hearts2Hearts】you didn’t hold your breath",
+      "date": "2026-02-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1z46nBdEgn/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a2f0d7edfab8fd83791a8efeb66082a2db9be1fc.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1wz6JBfEET",
       "title": "【张元英】开麦好大声 | 260131 Ve101 日单又有新舞台",
       "date": "2026-02-01",
@@ -31926,6 +34132,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1L66wBNESN",
+      "title": "【Hearts2Hearts】𝓂𝑒𝒾麗公主☆♥♡★惡𝓶𝓸公主",
+      "date": "2026-01-30",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1L66wBNESN/",
+      "cover": "https://i1.hdslb.com/bfs/archive/3006c69f1e8cc9170175b5390649419fada8e841.jpg",
+      "duration": "0:25",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV11W6PB9ED8",
       "title": "【张元英】Barrie 相关视频合集 (已更至261027 ymagazine_official ins)",
       "date": "2026-01-30",
@@ -31940,6 +34165,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tAzdBKEUX",
+      "title": "【Hearts2Hearts】👈🎸👉",
+      "date": "2026-01-29",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1tAzdBKEUX/",
+      "cover": "https://i0.hdslb.com/bfs/archive/9cacccac4aff7be4f434d3502cda19eeea8325c9.jpg",
+      "duration": "0:14",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1No6FB1E1D",
+      "title": "【Hearts2Hearts】✶⋆.˚YUHA&STELLA的20岁纪念 深夜PC房♪⋆.✮ ㅣCrunchy Hearts EP.11",
+      "date": "2026-01-29",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1No6FB1E1D/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c761a95a269cd157e9a8886b53b50c844d40c73c.jpg",
+      "duration": "24:00",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ex65BAELy",
+      "title": "【Hearts2Hearts】😎 #whatsinmydrafts",
+      "date": "2026-01-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ex65BAELy/",
+      "cover": "https://i0.hdslb.com/bfs/archive/fc0dea51bf84d4c35ea7a5f9cd10a83a9bcc02c4.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -31983,6 +34265,158 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1awzxBsExK",
+      "title": "【Hearts2Hearts】#whatsinmydrafts",
+      "date": "2026-01-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1awzxBsExK/",
+      "cover": "https://i2.hdslb.com/bfs/archive/28a7d5ab48b6dceb1e2bee1438b2c138f3b0af77.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1XwzxBsEwy",
+      "title": "【Hearts2Hearts】130bpm",
+      "date": "2026-01-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1XwzxBsEwy/",
+      "cover": "https://i0.hdslb.com/bfs/archive/88a57be56ae97abfdc81422d1696351295a51660.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Y8zkBgEUA",
+      "title": "【Hearts2Hearts】2026年也会努力好好表现的〜ᰔ⊹ ࣪ ˖ |  Hearts2Hearts 2025 MBC 歌谣大祭典 BH2ND #2",
+      "date": "2026-01-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Y8zkBgEUA/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0be024903391364d44f036244215ebc2cee31deb.jpg",
+      "duration": "20:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1QKzDBZE97",
+      "title": "【Hearts2Hearts】say the words on beat",
+      "date": "2026-01-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1QKzDBZE97/",
+      "cover": "https://i1.hdslb.com/bfs/archive/c1e751e43a921f2eb4fb9a90c32b60ee4eca9f36.jpg",
+      "duration": "0:16",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV18qzkBvE4g",
+      "title": "【Hearts2Hearts】🆗👌🆗👌",
+      "date": "2026-01-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV18qzkBvE4g/",
+      "cover": "https://i1.hdslb.com/bfs/archive/24d4714e8e2a417b25b347de76ee08fea50b978c.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1dkzTB5E7r",
+      "title": "【Hearts2Hearts】awwwwww 🤔",
+      "date": "2026-01-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1dkzTB5E7r/",
+      "cover": "https://i0.hdslb.com/bfs/archive/9a3bdd076752edfa473a356478c1708520a812e6.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xUzHBqEs4",
+      "title": "【Hearts2Hearts】晃一晃吧 ᐡ ɞ̴̶̷ . ɞ̴̶̷ ᐡ",
+      "date": "2026-01-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1xUzHBqEs4/",
+      "cover": "https://i0.hdslb.com/bfs/archive/01f9e5a998ec457d3117b53c54a0d1d60c24cdd2.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sUzHBqEDv",
+      "title": "【Hearts2Hearts】I'm gonna make it ✶⋆.˚",
+      "date": "2026-01-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1sUzHBqEDv/",
+      "cover": "https://i0.hdslb.com/bfs/archive/5e0222875aa2e1721edc469e9f9c62015fc58e14.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1PuzgBvELC",
       "title": "【张元英】魅力台步幕后也美丽 | 260119 MMA 颁奖礼 幕后花絮 张元英CUT",
       "date": "2026-01-23",
@@ -31997,6 +34431,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1DrzcBDEKX",
+      "title": "【Hearts2Hearts】𝒽𝑒𝓎... 𝒹𝑜 𝓎𝑜𝓊 𝓌𝒶𝓃𝓃𝒶 𝓉𝒶𝓁𝓀 𝒻𝑜𝓇 𝒶 𝓈𝑒𝒸𝑜𝓃𝒹?",
+      "date": "2026-01-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1DrzcBDEKX/",
+      "cover": "https://i2.hdslb.com/bfs/archive/28784aaf52a084769ef5776263e2b75bab14ce28.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32021,6 +34474,120 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1mTzWBVEyD",
+      "title": "【Hearts2Hearts】big guy 🤓🟨👖",
+      "date": "2026-01-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1mTzWBVEyD/",
+      "cover": "https://i1.hdslb.com/bfs/archive/167b7cccc0c9f874f79efd1814a08c894b9748a0.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kizpBeEej",
+      "title": "【Hearts2Hearts】- ̗̀ ꪔ̤̥ꪔ̤̮ꪔ̤̫ ̖́-",
+      "date": "2026-01-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1kizpBeEej/",
+      "cover": "https://i2.hdslb.com/bfs/archive/b4a53cd24ed084c6ad93195c93a10d4c3f6dc0f9.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1c2zLByEe9",
+      "title": "【Hearts2Hearts】我们是美女motion! 𓂃ෆ˚ | Hearts2Hearts 2025 MBC 歌谣大祭典 BH2ND #1",
+      "date": "2026-01-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1c2zLByEe9/",
+      "cover": "https://i0.hdslb.com/bfs/archive/9a8036c650d752efc20b8f5ca55c227639f00d0c.jpg",
+      "duration": "19:03",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1XRz3BQESN",
+      "title": "【Hearts2Hearts】one more dance",
+      "date": "2026-01-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1XRz3BQESN/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c8045ea2aea80e66ae92c633b153719406a9b25a.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1UGzjBdEj3",
+      "title": "【Hearts2Hearts】Let me see 👀",
+      "date": "2026-01-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1UGzjBdEj3/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2348d503a507d8d0dc7b1fcca16756c6528a9cd4.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1S2z5BREd1",
+      "title": "【Hearts2Hearts】吵吵闹闹… 那不就是在说我们嘛",
+      "date": "2026-01-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1S2z5BREd1/",
+      "cover": "https://i2.hdslb.com/bfs/archive/601c2e4365b610e3f77d990a16e6887c4c1124fb.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1oxkJBsEsL",
       "title": "【张元英】好卖力的硬广 | 260118 上海粉丝签名会 幕后花絮 张元英CUT",
       "date": "2026-01-20",
@@ -32035,6 +34602,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1jGkeBhEEp",
+      "title": "【Hearts2Hearts】¡Hola! ¿Cómo estás?",
+      "date": "2026-01-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1jGkeBhEEp/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8c8bd929d954b40a58cd9597c3c1a67cced390a4.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32059,6 +34645,101 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1G6kYBWEb2",
+      "title": "【Hearts2Hearts】这样也许是romance...?",
+      "date": "2026-01-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1G6kYBWEb2/",
+      "cover": "https://i2.hdslb.com/bfs/archive/b876ea62f553b1d11c889bc20978f67f8c28f1d2.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1LLkeBbEHY",
+      "title": "【Hearts2Hearts】every single day h2h be like:",
+      "date": "2026-01-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1LLkeBbEHY/",
+      "cover": "https://i1.hdslb.com/bfs/archive/fd3117e70a02501e61f17d37ee3405f02fb842a1.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1chkxBjEGu",
+      "title": "【Hearts2Hearts】YE-ON软曲奇来啦 ☺️🧆",
+      "date": "2026-01-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1chkxBjEGu/",
+      "cover": "https://i0.hdslb.com/bfs/archive/27d43200ef323470c6a26679843c559bc5b85b9b.jpg",
+      "duration": "0:19",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1RnksBPEEh",
+      "title": "【Hearts2Hearts】WYA",
+      "date": "2026-01-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1RnksBPEEh/",
+      "cover": "https://i1.hdslb.com/bfs/archive/301a1ef1c5a34d3ffb302e3d88b8cdfc61f91709.jpg",
+      "duration": "0:24",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1FakxB1E53",
+      "title": "【Hearts2Hearts】GUESS小猴",
+      "date": "2026-01-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1FakxB1E53/",
+      "cover": "https://i1.hdslb.com/bfs/archive/5e3de41fb96430ee9e7f8e32034bab577a3170dd.jpg",
+      "duration": "0:07",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1obrmBAEv4",
       "title": "【张元英】银色女神 | 251115 KGMA 颁奖礼 饭拍直拍合集 (含团体&Reaction直拍-共37p)",
       "date": "2026-01-17",
@@ -32073,6 +34754,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1wUkPBsEGc",
+      "title": "【Hearts2Hearts】/ᐠ. .ᐟ\\ Ⳋ #whatsinmydrafts",
+      "date": "2026-01-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1wUkPBsEGc/",
+      "cover": "https://i0.hdslb.com/bfs/archive/bccf632e0b366a41e2151a04009e7e1eba6a0f3d.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ffkKBsELY",
+      "title": "【Hearts2Hearts】小不点~ 不要睡太晚? 会长不高的 嘻 | Hearts2Hearts 2025 SBS 歌谣大典 BH2ND",
+      "date": "2026-01-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ffkKBsELY/",
+      "cover": "https://i1.hdslb.com/bfs/archive/328e66d5f32d47daa7cc6ddee198eb052f48a331.jpg",
+      "duration": "20:31",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32135,6 +34854,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1R8roBWE7v",
+      "title": "【Hearts2Hearts】thisiswhatiwasborntodo",
+      "date": "2026-01-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1R8roBWE7v/",
+      "cover": "https://i2.hdslb.com/bfs/archive/59ba9ef40d95dd5b1411f6e4d85d929537c0c19e.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1A8rHBqEFQ",
+      "title": "【Hearts2Hearts】我也来一块",
+      "date": "2026-01-14",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1A8rHBqEFQ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f29a3ef57aa048fbe083ff0d591b28b51a13e7b0.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV11ursBmEkQ",
       "title": "【张元英】练习室原因 | 260108 首尔 二巡 SWIA 舞蹈练习 & 乐队 彩排 幕后花絮 #2 张元英CUT",
       "date": "2026-01-14",
@@ -32154,6 +34911,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1y4rYBMEvA",
+      "title": "【Hearts2Hearts】爱是什么呢?",
+      "date": "2026-01-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1y4rYBMEvA/",
+      "cover": "https://i2.hdslb.com/bfs/archive/287bddf4a5f5be7459db931cf59d8437681e6001.jpg",
+      "duration": "0:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1x8r5BWEoE",
+      "title": "【Hearts2Hearts】今天是! MMA-NA生日 ⋆✴︎˚｡⋆🎂  ༘⋆ | Hearts2Hearts 2025 MMA BH2ND",
+      "date": "2026-01-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1x8r5BWEoE/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2074726b6584ae9ff56823c6ebc67f795f09edf0.jpg",
+      "duration": "25:39",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1WjrBBnEQC",
+      "title": "【Hearts2Hearts】this part",
+      "date": "2026-01-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1WjrBBnEQC/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0b516cda7c07eb9dfbcaf22c3f28b80eafe28cf6.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1AcrzBnEYR",
       "title": "【张元英】元气啦啦队少女 | 260110 第40届 金唱片 beats 怼脸直拍",
       "date": "2026-01-13",
@@ -32168,6 +34982,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sMreBgEMa",
+      "title": "【Hearts2Hearts】都一起初雪 .ᐟ ͙ᐟ",
+      "date": "2026-01-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1sMreBgEMa/",
+      "cover": "https://i0.hdslb.com/bfs/archive/29f470cb777dae8d2620e38c6163022f15d3b0b7.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1bDrbBKEBJ",
+      "title": "【Hearts2Hearts】🕊️🥧?;;",
+      "date": "2026-01-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1bDrbBKEBJ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/620e13a5b6c7a51d539e5d0a2085e14e6a5ff7a3.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19MrYBnEYZ",
+      "title": "【Hearts2Hearts】every step i take is . . . ♡",
+      "date": "2026-01-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV19MrYBnEYZ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4c0296d2c771c928402d8684f5a8d479b60d9453.jpg",
+      "duration": "0:14",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32268,6 +35139,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV117rKB8EHp",
+      "title": "【Hearts2Hearts】要来一块吗?",
+      "date": "2026-01-10",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV117rKB8EHp/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0196dd850937be1d318f133b88982f971a37d903.jpg",
+      "duration": "0:15",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sVrPBsEEu",
+      "title": "【Hearts2Hearts】我们猴猴! 给猴子们留一段VCR｜Hearts2Hearts Fan Sign Event in Japan BH2ND",
+      "date": "2026-01-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1sVrPBsEEu/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e5965550712667c26247fdb29f83ad23249038fd.jpg",
+      "duration": "21:06",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1YArMBmEk8",
       "title": "【张元英】机场饭拍+新闻合集 Part.7 (已更至189P-260924 IVE GMP Airport (Arrival))",
       "date": "2026-01-09",
@@ -32287,6 +35196,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1tLiCBZERM",
+      "title": "【Hearts2Hearts】EAT or PASS apple pie edition 🥧",
+      "date": "2026-01-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1tLiCBZERM/",
+      "cover": "https://i1.hdslb.com/bfs/archive/54e76428d90bfdf292f3a1f19dc62daf88e15ef3.jpg",
+      "duration": "0:33",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1oqqPBPEyR",
       "title": "【张元英】给成年忙内的视频信 | 260106 LEESEO LOG 张元英CUT",
       "date": "2026-01-06",
@@ -32301,6 +35229,158 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1WFqAB6Ex7",
+      "title": "【Hearts2Hearts】Rrrr",
+      "date": "2026-01-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1WFqAB6Ex7/",
+      "cover": "https://i0.hdslb.com/bfs/archive/647d1962e2e0f4b24c9b7d068def4802a84ad345.jpg",
+      "duration": "0:16",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1LMisBDEgt",
+      "title": "【Hearts2Hearts】我也想试试这种双马尾发型 | 2025 MUSIC BANK GLOBAL FESTIVAL IN JAPAN BH2ND",
+      "date": "2026-01-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1LMisBDEgt/",
+      "cover": "https://i2.hdslb.com/bfs/archive/80101f0376835aa9da769d5140e1cdab5dd4ab6b.jpg",
+      "duration": "20:40",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1DFiqByEJq",
+      "title": "【Hearts2Hearts】oppa³",
+      "date": "2026-01-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1DFiqByEJq/",
+      "cover": "https://i1.hdslb.com/bfs/archive/d54a9a4feed81bb65857e8b79f41a72664520de1.jpg",
+      "duration": "0:29",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mMiqBuEPd",
+      "title": "【Hearts2Hearts】🥊",
+      "date": "2026-01-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1mMiqBuEPd/",
+      "cover": "https://i1.hdslb.com/bfs/archive/b71e79f8420fe46aefffeee069729cff390b5c80.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tmiqBkE8T",
+      "title": "【Hearts2Hearts】JIWOO&JUUN&A-NA《Anymotion》(Original Song by Lee Hyo Ri)",
+      "date": "2026-01-03",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1tmiqBkE8T/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3b3b7db617b6af23fe1778a88afbfce29dce3bd8.jpg",
+      "duration": "1:31",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1isivBSEet",
+      "title": "【Hearts2Hearts】3冠王.ᐟ.ᐟ.ᐟ 一 二 三 谢谢大家.ᐟ.ᐟ.ᐟ | Hearts2Hearts 2025 MAMA AWARDS BH2ND",
+      "date": "2026-01-03",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1isivBSEet/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9e647d09fa1eac9991634e8f4bfb9e3aef97ba49.jpg",
+      "duration": "35:48",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KDiqB6Eem",
+      "title": "【Hearts2Hearts】Hearts2Hearts IAN《UP (KARINA Solo)》(Original Song by aespa)",
+      "date": "2026-01-03",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1KDiqB6Eem/",
+      "cover": "https://i0.hdslb.com/bfs/archive/7d9de5f61122ab8291db2d835820c4ac2d9fd056.jpg",
+      "duration": "1:36",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1HmvoBnEWp",
+      "title": "【Hearts2Hearts】smiley faces",
+      "date": "2026-01-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1HmvoBnEWp/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3e8665c5702a4b8338f516794cc4bc7a05421772.jpg",
+      "duration": "0:11",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32344,6 +35424,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1Xvi5BHEBo",
+      "title": "【Hearts2Hearts】UP🔺",
+      "date": "2026-01-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Xvi5BHEBo/",
+      "cover": "https://i2.hdslb.com/bfs/archive/55aebfdb15712dba628f559b69e66989cff16a57.jpg",
+      "duration": "0:28",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1FWv9BgE8P",
       "title": "【张元英】洋娃娃一样 | 251231 M台 年末舞台合集 (含幕后花絮)",
       "date": "2026-01-01",
@@ -32358,6 +35457,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19Yi5BXEmu",
+      "title": "【Hearts2Hearts】if you were born in 2007, jan 1st only means one thing in korea..",
+      "date": "2026-01-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV19Yi5BXEmu/",
+      "cover": "https://i1.hdslb.com/bfs/archive/15381f5f3b1618d15ec007307e4ee52e4d9d0f7c.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19Yi5BXEXs",
+      "title": "【Hearts2Hearts】Anymotion⛓️‍💥",
+      "date": "2026-01-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV19Yi5BXEXs/",
+      "cover": "https://i2.hdslb.com/bfs/archive/a51e363875581560c661e9c9d42350564df45d4d.jpg",
+      "duration": "0:44",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32379,6 +35516,25 @@ window.IC_BILIBILI = {
           "uid": "83749720",
           "kind": "dynamic",
           "url": "https://t.bilibili.com/1152343208740519936"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1f5igBJEQE",
+      "title": "【Hearts2Hearts】DJ put it back on",
+      "date": "2025-12-31",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1f5igBJEQE/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a933a570d2b7a2462897afca11c8fce3464db788.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
         }
       ]
     },
@@ -32421,6 +35577,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1VzvYBBEZG",
+      "title": "【Hearts2Hearts】说出你的愿望 练习室 ver.",
+      "date": "2025-12-30",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1VzvYBBEZG/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6270afe29e8d45a6593e571677ec8d69d7867eae.jpg",
+      "duration": "0:59",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1VzvYBBEQB",
+      "title": "【Hearts2Hearts】一人写一个愿望再走吧 嘻",
+      "date": "2025-12-30",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1VzvYBBEQB/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0dd2a422859ab49541ea04b6f2d1811bdb7fff06.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1LJvsBJEHF",
+      "title": "【Hearts2Hearts】2 diff codes",
+      "date": "2025-12-30",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1LJvsBJEHF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/1abe90091ac17b134c1595d52f87d5d35866b708.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1DpvaB8Eyr",
       "title": "【塔塔中字】2025 日本音银全球庆典一部IVE CUT 二部 MC元英 CUT  251229 251230",
       "date": "2025-12-30",
@@ -32435,6 +35648,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1pNvsBfEan",
+      "title": "【Hearts2Hearts】绝对不能回头🩸 尖叫与胆怯横飞的恐怖体验😱 ✦ʚ Hearts Chase EP.13 ɞ✦",
+      "date": "2025-12-29",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1pNvsBfEan/",
+      "cover": "https://i2.hdslb.com/bfs/archive/99ee0134ba658ff284e38fe844924a3438f8a117.jpg",
+      "duration": "37:27",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ievHBGEeo",
+      "title": "【Hearts2Hearts】miau miau 🐾",
+      "date": "2025-12-29",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ievHBGEeo/",
+      "cover": "https://i2.hdslb.com/bfs/archive/7b349f22c121ae2ab92fe8c7cfcf5a0959679a98.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32497,6 +35748,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1h2BkBvEib",
+      "title": "【Hearts2Hearts】٩(ˊᗜˋ*)و  ~ ~ 🎶",
+      "date": "2025-12-27",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1h2BkBvEib/",
+      "cover": "https://i2.hdslb.com/bfs/archive/586a9a49e025c5f3d67c344b9ec76642114cce58.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1arB6BcEPE",
       "title": "【张元英】薄荷巧克力 | 250927 音/银 里斯本 拼盘演唱会 饭拍直拍合集 (含团体直拍-共17p)",
       "date": "2025-12-27",
@@ -32554,6 +35824,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1wwBXBjEWE",
+      "title": "【Hearts2Hearts】this year ❤️",
+      "date": "2025-12-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1wwBXBjEWE/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f1e6ed0d45133f46c1cad41a15cc52af2fd9d973.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1oLBRB5EQw",
+      "title": "【Hearts2Hearts】all i want for xmas is...YOUUUU🫵⭐",
+      "date": "2025-12-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1oLBRB5EQw/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0d10616d23e8bf17c9feee818e83dd413b7ffce3.jpg",
+      "duration": "0:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV17hBQBqEAL",
       "title": "【张元英】草莓小蛋糕 | 251225 S台 年末 舞台 & 红毯合集 (含幕后花絮)",
       "date": "2025-12-25",
@@ -32592,6 +35900,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1ZkB5BeEYN",
+      "title": "【Hearts2Hearts】Who’s My Secret Santa?𓃴˚❆圣诞市集&我们的第一个圣诞回忆🎄 S2cret Diary ꒰ EP.9 ꒱",
+      "date": "2025-12-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZkB5BeEYN/",
+      "cover": "https://i0.hdslb.com/bfs/archive/6e4a764ccdddf7726beb32300ad1b711d6640c0e.jpg",
+      "duration": "32:27",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1mUBbBdE6a",
       "title": "【塔塔中字】感觉有个满分答卷 DIVE INTO 安宥真 张元英 李瑞 251222",
       "date": "2025-12-23",
@@ -32606,6 +35933,101 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZNBtBTEhm",
+      "title": "【Hearts2Hearts】so what are your hoilday plans?",
+      "date": "2025-12-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZNBtBTEhm/",
+      "cover": "https://i0.hdslb.com/bfs/archive/cc576788255f2c893bd2a63bf1d3aba90731b420.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV15EBuB1EXA",
+      "title": "【Hearts2Hearts】dont mess w santa",
+      "date": "2025-12-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV15EBuB1EXA/",
+      "cover": "https://i1.hdslb.com/bfs/archive/2f9e866f91e563083960c5ab242a60808c39d7af.jpg",
+      "duration": "0:19",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1x2BsBkEKL",
+      "title": "【Hearts2Hearts】谁会被吓到 真不好说🤷‍♀️ 决定假日命运的Hearts Marble游戏♟️✦ʚ Hearts Chase EP.12 ɞ✦",
+      "date": "2025-12-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1x2BsBkEKL/",
+      "cover": "https://i2.hdslb.com/bfs/archive/5569ca5704b25a65a95ee78a30ae93ca7f4fe55f.jpg",
+      "duration": "39:36",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fQBnBQE4L",
+      "title": "【Hearts2Hearts】turning … soon 🕹️",
+      "date": "2025-12-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1fQBnBQE4L/",
+      "cover": "https://i0.hdslb.com/bfs/archive/7c76c12d7d851585653fb829f3033ecadb503084.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1HeBxBzEaV",
+      "title": "【Hearts2Hearts】lastchristmasaholic 🎄",
+      "date": "2025-12-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1HeBxBzEaV/",
+      "cover": "https://i1.hdslb.com/bfs/archive/93a6632c908507f4b176c432c48d00ea3b811226.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32644,6 +36066,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1pPqUBvEqF",
+      "title": "【Hearts2Hearts】the other day 🩰",
+      "date": "2025-12-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1pPqUBvEqF/",
+      "cover": "https://i0.hdslb.com/bfs/archive/048200e43041ec4114e5e45d24b36df2249f10bf.jpg",
+      "duration": "0:27",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32725,6 +36166,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1gdq6BZEWp",
+      "title": "【Hearts2Hearts】earned it.",
+      "date": "2025-12-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1gdq6BZEWp/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8333848c2b593465b95a9bc472c55ec33c157e43.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1EjqzBvErQ",
       "title": "【塔塔中字】IVE MMA红毯+TOP 10+最佳女团+MILLIONS TOP 10 251220",
       "date": "2025-12-20",
@@ -32758,6 +36218,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1i5qZBUEXW",
+      "title": "【Hearts2Hearts】都~会帮你实现! ଘ( ˊᵕˋ )ଓ | Hearts2Hearts《FOCUS》Showcase BH2ND",
+      "date": "2025-12-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1i5qZBUEXW/",
+      "cover": "https://i0.hdslb.com/bfs/archive/4d2a9bf87f6fa536041fc4336474e05a1bc05b16.jpg",
+      "duration": "15:57",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32801,6 +36280,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1R9qgB2EMd",
+      "title": "【Hearts2Hearts】Shh… don’t tell anyone. This one’s just for us. 🤫🩵",
+      "date": "2025-12-17",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1R9qgB2EMd/",
+      "cover": "https://i1.hdslb.com/bfs/archive/a6f5e74c9bbe58f85afcfdbb89110ed15d21a61b.jpg",
+      "duration": "0:44",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1BJq8BrEoq",
+      "title": "【Hearts2Hearts】tutorial time",
+      "date": "2025-12-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1BJq8BrEoq/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0c8bae0a367f3e64d587f5d87e25f45dd1684861.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1y4mBBNEqF",
       "title": "【张元英】好美丽的公主造型 | 251214 K台 年末 ATTITUDE+XOXZ 横屏+竖屏直拍",
       "date": "2025-12-15",
@@ -32815,6 +36332,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tMmCBXEbx",
+      "title": "【Hearts2Hearts】跟S2U秘密约定✮꙳ 𓂃 𓂂𓏸｜2026 FANMEETING 'HEARTS 2 HOUSE' Poster BH2ND",
+      "date": "2025-12-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1tMmCBXEbx/",
+      "cover": "https://i1.hdslb.com/bfs/archive/961209103ccad91c45c2b2334079bf44cf8d7a26.jpg",
+      "duration": "16:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1eYmrBZEqi",
+      "title": "【Hearts2Hearts】do re mi",
+      "date": "2025-12-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1eYmrBZEqi/",
+      "cover": "https://i1.hdslb.com/bfs/archive/bb80dab3cc25aadfd2a766e76ebb0c27a2ff937d.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ezmRBwEib",
+      "title": "【Hearts2Hearts】why don't you meet me in the middle",
+      "date": "2025-12-14",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ezmRBwEib/",
+      "cover": "https://i0.hdslb.com/bfs/archive/882df4d2d41273815b66241730a46aa976fd1b8e.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32877,6 +36451,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1iNm7BfEVE",
+      "title": "【Hearts2Hearts】six seven or dool set 🎄",
+      "date": "2025-12-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1iNm7BfEVE/",
+      "cover": "https://i0.hdslb.com/bfs/archive/97a5ddb6e0149578e71f7b324b4412cfaecf34b2.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1b5mmBNEkB",
       "title": "【张元英】毛绒绒冬日女神 | 251212 金浦机场新闻饭拍合集 (已更至12P)",
       "date": "2025-12-12",
@@ -32910,6 +36503,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1UEmKBnEZA",
+      "title": "【Hearts2Hearts】ok back to #2016",
+      "date": "2025-12-11",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1UEmKBnEZA/",
+      "cover": "https://i1.hdslb.com/bfs/archive/cdd5824f5108ce57714bb609f730f4a4fe326f2b.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ujm4BVENc",
+      "title": "【Hearts2Hearts】接下来抱在一起~ (つ｡˃ ᵕ ˂)つ ⸝♡ | Hearts2Hearts 2025 KGMA BH2ND",
+      "date": "2025-12-10",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ujm4BVENc/",
+      "cover": "https://i0.hdslb.com/bfs/archive/3088f740e6127ad6b6143fd5444b05eeec64a0a9.jpg",
+      "duration": "16:43",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -32972,6 +36603,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1FU2SBoE4A",
+      "title": "【Hearts2Hearts】thisishowwedo",
+      "date": "2025-12-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1FU2SBoE4A/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8b98aea6e76ec1121aeab4e40c6b0a3a03e81fa7.jpg",
+      "duration": "0:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1nV2kBqEag",
       "title": "【塔塔中字】张元英主持全镜头CUT 251206",
       "date": "2025-12-08",
@@ -32986,6 +36636,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fi2XBhEw2",
+      "title": "【Hearts2Hearts】🥀⛓️",
+      "date": "2025-12-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1fi2XBhEw2/",
+      "cover": "https://i0.hdslb.com/bfs/archive/5b94fe641cd292b7bb7100615741b1849459b68d.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fi2XBhE77",
+      "title": "【Hearts2Hearts】pov: first MAMA and 🏆🏆🏆",
+      "date": "2025-12-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1fi2XBhE77/",
+      "cover": "https://i0.hdslb.com/bfs/archive/63d68aa3649d7d609ab0c055ba09e3ff6f32c200.jpg",
+      "duration": "0:50",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33029,6 +36717,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1722oB3EYW",
+      "title": "【Hearts2Hearts】[vlog] 在家度过的连休VLOG🏠ㅣ双胞胎一起玩Kancho游戏・和猫咪玩・和家人酒店度假・爱意满满的家常饭ㅣHSH",
+      "date": "2025-12-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1722oB3EYW/",
+      "cover": "https://i2.hdslb.com/bfs/archive/28f2e245f7199d318a7a64f166a8430197d9c409.jpg",
+      "duration": "26:02",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1qx2WB1ExY",
       "title": "【张元英】完全是女神 | 250801 K/CON LA 饭拍直拍合集 (含团体直拍-共11P)",
       "date": "2025-12-06",
@@ -33043,6 +36750,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qN2pB3EwS",
+      "title": "【Hearts2Hearts】好像可以啦",
+      "date": "2025-12-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1qN2pB3EwS/",
+      "cover": "https://i1.hdslb.com/bfs/archive/d72c29da8f6e7bb4c4fd4f9d33abed4ddcb83e38.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33067,6 +36793,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1V32pBTEei",
+      "title": "【Hearts2Hearts】𝗖𝗼𝗱𝗲𝗻𝗮𝗺𝗲: Happiness",
+      "date": "2025-12-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1V32pBTEei/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e0b85aa84b5859616b0645dc9e38ccc2928026f4.jpg",
+      "duration": "0:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1EF2pByEye",
+      "title": "【Hearts2Hearts】MM THE WAACKING WITCHHHHH",
+      "date": "2025-12-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1EF2pByEye/",
+      "cover": "https://i2.hdslb.com/bfs/archive/ce25fb23dfb7150b86cc101e9e25e4bb4f7da035.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1A42XBBEd7",
       "title": "【塔塔中字】AAA红毯+各种奖项 251206",
       "date": "2025-12-06",
@@ -33081,6 +36845,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1cx2jBYEGN",
+      "title": "【Hearts2Hearts】发生了难以置信的事情 . .",
+      "date": "2025-12-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1cx2jBYEGN/",
+      "cover": "https://i2.hdslb.com/bfs/archive/07d45dbe6b1814772c90e699799df96d1ffb407f.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1cx2jBYE36",
+      "title": "【Hearts2Hearts】kamu bilang I LOVE YOU",
+      "date": "2025-12-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1cx2jBYE36/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a8450ebd6817128a3ef7f4e0f129d5353de6224f.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Vi2vBBE3A",
+      "title": "【Hearts2Hearts】FOCUS dance break and I am...",
+      "date": "2025-12-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Vi2vBBE3A/",
+      "cover": "https://i1.hdslb.com/bfs/archive/32ac765648b425489e45dd715f5b184db2d1f56a.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33124,6 +36945,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1FF2eB5ELZ",
+      "title": "【Hearts2Hearts】我们会颠覆最后一场的! ( ◡̀_◡́) | Hearts2Hearts《FOCUS》Music Show BH2ND #2",
+      "date": "2025-12-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1FF2eB5ELZ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/972b8870ea6ee114aa2f9804d79573c41bd172bc.jpg",
+      "duration": "30:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1SySYBNELH",
+      "title": "【Hearts2Hearts】和#SHOTARO 前辈 FOCUS 🔍",
+      "date": "2025-12-03",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1SySYBNELH/",
+      "cover": "https://i1.hdslb.com/bfs/archive/b0103f5aa7bb2db092dd83a5605d7b525dd9b97e.jpg",
+      "duration": "0:22",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1ULStBSEia",
       "title": "【塔塔中字】怎么会有这么多离谱关键词的游戏 IVE 四周年直播 251201",
       "date": "2025-12-02",
@@ -33143,6 +37002,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV19ZSpB1ETV",
+      "title": "【Hearts2Hearts】milkshake🥤",
+      "date": "2025-12-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV19ZSpB1ETV/",
+      "cover": "https://i0.hdslb.com/bfs/archive/3339658ab34b9707fcd961d2f414d8f9816f7287.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1CRUfB8EvP",
+      "title": "【Hearts2Hearts】[vlog]NUNGGUIN YAAA!巴厘岛连休VLOG｜印尼美食吃播・巴厘岛海滩・初见法拉贝拉马I’M A BALI GIRL",
+      "date": "2025-11-30",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1CRUfB8EvP/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8913ed625b42bb5464eaa01219e579e8c298ad8a.jpg",
+      "duration": "16:32",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1v2SEBqEDn",
       "title": "【塔塔中字】IVE MAMA Favorite Global Performer+Favorite Female+Global Trend Son 251128",
       "date": "2025-11-28",
@@ -33157,6 +37054,82 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11NSMBREDJ",
+      "title": "【Hearts2Hearts】请集中 F.O.C.U.S (˵ - _ - ˵ )✧˖  | Hearts2Hearts《FOCUS》音乐放送 BH2ND #1",
+      "date": "2025-11-27",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV11NSMBREDJ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ce911e3eb571f7e5533ba00320b189d1a17dd097.jpg",
+      "duration": "32:05",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZhUbBeE8z",
+      "title": "【Hearts2Hearts】肩膀flirting😉",
+      "date": "2025-11-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZhUbBeE8z/",
+      "cover": "https://i0.hdslb.com/bfs/archive/67a728d99e087b1732c85142a2a4433f2431b1ff.jpg",
+      "duration": "0:06",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fAUUBsEkt",
+      "title": "【Hearts2Hearts】#whatsinmydrafts",
+      "date": "2025-11-25",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1fAUUBsEkt/",
+      "cover": "https://i0.hdslb.com/bfs/archive/760c6ab4808d53c823a84628aa453a122ccd9a3a.jpg",
+      "duration": "0:07",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1uFUVBrE7G",
+      "title": "【Hearts2Hearts】we out here",
+      "date": "2025-11-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1uFUVBrE7G/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8e69ca433eaaff181479ca89a0e1d55a384bd9da.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33200,6 +37173,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1czUABPEPD",
+      "title": "【Hearts2Hearts】[vlog]JIWOO的关岛家庭旅行｜浮潜・酒店泳池・KMART购物・买纪念品・大虾吃播｜Berry Very Me🍓in 关岛",
+      "date": "2025-11-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1czUABPEPD/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8facd21c6d1564f5969830ce195f006c3c277af9.jpg",
+      "duration": "24:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1PzUTBSEyL",
       "title": "【张元英】麻花辫女神开球 | 250730 Coupang Play Series 2025 舞台+开球 饭拍直拍合集 (含团体直拍-共12P)",
       "date": "2025-11-23",
@@ -33233,6 +37225,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1iFUHBkEZD",
+      "title": "【Hearts2Hearts】Hearts2Hearts《FOCUS (Young Franco Remix)》Visualizer",
+      "date": "2025-11-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1iFUHBkEZD/",
+      "cover": "https://i0.hdslb.com/bfs/archive/11302c6c7555fcc93c8c0458628700519847f874.jpg",
+      "duration": "4:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1iFUHBkECr",
+      "title": "【Hearts2Hearts】Hearts2Hearts《FOCUS (sooyeon Remix)》Visualizer",
+      "date": "2025-11-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1iFUHBkECr/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0d16c09eea93c34cdcd0817a5104fc128acc4519.jpg",
+      "duration": "2:58",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fdUnBLEjS",
+      "title": "【Hearts2Hearts】Hearts2Hearts《FOCUS (Jaebin Remix)》Visualizer",
+      "date": "2025-11-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1fdUnBLEjS/",
+      "cover": "https://i2.hdslb.com/bfs/archive/396646ac4422903a4bbc703e0a53d2353339c9dd.jpg",
+      "duration": "3:45",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33276,6 +37325,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1uAyuBEEgg",
+      "title": "[iScreaM] Hearts2Hearts《FOCUS (DJ Seinfeld Remix)》MV",
+      "date": "2025-11-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1uAyuBEEgg/",
+      "cover": "https://i2.hdslb.com/bfs/archive/be9d887f436ae5aad6f7568753d6f6298779409c.jpg",
+      "duration": "2:41",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1QvyuBxEEi",
+      "title": "【Hearts2Hearts】wow thats RUDE!",
+      "date": "2025-11-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1QvyuBxEEi/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f01f591ad2005999205c7bdae2bdf6c33a607dea.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1AZULBzEvx",
       "title": "【塔塔中字】终于有人把蛋糕吃了 IVE LIZ 生日直播 251121",
       "date": "2025-11-21",
@@ -33290,6 +37377,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1dYywBCEqd",
+      "title": "【Hearts2Hearts】还涂了蓝色珠光~❤︎Ψ(๑˃ ⤙ ˂๑)*｡⋆✧ | Hearts2Hearts《FOCUS》Mood Sampler BH2ND",
+      "date": "2025-11-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1dYywBCEqd/",
+      "cover": "https://i1.hdslb.com/bfs/archive/b9141a30a7fc79aa59e5d2dd27d781e717642041.jpg",
+      "duration": "24:08",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1VaCZBfEbs",
+      "title": "[iScreaM] Hearts2Hearts《FOCUS (DJ Seinfeld Remix)》MV Teaser",
+      "date": "2025-11-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1VaCZBfEbs/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6af916729cb4c4dd21a1929a9293dae2ad9e93ba.jpg",
+      "duration": "0:27",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33314,6 +37439,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV17oyjBsE4R",
+      "title": "【Hearts2Hearts】嘘, 只给你看",
+      "date": "2025-11-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV17oyjBsE4R/",
+      "cover": "https://i1.hdslb.com/bfs/archive/c978f8822237df822c7328606013cdb79373af9d.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1nKCkBhE8E",
+      "title": "【Hearts2Hearts】有反转",
+      "date": "2025-11-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1nKCkBhE8E/",
+      "cover": "https://i1.hdslb.com/bfs/archive/81e598e34b20e1d8ef75dfdf876885ad2e062551.jpg",
+      "duration": "0:31",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV17UyGB5E9H",
       "title": "【塔塔中字】IVE REI LIZ COVER曲 Rock'n Rouge录音室花絮 251117",
       "date": "2025-11-18",
@@ -33328,6 +37491,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV17ACiBuEtZ",
+      "title": "【Hearts2Hearts】在澳门路环村的一天𓇼 ⋆.˚ 蛋挞, 奶茶 & 晚餐!(๑ᵔ⤙ᵔ๑) ✧ S2cret Diary ꒰ EP.8 ꒱",
+      "date": "2025-11-17",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV17ACiBuEtZ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/59ea5e7d8d68a7042ba67ecf330c2da1fd21b2dd.jpg",
+      "duration": "30:41",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14cC2BnEqY",
+      "title": "【Hearts2Hearts】at the supermaaarket",
+      "date": "2025-11-17",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV14cC2BnEqY/",
+      "cover": "https://i0.hdslb.com/bfs/archive/cf72d713311f46f33f9a531bed30176c20335410.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33371,6 +37572,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1iZC9BsEXP",
+      "title": "【Hearts2Hearts】帅气收尾",
+      "date": "2025-11-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1iZC9BsEXP/",
+      "cover": "https://i0.hdslb.com/bfs/archive/1e018e13b52af97f565a5d99889082d907e01d0e.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1YQCVBTE9o",
+      "title": "【Hearts2Hearts】focus closely",
+      "date": "2025-11-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1YQCVBTE9o/",
+      "cover": "https://i2.hdslb.com/bfs/archive/224bb20cac6caec3e143a7c84294aa968a351b23.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xJCCBrEzj",
+      "title": "【Hearts2Hearts】freeze and rizz 嘿",
+      "date": "2025-11-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1xJCCBrEzj/",
+      "cover": "https://i1.hdslb.com/bfs/archive/27b890dc0f697e37923076fed174472425784c75.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1rgCyBiEBP",
       "title": "【张元英】欧洲的空气有魔力 | 250720 Lollapalooza 巴黎 音乐节 饭拍直拍合集 (含团体直拍-共43P)",
       "date": "2025-11-15",
@@ -33385,6 +37643,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1r8C3BCEff",
+      "title": "【Hearts2Hearts】𝑵𝑶𝑏𝑜𝑑𝑦",
+      "date": "2025-11-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1r8C3BCEff/",
+      "cover": "https://i0.hdslb.com/bfs/archive/6a9885719922333f0e8505a8873a3154d4c8555f.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33409,6 +37686,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1vHCgBcERZ",
+      "title": "【Hearts2Hearts】哟咦哟咦",
+      "date": "2025-11-14",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1vHCgBcERZ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9df9e671a2b6a71023fcd996459bd09fdf18a1e3.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1epCgB8Eqe",
       "title": "【张元英】终场也要继续EIGHT | 251102 首尔 世巡 DAY-3 8 饭拍直拍合集 (已更至24P)",
       "date": "2025-11-14",
@@ -33428,6 +37724,101 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1UbCbBMEWH",
+      "title": "【Hearts2Hearts】fOcOs",
+      "date": "2025-11-14",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1UbCbBMEWH/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0491f17016e27c2118273535636a92fea5a202a1.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1stCsBpEYL",
+      "title": "【Hearts2Hearts】友情测试 友情 友情 v(˶˃ ᵕ ˂˶)v | Hearts2Hearts《FOCUS》Trailer BH2ND",
+      "date": "2025-11-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1stCsBpEYL/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f3fec54d1475cab5a0292d7d56ad8862e8bc852b.jpg",
+      "duration": "21:29",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1gfCsBwE33",
+      "title": "【Hearts2Hearts】我怎么样 🫛",
+      "date": "2025-11-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1gfCsBwE33/",
+      "cover": "https://i0.hdslb.com/bfs/archive/31e83802e63efb97f8f800a0afa4cba4748a1ce7.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1b5CpBWEYo",
+      "title": "【Hearts2Hearts】watch me 👾",
+      "date": "2025-11-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1b5CpBWEYo/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a56949c8a39952476b54e28fd36fb88ea1696a31.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1S5CpBWEYW",
+      "title": "【Hearts2Hearts】猴猴TD🌻",
+      "date": "2025-11-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1S5CpBWEYW/",
+      "cover": "https://i0.hdslb.com/bfs/archive/35d57af16271b4779e5f44c3aec973f10b4d7116.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1QrCtBgEzJ",
       "title": "【张元英】叽叽喳喳小兔子 | 251113 伦敦 单人 VLOG",
       "date": "2025-11-13",
@@ -33442,6 +37833,101 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV18fCsBwEot",
+      "title": "【Hearts2Hearts】v😊v",
+      "date": "2025-11-13",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV18fCsBwEot/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8e8679fbd2853bc3f2958bdc1cd0bab919c5d2b6.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1wvCLBoEme",
+      "title": "【Hearts2Hearts】two different styles of 🍓",
+      "date": "2025-11-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1wvCLBoEme/",
+      "cover": "https://i1.hdslb.com/bfs/archive/fd27476b2648c2c8c5cff5c23623e3fbf05a80ab.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1rqCLBsEf9",
+      "title": "【Hearts2Hearts】ready to serve 🧁",
+      "date": "2025-11-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1rqCLBsEf9/",
+      "cover": "https://i2.hdslb.com/bfs/archive/b0b9655ca8f0dd9cad95f618ec0b76ddbd187313.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kvCLBdEzP",
+      "title": "【Hearts2Hearts】it's me, the queen 🌴",
+      "date": "2025-11-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1kvCLBdEzP/",
+      "cover": "https://i2.hdslb.com/bfs/archive/79e6945e767c7d14aae6e0871e1bd371f4a5026c.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kqCLBsEVV",
+      "title": "【Hearts2Hearts】🎀's attitude",
+      "date": "2025-11-12",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1kqCLBsEVV/",
+      "cover": "https://i2.hdslb.com/bfs/archive/2220372f9ce6d3d9fe6874045e898b1308c0a323.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33485,6 +37971,139 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1nRCcB2EPg",
+      "title": "【Hearts2Hearts】YE-ON路过哟",
+      "date": "2025-11-11",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1nRCcB2EPg/",
+      "cover": "https://i2.hdslb.com/bfs/archive/93869171eeb5b96493bbdbfbcb04d1a58badffd8.jpg",
+      "duration": "0:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZfkBByEKq",
+      "title": "【Hearts2Hearts】anyone but you",
+      "date": "2025-11-11",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ZfkBByEKq/",
+      "cover": "https://i1.hdslb.com/bfs/archive/2b28577dfac256ab112f3b1b6812650b44bad01c.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xhkXBwENY",
+      "title": "【Hearts2Hearts】Apple Pie 🤌",
+      "date": "2025-11-10",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1xhkXBwENY/",
+      "cover": "https://i2.hdslb.com/bfs/archive/735c9e2b669398f9b0f38151232dcd2635e36fe5.jpg",
+      "duration": "0:19",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1shkXBcEgk",
+      "title": "【Hearts2Hearts】向.后.推",
+      "date": "2025-11-10",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1shkXBcEgk/",
+      "cover": "https://i2.hdslb.com/bfs/archive/23855e950e0da2103011785338c3cbd5ea0c7145.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1WakXB8EUk",
+      "title": "【Hearts2Hearts】和#瑜卤允浩 前辈 FOCUS 🔍",
+      "date": "2025-11-10",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1WakXB8EUk/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f1bdbea0df61716ebf2993e6774773dbcbf96d0b.jpg",
+      "duration": "0:24",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1onkSBgE2p",
+      "title": "【Hearts2Hearts】今天尝试了加利福尼亚𝓛𝓐𝓗𝓸𝓽𝓰𝓲𝓻𝓵 的装扮|Hearts2Hearts《FOCUS》Jacket BH2ND",
+      "date": "2025-11-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1onkSBgE2p/",
+      "cover": "https://i1.hdslb.com/bfs/archive/dbdd1cfbbe1bca54b246afc9b0765963ee0845d8.jpg",
+      "duration": "28:52",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1chkUB1E8d",
+      "title": "【Hearts2Hearts】mae kkeun mae kkeun hada",
+      "date": "2025-11-09",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1chkUB1E8d/",
+      "cover": "https://i0.hdslb.com/bfs/archive/1cc18c47f4aa260b852558cea7116b50b51ac1b0.jpg",
+      "duration": "0:18",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1PNkSBHEem",
       "title": "【张元英】完全辣妹 | 250531 ALL LOUD KT POP 高雄拼盘演唱会 饭拍直拍合集 (含团体直拍&幕后花絮-共27P)",
       "date": "2025-11-09",
@@ -33523,6 +38142,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1ym1mBREpy",
+      "title": "【Hearts2Hearts】now you cant unhear it #whatsinmydrafts",
+      "date": "2025-11-08",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ym1mBREpy/",
+      "cover": "https://i0.hdslb.com/bfs/archive/dc31248885a1d429a7f25b01cf8f3a27c6eb1956.jpg",
+      "duration": "0:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1oU1DBDEwH",
       "title": "【张元英】251102 世巡 DAY-3 VCR 张元英CUT",
       "date": "2025-11-08",
@@ -33537,6 +38175,158 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Mn1UBAEUn",
+      "title": "【Hearts2Hearts】排排站 𓈒𓏸‪‪.°",
+      "date": "2025-11-08",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Mn1UBAEUn/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a85aa953daced20686cc08d0aa8ed55138343b43.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1uQ2TB9ES1",
+      "title": "【Hearts2Hearts】XOXO #whatsinmydrafts",
+      "date": "2025-11-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1uQ2TB9ES1/",
+      "cover": "https://i2.hdslb.com/bfs/archive/bab55da3638809f91c7f07decdb954a733323ec7.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1oS2wBSEJi",
+      "title": "【Hearts2Hearts】可爱鬼 #whatsinmydrafts",
+      "date": "2025-11-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1oS2wBSEJi/",
+      "cover": "https://i0.hdslb.com/bfs/archive/3b35d5498f55dd2ad43c65a73722b20d0db8a0b2.jpg",
+      "duration": "0:08",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1dW2gBzEXF",
+      "title": "【Hearts2Hearts】在广州的美丽View view view view view",
+      "date": "2025-11-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1dW2gBzEXF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/460d5c06317788b6b5ba18440e4ac176bcdb3f0b.jpg",
+      "duration": "0:22",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Ym2TB4EFg",
+      "title": "【Hearts2Hearts】get out of my frame 🙄",
+      "date": "2025-11-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Ym2TB4EFg/",
+      "cover": "https://i2.hdslb.com/bfs/archive/5d538e0550e59788ef10cde0b68404d438ac2227.jpg",
+      "duration": "0:30",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Ja2TBqE8h",
+      "title": "【Hearts2Hearts】啊 干什么呀z",
+      "date": "2025-11-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Ja2TBqE8h/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4356dc1945a89b7c50183dbbc4c010a525a3a1bb.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV18723BYEVb",
+      "title": "【Hearts2Hearts】大学庆典 我们好像心意相通~  | Hearts2Hearts University Festival 2025 BH2ND",
+      "date": "2025-11-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV18723BYEVb/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8c7372db15c357efe3b31a7c344f9392369b1bd0.jpg",
+      "duration": "26:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV17p2gB3EJU",
+      "title": "【Hearts2Hearts】𝔸𝕟𝕘𝕖𝕝 ⊹໒꒱",
+      "date": "2025-11-07",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV17p2gB3EJU/",
+      "cover": "https://i1.hdslb.com/bfs/archive/41d3f2886c7d5430dd757e4beea3ddd080df6969.jpg",
+      "duration": "0:13",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33561,6 +38351,215 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1q22wBQECn",
+      "title": "【Hearts2Hearts】和S2U一起的FOCUS in 广州🩵",
+      "date": "2025-11-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1q22wBQECn/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8bcb226522483f7d10deff8220ab5cb45e740f92.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Pm1sB4EMU",
+      "title": "【Hearts2Hearts】呀 出来",
+      "date": "2025-11-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Pm1sB4EMU/",
+      "cover": "https://i1.hdslb.com/bfs/archive/833a32db6844b7a4db54d0481fec70231df51c02.jpg",
+      "duration": "0:30",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Pm1fBsEXH",
+      "title": "【Hearts2Hearts】是我先来的",
+      "date": "2025-11-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Pm1fBsEXH/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8ccbfdfdf82787aa5f519e3747db59ef0a6c4a2d.jpg",
+      "duration": "0:29",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ET18BFEhh",
+      "title": "【Hearts2Hearts】Adieu Adieu Adieu Adieu Adieu",
+      "date": "2025-11-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ET18BFEhh/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c69fa605386e733f30838cf785428601878780cc.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV13a1fBvEfd",
+      "title": "【Hearts2Hearts】wall eye knee 💕 我爱你",
+      "date": "2025-11-06",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV13a1fBvEfd/",
+      "cover": "https://i2.hdslb.com/bfs/archive/d937ae3957577b48614a7ee3995e3a45183f7edf.jpg",
+      "duration": "0:07",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ix14BJEKo",
+      "title": "【Hearts2Hearts】品鉴一下🐧～😝",
+      "date": "2025-11-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ix14BJEKo/",
+      "cover": "https://i0.hdslb.com/bfs/archive/bd036b7b0227f46b750c325a6cc689e4ca730adf.jpg",
+      "duration": "0:09",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Te1nBSEPe",
+      "title": "【Hearts2Hearts】FOCUS on ME!",
+      "date": "2025-11-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Te1nBSEPe/",
+      "cover": "https://i1.hdslb.com/bfs/archive/68d524e704032a215710d186bdda328e3aed2318.jpg",
+      "duration": "0:31",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1TY1nBnEmJ",
+      "title": "【Hearts2Hearts】拦不住的大小姐 哈",
+      "date": "2025-11-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1TY1nBnEmJ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/03dfe1a17760cf70c4518c603c232878f66d43cb.jpg",
+      "duration": "0:24",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Ny1sBbEcf",
+      "title": "【Hearts2Hearts】Hearts2Hearts《FOCUS》Dance Practice BH2ND",
+      "date": "2025-11-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Ny1sBbEcf/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e694b733b8fa6d6c26095d3839ca7f86f22a1dc4.jpg",
+      "duration": "34:48",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Ke1nBDEzD",
+      "title": "【Hearts2Hearts】bestie problems",
+      "date": "2025-11-05",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Ke1nBDEzD/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8be8f3718ac9430b147d34c4f3f249c6656a63aa.jpg",
+      "duration": "0:26",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kq1zB8EPu",
+      "title": "【Hearts2Hearts】FOCUS (🩰ballet ver.)",
+      "date": "2025-11-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1kq1zB8EPu/",
+      "cover": "https://i1.hdslb.com/bfs/archive/21eed38765d174cfd68efb907847f72153921d85.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1Qk1kBXEq8",
       "title": "【塔塔中字】IVE 二次世巡 'SHOW WHAT I AM' 首尔演唱会Day3 251102",
       "date": "2025-11-04",
@@ -33575,6 +38574,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1J61zBtEid",
+      "title": "【Hearts2Hearts】two big personalities in one tiny frame 🤷‍♀️",
+      "date": "2025-11-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1J61zBtEid/",
+      "cover": "https://i0.hdslb.com/bfs/archive/caca01e0c3a5b75201f25fbd1aee18617bc9e4fb.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Gd1zB7Ev2",
+      "title": "【Hearts2Hearts】和#82MAJOR 前辈FOCUS 🔍",
+      "date": "2025-11-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Gd1zB7Ev2/",
+      "cover": "https://i2.hdslb.com/bfs/archive/33c7a0956ce8bd917da7e20eae070292d5e6c164.jpg",
+      "duration": "0:22",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Ci1zBcE3g",
+      "title": "【Hearts2Hearts】my turn 😉💅",
+      "date": "2025-11-04",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Ci1zBcE3g/",
+      "cover": "https://i2.hdslb.com/bfs/archive/09a135f7404b63376752296acea69bc2de42a9a3.jpg",
+      "duration": "0:29",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33599,6 +38655,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1er1YBYEDX",
+      "title": "【Hearts2Hearts】Hearts2Hearts《FOCUS》Recording BH2ND",
+      "date": "2025-11-03",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1er1YBYEDX/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f6b56644d915a744f872741825694df7a29533fb.jpg",
+      "duration": "33:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19J1aBZEnZ",
+      "title": "【Hearts2Hearts】吱吱吱 #whatsinmydrafts",
+      "date": "2025-11-03",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV19J1aBZEnZ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0ce0581b96310cfc367a9b24eddb007a876e6976.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1hGyQBGEmT",
+      "title": "【Hearts2Hearts】phrasing⁸⁸⁸⁸⁸⁸⁸⁸",
+      "date": "2025-11-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1hGyQBGEmT/",
+      "cover": "https://i2.hdslb.com/bfs/archive/1c0f91698f5c3e97756cab67e2d1f7bffbf80d64.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1FcydBKELJ",
       "title": "【张元英】第二天换新衣服啦 | 251101 首尔 世巡 DAY-2 8 饭拍直拍合集 (已更至43P)",
       "date": "2025-11-02",
@@ -33618,6 +38731,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1DpyZBZEqr",
+      "title": "【Hearts2Hearts】unlike...me?",
+      "date": "2025-11-02",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1DpyZBZEqr/",
+      "cover": "https://i2.hdslb.com/bfs/archive/fc2eb8c4a68ea40d06aa1087d78fa9dadba050f3.jpg",
+      "duration": "0:14",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1aR1jBmEwC",
+      "title": "【Hearts2Hearts】100% focused",
+      "date": "2025-11-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1aR1jBmEwC/",
+      "cover": "https://i1.hdslb.com/bfs/archive/272f73f8c1c1ae9235b44e4c9a119d94fe8eebc4.jpg",
+      "duration": "0:33",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1SF17BLEif",
+      "title": "【Hearts2Hearts】两个都是我",
+      "date": "2025-11-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1SF17BLEif/",
+      "cover": "https://i1.hdslb.com/bfs/archive/b72b7e9c9df0e09493bb8527cac75e4dcbcd59f0.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1RAyQB7EvU",
       "title": "【张元英】女神SOLO曲跳舞劲劲的 | 251031 首尔 世巡 DAY-1 8 饭拍直拍合集 (已更至47P)",
       "date": "2025-11-01",
@@ -33632,6 +38802,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Qo1jB7EVB",
+      "title": "【Hearts2Hearts】很.危.险. 🫦",
+      "date": "2025-11-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1Qo1jB7EVB/",
+      "cover": "https://i1.hdslb.com/bfs/archive/2785aa80f8a0e60fe8c4147c2319b54be122a03f.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1H61TBME7x",
+      "title": "【Hearts2Hearts】it's FINALLYYY the season",
+      "date": "2025-11-01",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1H61TBME7x/",
+      "cover": "https://i1.hdslb.com/bfs/archive/7a48adf414536cb1f94063ae50ea486def4c9103.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33675,6 +38883,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1xKyaByEC2",
+      "title": "【Hearts2Hearts】FOCUS 练习",
+      "date": "2025-10-31",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1xKyaByEC2/",
+      "cover": "https://i0.hdslb.com/bfs/archive/66c7cdf1559145dae8e2f258d0ec80e1f436b793.jpg",
+      "duration": "1:03",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1n61TBMERT",
       "title": "爱死这个开场",
       "date": "2025-10-31",
@@ -33694,6 +38921,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1TK1KBkEY6",
+      "title": "【Hearts2Hearts】S2U 不要怕生 Come on | Hearts2Hearts《Pretty Please》Music Show BH2ND",
+      "date": "2025-10-31",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1TK1KBkEY6/",
+      "cover": "https://i0.hdslb.com/bfs/archive/034976e2748a1e933e0b75e3b48528832ffcd8ad.jpg",
+      "duration": "25:42",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1NMyaBVEt9",
+      "title": "【Hearts2Hearts】和#SEULGI 前辈FOCUS 🔍",
+      "date": "2025-10-31",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1NMyaBVEt9/",
+      "cover": "https://i2.hdslb.com/bfs/archive/98b738ec814bc4f485c8c11dfa26d12fac2c6947.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1HJyeBCEpv",
       "title": "【张元英】女神学姐 | 250524 延世大学校庆 饭拍直拍合集 (含团体直拍&幕后花絮-共15P)",
       "date": "2025-10-31",
@@ -33708,6 +38973,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1X9yhBXE8P",
+      "title": "【Hearts2Hearts】challenge me",
+      "date": "2025-10-30",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1X9yhBXE8P/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8d060ddf2e2a4a5b6efe7e644aa35af67c6dc496.jpg",
+      "duration": "0:21",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33770,6 +39054,177 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1pCyqB9EGr",
+      "title": "【Hearts2Hearts】你看看她 ?",
+      "date": "2025-10-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1pCyqB9EGr/",
+      "cover": "https://i1.hdslb.com/bfs/archive/726c076a612897a919592c8369cdae12540080db.jpg",
+      "duration": "0:22",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kCyqB9E5U",
+      "title": "【Hearts2Hearts】只能看我ゝ。∂",
+      "date": "2025-10-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1kCyqB9E5U/",
+      "cover": "https://i1.hdslb.com/bfs/archive/a6f7470ccd101953c895dfa98705aa5a283f6e9c.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1k1yqBpEGi",
+      "title": "【Hearts2Hearts】I..can...not...fo...cu..s..",
+      "date": "2025-10-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1k1yqBpEGi/",
+      "cover": "https://i1.hdslb.com/bfs/archive/196c6d765f3b285362880110e90d65546aea695b.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1hayrBmEoR",
+      "title": "【Hearts2Hearts】can't beat me 😙🥁",
+      "date": "2025-10-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1hayrBmEoR/",
+      "cover": "https://i1.hdslb.com/bfs/archive/87de2394863a4e5a14fa50beedb02b8a2473022f.jpg",
+      "duration": "0:08",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1H1yqBpEfo",
+      "title": "【Hearts2Hearts】姐姐 等一下",
+      "date": "2025-10-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1H1yqBpEfo/",
+      "cover": "https://i1.hdslb.com/bfs/archive/d4a826d2f3683d16deecba03ab8772d3cc13dba2.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1H1yqBpEbt",
+      "title": "【Hearts2Hearts】heyy you better focus on ME!",
+      "date": "2025-10-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1H1yqBpEbt/",
+      "cover": "https://i1.hdslb.com/bfs/archive/255d95b933690e219afc6d9bba40070994267592.jpg",
+      "duration": "0:28",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19tyrBnEZn",
+      "title": "【Hearts2Hearts】太漂亮了吧~? 芭蕾 CORE ໒꒱‧₊˚ | Hearts2Hearts《FOCUS》MV BH2ND #2",
+      "date": "2025-10-28",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV19tyrBnEZn/",
+      "cover": "https://i0.hdslb.com/bfs/archive/fd97a5362485d574c69f0c55c60a29f4842c6891.jpg",
+      "duration": "28:46",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1XVszzVEHZ",
+      "title": "【Hearts2Hearts】iwantyou",
+      "date": "2025-10-27",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1XVszzVEHZ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0ead87f220e58f346eee194bdf593a23611f2c36.jpg",
+      "duration": "0:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1XVszzVEF2",
+      "title": "【Hearts2Hearts】deugeundeusi #teamwork",
+      "date": "2025-10-27",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1XVszzVEF2/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0d71a38e14cc5d08bb78b19c30813964eceb2250.jpg",
+      "duration": "0:08",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1UqsmzfENM",
       "title": "【张元英】被风眷顾的女神 | 250509 成均馆大学校庆 饭拍直拍合集 (含团体直拍-共13P)",
       "date": "2025-10-27",
@@ -33784,6 +39239,101 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1GVszz5ERK",
+      "title": "【Hearts2Hearts】ごめんなさい🖤",
+      "date": "2025-10-27",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1GVszz5ERK/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e6f655b782aaa64f1f4a78a693ce3c25ce130df0.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1GQsUzuEe1",
+      "title": "【Hearts2Hearts】和#LE_SSERAFIM 前辈尝尝看FOCUS🍴",
+      "date": "2025-10-27",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1GQsUzuEe1/",
+      "cover": "https://i0.hdslb.com/bfs/archive/fae3917fa96e6817e66b2ed41a70b5cd15a667a4.jpg",
+      "duration": "0:22",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ussXz5EVW",
+      "title": "【Hearts2Hearts】和#KEY 前辈FOCUS🔍",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ussXz5EVW/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2e5067adc78e206e4cc2bd886f6d939d8a582be4.jpg",
+      "duration": "0:22",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tbxPzgEAf",
+      "title": "【Hearts2Hearts】和#DOHOON 前辈一起做FOCUS 🔍",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1tbxPzgEAf/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4c35f95c092e1e3877fd4cfea41b47fb2409bf57.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1r2spz2EBe",
+      "title": "【Hearts2Hearts】sideeye meme unlocked",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1r2spz2EBe/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0099e60a4e74a30b236f4b9061021545728f051e.jpg",
+      "duration": "0:08",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33808,6 +39358,82 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1b2xNz2EQV",
+      "title": "【Hearts2Hearts】every move is iconic",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1b2xNz2EQV/",
+      "cover": "https://i0.hdslb.com/bfs/archive/e4a711120d6afbf1303c2e3f27ce85d052e1158c.jpg",
+      "duration": "0:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1b2xNz2E3Y",
+      "title": "【Hearts2Hearts】no one can stop us",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1b2xNz2E3Y/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f23dda380f53b458778de076273c871e7c70d47a.jpg",
+      "duration": "0:09",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1WfxNzBEWV",
+      "title": "【Hearts2Hearts】我也是能帅气起来的女人 ᕦ(ò_óˇ)ᕤ | Hearts2Hearts《FOCUS》MV BH2ND #1",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1WfxNzBEWV/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8c0f7dbdf0c9ccbffdeffc6de3d803e5c488213c.jpg",
+      "duration": "27:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1V1sZzNEU4",
+      "title": "【Hearts2Hearts】拍得慢了啊?",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1V1sZzNEU4/",
+      "cover": "https://i1.hdslb.com/bfs/archive/b3e19d34a3474097d920492a6d93b32dedb0c257.jpg",
+      "duration": "0:30",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1RaxAzEEe6",
       "title": "【张元英】日巡造型好美 | 250412 - 250430 三期会员FM 日本场 饭拍直拍合集 (含幕后花絮)",
       "date": "2025-10-26",
@@ -33822,6 +39448,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1M3sdzSEu6",
+      "title": "【Hearts2Hearts】正在将世界向后推🫸",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1M3sdzSEu6/",
+      "cover": "https://i1.hdslb.com/bfs/archive/55457d9a2bd8fdf25d50d4c79a460c8d3a08f2a3.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1M3sdzSEer",
+      "title": "【Hearts2Hearts】˗ˋˏ 大家注意 ˎˊ˗",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1M3sdzSEer/",
+      "cover": "https://i1.hdslb.com/bfs/archive/5b872fdcc988646ef7de08ff6880e8637c0a97e4.jpg",
+      "duration": "0:15",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV191sZzPEz7",
+      "title": "【Hearts2Hearts】和#umtaegoo 前辈FOCUS🔍",
+      "date": "2025-10-26",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV191sZzPEz7/",
+      "cover": "https://i0.hdslb.com/bfs/archive/d04d0b747c9b551dd1f2700bffb8b45cd64cf4d7.jpg",
+      "duration": "0:25",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33846,6 +39529,82 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1oasHzTEnr",
+      "title": "【Hearts2Hearts】nonchalant level too high",
+      "date": "2025-10-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1oasHzTEnr/",
+      "cover": "https://i2.hdslb.com/bfs/archive/370628a9af8a746145e00c7fb944db455c1e95a3.jpg",
+      "duration": "0:14",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1oasHzTEdf",
+      "title": "【Hearts2Hearts】the girls",
+      "date": "2025-10-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1oasHzTEdf/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4a75807985c4b38019fd63c0e614975a97aa7956.jpg",
+      "duration": "0:06",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kWsGzQEDb",
+      "title": "【Hearts2Hearts】are you focusing on us?",
+      "date": "2025-10-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1kWsGzQEDb/",
+      "cover": "https://i0.hdslb.com/bfs/archive/382025abbc1f26ccffdc39b6dc12fd4b0acbedb7.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1MGsWzfEWS",
+      "title": "【Hearts2Hearts】so amazing⁴",
+      "date": "2025-10-24",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1MGsWzfEWS/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c38ab4a95a822ec0109db16f52cd48e45790bb40.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV18Vs5zTEtY",
       "title": "【张元英】找镜头小能手上线 | 250405 三期会员FM DAY-1 饭拍直拍合集 (含Challenge&团体直拍-共90P)",
       "date": "2025-10-24",
@@ -33860,6 +39619,82 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xdsYznEFQ",
+      "title": "【Hearts2Hearts】班长 让她们坐下",
+      "date": "2025-10-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1xdsYznEFQ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/d7b83908249c1d441754858db278bce9109e688d.jpg",
+      "duration": "0:17",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qwszzQEzd",
+      "title": "【Hearts2Hearts】break your legs for 首放",
+      "date": "2025-10-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1qwszzQEzd/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e11b88b48ca7690ac64e25129f74b9e2f648708e.jpg",
+      "duration": "0:08",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1jdsezgEm1",
+      "title": "【Hearts2Hearts】说真的 我们太帅了",
+      "date": "2025-10-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1jdsezgEm1/",
+      "cover": "https://i2.hdslb.com/bfs/archive/a5a5354179a9d4d3067ff1114ea585f20336b0dd.jpg",
+      "duration": "0:17",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1cgsVznELu",
+      "title": "【Hearts2Hearts】Hearts2Hearts《FOCUS》MV CommentaryㅣCrunchy Hearts EP.10",
+      "date": "2025-10-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1cgsVznELu/",
+      "cover": "https://i1.hdslb.com/bfs/archive/3dd4817614bcf88aa169396e5d296fa69d6c66a5.jpg",
+      "duration": "12:34",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33884,6 +39719,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV15QWdzbEG6",
+      "title": "【Hearts2Hearts】couldnt miss the view 🎆",
+      "date": "2025-10-23",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV15QWdzbEG6/",
+      "cover": "https://i1.hdslb.com/bfs/archive/7ba2927c6a56821e85b13a965f3f6980b40ae070.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV149sYzQEMm",
       "title": "【张元英】重现UCHIDA CHA | 250215 音中迷你粉丝见面会 饭拍直拍合集 (含团体直拍-共11p)",
       "date": "2025-10-23",
@@ -33898,6 +39752,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1yFWDzZEbe",
+      "title": "【Hearts2Hearts】when we focus",
+      "date": "2025-10-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1yFWDzZEbe/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c4a015b63945bfa9b01f7ded27d17bc575782738.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1yFWDzZEJY",
+      "title": "【Hearts2Hearts】stay focused",
+      "date": "2025-10-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1yFWDzZEJY/",
+      "cover": "https://i2.hdslb.com/bfs/archive/67d3a4157103ec66d49a43dc2e472b1d2adfd037.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1eDstzJEHp",
+      "title": "【Hearts2Hearts】有关武术社团的的咨询请在评论区留言.",
+      "date": "2025-10-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1eDstzJEHp/",
+      "cover": "https://i1.hdslb.com/bfs/archive/a995058ceab6a03c15cad9359f657b47664c39aa.jpg",
+      "duration": "0:16",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33922,6 +39833,120 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1NxstziEDZ",
+      "title": "【Hearts2Hearts】《FOCUS》Cheering Guide | I cannot focus on anything but S2U 🩵",
+      "date": "2025-10-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1NxstziEDZ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/bc61590b9fd556c3693a07d8beba0959fc2cfe5b.jpg",
+      "duration": "3:41",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1CFWDzZE9g",
+      "title": "【Hearts2Hearts】focus on your favs",
+      "date": "2025-10-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1CFWDzZE9g/",
+      "cover": "https://i1.hdslb.com/bfs/archive/849a4444c28d18f8d7c3b2e21fd953fb3dc4e34b.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV12dWSzhEtK",
+      "title": "【Hearts2Hearts】focus on us",
+      "date": "2025-10-22",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV12dWSzhEtK/",
+      "cover": "https://i1.hdslb.com/bfs/archive/508a8f6a09f6785912c6fde65c88571f61cbb532.jpg",
+      "duration": "0:18",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1r9WXz8Eji",
+      "title": "【Hearts2Hearts】Hearts2Hearts《FOCUS》Dance Practice",
+      "date": "2025-10-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1r9WXz8Eji/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2b0752c3507cc2de9115f1ffb2d2168803dc761e.jpg",
+      "duration": "3:11",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qLWDzmE7c",
+      "title": "【Hearts2Hearts】I cannot focus on",
+      "date": "2025-10-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1qLWDzmE7c/",
+      "cover": "https://i0.hdslb.com/bfs/archive/dad7b726500d804ac773aa3b5219c54008e14c8d.jpg",
+      "duration": "0:31",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1q5WDzEEso",
+      "title": "【Hearts2Hearts】anything but you",
+      "date": "2025-10-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1q5WDzEEso/",
+      "cover": "https://i1.hdslb.com/bfs/archive/3b3afd30bc52b750c4895ef2061484746004e772.jpg",
+      "duration": "0:31",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1VgWdz4EU5",
       "title": "【张元英】抓住纸花的幸运员瑛 | 251021 TMA 颁奖礼 幕后花絮 张元英CUT",
       "date": "2025-10-21",
@@ -33936,6 +39961,82 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1B5WDzEEck",
+      "title": "【Hearts2Hearts】I cannot focus",
+      "date": "2025-10-21",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1B5WDzEEck/",
+      "cover": "https://i1.hdslb.com/bfs/archive/d01f9cb7da3cedeac6f8f76e7eab8cabfdf5a7cc.jpg",
+      "duration": "0:31",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1uysMzQEbT",
+      "title": "【Hearts2Hearts】视线只FOCUS在Hearts2Hearts！🩵惊喜中文问候已送达~💌",
+      "date": "2025-10-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1uysMzQEbT/",
+      "cover": "https://i0.hdslb.com/bfs/archive/e667962f1573c32c79475afe57fc3eb7ca953330.jpg",
+      "duration": "1:13",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sLsgzJENx",
+      "title": "【Hearts2Hearts】哔哩哔哩~ 只FOCUS在Hearts2Hearts吧♡",
+      "date": "2025-10-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1sLsgzJENx/",
+      "cover": "https://i1.hdslb.com/bfs/archive/c4ac89637e591e524bf4940fe37659182011bfd8.jpg",
+      "duration": "0:23",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1TksKzLEX6",
+      "title": "【Hearts2Hearts】FOCUS",
+      "date": "2025-10-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1TksKzLEX6/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f4732b60c831aeaf9a083a1d26d331a25c9716f9.jpg",
+      "duration": "0:51",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -33960,6 +40061,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1KasuzSEZp",
+      "title": "Hearts2Hearts《FOCUS》MV",
+      "date": "2025-10-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1KasuzSEZp/",
+      "cover": "https://i1.hdslb.com/bfs/archive/fa959e0413ce458b54bacf6e2684b904519e9fa6.jpg",
+      "duration": "3:10",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ECWyzNEtt",
+      "title": "【Hearts2Hearts】they are serving FOCUS",
+      "date": "2025-10-20",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1ECWyzNEtt/",
+      "cover": "https://i1.hdslb.com/bfs/archive/3da4e7ee7ecac48947cfd37fd075c93ba3cd9bab.jpg",
+      "duration": "0:36",
+      "description": "-",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1hgsAz6E4U",
       "title": "【张元英】190130 救助流浪动物志愿服务活动",
       "date": "2025-10-19",
@@ -33974,6 +40113,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1c8sAzoEtQ",
+      "title": "【Hearts2Hearts】2026 Hearts2Hearts SEASON’S GREETINGS BEHIND",
+      "date": "2025-10-19",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1c8sAzoEtQ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/fef019ca0ef34336b8f1b35272490e2c6c9372fc.jpg",
+      "duration": "25:55",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
@@ -34036,6 +40194,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1k7WsznErJ",
+      "title": "【Hearts2Hearts】眼泪: 我要流下来了💧 没有眼泪就无法观看的真挚对话时间 ✦ʚ Hearts Chase EP.11 ɞ✦",
+      "date": "2025-10-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1k7WsznErJ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/949518ddb7b7fbc32654a711bb8215d20fa2792c.jpg",
+      "duration": "29:20",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV17uWxz1EBL",
+      "title": "【Hearts2Hearts】Girlhood = Love + Matching shirts",
+      "date": "2025-10-18",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV17uWxz1EBL/",
+      "cover": "https://i1.hdslb.com/bfs/archive/86eb62b99a549007683cfedd36ff53606e974829.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV163WEzcEdf",
       "title": "【张元英】红白玫瑰 | 241227 2024 AAA 饭拍直拍合集 (共11p)",
       "date": "2025-10-17",
@@ -34055,6 +40251,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1WGWez1Eoe",
+      "title": "Hearts2Hearts《FOCUS》MV Teaser",
+      "date": "2025-10-16",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1WGWez1Eoe/",
+      "cover": "https://i2.hdslb.com/bfs/archive/e969ef8dae58705bc862959b0a90b99d1ede5963.jpg",
+      "duration": "0:37",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV11C4zz6Ede",
       "title": "【张元英】女神火力全开 | 251015 LOVE YOUR W 慈善晚宴 活动视频合集 (含红毯&幕后花絮-共22p)",
       "date": "2025-10-16",
@@ -34069,6 +40284,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1BV4qzpEGY",
+      "title": "【Hearts2Hearts】今天还梳了可爱的双马尾 | Hearts2Hearts 2025 THE FACT MUSIC AWARDS in澳门 BH2ND",
+      "date": "2025-10-15",
+      "publisher": "Hearts2Hearts",
+      "source": "https://www.bilibili.com/video/BV1BV4qzpEGY/",
+      "cover": "https://i2.hdslb.com/bfs/archive/81793d13357535c0dc397af9e01b4b74bb5bbff7.jpg",
+      "duration": "14:56",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
           "kind": "upload"
         }
       ]
