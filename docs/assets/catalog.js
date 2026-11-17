@@ -121,6 +121,7 @@
     bilibiliPublisher: video.publisher,
     album: video.album || ""
   }));
+  const monitoredByBvid = new Map(monitored.map(video => [video.bilibili, video]));
   function titleDate(video) {
     const match = video.title.match(/(?:^|[^0-9])(20\d{6}|\d{6})(?!\d)/);
     if (!match) return "";
@@ -134,7 +135,11 @@
   const videos = id => {
     if (id === "home") return monitored;
     if (!libraries.has(id)) {
-      const curated = (window.IC_VIDEOS?.[id] || []).map(annotate);
+      const curated = (window.IC_VIDEOS?.[id] || []).map(video => {
+        const item = annotate(video);
+        const monitoredSources = monitoredByBvid.get(video.bilibili)?.sources || [];
+        return {...item, sources: [...new Set([...(item.sources || []), ...monitoredSources])]};
+      });
       const existing = new Set(curated.filter(video => (Number(video.bilibiliPage) || 1) === 1).map(video => video.bilibili));
       const artistPeriods = id === "liz" ? (window.IC_PERIODS?.wonyoung || []).filter(period => period.group === "IVE") : window.IC_PERIODS?.[id] || [];
       const matching = monitored.filter(video => video.artistIds.includes(id) && !existing.has(video.bilibili)).map(video => {
