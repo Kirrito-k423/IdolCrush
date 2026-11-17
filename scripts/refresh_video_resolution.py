@@ -89,14 +89,27 @@ def nonnegative_int(value):
 
 
 def read_video(client, bvid):
-    data = client.get("/x/web-interface/view", {"bvid": bvid}, "0", attempts=2)
-    if data.get("bvid") != bvid or not isinstance(data.get("pages"), list):
-        raise SourceError("视频详情结构发生变化")
-    original = data.get("dimension") or {}
+    referer = "https://www.bilibili.com/"
+    original = {}
+    try:
+        parts = client.get("/x/player/pagelist", {"bvid": bvid}, "0", attempts=2,
+                           allow_list=True, referer=referer)
+        if not isinstance(parts, list) or not parts:
+            raise SourceError("分 P 列表结构发生变化")
+    except SourceError as list_error:
+        try:
+            data = client.get("/x/web-interface/view", {"bvid": bvid}, "0", attempts=2,
+                              referer=referer)
+            if data.get("bvid") != bvid or not isinstance(data.get("pages"), list):
+                raise SourceError("视频详情结构发生变化")
+            parts = data["pages"]
+            original = data.get("dimension") or {}
+        except SourceError as view_error:
+            raise SourceError(f"分 P 接口 {list_error}; 视频详情 {view_error}") from view_error
     if not isinstance(original, dict):
         original = {}
     pages = []
-    for item in data["pages"]:
+    for item in parts:
         if not isinstance(item, dict):
             continue
         page = nonnegative_int(item.get("page"))
@@ -119,6 +132,24 @@ def read_video(client, bvid):
     first = next((part for part in pages if part["page"] == 1), None)
     return {"width": first["width"] if first else 0, "height": first["height"] if first else 0,
             "pages": pages, "checkedAt": now_text()}
+
+
+def merge_previous(record, previous):
+    # A transient zero must not erase verified metadata for the same CID.
+    # Old data for a removed or replaced part must never be applied to a new CID.
+    old_parts = {str(part.get("cid")): part for part in (previous or {}).get("pages", [])}
+    for part in record["pages"]:
+        old = old_parts.get(part["cid"])
+        if not old:
+            continue
+        if not (part["width"] and part["height"]) and old.get("width") and old.get("height"):
+            part["width"], part["height"] = old["width"], old["height"]
+        if not part["duration"] and old.get("duration"):
+            part["duration"] = old["duration"]
+    first = next((part for part in record["pages"] if part["page"] == 1), None)
+    record["width"] = first["width"] if first else 0
+    record["height"] = first["height"] if first else 0
+    return record
 
 
 def save(archive):
@@ -205,7 +236,7 @@ def main():
                               "retryAfter": (datetime.now(CHINA) + timedelta(days=7)).replace(microsecond=0).isoformat(),
                               "error": message}
         else:
-            videos[bvid] = record
+            videos[bvid] = merge_previous(record, videos.get(bvid))
             failures.pop(bvid, None)
             succeeded += 1
         if attempted % 25 == 0:

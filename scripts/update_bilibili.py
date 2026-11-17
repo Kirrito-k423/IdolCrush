@@ -89,13 +89,13 @@ class Client:
         self.last_request = 0.0
         self.sessdata = os.environ.get("BILI_SESSDATA", "").strip()
 
-    def get(self, route, params, uid, attempts=3):
+    def get(self, route, params, uid, attempts=3, *, allow_list=False, referer=None):
         url = API + route + "?" + urlencode(params)
         headers = {
             "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                            "AppleWebKit/537.36 (KHTML, like Gecko) "
                            "Chrome/130.0.0.0 Safari/537.36"),
-            "Referer": f"https://space.bilibili.com/{uid}/",
+            "Referer": referer or f"https://space.bilibili.com/{uid}/",
             "Accept": "application/json, text/plain, */*",
         }
         if self.sessdata:
@@ -110,11 +110,14 @@ class Client:
                 with self.opener.open(Request(url, headers=headers), timeout=18) as response:
                     body = response.read()
                 result = json.loads(body)
+                if not isinstance(result, dict):
+                    raise SourceError("接口数据格式发生变化")
                 if result.get("code") != 0:
                     code = result.get("code")
                     message = str(result.get("message") or "接口返回异常")[:80]
                     raise SourceError(f"B 站 {code}：{message}")
-                if not isinstance(result.get("data"), dict):
+                expected = (dict, list) if allow_list else dict
+                if not isinstance(result.get("data"), expected):
                     raise SourceError("接口数据格式发生变化")
                 return result["data"]
             except HTTPError as exc:
