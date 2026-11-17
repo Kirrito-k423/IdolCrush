@@ -9,7 +9,7 @@ on:
       - '.github/workflows/pages.yml'
   workflow_dispatch:
   workflow_run:
-    workflows: ['Refresh public calendar', 'Refresh Bilibili videos']
+    workflows: ['Refresh public calendar', 'Refresh Bilibili videos', 'Refresh Bilibili video resolution']
     branches: [main]
     types: [completed]
 
@@ -22,7 +22,7 @@ concurrency:
 
 jobs:
   publish:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' || github.event.workflow_run.name == 'Refresh Bilibili videos'
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' || github.event.workflow_run.name == 'Refresh Bilibili videos' || github.event.workflow_run.name == 'Refresh Bilibili video resolution'
     runs-on: ubuntu-latest
     timeout-minutes: 8
     permissions:

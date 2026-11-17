@@ -1,10 +1,11 @@
 (function () {
   "use strict";
 
-  const {page, videos, periods, periodLabel, periodName, includesDate, categories, esc, icon, path, thumbUrl, openViewer, ext, safeLink, rememberQuery, pad} = window.IC;
+  const {page, videos, periods, periodLabel, periodName, includesDate, categories, esc, icon, path, thumbUrl, openViewer, videoDetails, formatDuration, ext, safeLink, rememberQuery, pad} = window.IC;
   const feedPage = page === "home";
   const container = document.querySelector(feedPage ? "#updates" : "#videos");
   const library = videos(page);
+  const details = library.map(videoDetails);
   const sources = window.IC_BILIBILI?.sources || [];
   const ranges = [...periods(page)].sort((a, b) => b.start.localeCompare(a.start));
   const albums = [...new Set(library.map(video => video.album).filter(Boolean))];
@@ -18,6 +19,8 @@
   let pair = pairs.includes(params.get("pair")) ? params.get("pair") : "";
   let source = sources.some(item => String(item.uid) === params.get("source")) ? params.get("source") : "";
   let search = (params.get("q") || "").slice(0, 100);
+  let duration = ["over5", "unknown"].includes(params.get("duration")) ? params.get("duration") : "";
+  let quality = ["1080", "4k", "unknown"].includes(params.get("quality")) ? params.get("quality") : "";
   let direction = params.get("sort") === "asc" ? "asc" : "desc";
   let grouping = ["album", "period", "year", "pair"].includes(params.get("group")) ? params.get("group") : "time";
   let limit = 36;
@@ -33,6 +36,8 @@
     if (pair) query.set("pair", pair);
     if (source) query.set("source", source);
     if (search) query.set("q", search);
+    if (duration) query.set("duration", duration);
+    if (quality) query.set("quality", quality);
     if (direction === "asc") query.set("sort", direction);
     if (grouping !== "time") query.set("group", grouping);
     rememberQuery(query);
@@ -41,8 +46,11 @@
     const item = library[index];
     const label = category && item.types.includes(category) ? category : item.category;
     const photo = thumbUrl(item, page);
-    return `<button class="video-card" type="button" data-video="${index}"><span class="video-poster">${photo ? `<img src="${esc(photo)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : ""}<span class="video-play">${icon("play", 15)}</span>${item.duration ? `<span class="duration">${esc(item.duration)}</span>` : ""}</span>
-      <span class="video-copy"><span class="video-meta">${esc(categories[label] || categories.other)}${item.album ? `<i></i>${esc(item.album)}` : ""}${item.pairs?.length ? `<i></i>${esc(item.pairs.join(" / "))}` : ""}</span><strong>${esc(item.title)}</strong><small>${item.dateFromTitle ? "活动 " : ""}<time datetime="${esc(item.date)}">${esc(item.date)}</time>${item.dateFromTitle ? ` · 发布 ${esc(item.publishedDate)}` : ""} · ${esc(item.publisher)}</small></span></button>`;
+    const detail = details[index];
+    const length = detail.duration !== null ? formatDuration(detail.duration) : item.bvid && item.duration ? `合集 ${item.duration}` : item.duration;
+    const resolution = detail.quality === "4k" ? "4K" : detail.quality === "1080" ? "1080P+" : "";
+    return `<button class="video-card" type="button" data-video="${index}"><span class="video-poster">${photo ? `<img src="${esc(photo)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : ""}<span class="video-play">${icon("play", 15)}</span>${length ? `<span class="duration">${esc(length)}</span>` : ""}</span>
+      <span class="video-copy"><span class="video-meta">${esc(categories[label] || categories.other)}${resolution ? `<i></i><span title="${esc(detail.platform)}投稿原始尺寸 ${detail.width} × ${detail.height}">${esc(detail.platform)} ${resolution}</span>` : ""}${item.album ? `<i></i>${esc(item.album)}` : ""}${item.pairs?.length ? `<i></i>${esc(item.pairs.join(" / "))}` : ""}</span><strong>${esc(item.title)}</strong><small>${item.dateFromTitle ? "活动 " : ""}<time datetime="${esc(item.date)}">${esc(item.date)}</time>${item.dateFromTitle ? ` · 发布 ${esc(item.publishedDate)}` : ""} · ${esc(item.publisher)}</small></span></button>`;
   }
   function groupFor(item) {
     if (grouping === "time") return "";
@@ -65,10 +73,13 @@
     const term = search.trim().toLocaleLowerCase();
     const indices = library.map((_, index) => index).filter(index => {
       const item = library[index];
+      const detail = details[index];
       const matchesSearch = !term || [item.title, item.publisher, item.album, ...(item.pairs || [])].join(" ").toLocaleLowerCase().includes(term);
       return (!category || item.types.includes(category)) && (!album || item.album === album) &&
         (!range || includesDate(range, item.date)) && (!year || item.date?.startsWith(year)) &&
-        (!pair || item.pairs.includes(pair)) && (!source || (item.sources || []).map(String).includes(source)) && matchesSearch;
+        (!pair || item.pairs.includes(pair)) && (!source || (item.sources || []).map(String).includes(source)) &&
+        (!duration || (duration === "over5" ? detail.duration !== null && detail.duration > 300 : detail.duration === null)) &&
+        (!quality || (quality === "1080" ? ["1080", "4k"].includes(detail.quality) : detail.quality === quality)) && matchesSearch;
     }).sort((a, b) => {
       const left = library[a].date, right = library[b].date;
       if (!left || !right) return Number(Boolean(right)) - Number(Boolean(left));
@@ -87,7 +98,7 @@
       const subset = ranges.filter(item => item.type === type);
       return subset.length ? `<optgroup label="${type === "comeback" ? "出道 / 回归期" : periodLabel[type]}">${subset.map(item => option("period:" + item.id, item.title, region)).join("")}</optgroup>` : "";
     }).join("");
-    const activeFilter = Boolean(category || album || range || year || pair || source || search);
+    const activeFilter = Boolean(category || album || range || year || pair || source || search || duration || quality);
     const choices = Object.entries({"": "全部视频", ...categories}).map(([key, label]) => `<button type="button" class="chip" data-category="${key}" aria-pressed="${category === key}">${label}</button>`).join("");
     container.innerHTML = `<div class="archive-bar"><div class="chips" role="group" aria-label="视频类型">${choices}</div></div>
       <div class="archive-search"><label>${icon("search", 17)}<input type="search" data-field="search" value="${esc(search)}" placeholder="搜索视频标题、发布者或 CP" aria-label="搜索视频"></label>${!feedPage ? `<a class="text-link" href="${path("home", "updates")}">查看账号全部更新 ${icon("outward", 14)}</a>` : ""}</div>
@@ -98,9 +109,12 @@
         <label class="field-select"><span>来源账号</span><select data-field="source">${option("", "全部来源", source)}${sources.map(item => option(String(item.uid), item.name || item.uid, source)).join("")}</select></label>
         <label class="field-select"><span>编目</span><select data-field="group">${[["time", "按时间排列"], ["year", "按年份分组"], ["album", "按专辑分组"], ["period", "按回归 / 巡演期"], ["pair", "按 CP 对分组"]].map(([key, value]) => option(key, value, grouping)).join("")}</select></label>
         <label class="field-select"><span>时间排序</span><select data-field="sort">${option("desc", "从新到旧", direction)}${option("asc", "从旧到新", direction)}</select></label>
+        <label class="field-select"><span>时长</span><select data-field="duration">${option("", "全部时长", duration)}${option("over5", "大于 5 分钟", duration)}${option("unknown", "时长待确认", duration)}</select></label>
+        <label class="field-select"><span>原稿分辨率</span><select data-field="quality">${option("", "全部分辨率", quality)}${option("1080", "1080P 及以上", quality)}${option("4k", "4K 及以上", quality)}${option("unknown", "分辨率待确认", quality)}</select></label>
       </div>
+      ${quality ? '<p class="filter-note">按已核实的投稿像素筛选，实际播放画质由平台和账号决定。</p>' : ""}
       ${range ? `<div class="range-context"><span class="period-tag ${esc(range.type)}">${periodName(range)}</span><strong>${esc(range.title)}</strong><span>${esc(range.start)} — ${esc(range.end)}</span><a class="text-link" href="${path(page, "calendar", "?period=" + encodeURIComponent(range.id))}">在日历查看 ${icon("outward", 14)}</a></div>` : ""}
-      <div class="result-bar"><p role="status">共 <b>${ordered.length}</b> 部影像${range || grouping === "period" ? " · 按视频日期归入时段" : ""}</p>${activeFilter ? '<button type="button" class="text-link" data-reset>清除筛选</button>' : ""}</div>
+      <div class="result-bar"><p role="status">共 <b>${ordered.length}</b> 部影像${range || grouping === "period" ? " · 按视频日期归入时段" : ""}</p><div class="result-actions">${ordered.length ? `<button type="button" class="mini-btn" data-play-all>顺序播放</button><button type="button" class="mini-btn" data-play-random>随机播放</button>` : ""}${activeFilter ? '<button type="button" class="text-link" data-reset>清除筛选</button>' : ""}</div></div>
       ${groups.size ? [...groups].map(([name, group]) => {
         const items = group.filter(index => visible.has(index));
         return items.length ? `<section class="archive-group" aria-label="${esc(name || "按时间排列的视频")}">${name ? `<div class="archive-group-head"><h2>${esc(name)}</h2><span>${pad(group.length)}</span></div>` : ""}<div class="video-grid">${items.map(card).join("")}</div></section>` : "";
@@ -116,6 +130,12 @@
       openViewer(page, "video", Number(button.dataset.video), ordered);
       return;
     }
+    if (button.hasAttribute("data-play-all") || button.hasAttribute("data-play-random")) {
+      const random = button.hasAttribute("data-play-random");
+      const index = random ? ordered[Math.floor(Math.random() * ordered.length)] : ordered[0];
+      openViewer(page, "video", index, ordered, {mode: random ? "random" : "sequence"});
+      return;
+    }
     if (button.hasAttribute("data-more")) {
       limit += 36;
       render();
@@ -123,7 +143,7 @@
       return;
     }
     if (button.hasAttribute("data-reset")) {
-      category = album = year = pair = source = search = "";
+      category = album = year = pair = source = search = duration = quality = "";
       range = undefined;
     } else if (button.hasAttribute("data-category")) {
       category = button.dataset.category;
@@ -141,6 +161,8 @@
     if (dataset.field === "sort") direction = value;
     if (dataset.field === "pair") pair = value;
     if (dataset.field === "source") source = value;
+    if (dataset.field === "duration") duration = value;
+    if (dataset.field === "quality") quality = value;
     if (dataset.field === "range") {
       range = ranges.find(item => value === "period:" + item.id);
       year = value.startsWith("year:") ? value.slice(5) : "";

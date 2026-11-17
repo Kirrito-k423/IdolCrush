@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "IDOLCRUSH B 站连播",
+  "version": "1.0.0",
+  "description": "让 IDOLCRUSH 在 B 站播放器的视频结束时自动切换下一条。",
+  "content_scripts": [
+    {
+      "matches": ["https://kirrito-k423.github.io/IdolCrush/*"],
+      "js": ["site-bridge.js"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["https://player.bilibili.com/player.html*"],
+      "js": ["player-bridge.js"],
+      "all_frames": true,
+      "run_at": "document_idle"
+    }
+  ]
+}

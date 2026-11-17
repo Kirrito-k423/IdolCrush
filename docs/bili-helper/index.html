@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0b0d">
+  <title>B 站自动连播 · IDOLCRUSH</title>
+  <link rel="icon" href="../assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/site.css">
+  <style>
+    .help { max-width: 930px; margin: 0 auto; padding: clamp(36px, 7vw, 90px) var(--gutter) 80px; }
+    .help-back { color: #cbc8d0; font-size: 13px; }
+    .help-back:hover, .help a:not(.primary):hover { color: var(--acid); }
+    .help-intro { padding: 42px 0; border-bottom: 1px solid var(--rule); }
+    .help-intro h1 { max-width: 700px; margin: 15px 0; font-size: clamp(36px, 6vw, 68px); letter-spacing: -.05em; line-height: 1.13; }
+    .help-intro p, .help-section p, .help-section li { color: #c4c0c9; line-height: 1.8; font-size: 15px; }
+    .help-intro .primary { display: inline-flex; margin-top: 24px; }
+    .help-section { padding: 34px 0; border-bottom: 1px solid var(--rule); }
+    .help-section h2 { font-size: 23px; margin-bottom: 12px; }
+    .help-section ol { padding-left: 23px; }
+    .help-section li + li { margin-top: 10px; }
+    .help-section a:not(.primary) { color: var(--acid); text-decoration: underline; text-underline-offset: 3px; }
+    .help-section code { color: #f3f0f5; overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <main class="help">
+    <a class="help-back" href="../">← 返回 IDOLCRUSH</a>
+    <div class="help-intro">
+      <div class="eyebrow"><span class="slashes" aria-hidden="true"></span>BILIBILI PLAYBACK</div>
+      <h1>B 站视频，<br>按喜欢的顺序连播。</h1>
+      <p>桌面版 Chrome 和 Edge 可以通过扩展，在视频播放结束后切换到列表中的下一部。</p>
+      <a class="primary" href="../assets/idolcrush-bili-bridge.zip" download>下载浏览器扩展 ↓</a>
+    </div>
+    <section class="help-section">
+      <h2>安装扩展</h2>
+      <ol>
+        <li>下载上方压缩包，并解压到一个准备长期保留的文件夹。</li>
+        <li>在 Chrome 地址栏输入 <code>chrome://extensions</code>，或在 Edge 地址栏输入 <code>edge://extensions</code>。</li>
+        <li>打开「开发者模式」，选择「加载已解压的扩展程序」，选择刚才解压后的文件夹。</li>
+        <li>刷新 IDOLCRUSH 页面，在视频列表中选择「顺序播放」或「随机播放」。</li>
+      </ol>
+      <p>扩展只监听播放器的结束事件，不读取 B 站账号或 Cookie。</p>
+    </section>
+    <section class="help-section">
+      <h2>登录与画质</h2>
+      <p>在同一个浏览器中<a href="https://passport.bilibili.com/login" target="_blank" rel="noopener noreferrer">登录 B 站</a>后，返回放映厅并选择「登录后刷新」。登录状态由 B 站和浏览器保存。可用画质取决于视频、账号权限和 B 站播放器。</p>
+      <p>如果嵌入播放器仍提示登录，可以选择「在哔哩哔哩观看」，在 B 站页面使用已登录的会话。</p>
+    </section>
+    <section class="help-section">
+      <h2>手机和平板</h2>
+      <p>视频列表、顺序与随机队列可在手机和平板使用。B 站视频可以通过上一条、下一条手动切换。</p>
+    </section>
+  </main>
+</body>
+</html>

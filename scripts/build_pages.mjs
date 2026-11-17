@@ -17,7 +17,7 @@ const chapters = {
 
 function assetPath(name) {
   // The scheduled calendar refresh publishes the data independently of these page shells.
-  if (name === "data/calendar.js" || name === "data/bilibili.js") return name;
+  if (name === "data/calendar.js" || name === "data/bilibili.js" || name === "data/video-resolution.js") return name;
   if (!assetPaths.has(name)) {
     const content = readFileSync(join(output, name), "utf8").replace(/\r\n/g, "\n");
     const digest = createHash("sha256").update(content).digest("hex").slice(0, 10);
@@ -45,6 +45,7 @@ async function build(id, view) {
     ${view === "home" ? '<section id="artists" class="section wrap" aria-labelledby="lineup-title"></section>\n    <section id="upcoming" class="section wrap" aria-labelledby="upcoming-title"></section>' : '<section id="chapters" class="section wrap" aria-labelledby="chapters-title"></section>'}`;
   const scripts = [
     "data/artists.js", ...Object.keys(artists).map(key => `data/photos/${key}.js`), "data/videos.js", "data/bilibili.js",
+    ...(["videos", "updates"].includes(view) ? ["data/video-resolution.js"] : []),
     ...(["home", "artist", "calendar"].includes(view) ? ["data/calendar.js"] : []),
     ...(["calendar", "videos", "updates"].includes(view) ? ["data/periods.js"] : []),
     "assets/catalog.js", "assets/viewer.js", "assets/site.js",
