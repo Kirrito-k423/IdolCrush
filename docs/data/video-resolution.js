@@ -120423,14 +120423,14 @@ window.IC_VIDEO_RESOLUTIONS = {
     }
   },
   "failures": {},
-  "updatedAt": "2026-11-17T23:34:12+08:00",
+  "updatedAt": "2026-11-17T23:48:53+08:00",
   "status": {
-    "checkedAt": "2026-11-17T23:34:12+08:00",
-    "attempted": 678,
-    "succeeded": 678,
-    "blocked": false,
+    "checkedAt": "2026-11-17T23:48:53+08:00",
+    "attempted": 1,
+    "succeeded": 0,
+    "blocked": true,
     "known": 2478,
-    "total": 2478
+    "total": 2627
   },
   "youtube": {
     "ELLCf9W2vAo": {
@@ -120604,9 +120604,9 @@ window.IC_VIDEO_RESOLUTIONS = {
   },
   "youtubeFailures": {},
   "youtubeStatus": {
-    "checkedAt": "2026-11-17T23:20:07+08:00",
-    "attempted": 28,
-    "succeeded": 28,
+    "checkedAt": "2026-11-17T23:48:53+08:00",
+    "attempted": 0,
+    "succeeded": 0,
     "blocked": false,
     "known": 28,
     "total": 28
