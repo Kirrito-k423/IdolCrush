@@ -1,0 +1,43 @@
+name: Bilibili metadata connectivity probe
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Check public endpoints
+        run: |
+          python3 - <<'PY'
+          import json, re
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError
+          base = 'https://api.bilibili.com'
+          targets = {
+              'pagelist': base + '/x/player/pagelist?bvid=BV1fK9mBwEXL',
+              'detail': base + '/x/web-interface/view/detail?bvid=BV1fK9mBwEXL',
+              'fingerprint': base + '/x/frontend/finger/spi',
+              'video-page': 'https://www.bilibili.com/video/BV1fK9mBwEXL/',
+          }
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36',
+                     'Referer': 'https://www.bilibili.com/', 'Accept-Encoding': 'identity'}
+          for name, url in targets.items():
+              try:
+                  with urlopen(Request(url, headers=headers), timeout=12) as response:
+                      body = response.read(5 * 1024 * 1024).decode('utf-8', errors='replace')
+                  if name == 'video-page':
+                      found = re.search(r'window\.__INITIAL_STATE__\s*=\s*', body)
+                      data = json.JSONDecoder().raw_decode(body[found.end():])[0] if found else {}
+                      pages = (data.get('videoData') or {}).get('pages') or []
+                      print(name, 'HTTP 200', 'pages', len(pages))
+                  else:
+                      data = json.loads(body)
+                      value = data.get('data') or {}
+                      pages = value if isinstance(value, list) else (value.get('View') or {}).get('pages') or []
+                      print(name, 'HTTP 200', 'code', data.get('code'), 'pages', len(pages))
+              except HTTPError as error:
+                  print(name, 'HTTP', error.code)
+              except Exception as error:
+                  print(name, type(error).__name__)
+          PY
