@@ -223,11 +223,12 @@ def main():
         try:
             record = read_video(client, bvid)
         except SourceError as error:
-            message = str(error)[:100]
+            details = str(error)
+            message = details[:100]
             print(f"{bvid}: {message}", file=sys.stderr, flush=True)
             # A risk-control response can affect every request from this host.
             # Stop promptly so the next run can resume without losing progress.
-            if any(code in message for code in ("HTTP 412", "HTTP 429", "B 站 -412", "B 站 -352", "网络连接失败")):
+            if any(code in details for code in ("HTTP 412", "HTTP 429", "B 站 -412", "B 站 -352", "网络连接失败")):
                 blocked = True
                 break
             old = failures.get(bvid) or {}
