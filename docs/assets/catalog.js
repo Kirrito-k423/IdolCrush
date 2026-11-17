@@ -69,7 +69,7 @@
     {name: "MINAMI", pattern: /伊藤南美|\bminami\b|미나미/i},
     {name: "ZENA", pattern: /金柯咏|\bzena\b|제나/i},
     {name: "MAY", pattern: /李睿彬|\bMAY\b|메이/},
-    {name: "LIV", pattern: /陈京恩|陳京恩|\bLIV\b|리브/},
+    {name: "LIV", pattern: /陈京[恩温昷]|陳京[恩溫昷]|\bliv\b|리브/i},
     {name: "SOOIN", pattern: /\bsooin\b|수인/i},
     {name: "GAWON", pattern: /\bgawon\b|가원/i},
     {name: "NARIN", pattern: /\bnarin\b|나린/i},
