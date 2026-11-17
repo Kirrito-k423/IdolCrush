@@ -7,7 +7,7 @@
   const header = document.querySelector(".masthead");
   const logo = `<span class="brand-symbol">${mark}</span><span class="brand-name">IDOL<span>CRUSH</span></span>`;
   const navItems = home
-    ? [[path(), "首页", view === "home"], [path("home", "", "#artists"), "艺人索引", false], [path("home", "calendar"), "行程日历", view === "calendar"]]
+    ? [[path(), "首页", view === "home"], [path("home", "", "#artists"), "艺人索引", false], [path("home", "calendar"), "行程日历", view === "calendar"], [path("home", "updates"), "账号更新", view === "updates"]]
     : [[path(page), "艺人首页", view === "artist"], ...[["gallery", "高清画廊"], ["calendar", "行程日历"], ["videos", "视频档案"]].map(([key, label]) => [path(page, key), label, view === key])];
   const links = entries => entries.map(([href, name, active]) => `<a href="${href}" ${active ? 'aria-current="page"' : ""}>${name}</a>`).join("");
   header.innerHTML = `<div class="mast-inner wrap"><a class="brand" href="${path()}" aria-label="IDOLCRUSH 首页">${logo}</a>
@@ -33,7 +33,7 @@
   const footer = document.querySelector(".site-footer");
   footer.innerHTML = `<div class="footer-inner wrap"><div><a class="brand" href="${path()}" aria-label="返回 IDOLCRUSH 首页">${logo}</a>
     <p>非官方粉丝影像档案 · 照片署名与视频出处见放映页</p></div>
-    <div class="footer-actions">${!home ? `<a href="${path("home", "", "#artists")}">艺人索引</a>` : ""}<a href="#top" class="text-link">回到顶部 ${icon("up", 16)}</a></div></div>`;
+    <div class="footer-actions">${!home ? `<a href="${path("home", "", "#artists")}">艺人索引</a>` : ""}<a href="${path("home", "updates")}">账号更新</a><a href="#top" class="text-link">回到顶部 ${icon("up", 16)}</a></div></div>`;
 
   const search = document.createElement("dialog");
   search.className = "search-box";
@@ -55,7 +55,7 @@
       });
     }
     const persons = people.map(id => `<a class="search-result" href="${path(id)}"><span><strong>${artists[id].name}</strong><small>${artists[id].group} / ${artists[id].roman}</small></span>${icon("outward", 16)}</a>`).join("");
-    const clips = items.map(({id, index, v}) => `<button type="button" class="search-result" data-id="${id}" data-index="${index}"><span><strong>${esc(v.title)}</strong><small>${artists[id].name} · ${esc(categories[v.category])}</small></span>${icon("play", 14)}</button>`).join("");
+    const clips = items.slice(0, 60).map(({id, index, v}) => `<button type="button" class="search-result" data-id="${id}" data-index="${index}"><span><strong>${esc(v.title)}</strong><small>${artists[id].name} · ${esc(categories[v.category])}</small></span>${icon("play", 14)}</button>`).join("");
     results.innerHTML = `${persons ? `<h3>艺人</h3>${persons}` : ""}${clips ? `<h3>${q ? "视频" : "精选放映"}</h3>${clips}` : ""}${!persons && !clips ? '<p class="empty-note" role="status">没有找到匹配的档案，试试组合名或歌名。</p>' : ""}`;
   }
   function openSearch() {

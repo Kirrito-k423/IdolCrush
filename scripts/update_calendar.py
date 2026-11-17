@@ -271,6 +271,9 @@ def inkigayo(feed):
         "wonyoung": ("ive", "아이브"),
         "wonhee": ("illit", "아일릿"),
         "anna": ("meovv", "미야오"),
+        "woni": ("rescene", "리센느"),
+        "yuna": ("itzy", "있지"),
+        "oa": ("a2olite", "에이투오라이트"),
     }
     artists = {}
     for artist, (en, ko) in groups.items():
@@ -291,7 +294,10 @@ def inkigayo(feed):
         airdate = re.search(r"(\d{1,2})월\s*(\d{1,2})일", synopsis)
         if not airdate or (int(airdate[1]), int(airdate[2])) != (day.month, day.day):
             continue
-        tracks = re.findall(r"^\s*-\s*([^\[\]\r\n]+?)\s*\[([^\]\r\n]+)\]", synopsis, re.M)
+        # An episode can list multiple acts on one line, separated by '&'.
+        tracks = []
+        for line in re.findall(r"^\s*-\s*(.+)$", synopsis, re.M):
+            tracks.extend(re.findall(r"(?:^|\s*&\s*)([^\[\]]+?)\s*\[([^\]]+)\]", line))
         if not tracks:
             continue
         valid_running_orders += 1

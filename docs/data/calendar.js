@@ -427,6 +427,16 @@ window.IC_CALENDAR = {
       "feed": "illit-releases"
     },
     {
+      "artist": "yuna",
+      "date": "2026-05-18",
+      "title": "《Motto》发行",
+      "scope": "团体",
+      "kind": "发行",
+      "publisher": "JYP Entertainment",
+      "source": "https://itzy.jype.com/discography/heecdbgx",
+      "timezone": "Asia/Seoul"
+    },
+    {
       "artist": "wonyoung",
       "date": "2026-05-25",
       "title": "《DayDay.》播出",
@@ -458,6 +468,16 @@ window.IC_CALENDAR = {
       "source": "https://ive-official.jp/mob/news/diarKijiShw.php?site=DIVE&id=304757",
       "timezone": "Asia/Tokyo",
       "feed": "ive-shows"
+    },
+    {
+      "artist": "yuna",
+      "date": "2026-05-31",
+      "title": "《人气歌谣》舞台 · Motto",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "SBS",
+      "source": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000630915",
+      "timezone": "Asia/Seoul"
     },
     {
       "artist": "anna",
@@ -504,6 +524,16 @@ window.IC_CALENDAR = {
       "feed": "meovv-shows"
     },
     {
+      "artist": "woni",
+      "date": "2026-07-08",
+      "title": "《Pretty Girl》发行",
+      "scope": "团体",
+      "kind": "发行",
+      "publisher": "Genie Music / RESCENE",
+      "source": "https://www.youtube.com/watch?v=YVjcmz9sBIs",
+      "timezone": "Asia/Seoul"
+    },
+    {
       "artist": "anna",
       "date": "2026-07-10",
       "title": "《大泽茜 LUCKY 7》广播特辑收官",
@@ -513,6 +543,16 @@ window.IC_CALENDAR = {
       "source": "https://www.universal-music.co.jp/meovv/news/2026-07-03-2/",
       "timezone": "Asia/Tokyo",
       "time": "21:50"
+    },
+    {
+      "artist": "woni",
+      "date": "2026-07-12",
+      "title": "《人气歌谣》舞台 · Pretty Girl",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "SBS",
+      "source": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000632825",
+      "timezone": "Asia/Seoul"
     },
     {
       "artist": "wonhee",
@@ -581,9 +621,30 @@ window.IC_CALENDAR = {
       "feed": "meovv-releases"
     },
     {
+      "artist": "oa",
+      "date": "2026-10-13",
+      "title": "《NEON》发行",
+      "scope": "团体",
+      "kind": "发行",
+      "publisher": "A2O Entertainment Japan",
+      "source": "https://prtimes.jp/main/html/rd/p/000000005.000192898.html",
+      "timezone": "Asia/Seoul"
+    },
+    {
       "artist": "anna",
       "date": "2026-10-25",
       "title": "《人气歌谣》舞台 · GO HARD",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "SBS",
+      "source": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000638697",
+      "timezone": "Asia/Seoul",
+      "feed": "sbs-stages"
+    },
+    {
+      "artist": "oa",
+      "date": "2026-10-25",
+      "title": "《人气歌谣》舞台 · NEON",
       "scope": "团体",
       "kind": "演出",
       "publisher": "SBS",
@@ -636,6 +697,17 @@ window.IC_CALENDAR = {
       "feed": "sbs-stages"
     },
     {
+      "artist": "oa",
+      "date": "2026-11-01",
+      "title": "《人气歌谣》舞台 · NEON",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "SBS",
+      "source": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000639076",
+      "timezone": "Asia/Seoul",
+      "feed": "sbs-stages"
+    },
+    {
       "artist": "wonhee",
       "date": "2026-11-01",
       "title": "《人气歌谣》舞台 · 체포하겠어",
@@ -656,6 +728,16 @@ window.IC_CALENDAR = {
       "source": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000639076",
       "timezone": "Asia/Seoul",
       "feed": "sbs-stages"
+    },
+    {
+      "artist": "woni",
+      "date": "2026-11-03",
+      "title": "《PULSE》发行",
+      "scope": "团体",
+      "kind": "发行",
+      "publisher": "RESCENE 官方",
+      "source": "https://artist.mnetplus.world/main/stg/rescene-official/contents/6acda1b99b432c2a150adc7a",
+      "timezone": "Asia/Seoul"
     },
     {
       "artist": "anna",
@@ -679,6 +761,17 @@ window.IC_CALENDAR = {
       "feed": "sbs-stages"
     },
     {
+      "artist": "woni",
+      "date": "2026-11-08",
+      "title": "《人气歌谣》舞台 · 백화요란 (Inside Out) + With",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "SBS",
+      "source": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000639452",
+      "timezone": "Asia/Seoul",
+      "feed": "sbs-stages"
+    },
+    {
       "artist": "wonhee",
       "date": "2026-11-15",
       "title": "Melon Music Awards · 首尔第二夜",
@@ -692,6 +785,17 @@ window.IC_CALENDAR = {
       "artist": "wonhee",
       "date": "2026-11-15",
       "title": "《人气歌谣》舞台 · 체포하겠어",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "SBS",
+      "source": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000639801",
+      "timezone": "Asia/Seoul",
+      "feed": "sbs-stages"
+    },
+    {
+      "artist": "woni",
+      "date": "2026-11-15",
+      "title": "《人气歌谣》舞台 · With",
       "scope": "团体",
       "kind": "演出",
       "publisher": "SBS",
@@ -866,6 +970,36 @@ window.IC_CALENDAR = {
       "source": "https://illit-official.jp/schedule/ec7c4134bc63",
       "timezone": "Asia/Tokyo",
       "feed": "illit-shows"
+    },
+    {
+      "artist": "woni",
+      "date": "2027-02-19",
+      "title": "RESCENE 首尔演唱会 · NOTES",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "Coupang Play",
+      "source": "https://news.coupang.com/archives/68452/",
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "artist": "woni",
+      "date": "2027-02-20",
+      "title": "RESCENE 首尔演唱会 · NOTES",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "Coupang Play",
+      "source": "https://news.coupang.com/archives/68452/",
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "artist": "woni",
+      "date": "2027-02-21",
+      "title": "RESCENE 首尔演唱会 · NOTES",
+      "scope": "团体",
+      "kind": "演出",
+      "publisher": "Coupang Play",
+      "source": "https://news.coupang.com/archives/68452/",
+      "timezone": "Asia/Seoul"
     }
   ]
 };

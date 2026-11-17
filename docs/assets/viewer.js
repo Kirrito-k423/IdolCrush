@@ -66,20 +66,20 @@
     const players = availablePlayers(item);
     const player = players.find(player => player.type === state.player) || players[0];
     const links = dialog.querySelector(".viewer-links");
-    const publisher = player?.type === "bili" ? item.bilibiliPublisher : item.publisher;
+    const publisher = player?.type === "bili" ? item.bilibiliPublisher || item.publisher : item.publisher;
     dialog.querySelector(".viewer-credit").textContent = [publisher, item.album, item.date].filter(Boolean).join("  /  ");
     links.innerHTML = `${players.length > 1 ? `<div class="platforms" aria-label="播放平台">${players.map(choice => `<button type="button" data-player="${choice.type}" aria-pressed="${choice === player}">${choice.name}</button>`).join("")}</div>` : ""}
       <a class="text-link" href="${safeLink(player?.source || item.source)}" ${ext}>${player ? `在 ${player.name} 观看` : "去原站观看"} ${icon("outward", 16)}</a>`;
     if (player) {
       const frame = document.createElement("iframe");
-      frame.title = `${artists[state.id].name} · ${item.title} · ${player.name}`;
+      frame.title = `${artists[state.id]?.name || "账号更新"} · ${item.title} · ${player.name}`;
       frame.allow = "autoplay; encrypted-media; fullscreen; picture-in-picture";
       frame.allowFullscreen = true;
       frame.referrerPolicy = "strict-origin-when-cross-origin";
       frame.src = player.embed;
       screen.replaceChildren(frame);
     } else {
-      screen.innerHTML = `<a class="video-external" href="${safeLink(item.source)}" ${ext}><img src="${esc(thumbUrl(item, state.id))}" alt=""><span class="primary">去原站观看 ${icon("outward")}</span></a>`;
+      screen.innerHTML = `<a class="video-external" href="${safeLink(item.source)}" ${ext}><img src="${esc(thumbUrl(item, state.id))}" alt="" referrerpolicy="no-referrer"><span class="primary">去原站观看 ${icon("outward")}</span></a>`;
     }
   }
 
@@ -90,7 +90,8 @@
     dialog.dataset.mode = type;
     setZoom(false);
     zoomButton.hidden = !photoMode;
-    dialog.querySelector("#viewer-person").textContent = `${artists[id].roman}  /  ${artists[id].name}`;
+    const person = artists[id] || {roman: "BILIBILI", name: "账号更新"};
+    dialog.querySelector("#viewer-person").textContent = `${person.roman}  /  ${person.name}`;
     dialog.querySelector(".viewer-count").textContent = `${photoMode ? "PHOTO" : "VIDEO"}  ${pad(cursor + 1)} / ${pad(queue.length)}`;
     dialog.querySelector("#viewer-title").textContent = item.title;
     dialog.querySelectorAll(".viewer-prev, .viewer-next").forEach(button => { button.hidden = queue.length < 2; });

@@ -490,5 +490,68 @@ window.IC_PERIODS = {
       "endSource": "https://hellolive.tv/detail/1600",
       "endPublisher": "hellolive"
     }
+  ],
+  "yuna": [
+    {
+      "id": "itzy-motto",
+      "type": "comeback",
+      "title": "Motto",
+      "group": "ITZY",
+      "start": "2026-05-18",
+      "end": "2026-05-31",
+      "album": "Motto",
+      "note": "从迷你专辑发行，到 5 月 31 日 SBS《人气歌谣》播出《Motto》。",
+      "source": "https://itzy.jype.com/discography/heecdbgx",
+      "publisher": "JYP Entertainment",
+      "endSource": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000630915",
+      "endPublisher": "SBS《人气歌谣》"
+    }
+  ],
+  "woni": [
+    {
+      "id": "rescene-pretty-girl",
+      "type": "comeback",
+      "title": "Pretty Girl",
+      "group": "RESCENE",
+      "start": "2026-07-08",
+      "end": "2026-07-12",
+      "album": "Pretty Girl",
+      "note": "从特别单曲上线，到 7 月 12 日 SBS《人气歌谣》播出《Pretty Girl》。",
+      "source": "https://www.youtube.com/watch?v=YVjcmz9sBIs",
+      "publisher": "Genie Music / RESCENE",
+      "endSource": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000632825",
+      "endPublisher": "SBS《人气歌谣》"
+    },
+    {
+      "id": "rescene-pulse",
+      "type": "comeback",
+      "title": "PULSE",
+      "group": "RESCENE",
+      "start": "2026-11-03",
+      "end": "2026-11-15",
+      "album": "PULSE",
+      "note": "从第四张迷你专辑发行，到 11 月 15 日《人气歌谣》播出主打曲《With》。",
+      "source": "https://artist.mnetplus.world/main/stg/rescene-official/contents/6acda1b99b432c2a150adc7a",
+      "publisher": "RESCENE 官方",
+      "endSource": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000639801",
+      "endPublisher": "SBS《人气歌谣》"
+    }
+  ],
+  "oa": [
+    {
+      "id": "a2olite-neon",
+      "type": "comeback",
+      "debut": true,
+      "title": "NEON",
+      "group": "A2O LITE",
+      "start": "2026-10-13",
+      "end": "2026-11-01",
+      "album": "NEON",
+      "note": "从出道单曲发行，到 11 月 1 日 SBS《人气歌谣》播出《NEON》。",
+      "source": "https://prtimes.jp/main/html/rd/p/000000005.000192898.html",
+      "publisher": "A2O Entertainment Japan",
+      "endSource": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000639076",
+      "endPublisher": "SBS《人气歌谣》"
+    }
   ]
 };

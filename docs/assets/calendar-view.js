@@ -38,7 +38,7 @@
   document.body.append(sheet);
 
   function visibleToArtist(item) {
-    return artist === "all" || item.artist === artist;
+    return artist === "all" || item.artist === artist || (artist === "liz" && item.artist === "wonyoung" && item.scope === "团体");
   }
   function persist() {
     const params = new URLSearchParams();
@@ -152,7 +152,7 @@
       ${relevant.length ? `<h3 class="agenda-sub">同期区间</h3>${relevant.map(periodCard).join("")}` : ""}`;
   }
   function sourcesNote() {
-    const sources = (calendar.sources || []).filter(s => artist === "all" || s.artist === "all" || s.artist === artist);
+    const sources = (calendar.sources || []).filter(s => artist === "all" || s.artist === "all" || s.artist === artist || (artist === "liz" && s.id.startsWith("ive-")));
     return `<details class="source-details"><summary>行程来源与核对日期</summary><p>日期采用主办方公布的当地日期。时段的首末日期与公告见各区间明细。</p>
       <p>手动收录的单日公告核对于 ${esc(calendar.curatedAt)}。</p><ul>${sources.map(s => `<li><a href="${safeLink(s.url)}" ${ext}>${esc(s.publisher)} · ${esc(s.topic)}</a> ${s.status === "stale" ? "最近读取失败，上次核对 " : "核对于 "}${esc(s.checkedAt || "尚无记录")}</li>`).join("")}</ul></details>`;
   }

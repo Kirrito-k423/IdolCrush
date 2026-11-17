@@ -15,7 +15,7 @@
       <span class="plate-image"><img loading="${i < 3 ? "eager" : "lazy"}" ${responsivePhoto(photo, "(max-width: 950px) 47vw, 25vw")} alt="${esc(photo.alt)}" width="${photo.previewWidth || photo.width}" height="${photo.previewHeight || photo.height}" style="object-position:${esc(photo.position)}"><span class="plate-open">${icon("expand", 16)}</span></span>
       <span class="plate-caption"><strong>${esc(photo.title)}</strong><span>${photo.width} × ${photo.height} px</span></span></button>`) :
       top.map(i => `<button type="button" class="photo-plate film-plate" data-top="${i}">
-      <span class="plate-image"><img src="${esc(thumbUrl(library[i], page))}" alt=""><span class="video-play">${icon("play", 15)}</span><span class="duration">${esc(library[i].duration)}</span></span>
+      <span class="plate-image"><img src="${esc(thumbUrl(library[i], page))}" alt="" referrerpolicy="no-referrer"><span class="video-play">${icon("play", 15)}</span><span class="duration">${esc(library[i].duration)}</span></span>
       <span class="plate-caption"><strong>${esc(library[i].title)}</strong><span>${esc(library[i].publisher)} · ${esc(library[i].date)}</span></span></button>`);
     container.innerHTML = `<div class="gallery-toolbar"><div class="chips" role="group" aria-label="影像类型">
       <button type="button" class="chip" data-media="photo" aria-pressed="${photoMode}">4K+ 写真 <span>${pad(pictures.length)}</span></button>

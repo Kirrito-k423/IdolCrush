@@ -11,12 +11,13 @@ const assetPaths = new Map();
 const chapters = {
   gallery: ["高清画廊", "PHOTO & FILM", "浏览 4K 以上的写真原图与精选舞台视频。"],
   calendar: ["行程日历", "PUBLIC SCHEDULE", "在连续十二个月的日历中查看公开活动、回归与巡演时段。"],
-  videos: ["视频档案", "VIDEO ARCHIVE", "按时间、专辑、回归期或巡演时段查找舞台与节目。"]
+  videos: ["视频档案", "VIDEO ARCHIVE", "按时间、专辑、回归期或巡演时段查找舞台与节目。"],
+  updates: ["账号更新", "BILIBILI ARCHIVE", "浏览关注的 B 站账号发布的视频。"]
 };
 
 function assetPath(name) {
   // The scheduled calendar refresh publishes the data independently of these page shells.
-  if (name === "data/calendar.js") return name;
+  if (name === "data/calendar.js" || name === "data/bilibili.js") return name;
   if (!assetPaths.has(name)) {
     const content = readFileSync(join(output, name), "utf8").replace(/\r\n/g, "\n");
     const digest = createHash("sha256").update(content).digest("hex").slice(0, 10);
@@ -32,7 +33,7 @@ async function build(id, view) {
   const chapter = chapters[view];
   const person = artist ? `${artist.name} ${artist.roman}` : "全站";
   const title = view === "home" ? "IDOLCRUSH · 追星影像档案" : `${person}${chapter ? " · " + chapter[0] : ""} · IDOLCRUSH`;
-  const description = chapter ? person + "。" + chapter[2] : "张元英、李沅禧和 MEOVV ANNA 的高清写真、年度公开行程与分类视频档案。";
+  const description = chapter ? person + "。" + chapter[2] : "喜爱的艺人、高清写真、年度公开行程与分类视频档案。";
   const scope = artist ? `<a href="${base}${id}/index.html">${artist.name}</a>` : "全部艺人";
   const artistLinks = Object.entries(artists).map(([key, a]) => `<a href="${base}${key}/index.html">${a.name}</a>`).join(" · ");
   const intro = chapter ? `<header class="chapter-intro wrap">
@@ -43,11 +44,11 @@ async function build(id, view) {
     <section id="${view}" class="chapter-content wrap" aria-label="${chapter[0]}"></section>` : `<section id="cover" class="cover" aria-label="封面人物"></section>
     ${view === "home" ? '<section id="artists" class="section wrap" aria-labelledby="lineup-title"></section>\n    <section id="upcoming" class="section wrap" aria-labelledby="upcoming-title"></section>' : '<section id="chapters" class="section wrap" aria-labelledby="chapters-title"></section>'}`;
   const scripts = [
-    "data/artists.js", ...Object.keys(artists).map(key => `data/photos/${key}.js`), "data/videos.js",
+    "data/artists.js", ...Object.keys(artists).map(key => `data/photos/${key}.js`), "data/videos.js", "data/bilibili.js",
     ...(["home", "artist", "calendar"].includes(view) ? ["data/calendar.js"] : []),
-    ...(["calendar", "videos"].includes(view) ? ["data/periods.js"] : []),
+    ...(["calendar", "videos", "updates"].includes(view) ? ["data/periods.js"] : []),
     "assets/catalog.js", "assets/viewer.js", "assets/site.js",
-    "assets/" + ({home: "landing", artist: "landing", calendar: "calendar-view", videos: "archive", gallery: "gallery"})[view] + ".js"
+    "assets/" + ({home: "landing", artist: "landing", calendar: "calendar-view", videos: "archive", updates: "archive", gallery: "gallery"})[view] + ".js"
   ];
   const html = `<!doctype html>
 <html lang="zh-CN" data-page="${id}" data-view="${view}" data-base="${base}">
@@ -85,6 +86,7 @@ async function build(id, view) {
 
 await build("home", "home");
 await build("home", "calendar");
+await build("home", "updates");
 for (const id of Object.keys(artists)) {
-  for (const view of ["artist", ...Object.keys(chapters)]) await build(id, view);
+  for (const view of ["artist", "gallery", "calendar", "videos"]) await build(id, view);
 }

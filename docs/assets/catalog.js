@@ -4,7 +4,7 @@
   const root = document.documentElement;
   const base = root.dataset.base;
   const artists = globalThis.IC_ARTISTS;
-  const categories = {stage: "打歌舞台", group: "团体综艺", brand: "品牌代言", solo: "个人节目"};
+  const categories = {stage: "打歌舞台", encore: "一位安可", group: "团体综艺", solo: "个人节目", vlog: "个人 VLOG", fansign: "签售直拍", travel: "机场出行", brand: "品牌代言", appearance: "品牌站台", award: "年末大赏感言", cp: "CP 向", other: "其他影像"};
   const shapes = {
     arrow: '<path d="M4 12h15m-6-6 6 6-6 6"/>',
     outward: '<path d="M5.5 18.5 18 6M6 6h12v12"/>',
@@ -43,7 +43,110 @@
   };
   const photos = id => (window.IC_PHOTOS?.[id] || []).filter(photo =>
     Math.max(photo.width, photo.height) >= 3840 && Math.min(photo.width, photo.height) >= 2160);
-  const videos = (id) => window.IC_VIDEOS?.[id] || [];
+  // A source can publish videos about several people. Attribute individual
+  // material only when its title or description identifies the person.
+  const names = [
+    {id: "wonyoung", name: "张元英", pattern: /张元英|張元英|张员瑛|張員瑛|元英|员瑛|장원영|\bwonyoung\b/i},
+    {id: "wonhee", name: "李沅禧", pattern: /李沅禧|李原禧|李元熙|원희|\bwonhee\b/i},
+    {id: "anna", name: "田中杏奈", pattern: /田中杏奈|田中アンナ|(?:MEOVV|미야오).{0,40}(?:ANNA|안나|杏奈)|(?:ANNA|안나).{0,40}(?:MEOVV|미야오)/i},
+    {id: "woni", name: "郑沅乁", pattern: /郑沅[乁伊]|鄭沅[乁伊]|郑元伊|정원이|\bwoni\b/i},
+    {id: "yuna", name: "申有娜", pattern: /申有娜|申宥娜|신유나|(?:ITZY|있지).{0,40}(?:YUNA|유나)|(?:YUNA|유나).{0,40}(?:ITZY|있지)/i},
+    {id: "liz", name: "金志垣", pattern: /金志垣|金智媛|\bliz\b|리즈/i},
+    {id: "oa", name: "OA", pattern: /(?:A2O\s*LITE|에이투오\s*라이트).{0,40}\bOA\b|\bOA\b.{0,40}(?:A2O\s*LITE|에이투오\s*라이트)|오아/i},
+    {name: "安宥真", pattern: /安[宥有]真|안유진|\byujin\b/i},
+    {name: "直井怜", pattern: /直井怜|\bnaoi\s+rei\b|\brei\b|아이브.{0,12}레이/i},
+    {name: "金秋天", pattern: /金秋天|김가을|\bgaeul\b/i},
+    {name: "李瑞", pattern: /李瑞|이현서|\bleeseo\b/i},
+    {name: "申留真", pattern: /申留真|신류진|\bryujin\b/i},
+    {name: "黄礼志", pattern: /黄礼志|황예지|\byeji\b/i},
+    {name: "崔智秀", pattern: /崔智秀|최지수|\blia\b/i},
+    {name: "李彩领", pattern: /李彩领|李彩領|이채령|\bchaeryeong\b/i},
+    {name: "金玟周", pattern: /金[玟旻]周|\bminju\b|민주/i},
+    {name: "卢玧我", pattern: /卢玧我|盧玧我|노윤아|\byunah\b/i},
+    {name: "酒井萌香", pattern: /酒井萌香|사카이 모카|\bmoka\b/i},
+    {name: "外园彩羽", pattern: /外园彩羽|外園彩羽|\biroha\b|이로하/i},
+    {name: "薛允", pattern: /薛允|설윤|\bsullyoon\b/i},
+    {name: "MINAMI", pattern: /伊藤南美|\bminami\b|미나미/i},
+    {name: "ZENA", pattern: /金柯咏|\bzena\b|제나/i},
+    {name: "MAY", pattern: /李睿彬|\bMAY\b|메이/},
+    {name: "LIV", pattern: /陈京恩|陳京恩|\bLIV\b|리브/},
+    {name: "SOOIN", pattern: /\bsooin\b|수인/i},
+    {name: "GAWON", pattern: /\bgawon\b|가원/i},
+    {name: "NARIN", pattern: /\bnarin\b|나린/i},
+    {name: "ELLA", pattern: /\bella\b|엘라/i},
+    {name: "XILI", pattern: /梁淅沥|梁淅瀝|\bxili\b|시리/i},
+    {name: "AIJING", pattern: /盛艾敬|\baijing\b|아이찡/i},
+    {name: "YOUNG", pattern: /郑[始时诗]英|鄭[始時詩]英|\bYOUNG\b|정시영/},
+    {name: "HIMEKI", pattern: /山本姬绢|山本姫絹|\bHIMEKI\b|히메키/i},
+    {name: "VORA", pattern: /李[垠恩]知|\bVORA\b|보라/i},
+    {name: "RADA", pattern: /\bRADA\b|라다/i},
+    {name: "MERCI", pattern: /马西桐|馬西桐|\bMERCI\b|메르시/i},
+    {name: "AYUNE", pattern: /沈[我雅]允|沈我潤|\bAYUNE\b|아윤/i}
+  ];
+  const groups = [
+    {pattern: /\bIVE\b|아이브/i, members: ["wonyoung", "liz"]},
+    {pattern: /\bILLIT\b|아일릿/i, members: ["wonhee"]},
+    {pattern: /\bMEOVV\b|미야오/i, members: ["anna"]},
+    {pattern: /\bRESCENE\b|리센느/i, members: ["woni"]},
+    {pattern: /\bITZY\b|있지/i, members: ["yuna"]},
+    {pattern: /A2O\s*LITE|에이투오\s*라이트/i, members: ["oa"]}
+  ];
+  const typeRules = [
+    ["vlog", /\bvlog\b|브이로그|生活日记|日常日志/i],
+    ["fansign", /签售|簽售|팬싸|fansign|fan\s*sign/i],
+    ["travel", /机场|機場|航站楼|出入境|공항|airport/i],
+    ["appearance", /品牌活动|品牌站台|活动站台|品牌出席|品牌快闪|品牌快閃|팝업스토어/i],
+    ["award", /(?:年末|颁奖|頒獎|大赏|大賞|MAMA|MMA|AAA|金唱片).{0,40}(?:感言|获奖|獲獎|领奖|領獎|获赏|發言|speech|소감|수상)|(?:感言|获奖|獲獎|领奖|領獎|소감).{0,40}(?:年末|大赏|大賞|MAMA|MMA|AAA)/i],
+    ["encore", /(?:一位|初一位|1位|冠军|冠軍|우승|1위).{0,35}(?:安可|返场|返場|表演|舞台|encore|앵콜)|(?:安可|encore|앵콜).{0,35}(?:一位|1位|冠军|冠軍|1위)/i],
+    ["brand", /代言|广告|廣告|CF\b|画报|畫報|campaign|ambassador/i],
+    ["group", /团综|團綜|团体综艺|團體綜藝|reality show|团体节目/i],
+    ["solo", /个综|個綜|个人节目|個人節目|访谈|訪談|interview|인터뷰/i],
+    ["stage", /打歌|舞台|直拍|fancam|facecam|음악중심|인기가요|뮤직뱅크|엠카운트다운|music bank/i]
+  ];
+  function annotate(video) {
+    const text = String(video.title || "");
+    const people = names.filter(person => person.pattern.test(text));
+    const ids = people.map(person => person.id).filter(Boolean);
+    if (!people.length) groups.filter(group => group.pattern.test(text)).forEach(group => ids.push(...group.members));
+    const explicitPair = video.pair ? [video.pair] : [];
+    const isPair = people.length >= 2 && /\bcp\b|cp向|双人|雙人|互动|互動|同框|chemistry|\s[×&+]\s|\bx\b/i.test(text);
+    const pairs = explicitPair.length ? explicitPair : isPair ? [people.slice(0, 2).map(person => person.name).join(" × ")] : [];
+    const types = [...new Set([video.category, ...typeRules.filter(([, pattern]) => pattern.test(text)).map(([type]) => type), ...(pairs.length ? ["cp"] : [])].filter(type => Object.hasOwn(categories, type)))];
+    if (!types.length) types.push("other");
+    return {...video, artistIds: ids, pairs, types, category: video.category || types[0]};
+  }
+  const monitored = (window.IC_BILIBILI?.videos || []).map(video => annotate({
+    ...video,
+    bilibili: video.bvid,
+    bilibiliPublisher: video.publisher,
+    album: video.album || ""
+  }));
+  function titleDate(video) {
+    const match = video.title.match(/(?:^|[^0-9])(20\d{6}|\d{6})(?!\d)/);
+    if (!match) return "";
+    const digits = match[1].length === 6 ? "20" + match[1] : match[1];
+    const candidate = `${digits.slice(0, 4)}-${digits.slice(4, 6)}-${digits.slice(6)}`;
+    const parsed = new Date(candidate + "T00:00:00Z");
+    if (Number.isNaN(parsed.valueOf()) || parsed.toISOString().slice(0, 10) !== candidate || candidate < "2010-01-01" || candidate > video.date) return "";
+    return candidate;
+  }
+  const libraries = new Map();
+  const videos = id => {
+    if (id === "home") return monitored;
+    if (!libraries.has(id)) {
+      const curated = (window.IC_VIDEOS?.[id] || []).map(annotate);
+      const existing = new Set(curated.filter(video => (Number(video.bilibiliPage) || 1) === 1).map(video => video.bilibili));
+      const artistPeriods = id === "liz" ? (window.IC_PERIODS?.wonyoung || []).filter(period => period.group === "IVE") : window.IC_PERIODS?.[id] || [];
+      const matching = monitored.filter(video => video.artistIds.includes(id) && !existing.has(video.bilibili)).map(video => {
+        const title = video.title.toLocaleLowerCase();
+        const namedAlbum = artistPeriods.find(period => period.album && period.album.length >= 3 && title.includes(period.album.toLocaleLowerCase()));
+        const eventDate = titleDate(video);
+        return {...video, album: video.album || namedAlbum?.album || "", publishedDate: video.date, date: eventDate || video.date, dateFromTitle: Boolean(eventDate)};
+      });
+      libraries.set(id, [...curated, ...matching]);
+    }
+    return libraries.get(id);
+  };
   const feature = id => Math.max(0, videos(id).findIndex(video => video.featured));
   const photoUrl = item => item.file ? `${base}assets/photos/${encodeURIComponent(item.file)}` : item.originalUrl;
   const previewUrl = item => item.preview ? `${base}assets/photos/${encodeURIComponent(item.preview)}` : item.previewUrl || photoUrl(item);
@@ -52,13 +155,14 @@
     if (!item.previewWidth || preview === full) return `src="${full}"`;
     return `src="${preview}" srcset="${preview} ${item.previewWidth}w, ${full} ${item.width}w" sizes="${sizes}"`;
   };
-  const periods = id => window.IC_PERIODS?.[id] || [];
+  const periods = id => id === "liz" ? (window.IC_PERIODS?.wonyoung || []).filter(period => period.group === "IVE") : window.IC_PERIODS?.[id] || [];
   const periodLabel = {comeback: "回归期", tour: "巡演期"};
   const periodName = period => period.debut ? "出道期" : periodLabel[period.type];
   const includesDate = (period, date) => period.start <= date && date <= period.end;
   const today = new Intl.DateTimeFormat("sv-SE", {timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit"}).format(new Date());
   const thumbUrl = (item, id) => {
     if (item.thumb) return `${base}assets/thumbs/${encodeURIComponent(item.thumb)}`;
+    if (item.cover && /^https:\/\//i.test(item.cover)) return item.cover;
     if (item.youtube) return `https://i.ytimg.com/vi/${encodeURIComponent(item.youtube)}/hqdefault.jpg`;
     return photos(id)[0] ? previewUrl(photos(id)[0]) : "";
   };

@@ -1,0 +1,45 @@
+name: Refresh Bilibili videos
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 07:15 in Beijing.
+    - cron: '15 23 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bilibili-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Refresh public video sources
+        env:
+          BILI_SESSDATA: ${{ secrets.BILI_SESSDATA }}
+        run: python3 scripts/update_bilibili.py
+      - name: Save the video archive
+        env:
+          BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if git diff --quiet -- docs/data/bilibili.js; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- docs/data/bilibili.js
+          git commit -m 'Refresh Bilibili videos'
+          for attempt in 1 2 3; do
+            git fetch origin "$BRANCH"
+            git rebase "origin/$BRANCH"
+            if git push origin "HEAD:refs/heads/$BRANCH"; then exit 0; fi
+            sleep 5
+          done
+          exit 1
+      - name: Report source availability
+        run: python3 scripts/update_bilibili.py --check-status

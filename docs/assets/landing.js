@@ -90,7 +90,7 @@
     ];
     document.querySelector("#chapters").innerHTML = `${heading("chapters", "ARTIST DIRECTORY", "档案目录")}<div class="chapter-grid">${sections.map(section =>
       `<a class="chapter-door door-${section.id}" href="${path(page, section.id)}">
-      ${section.image ? `<img src="${esc(section.image)}" alt="" style="object-position:${esc(section.focus || "50% 38%")}">` : ""}
+      ${section.image ? `<img src="${esc(section.image)}" alt="" referrerpolicy="no-referrer" style="object-position:${esc(section.focus || "50% 38%")}">` : ""}
       ${section.id === "calendar" ? `<span class="door-date">${section.date ? esc(section.date.slice(5).replace("-", ".")) : today.slice(0, 4)}</span>` : ""}
       <div><h3>${section.title}</h3><p>${esc(section.info)}</p></div><span class="card-arrow">${icon("outward", 17)}</span></a>`).join("")}</div>`;
   }

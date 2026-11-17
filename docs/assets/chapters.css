@@ -52,7 +52,15 @@
 .upcoming-list time { color: var(--acid); font: 800 26px var(--display); }
 .upcoming-list small { display: block; margin-top: 3px; color: var(--muted); font-size: 11px; }
 .upcoming-list a:hover { color: var(--acid); }
-.archive-controls { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+.archive-search { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; padding-bottom: 12px; }
+.archive-search label { display: flex; align-items: center; gap: 8px; min-height: 42px; width: min(100%, 420px); padding: 0 12px; background: #18171b; border: 1px solid var(--rule); border-radius: 4px; color: #b6b2bc; }
+.archive-search input { width: 100%; min-width: 0; border: 0; outline: 0; color: var(--ink); background: transparent; font: inherit; }
+.archive-search label:focus-within { border-color: var(--acid); }
+.archive-controls { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.archive-more { display: flex; justify-content: center; padding-block: 28px 8px; }
+.archive-more button { padding: 9px 20px; }
+.archive-sources { margin-top: 28px; }
+.archive-sources li span { margin-left: 6px; color: var(--muted); }
 .field-select { display: grid; gap: 3px; padding: 8px 12px; background: #18171b; border: 1px solid var(--rule); border-radius: 4px; }
 .field-select span { font-size: 10px; letter-spacing: .08em; color: #b6b2bc; }
 .field-select select, .year-move select, .jump-month select { min-width: 0; max-width: 100%; border: 0; background: transparent; color: var(--ink); font-weight: 600; }
