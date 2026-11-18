@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-18T09:17:22+08:00",
+  "updatedAt": "2026-11-18T12:36:34+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:14+08:00",
+      "checkedAt": "2026-11-18T12:36:27+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:15+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:27+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:15+08:00",
+      "checkedAt": "2026-11-18T12:36:28+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:16+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:28+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:16+08:00",
+      "checkedAt": "2026-11-18T12:36:29+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:16+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:29+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:17+08:00",
+      "checkedAt": "2026-11-18T12:36:30+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:17+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:30+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:18+08:00",
+      "checkedAt": "2026-11-18T12:36:31+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:18+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:31+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:19+08:00",
+      "checkedAt": "2026-11-18T12:36:32+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:19+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:32+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:20+08:00",
+      "checkedAt": "2026-11-18T12:36:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:20+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:33+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T09:17:21+08:00",
+      "checkedAt": "2026-11-18T12:36:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:21+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:34+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,24 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-18T09:17:22+08:00",
+      "checkedAt": "2026-11-18T12:36:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T09:17:22+08:00",
+      "lastSuccessAt": "2026-11-18T12:36:34+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "T2gZbqiA9js",
+      "title": "𝐹𝑜𝑟 𝑡ℎ𝑒 𝐹𝑖𝑟𝑠𝑡 𝑇𝑖𝑚𝑒 𝑖𝑛 𝐹𝑜𝑟𝑒𝑣𝑒𝑟 🐰🤍",
+      "date": "2026-11-18",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=T2gZbqiA9js",
+      "description": "𝐹𝑜𝑟 𝑡ℎ𝑒 𝐹𝑖𝑟𝑠𝑡 𝑇𝑖𝑚𝑒 𝑖𝑛 𝐹𝑜𝑟𝑒𝑣𝑒𝑟 🐰🤍\n\n#MEOVV #미야오 #ANNA #안나\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
     {
       "youtube": "zyLeIpdFucI",
       "title": "🕺🕺🕺🕺🕺🕺 #체포하겠어 #You_re_Under_Arrest #ILLIT",
