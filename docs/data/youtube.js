@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-18T20:58:51+08:00",
+  "updatedAt": "2026-11-18T22:04:59+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:43+08:00",
+      "checkedAt": "2026-11-18T22:04:51+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:43+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:51+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:44+08:00",
+      "checkedAt": "2026-11-18T22:04:52+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:44+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:52+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:45+08:00",
+      "checkedAt": "2026-11-18T22:04:53+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:45+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:53+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:46+08:00",
+      "checkedAt": "2026-11-18T22:04:54+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:46+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:54+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:47+08:00",
+      "checkedAt": "2026-11-18T22:04:55+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:47+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:55+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:48+08:00",
+      "checkedAt": "2026-11-18T22:04:56+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:48+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:56+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:49+08:00",
+      "checkedAt": "2026-11-18T22:04:57+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:49+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:57+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-18T20:58:50+08:00",
+      "checkedAt": "2026-11-18T22:04:58+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:50+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:58+08:00",
       "recentCount": 15
     },
     {
@@ -123,9 +123,9 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-18T20:58:51+08:00",
+      "checkedAt": "2026-11-18T22:04:59+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-18T20:58:51+08:00",
+      "lastSuccessAt": "2026-11-18T22:04:59+08:00",
       "recentCount": 15
     }
   ],
@@ -290,6 +290,28 @@ window.IC_YOUTUBE = {
       "date": "2026-11-18",
       "publisher": "ITZY · YouTube",
       "source": "https://www.youtube.com/watch?v=KoRECi6KeC0",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "KHaapQ6jsrA",
+      "title": "i love 🎀 #IVE #아이브 #JANGWONYOUNG #장원영 #Shorts",
+      "date": "2026-11-18",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=KHaapQ6jsrA",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "HbyjkAdBego",
+      "title": "계속 계속 계속 보고 싶은 #LovesickChallenge 🦊₊˚☆#ITZY #CHAERYEONG #TOMORROW_X_TOGETHER #연준 @TXT_bighit",
+      "date": "2026-11-18",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=HbyjkAdBego",
       "description": "",
       "sources": [
         "yt:UCDhM2k2Cua-JdobAh5moMFg"
