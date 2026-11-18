@@ -6,7 +6,7 @@
   const container = document.querySelector(feedPage ? "#updates" : "#videos");
   const library = videos(page);
   const details = library.map(videoDetails);
-  const sources = window.IC_BILIBILI?.sources || [];
+  const sources = [...(window.IC_BILIBILI?.sources || []), ...(window.IC_YOUTUBE?.sources || [])];
   const ranges = [...periods(page)].sort((a, b) => b.start.localeCompare(a.start));
   const albums = [...new Set(library.map(video => video.album).filter(Boolean))];
   const years = [...new Set(library.map(video => video.date?.slice(0, 4)).filter(Boolean))].sort().reverse();
@@ -63,7 +63,7 @@
   function sourceDetails() {
     if (!sources.length) return "";
     const rows = sources.map(item => {
-      const lastSuccess = [item.uploads?.lastSuccessAt, item.dynamic?.lastSuccessAt].filter(Boolean).sort().at(-1);
+      const lastSuccess = [item.lastSuccessAt, item.uploads?.lastSuccessAt, item.dynamic?.lastSuccessAt].filter(Boolean).sort().at(-1);
       const status = item.status === "partial" ? "· 部分内容暂未更新" : item.status === "error" ? "· 最近读取未成功" : item.uploads && !item.uploads.complete ? "· 历史投稿回填中" : "";
       return `<li><a href="${safeLink(item.url || `https://space.bilibili.com/${item.uid}/dynamic`)}" ${ext}>${esc(item.name || item.uid)}</a><span>${item.status === "ok" ? "已核对" : "上次成功"} ${esc(lastSuccess || "暂无")} ${status}</span></li>`;
     }).join("");

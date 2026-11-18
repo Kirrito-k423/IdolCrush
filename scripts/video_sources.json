@@ -1,0 +1,26 @@
+{
+  "bilibili": [
+    {"uid": "3546824314980440", "name": "Hearts2Hearts 官号"},
+    {"uid": "15774483", "name": "张元英_ForeverYoung"},
+    {"uid": "17379944", "name": "XXXErase"},
+    {"uid": "1495917219", "name": "墙头众多的塔塔"},
+    {"uid": "83749720", "name": "Ampilu"},
+    {"uid": "3546837942274544", "name": "IVE 官号", "artists": ["wonyoung", "liz"]},
+    {"uid": "3546608109095338", "name": "ILLIT 官号", "artists": ["wonhee"]},
+    {"uid": "3546751115987218", "name": "MEOVV 官号", "artists": ["anna"]},
+    {"uid": "3546595561834774", "name": "RESCENE 官号", "artists": ["woni"]},
+    {"uid": "1185017133", "name": "ITZY 官号", "artists": ["yuna"]},
+    {"uid": "3690991296973030", "name": "A2O LITE 官号", "artists": ["oa"]}
+  ],
+  "youtube": [
+    {"channelId": "UC-Fnix71vRP64WXeo0ikd0Q", "handle": "IVEstarship", "name": "IVE · YouTube", "artists": ["wonyoung", "liz"]},
+    {"channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ", "handle": "ILLIT_official", "name": "ILLIT · YouTube", "artists": ["wonhee"]},
+    {"channelId": "UCowiwt93gqGlNG4k5VDxO-w", "handle": "MEOVV_OFFICIAL", "name": "MEOVV · YouTube", "artists": ["anna"]},
+    {"channelId": "UCtKtCiaWRz-d3EZn2xd1mdA", "handle": "RESCENE_official", "name": "RESCENE · YouTube", "artists": ["woni"]},
+    {"channelId": "UCDhM2k2Cua-JdobAh5moMFg", "handle": "ITZY", "name": "ITZY · YouTube", "artists": ["yuna"]},
+    {"channelId": "UCw98hcIDLRffhOC1_ttd4Zg", "handle": "A2OLITE", "name": "A2O LITE · YouTube", "artists": ["oa"]},
+    {"channelId": "UCn-SYb1TUz-1itK_uz4imUA", "handle": "A2OWORLD", "name": "A2O WORLD · YouTube", "artists": ["oa"], "titleFilter": "(?i)A2O[ _-]*LITE|에이투오[ _-]*라이트"},
+    {"channelId": "UC7Q3HUnJA3nvjZR2JeMn2Cw", "handle": "hearts2hearts.official", "name": "Hearts2Hearts · YouTube"},
+    {"channelId": "UCWpY0eSJtyO-qNAPbKFRSSg", "handle": "helloiamwoninicetomeetyou", "name": "WONI 个人频道 · YouTube", "artists": ["woni"], "alwaysArtists": ["woni"], "category": "solo"}
+  ]
+}

@@ -1,4 +1,4 @@
-"""Record formats exposed by public YouTube watch pages for curated videos.
+"""Record formats exposed by public YouTube watch pages for the video archive.
 
 The maximum listed video dimensions may depend on YouTube's platform and
 account rules. No cookie or private account information is used.
@@ -29,13 +29,14 @@ class VideoError(Exception):
 
 def candidates():
     program = ("global.window=global;require(process.argv[1]);"
-               "const rows=Object.values(window.IC_VIDEOS||{}).flat();"
+               "require(process.argv[2]);"
+               "const rows=[...(window.IC_YOUTUBE?.videos||[]),...Object.values(window.IC_VIDEOS||{}).flat()];"
                "process.stdout.write(JSON.stringify(rows.map(x=>x.youtube).filter(Boolean)))")
-    result = subprocess.run(["node", "-e", program, str(CURATED)], check=True,
+    result = subprocess.run(["node", "-e", program, str(CURATED), str(CURATED.parent / "youtube.js")], check=True,
                             capture_output=True, text=True, encoding="utf-8", timeout=30)
     values = json.loads(result.stdout)
     if not isinstance(values, list):
-        raise ValueError("无法读取精选 YouTube 视频")
+        raise ValueError("无法读取 YouTube 视频")
     return list(dict.fromkeys(value for value in values
                               if isinstance(value, str) and VIDEO_ID.fullmatch(value)))
 
@@ -78,7 +79,7 @@ def read_video(video_id):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--max-items", type=int, default=50)
+    parser.add_argument("--max-items", type=int, default=100)
     parser.add_argument("--pause", type=float, default=0.8)
     parser.add_argument("--refresh-days", type=int, default=45)
     args = parser.parse_args()
@@ -130,7 +131,7 @@ def main():
                                 "known": sum(video_id in videos for video_id in ordered), "total": len(ordered)}
     save(archive)
     print(f"YouTube: saved {len(videos)} video records; checked {attempted}, succeeded {succeeded}; "
-          f"{archive['youtubeStatus']['known']} / {len(ordered)} curated videos have metadata", flush=True)
+          f"{archive['youtubeStatus']['known']} / {len(ordered)} videos have metadata", flush=True)
 
 
 if __name__ == "__main__":

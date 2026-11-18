@@ -12,12 +12,12 @@ const chapters = {
   gallery: ["高清画廊", "PHOTO & FILM", "浏览 4K 以上的写真原图与精选舞台视频。"],
   calendar: ["行程日历", "PUBLIC SCHEDULE", "在连续十二个月的日历中查看公开活动、回归与巡演时段。"],
   videos: ["视频档案", "VIDEO ARCHIVE", "按时间、专辑、回归期或巡演时段查找舞台与节目。"],
-  updates: ["账号更新", "BILIBILI ARCHIVE", "浏览关注的 B 站账号发布的视频。"]
+  updates: ["账号更新", "CHANNEL ARCHIVE", "浏览关注的 B 站和 YouTube 账号发布的视频。"]
 };
 
 function assetPath(name) {
   // The scheduled calendar refresh publishes the data independently of these page shells.
-  if (name === "data/calendar.js" || name === "data/bilibili.js" || name === "data/video-resolution.js") return name;
+  if (["data/calendar.js", "data/bilibili.js", "data/youtube.js", "data/video-resolution.js"].includes(name)) return name;
   if (!assetPaths.has(name)) {
     const content = readFileSync(join(output, name), "utf8").replace(/\r\n/g, "\n");
     const digest = createHash("sha256").update(content).digest("hex").slice(0, 10);
@@ -44,7 +44,7 @@ async function build(id, view) {
     <section id="${view}" class="chapter-content wrap" aria-label="${chapter[0]}"></section>` : `<section id="cover" class="cover" aria-label="封面人物"></section>
     ${view === "home" ? '<section id="artists" class="section wrap" aria-labelledby="lineup-title"></section>\n    <section id="upcoming" class="section wrap" aria-labelledby="upcoming-title"></section>' : '<section id="chapters" class="section wrap" aria-labelledby="chapters-title"></section>'}`;
   const scripts = [
-    "data/artists.js", ...Object.keys(artists).map(key => `data/photos/${key}.js`), "data/videos.js", "data/bilibili.js",
+    "data/artists.js", ...Object.keys(artists).map(key => `data/photos/${key}.js`), "data/videos.js", "data/bilibili.js", "data/youtube.js",
     ...(["videos", "updates"].includes(view) ? ["data/video-resolution.js"] : []),
     ...(["home", "artist", "calendar"].includes(view) ? ["data/calendar.js"] : []),
     ...(["calendar", "videos", "updates"].includes(view) ? ["data/periods.js"] : []),

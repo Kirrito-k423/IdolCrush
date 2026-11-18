@@ -26,13 +26,9 @@ PREFIX = "window.IC_BILIBILI = "
 CHINA = timezone(timedelta(hours=8))
 PAGE_SIZE = 30
 API = "https://api.bilibili.com"
-ACCOUNTS = (
-    ("3546824314980440", "Hearts2Hearts"),
-    ("15774483", "张元英_ForeverYoung"),
-    ("17379944", "XXXErase"),
-    ("1495917219", "墙头众多的塔塔"),
-    ("83749720", "Ampilu"),
-)
+SOURCE_CONFIG = json.loads((ROOT / "scripts" / "video_sources.json").read_text(encoding="utf-8"))
+SOURCE_BY_UID = {item["uid"]: item for item in SOURCE_CONFIG["bilibili"]}
+ACCOUNTS = tuple((item["uid"], item["name"]) for item in SOURCE_CONFIG["bilibili"])
 BVID = re.compile(r"BV[0-9A-Za-z]{10}\Z")
 
 
@@ -436,6 +432,7 @@ def main():
         statuses = {upload["status"], dynamic["status"]}
         status = "ok" if statuses == {"ok"} else "error" if statuses == {"error"} else "partial"
         sources.append({"uid": uid, "name": name, "url": f"https://space.bilibili.com/{uid}/dynamic",
+                        "artists": SOURCE_BY_UID[uid].get("artists", []), "platform": "bilibili",
                         "status": status, "checkedAt": now_text(), "uploads": upload, "dynamic": dynamic})
         print(f"  uploads: {upload['status']}; dynamics: {dynamic['status']}; "
               f"archive: {sum(uid in v.get('sources', []) for v in videos.values())}", flush=True)

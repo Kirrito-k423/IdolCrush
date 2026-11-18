@@ -6,9 +6,6 @@ on:
     workflows: ['Refresh Bilibili videos']
     branches: [main]
     types: [completed]
-  schedule:
-    # 08:05 in Beijing, plus a refresh after the source-video workflow.
-    - cron: '5 0 * * *'
 
 permissions:
   contents: write

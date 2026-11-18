@@ -97,6 +97,8 @@
     {pattern: /\bITZY\b|있지/i, members: ["yuna"]},
     {pattern: /A2O\s*LITE|에이투오\s*라이트/i, members: ["oa"]}
   ];
+  const sourceRegistry = [...(window.IC_BILIBILI?.sources || []), ...(window.IC_YOUTUBE?.sources || [])];
+  const sourcesById = new Map(sourceRegistry.map(source => [String(source.uid), source]));
   const brandNames = /rolarola|dashing\s*diva|\bugg\b|\bstance\b|\bdyson\b|戴森|卡诗|卡詩|宝格丽|寶格麗|bvlgari|bulgari|dr\.?\s*althea|tommy\s*(?:jeans|hilfiger)|miu\s*miu|hapa\s*kristin|\bpepsi\b|百事可乐|百事可樂|\bdior\b|迪奥|迪奧|innisfree|悦诗风吟|悅詩風吟|宾格瑞|賓格瑞|new\s*balance|友利银行|友利銀行|woori\s*bank|巴黎卡诗|巴黎卡詩|\blux\b|力士|\bpubg\b|medicube|forever:cherry/i;
   const typeRules = [
     ["behind", /幕后|幕後|花絮|拍摄(?:现场|現場|过程|過程|日志|日記)|拍攝(?:現場|過程|日記)|录音室|錄音室|彩排|\bbehind\b|making\s*(?:of|film)|메이킹|비하인드/i],
@@ -125,6 +127,9 @@
     const people = names.filter(person => person.pattern.test(text));
     const ids = people.map(person => person.id).filter(Boolean);
     if (!people.length) groups.filter(group => group.pattern.test(text)).forEach(group => ids.push(...group.members));
+    const sourceInfo = (video.sources || []).map(source => sourcesById.get(String(source))).filter(Boolean);
+    if (!people.length) sourceInfo.forEach(source => ids.push(...(source.artists || [])));
+    sourceInfo.forEach(source => ids.push(...(source.alwaysArtists || [])));
     const explicitPair = video.pair ? [video.pair] : [];
     const isPair = people.length >= 2 && /\bcp\b|cp向|双人|雙人|互动|互動|同框|chemistry|[×✖&+]|\bx\b/i.test(text);
     const pairs = explicitPair.length ? explicitPair : isPair ? [people.slice(0, 2).map(person => person.name).join(" × ")] : [];
@@ -136,17 +141,20 @@
     if (brandNames.test(text) && /[×✖]|\s[xX]\s/.test(text) && !pairs.length && !types.includes("collab")) types.push("collab");
     if (types.includes("stage") && /签售|簽售|팬싸|fansign/i.test(text) && !/打歌|人气歌谣|人氣歌謠|音乐银行|音樂銀行|音乐中心|音樂中心|M\s*COUNTDOWN|음악중심|인기가요|뮤직뱅크/i.test(text)) types.splice(types.indexOf("stage"), 1);
     if (types.includes("stage") && types.includes("host") && !/舞台|打歌|表演|直拍|fancam|facecam/i.test(text)) types.splice(types.indexOf("stage"), 1);
-    if (!types.length) types.push("other");
+    if (!types.length) types.push(sourceInfo.some(source => source.platform === "youtube" || (source.artists || []).length) ? "official" : "other");
     const category = video.category && video.category !== "other" && Object.hasOwn(categories, video.category) ? video.category : types[0];
-    return {...video, artistIds: ids, pairs, types, category};
+    return {...video, artistIds: [...new Set(ids)], pairs, types, category};
   }
-  const monitored = (window.IC_BILIBILI?.videos || []).map(video => annotate({
+  const monitoredBilibili = (window.IC_BILIBILI?.videos || []).map(video => annotate({
     ...video,
     bilibili: video.bvid,
     bilibiliPublisher: video.publisher,
     album: video.album || ""
   }));
-  const monitoredByBvid = new Map(monitored.map(video => [video.bilibili, video]));
+  const monitoredYoutube = (window.IC_YOUTUBE?.videos || []).map(video => annotate({...video, album: video.album || ""}));
+  const monitored = [...monitoredBilibili, ...monitoredYoutube];
+  const monitoredByBvid = new Map(monitoredBilibili.map(video => [video.bilibili, video]));
+  const monitoredByYoutube = new Map(monitoredYoutube.map(video => [video.youtube, video]));
   function titleDate(video) {
     const match = video.title.match(/(?:^|[^0-9])(20\d{6}|\d{6})(?!\d)/);
     if (!match) return "";
@@ -162,12 +170,14 @@
     if (!libraries.has(id)) {
       const curated = (window.IC_VIDEOS?.[id] || []).map(video => {
         const item = annotate(video);
-        const monitoredSources = monitoredByBvid.get(video.bilibili)?.sources || [];
+        const monitoredSources = [...(monitoredByBvid.get(video.bilibili)?.sources || []), ...(monitoredByYoutube.get(video.youtube)?.sources || [])];
         return {...item, sources: [...new Set([...(item.sources || []), ...monitoredSources])]};
       });
       const existing = new Set(curated.filter(video => (Number(video.bilibiliPage) || 1) === 1).map(video => video.bilibili));
+      const existingYoutube = new Set(curated.map(video => video.youtube).filter(Boolean));
       const artistPeriods = id === "liz" ? (window.IC_PERIODS?.wonyoung || []).filter(period => period.group === "IVE") : window.IC_PERIODS?.[id] || [];
-      const matching = monitored.filter(video => video.artistIds.includes(id) && !existing.has(video.bilibili)).map(video => {
+      const matching = monitored.filter(video => video.artistIds.includes(id) &&
+        (video.bilibili ? !existing.has(video.bilibili) : !existingYoutube.has(video.youtube))).map(video => {
         const title = video.title.toLocaleLowerCase();
         const namedAlbum = artistPeriods.find(period => period.album && period.album.length >= 3 && title.includes(period.album.toLocaleLowerCase()));
         const eventDate = titleDate(video);
