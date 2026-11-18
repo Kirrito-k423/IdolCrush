@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-18T09:22:14+08:00",
+  "updatedAt": "2026-11-18T09:24:56+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -336,12 +336,12 @@ window.IC_BILIBILI = {
         "liz"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-18T09:21:54+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-18T09:24:54+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-18T09:21:48+08:00",
-        "lastSuccessAt": "2026-11-18T09:21:49+08:00",
+        "checkedAt": "2026-11-18T09:24:46+08:00",
+        "lastSuccessAt": "2026-11-18T09:24:53+08:00",
         "headBvids": [
           "BV1KCsP6REUE",
           "BV1qpsP6gESu",
@@ -377,22 +377,20 @@ window.IC_BILIBILI = {
         "pending": [],
         "total": 283,
         "pagesFetched": [
-          1,
-          2
+          1
         ],
         "nextPage": 3,
         "complete": false
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-18T09:21:49+08:00",
-        "lastSuccessAt": "2026-11-18T09:18:31+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T09:24:53+08:00",
+        "lastSuccessAt": "2026-11-18T09:24:54+08:00",
         "headId": "1271677973127233536",
         "historyOffset": "1250526118189989912",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -471,12 +469,12 @@ window.IC_BILIBILI = {
         "anna"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-18T09:22:06+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-18T09:24:56+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-18T09:21:54+08:00",
-        "lastSuccessAt": "2026-11-18T09:22:01+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T09:24:54+08:00",
+        "lastSuccessAt": "2026-11-18T09:24:55+08:00",
         "headBvids": [
           "BV1g9sc6pE2A",
           "BV1vvWe6SEip",
@@ -510,19 +508,22 @@ window.IC_BILIBILI = {
           "BV1uUak6pEzc"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 3,
         "total": 270,
         "pagesFetched": [
           1
-        ]
+        ],
+        "nextPage": 3,
+        "complete": false
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-18T09:22:01+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T09:24:55+08:00",
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "headId": "1271245147844116514",
+        "historyOffset": "1261612373701034005",
+        "historyComplete": false,
+        "lastSuccessAt": "2026-11-18T09:24:56+08:00",
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -1277,6 +1278,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1271245147844116514"
         }
       ]
     },
@@ -1920,6 +1926,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1270131935219286150"
         }
       ]
     },
@@ -2347,6 +2358,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1269389726254628914"
         }
       ]
     },
@@ -2755,6 +2771,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1268647482856833089"
         }
       ]
     },
@@ -3614,6 +3635,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1267534261741682737"
         }
       ]
     },
@@ -3993,6 +4019,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1266792125697097888"
         }
       ]
     },
@@ -4314,6 +4345,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1266049959677919254"
         }
       ]
     },
@@ -5168,6 +5204,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1264936738509291542"
         }
       ]
     },
@@ -6084,6 +6125,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1263823474378407986"
         }
       ]
     },
@@ -7347,6 +7393,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262339150875459652"
         }
       ]
     },
@@ -8234,6 +8285,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261612373701034005"
         }
       ]
     },
@@ -10942,6 +10998,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258241988315054080"
         }
       ]
     },
