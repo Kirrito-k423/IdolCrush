@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-18T09:19:36+08:00",
+  "updatedAt": "2026-11-18T09:22:14+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -337,11 +337,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-18T09:18:31+08:00",
+      "checkedAt": "2026-11-18T09:21:54+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-18T09:18:22+08:00",
-        "lastSuccessAt": "2026-11-18T09:05:40+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T09:21:48+08:00",
+        "lastSuccessAt": "2026-11-18T09:21:49+08:00",
         "headBvids": [
           "BV1KCsP6REUE",
           "BV1qpsP6gESu",
@@ -375,20 +375,24 @@ window.IC_BILIBILI = {
           "BV1fNa86AExg"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 3,
         "total": 283,
-        "pagesFetched": []
+        "pagesFetched": [
+          1,
+          2
+        ],
+        "nextPage": 3,
+        "complete": false
       },
       "dynamic": {
-        "status": "ok",
-        "checkedAt": "2026-11-18T09:18:30+08:00",
+        "status": "error",
+        "checkedAt": "2026-11-18T09:21:49+08:00",
         "lastSuccessAt": "2026-11-18T09:18:31+08:00",
         "headId": "1271677973127233536",
         "historyOffset": "1250526118189989912",
         "historyComplete": false,
         "pending": [],
-        "pagesFetched": 2,
+        "error": "动态暂未返回内容",
+        "pagesFetched": 0,
         "videosAdded": 0
       }
     },
@@ -468,11 +472,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-18T09:19:07+08:00",
+      "checkedAt": "2026-11-18T09:22:06+08:00",
       "uploads": {
         "status": "partial",
-        "checkedAt": "2026-11-18T09:18:47+08:00",
-        "lastSuccessAt": "2026-11-18T09:19:01+08:00",
+        "checkedAt": "2026-11-18T09:21:54+08:00",
+        "lastSuccessAt": "2026-11-18T09:22:01+08:00",
         "headBvids": [
           "BV1g9sc6pE2A",
           "BV1vvWe6SEip",
@@ -515,7 +519,7 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "error",
-        "checkedAt": "2026-11-18T09:19:01+08:00",
+        "checkedAt": "2026-11-18T09:22:01+08:00",
         "pending": [],
         "error": "动态暂未返回内容",
         "pagesFetched": 0,
@@ -530,12 +534,12 @@ window.IC_BILIBILI = {
         "woni"
       ],
       "platform": "bilibili",
-      "status": "error",
-      "checkedAt": "2026-11-18T09:19:20+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-18T09:22:14+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-18T09:19:07+08:00",
-        "lastSuccessAt": "2026-11-18T09:06:18+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T09:22:06+08:00",
+        "lastSuccessAt": "2026-11-18T09:22:08+08:00",
         "headBvids": [
           "BV19yWi6HEYh",
           "BV1McWE6ZEUm",
@@ -569,21 +573,23 @@ window.IC_BILIBILI = {
           "BV16Sud6UEMR"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 3,
         "total": 256,
-        "pagesFetched": []
+        "pagesFetched": [
+          1,
+          2
+        ],
+        "nextPage": 3,
+        "complete": false
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-18T09:19:14+08:00",
-        "lastSuccessAt": "2026-11-18T09:06:24+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-18T09:22:08+08:00",
+        "lastSuccessAt": "2026-11-18T09:22:14+08:00",
         "headId": "1270147680608190483",
-        "historyOffset": "1262418311437615107",
+        "historyOffset": "1249443833706446967",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 2,
         "videosAdded": 0
       }
     },
@@ -7609,6 +7615,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262416168210137093"
         }
       ]
     },
@@ -7628,6 +7639,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1262417499680407572"
         }
       ]
     },
@@ -7978,6 +7994,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261906866742493187"
         }
       ]
     },
@@ -8117,6 +8138,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1261952470664347683"
         }
       ]
     },
@@ -9805,6 +9831,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1260068259932143637"
         }
       ]
     },
@@ -10997,6 +11028,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258303487906676773"
         }
       ]
     },
@@ -11179,6 +11215,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1258233041893982216"
         }
       ]
     },
@@ -13277,6 +13318,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1255620035333849088"
         }
       ]
     },
@@ -15008,6 +15054,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1252258196901330946"
         }
       ]
     },
@@ -15261,6 +15312,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1251875588325507073"
         }
       ]
     },
@@ -15337,6 +15393,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1251964099049291825"
         }
       ]
     },
@@ -16842,6 +16903,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546595561834774",
           "kind": "upload"
+        },
+        {
+          "uid": "3546595561834774",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1249443833706446967"
         }
       ]
     },
