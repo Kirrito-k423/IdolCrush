@@ -12,7 +12,8 @@ const chapters = {
   gallery: ["高清画廊", "PHOTO & FILM", "浏览 4K 以上的写真原图与精选舞台视频。"],
   calendar: ["行程日历", "PUBLIC SCHEDULE", "在连续十二个月的日历中查看公开活动、回归与巡演时段。"],
   videos: ["视频档案", "VIDEO ARCHIVE", "按时间、专辑、回归期或巡演时段查找舞台与节目。"],
-  updates: ["账号更新", "CHANNEL ARCHIVE", "浏览关注的 B 站和 YouTube 账号发布的视频。"]
+  updates: ["账号更新", "CHANNEL ARCHIVE", "浏览关注的 B 站和 YouTube 账号发布的视频。"],
+  analytics: ["数据分析", "ARCHIVE IN NUMBERS", "查看全站和各位艺人的视频数量、分类及年代分布。"]
 };
 
 function assetPath(name) {
@@ -27,14 +28,14 @@ function assetPath(name) {
 }
 
 async function build(id, view) {
-  const directory = [id === "home" ? "" : id, chapters[view] ? view : ""].filter(Boolean);
+  const directory = view === "analytics" ? ["updates", "analytics"] : [id === "home" ? "" : id, chapters[view] ? view : ""].filter(Boolean);
   const base = directory.length ? "../".repeat(directory.length) : "./";
   const artist = artists[id];
   const chapter = chapters[view];
   const person = artist ? `${artist.name} ${artist.roman}` : "全站";
   const title = view === "home" ? "IDOLCRUSH · 追星影像档案" : `${person}${chapter ? " · " + chapter[0] : ""} · IDOLCRUSH`;
   const description = chapter ? person + "。" + chapter[2] : "喜爱的艺人、高清写真、年度公开行程与分类视频档案。";
-  const scope = artist ? `<a href="${base}${id}/index.html">${artist.name}</a>` : "全部艺人";
+  const scope = artist ? `<a href="${base}${id}/index.html">${artist.name}</a>` : view === "analytics" ? `<a href="${base}updates/">账号更新</a><span>/</span>数据分析` : "全部艺人";
   const artistLinks = Object.entries(artists).map(([key, a]) => `<a href="${base}${key}/index.html">${a.name}</a>`).join(" · ");
   const intro = chapter ? `<header class="chapter-intro wrap">
       <nav class="crumbs" aria-label="面包屑"><a href="${base}index.html#artists">艺人索引</a><span>/</span>${scope}</nav>
@@ -47,9 +48,10 @@ async function build(id, view) {
     "data/artists.js", ...Object.keys(artists).map(key => `data/photos/${key}.js`), "data/videos.js", "data/bilibili.js", "data/youtube.js",
     ...(["videos", "updates"].includes(view) ? ["data/video-resolution.js"] : []),
     ...(["home", "artist", "calendar"].includes(view) ? ["data/calendar.js"] : []),
-    ...(["calendar", "videos", "updates"].includes(view) ? ["data/periods.js"] : []),
+    ...(["calendar", "videos", "updates", "analytics"].includes(view) ? ["data/periods.js"] : []),
     "assets/catalog.js", "assets/viewer.js", "assets/site.js",
-    "assets/" + ({home: "landing", artist: "landing", calendar: "calendar-view", videos: "archive", updates: "archive", gallery: "gallery"})[view] + ".js"
+    ...(view === "analytics" ? ["assets/vendor/echarts-6.0.0/echarts.common.min.js", "assets/analytics-data.js", "assets/analytics.js"] :
+      ["assets/" + ({home: "landing", artist: "landing", calendar: "calendar-view", videos: "archive", updates: "archive", gallery: "gallery"})[view] + ".js"])
   ];
   const html = `<!doctype html>
 <html lang="zh-CN" data-page="${id}" data-view="${view}" data-base="${base}">
@@ -66,7 +68,7 @@ async function build(id, view) {
   <link rel="icon" type="image/svg+xml" href="${base}assets/mark.svg">
   <link rel="preload" href="${base}assets/fonts/barlow-condensed-800-italic.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="${base}${assetPath("assets/site.css")}">
-  <link rel="stylesheet" href="${base}${assetPath("assets/chapters.css")}">
+  <link rel="stylesheet" href="${base}${assetPath("assets/chapters.css")}">${view === "analytics" ? `\n  <link rel="stylesheet" href="${base}${assetPath("assets/analytics.css")}">` : ""}
   ${scripts.map(script => `<script defer src="${base}${assetPath(script)}"></script>`).join("\n  ")}
 </head>
 <body>
@@ -88,6 +90,7 @@ async function build(id, view) {
 await build("home", "home");
 await build("home", "calendar");
 await build("home", "updates");
+await build("home", "analytics");
 for (const id of Object.keys(artists)) {
   for (const view of ["artist", "gallery", "calendar", "videos"]) await build(id, view);
 }

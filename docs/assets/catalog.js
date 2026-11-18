@@ -44,6 +44,7 @@
   const page = root.dataset.page;
   const view = root.dataset.view;
   const path = (id = "home", section = "", suffix = "") => {
+    if (id === "home" && section === "analytics") return `${base}updates/analytics/${location.protocol === "file:" ? "index.html" : ""}${suffix}`;
     const directory = [id === "home" ? "" : id, section].filter(Boolean).map(part => part + "/").join("");
     return `${base}${directory}${location.protocol === "file:" ? "index.html" : ""}${suffix}`;
   };

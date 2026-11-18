@@ -100,7 +100,7 @@
     }).join("");
     const activeFilter = Boolean(category || album || range || year || pair || source || search || duration || quality);
     const choices = Object.entries({"": "全部视频", ...categories}).map(([key, label]) => `<button type="button" class="chip" data-category="${key}" aria-pressed="${category === key}">${label}</button>`).join("");
-    container.innerHTML = `<div class="archive-bar"><div class="chips" role="group" aria-label="视频类型">${choices}</div></div>
+    container.innerHTML = `${feedPage ? `<a class="archive-insights" href="${path("home", "analytics")}"><span><small>ARCHIVE IN NUMBERS</small><strong>看看这份追星档案有多大</strong><span>视频数量 · 艺人分布 · 分类统计</span></span><b>数据分析 ${icon("outward", 16)}</b></a>` : ""}<div class="archive-bar"><div class="chips" role="group" aria-label="视频类型">${choices}</div></div>
       <div class="archive-search"><label>${icon("search", 17)}<input type="search" data-field="search" value="${esc(search)}" placeholder="搜索视频标题、发布者或 CP" aria-label="搜索视频"></label>${!feedPage ? `<a class="text-link" href="${path("home", "updates")}">查看账号全部更新 ${icon("outward", 14)}</a>` : ""}</div>
       <div class="archive-controls">
         <label class="field-select"><span>专辑</span><select data-field="album">${option("", "全部专辑", album)}${albums.map(item => option(item, item, album)).join("")}</select></label>

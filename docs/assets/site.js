@@ -7,7 +7,7 @@
   const header = document.querySelector(".masthead");
   const logo = `<span class="brand-symbol">${mark}</span><span class="brand-name">IDOL<span>CRUSH</span></span>`;
   const navItems = home
-    ? [[path(), "首页", view === "home"], [path("home", "", "#artists"), "艺人索引", false], [path("home", "calendar"), "行程日历", view === "calendar"], [path("home", "updates"), "账号更新", view === "updates"]]
+    ? [[path(), "首页", view === "home"], [path("home", "", "#artists"), "艺人索引", false], [path("home", "calendar"), "行程日历", view === "calendar"], [path("home", "updates"), "账号更新", view === "updates"], [path("home", "analytics"), "数据分析", view === "analytics"]]
     : [[path(page), "艺人首页", view === "artist"], ...[["gallery", "高清画廊"], ["calendar", "行程日历"], ["videos", "视频档案"]].map(([key, label]) => [path(page, key), label, view === key])];
   const links = entries => entries.map(([href, name, active]) => `<a href="${href}" ${active ? 'aria-current="page"' : ""}>${name}</a>`).join("");
   header.innerHTML = `<div class="mast-inner wrap"><a class="brand" href="${path()}" aria-label="IDOLCRUSH 首页">${logo}</a>
