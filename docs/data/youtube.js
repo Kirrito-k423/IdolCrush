@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-19T05:40:44+08:00",
+  "updatedAt": "2026-11-19T20:57:00+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:36+08:00",
+      "checkedAt": "2026-11-19T20:56:52+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:36+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:52+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:37+08:00",
+      "checkedAt": "2026-11-19T20:56:53+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:37+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:53+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:38+08:00",
+      "checkedAt": "2026-11-19T20:56:54+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:38+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:54+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:39+08:00",
+      "checkedAt": "2026-11-19T20:56:55+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:39+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:55+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:40+08:00",
+      "checkedAt": "2026-11-19T20:56:56+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:40+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:56+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:41+08:00",
+      "checkedAt": "2026-11-19T20:56:57+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:41+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:57+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:42+08:00",
+      "checkedAt": "2026-11-19T20:56:58+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:42+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:58+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T05:40:43+08:00",
+      "checkedAt": "2026-11-19T20:56:59+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:43+08:00",
+      "lastSuccessAt": "2026-11-19T20:56:59+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,233 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-19T05:40:44+08:00",
+      "checkedAt": "2026-11-19T20:57:00+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T05:40:44+08:00",
+      "lastSuccessAt": "2026-11-19T20:57:00+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "yRwImzwPuuA",
+      "title": "이 영상 10번 넘게 보시면? 꿈에서 이 사람(?)이 나올 거예요ʚɞ | Hearts2Hearts 하츠투하츠 'Next Chapter’ MV BH2ND",
+      "date": "2026-11-19",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=yRwImzwPuuA",
+      "description": "Hearts2Hearts' new single \"Next Chapter\" is out!\nListen and download on your favorite platform: https://Hearts2Hearts.lnk.to/NextChapter\n\nArena of Valor's 10th Anniversary is coming! Celebrate with Hearts2Hearts ♡\n『Arena of Valor』 ©2026 Garena Arena of Valor\n\nSubscribe to Hearts2Hearts Official YouTube Channel!\nhttps://www.youtube.com/@hearts2hearts.official?sub_confirmation=1\n\nHearts2Hearts Official\nhttps://www.youtube.com/@hearts2hearts.official\nhttps://twitter.com/Hearts2Hearts\nhttps://www.instagram.com/hearts2hearts/\nhttps://www.tiktok.com/@hearts2hearts\nhttps://www.facebook.com/hearts2heartsH2H\nhttps://weibo.com/u/7971304015\n\nS2U (하츄) Official \nhttps://weverse.io/hearts2hearts/\n\n#Hearts2Hearts #하츠투하츠 #NextChapter \n#Hearts2Hearts_NextChapter #H2H \nHearts2Hearts 하츠투하츠 'Next Chapter' MV ℗© 2026 SM Entertainment, under exclusive license to UNIVERSAL MUSIC LLC",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "vyGkP0h6TJo",
+      "title": "#SUNGCHAN 님도 𝐬𝐭𝐚𝐲 𝐮𝐩 𝐚𝐥𝐥 𝐧𝐢𝐠𝐡𝐭 #LovesickChallenge 🦌🍿 #ITZY #CHAERYEONG #RIIZE",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=vyGkP0h6TJo",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "uimf1XEv_Ow",
+      "title": "더 활짝 피어나 🌺ㅣRESCENE (리센느) ‘PULSE’ Dance Practice Behind",
+      "date": "2026-11-19",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=uimf1XEv_Ow",
+      "description": "더 활짝 피어나 🌺ㅣRESCENE (리센느) ‘PULSE’ Dance Practice Behind\n4th Mini Album [PULSE]  http://rescene.lnk.to/PULSE\n\nRESCENE Plus Chat: https://artist.mnetplus.world/main/stg/rescene-official\nRESCENE Instagram: https://www.instagram.com/rescene_official\nRESCENE X: https://twitter.com/RESCENEofficial\nRESCENE Facebook: https://www.facebook.com/RESCENE.official\nRESCENE TikTok: https://www.tiktok.com/@rescene_official\nRESCENE Weibo: https://weibo.com/rescene\n\n#RESCENE #리센느 #リセンヌ\n#PULSE",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "shruvmYiMZ4",
+      "title": "우리들의 🧩​Puzzle Piece를 완성할 #LovesickChallenge #ITZY #CHAERYEONG #KickFlip #Donghyeon @kickflip_jype",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=shruvmYiMZ4",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "rJX7gN6_oFg",
+      "title": "( ˙꒳​˙ ≡ ˙꒳​˙ ) 🎶 #ITZY #수확여행 #ITZY_Harvestrip",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=rJX7gN6_oFg",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "ie64qUkMKC0",
+      "title": "disneyyyy 🎄✨ #IVE #아이브 #JANGWONYOUNG #장원영 #Shorts",
+      "date": "2026-11-19",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=ie64qUkMKC0",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "iW26ZSbEG5c",
+      "title": "did you understand desuka? #Hearts2Hearts #하츠투하츠 #H2H #CARMEN #STELLA",
+      "date": "2026-11-19",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=iW26ZSbEG5c",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "_gOTUebsnUg",
+      "title": "자작곡 #Hearts2Hearts #하츠투하츠 #H2H #IAN #이안",
+      "date": "2026-11-19",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=_gOTUebsnUg",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "ZAechq-bK-M",
+      "title": "𝓐𝓭𝓭𝓲𝓬𝓽𝓮𝓭 𝓽𝓸 #LovesickChallenge 🪄 #ITZY #CHAERYEONG #TWICE #JIHYO",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=ZAechq-bK-M",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "W3zW4pI64AM",
+      "title": "아니 도와달라고 #체포하겠어 #You_re_Under_Arrest #ILLIT",
+      "date": "2026-11-19",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=W3zW4pI64AM",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "SqU87UBLv-g",
+      "title": "[Harvestrip] EP.3 | Here comes the competitive devil",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=SqU87UBLv-g",
+      "description": "[Harvestrip] EP.3 | Here comes the competitive devil\n\nITZY 'Motto'\nhttps://itzy.lnk.to/Motto\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #있지 #수확여행\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "SKezErn6z_8",
+      "title": "아기돼지들의 하루 🐽 #체포하겠어 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-19",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=SKezErn6z_8",
+      "description": "#ILLIT #아일릿 \n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "RifN36z35mk",
+      "title": "Forever Young, Forever Fit #IVE #아이브 #JANGWONYOUNG #장원영 #Shorts",
+      "date": "2026-11-19",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=RifN36z35mk",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "QvG0FcuT14E",
+      "title": "CHAERYEONG 'Lovesick' Dance Practice BEHIND",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=QvG0FcuT14E",
+      "description": "CHAERYEONG 'Lovesick' Dance Practice BEHIND\n\nCHAERYEONG 'Lovesick'\nhttp://CHAERYEONG.lnk.to/Lovesick\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #채령 #Chaeryeong_Lovesick\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "LmQgbEkJe_g",
+      "title": "Love 💔",
+      "date": "2026-11-19",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=LmQgbEkJe_g",
+      "description": "#WONI #원이 #ウォニ\n#MINAMI #미나미 #ミナミ\n#RESCENE #리센느 #リセンヌ \n#challenge",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "FwgX5NirbZc",
+      "title": "#장용훈 님에게 빠져들지 Do you? @IDID_starship",
+      "date": "2026-11-19",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=FwgX5NirbZc",
+      "description": "#LIV #리브 \n#RESCENE #리센느\n#IDID #아이딧 \n#백화요란",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "A3Mn9-xhi4o",
+      "title": "더 가까이와🌹🧲 ˎˊ- #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #LovesickChallenge #Shorts",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=A3Mn9-xhi4o",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "32LQLoQoLfY",
+      "title": "1000% style #체포하겠어 #You_re_Under_Arrest #ILLIT",
+      "date": "2026-11-19",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=32LQLoQoLfY",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "3-l48CyGw_U",
+      "title": "MEOVV(미야오) - ‘GO HARD’ 활동 비하인드 #2",
+      "date": "2026-11-19",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=3-l48CyGw_U",
+      "description": "MEOVV(미야오) - ‘GO HARD’ 활동 비하인드 #2\n\nSingle Album [GO HARD]\n∙ http://MEOVV.lnk.to/GOHARD ∙\n\nMore about MEOVV @\nhttps://www.youtube.com/@MEOVV_OFFICIAL\nhttps://www.instagram.com/meovv\nhttps://www.facebook.com/MEOVV.OFFICIAL/\nhttps://www.tiktok.com/@meovv_official\nhttps://x.com/OFFICIAL_MEOVV\nhttps://weibo.com/u/7941496139\nhttps://download.churrrrr.io/\n\n#MEOVV #미야오\n#GOHARD #MEOVV_GOHARD\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "2NoJe5P2tPk",
+      "title": "#체포하겠어 🚨 with @ATEEZofficial #SEONGHWA #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-19",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=2NoJe5P2tPk",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
     {
       "youtube": "vtq-_cWbpLI",
       "title": "수능 응원하겠어🍀",
