@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-19T20:57:00+08:00",
+  "updatedAt": "2026-11-20T05:56:24+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:52+08:00",
+      "checkedAt": "2026-11-20T05:56:16+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:52+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:16+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:53+08:00",
+      "checkedAt": "2026-11-20T05:56:17+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:53+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:17+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:54+08:00",
+      "checkedAt": "2026-11-20T05:56:18+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:54+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:18+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:55+08:00",
+      "checkedAt": "2026-11-20T05:56:19+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:55+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:19+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:56+08:00",
+      "checkedAt": "2026-11-20T05:56:20+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:56+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:20+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:57+08:00",
+      "checkedAt": "2026-11-20T05:56:21+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:57+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:21+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:58+08:00",
+      "checkedAt": "2026-11-20T05:56:22+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:58+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:22+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-19T20:56:59+08:00",
+      "checkedAt": "2026-11-20T05:56:23+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:56:59+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:23+08:00",
       "recentCount": 15
     },
     {
@@ -123,9 +123,9 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-19T20:57:00+08:00",
+      "checkedAt": "2026-11-20T05:56:24+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-19T20:57:00+08:00",
+      "lastSuccessAt": "2026-11-20T05:56:24+08:00",
       "recentCount": 15
     }
   ],
@@ -139,6 +139,17 @@ window.IC_YOUTUBE = {
       "description": "Hearts2Hearts' new single \"Next Chapter\" is out!\nListen and download on your favorite platform: https://Hearts2Hearts.lnk.to/NextChapter\n\nArena of Valor's 10th Anniversary is coming! Celebrate with Hearts2Hearts ♡\n『Arena of Valor』 ©2026 Garena Arena of Valor\n\nSubscribe to Hearts2Hearts Official YouTube Channel!\nhttps://www.youtube.com/@hearts2hearts.official?sub_confirmation=1\n\nHearts2Hearts Official\nhttps://www.youtube.com/@hearts2hearts.official\nhttps://twitter.com/Hearts2Hearts\nhttps://www.instagram.com/hearts2hearts/\nhttps://www.tiktok.com/@hearts2hearts\nhttps://www.facebook.com/hearts2heartsH2H\nhttps://weibo.com/u/7971304015\n\nS2U (하츄) Official \nhttps://weverse.io/hearts2hearts/\n\n#Hearts2Hearts #하츠투하츠 #NextChapter \n#Hearts2Hearts_NextChapter #H2H \nHearts2Hearts 하츠투하츠 'Next Chapter' MV ℗© 2026 SM Entertainment, under exclusive license to UNIVERSAL MUSIC LLC",
       "sources": [
         "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "wJqPzHrMdwc",
+      "title": "Gimme that K팝스타 #LovesickChallenge ❤️‍🔥#ITZY #CHAERYEONG #P1Harmony #종섭 #shorts @P1Harmonyofficial",
+      "date": "2026-11-19",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=wJqPzHrMdwc",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
       ]
     },
     {
