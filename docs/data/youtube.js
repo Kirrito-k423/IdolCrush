@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-20T20:49:36+08:00",
+  "updatedAt": "2026-11-20T22:07:18+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:29+08:00",
+      "checkedAt": "2026-11-20T22:07:11+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:29+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:11+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:30+08:00",
+      "checkedAt": "2026-11-20T22:07:12+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:30+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:12+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:31+08:00",
+      "checkedAt": "2026-11-20T22:07:13+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:31+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:13+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:32+08:00",
+      "checkedAt": "2026-11-20T22:07:14+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:32+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:14+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:33+08:00",
+      "checkedAt": "2026-11-20T22:07:14+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:33+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:15+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:33+08:00",
+      "checkedAt": "2026-11-20T22:07:15+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:34+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:16+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:34+08:00",
+      "checkedAt": "2026-11-20T22:07:16+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:35+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:16+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T20:49:35+08:00",
+      "checkedAt": "2026-11-20T22:07:17+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:36+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:17+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,24 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-20T20:49:36+08:00",
+      "checkedAt": "2026-11-20T22:07:18+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T20:49:36+08:00",
+      "lastSuccessAt": "2026-11-20T22:07:18+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "zfky3wm_K5A",
+      "title": "돌격 하투하 at MAMA #Hearts2Hearts #하츠투하츠 #H2H",
+      "date": "2026-11-20",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=zfky3wm_K5A",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
     {
       "youtube": "v28D3JCv22I",
       "title": "Presented by ILLIT 💌 D-5 #YUNAH #MINJU",
@@ -139,6 +150,17 @@ window.IC_YOUTUBE = {
       "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
       "sources": [
         "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "ug7nQ5Ye5Oo",
+      "title": "려우인 척 ^._.^ฅ ♡ #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #Shorts",
+      "date": "2026-11-20",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=ug7nQ5Ye5Oo",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
       ]
     },
     {
@@ -164,6 +186,17 @@ window.IC_YOUTUBE = {
       ]
     },
     {
+      "youtube": "cHgYaKdIAws",
+      "title": "back to the keys 🎹 #Hearts2Hearts #하츠투하츠 #H2H#YUHA #유하",
+      "date": "2026-11-20",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=cHgYaKdIAws",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
       "youtube": "apit9F1k8aM",
       "title": "lo lo lo love me on #나폴리맛피아 님과 #LovesickChallenge 💘 #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick",
       "date": "2026-11-20",
@@ -172,6 +205,17 @@ window.IC_YOUTUBE = {
       "description": "",
       "sources": [
         "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "XKo65ZqapTU",
+      "title": "Hearts2Hearts 하츠투하츠 'Intro + ICONIC HEART + Dance Break (2026 MAMA Ver.)' Performance Practice",
+      "date": "2026-11-20",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=XKo65ZqapTU",
+      "description": "Subscribe to Hearts2Hearts Official YouTube Channel!\nhttps://www.youtube.com/@hearts2hearts.official?sub_confirmation=1\n\nHearts2Hearts Official\nhttps://www.youtube.com/@hearts2hearts.official\nhttps://twitter.com/Hearts2Hearts\nhttps://www.instagram.com/hearts2hearts/\nhttps://www.tiktok.com/@hearts2hearts\nhttps://www.facebook.com/hearts2heartsH2H\nhttps://weibo.com/u/7971304015\n\nS2U (하츄) Official \nhttps://weverse.io/hearts2hearts/\n\n#Hearts2Hearts #하츠투하츠 #ICONICHEART\n#Hearts2Hearts_ICONICHEART #H2H #2026MAMA",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
       ]
     },
     {
@@ -194,6 +238,17 @@ window.IC_YOUTUBE = {
       "description": "",
       "sources": [
         "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "HSE0mZr5RwE",
+      "title": "#2026MAMA 🏆 ​⁠#2026MAMAAWARDS #ILLIT #아일릿",
+      "date": "2026-11-20",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=HSE0mZr5RwE",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
       ]
     },
     {
