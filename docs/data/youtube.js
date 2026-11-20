@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-20T18:12:48+08:00",
+  "updatedAt": "2026-11-20T20:49:36+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:39+08:00",
+      "checkedAt": "2026-11-20T20:49:29+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:40+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:29+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:40+08:00",
+      "checkedAt": "2026-11-20T20:49:30+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:40+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:30+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:41+08:00",
+      "checkedAt": "2026-11-20T20:49:31+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:41+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:31+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:42+08:00",
+      "checkedAt": "2026-11-20T20:49:32+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:43+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:32+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:43+08:00",
+      "checkedAt": "2026-11-20T20:49:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:43+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:33+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:44+08:00",
+      "checkedAt": "2026-11-20T20:49:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:44+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:34+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:45+08:00",
+      "checkedAt": "2026-11-20T20:49:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:46+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:35+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T18:12:46+08:00",
+      "checkedAt": "2026-11-20T20:49:35+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:47+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:36+08:00",
       "recentCount": 15
     },
     {
@@ -123,9 +123,9 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-20T18:12:47+08:00",
+      "checkedAt": "2026-11-20T20:49:36+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T18:12:48+08:00",
+      "lastSuccessAt": "2026-11-20T20:49:36+08:00",
       "recentCount": 15
     }
   ],
@@ -164,6 +164,17 @@ window.IC_YOUTUBE = {
       ]
     },
     {
+      "youtube": "apit9F1k8aM",
+      "title": "lo lo lo love me on #나폴리맛피아 님과 #LovesickChallenge 💘 #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick",
+      "date": "2026-11-20",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=apit9F1k8aM",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
       "youtube": "UbWJPh1gEz0",
       "title": "나를 부르는 echo🔊 ꒰ 𝐖𝐢𝐭𝐡 ꒱ #산 선배님@ATEEZofficial",
       "date": "2026-11-20",
@@ -172,6 +183,17 @@ window.IC_YOUTUBE = {
       "description": "#ZENA #제나 \n#RESCENE #리센느\n#ATEEZ #에이티즈 \n#With #With_challenge",
       "sources": [
         "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "TfiT8p--XeI",
+      "title": "#다혜 선배님과 #채령 의 #LovesickChallenge 가 좋더라 (•ᴗ-˶)✧₊♡ #ITZY #CHAERYEONG #BESTie #Dahye",
+      "date": "2026-11-20",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=TfiT8p--XeI",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
       ]
     },
     {
@@ -192,6 +214,17 @@ window.IC_YOUTUBE = {
       "publisher": "ITZY · YouTube",
       "source": "https://www.youtube.com/watch?v=GNBFtWEaGxs",
       "description": "[TOUR-LOG] EP14 (FINAL) #ITZY #SINGAPORE | ITZY 3RD WORLD TOUR ‘TUNNEL VISION’\n\nCHAERYEONG 'Lovesick'\nhttp://CHAERYEONG.lnk.to/Lovesick\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #WORLDTOUR #SINGAPORE\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "Eb4Ce4yLhcU",
+      "title": "POV: Your favorite song hits but you stay cool-ryeong🎧#ITZY #채령 #Chaeryeong_Lovesick #shorts",
+      "date": "2026-11-20",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=Eb4Ce4yLhcU",
+      "description": "",
       "sources": [
         "yt:UCDhM2k2Cua-JdobAh5moMFg"
       ]
