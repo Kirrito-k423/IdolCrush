@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-20T22:07:18+08:00",
+  "updatedAt": "2026-11-21T05:39:13+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:11+08:00",
+      "checkedAt": "2026-11-21T05:39:06+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:11+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:06+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:12+08:00",
+      "checkedAt": "2026-11-21T05:39:07+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:12+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:07+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:13+08:00",
+      "checkedAt": "2026-11-21T05:39:08+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:13+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:08+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:14+08:00",
+      "checkedAt": "2026-11-21T05:39:09+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:14+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:09+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:14+08:00",
+      "checkedAt": "2026-11-21T05:39:10+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:15+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:10+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:15+08:00",
+      "checkedAt": "2026-11-21T05:39:10+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:16+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:10+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:16+08:00",
+      "checkedAt": "2026-11-21T05:39:11+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:16+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:11+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-20T22:07:17+08:00",
+      "checkedAt": "2026-11-21T05:39:12+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:17+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:12+08:00",
       "recentCount": 15
     },
     {
@@ -123,9 +123,9 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-20T22:07:18+08:00",
+      "checkedAt": "2026-11-21T05:39:13+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-20T22:07:18+08:00",
+      "lastSuccessAt": "2026-11-21T05:39:13+08:00",
       "recentCount": 15
     }
   ],
@@ -172,6 +172,28 @@ window.IC_YOUTUBE = {
       "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
       "sources": [
         "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "rzFp-zIzSAw",
+      "title": "print(\"thank you S2U🏆\") #Hearts2Hearts #하츠투하츠 #H2H #MAMAAWARDS #2026MAMAAWARDS",
+      "date": "2026-11-20",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=rzFp-zIzSAw",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "pX9FBx4JyAM",
+      "title": "[IVE ON] LEESEO X Eau de Caribe BEHIND",
+      "date": "2026-11-20",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=pX9FBx4JyAM",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
       ]
     },
     {
@@ -238,6 +260,28 @@ window.IC_YOUTUBE = {
       "description": "",
       "sources": [
         "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "LCmamzbqVK4",
+      "title": "스물셋 Covered by IVE LIZ",
+      "date": "2026-11-20",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=LCmamzbqVK4",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "I1_MgHVO5pQ",
+      "title": "붕어빵 먹을 때 된 거 같아요:)",
+      "date": "2026-11-20",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=I1_MgHVO5pQ",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
       ]
     },
     {
