@@ -1,5 +1,5 @@
 window.IC_CALENDAR = {
-  "checkedAt": "2026-11-19",
+  "checkedAt": "2026-11-20",
   "curatedAt": "2026-11-17",
   "sources": [
     {
@@ -9,8 +9,8 @@ window.IC_CALENDAR = {
       "url": "https://ive-official.jp/mob/news/diarKiji.php?site=DIVE&cd=SCHEDULE",
       "topic": "节目",
       "checkedAt": "2026-11-19",
-      "attemptedAt": "2026-11-19",
-      "status": "ok"
+      "attemptedAt": "2026-11-20",
+      "status": "stale"
     },
     {
       "id": "ive-releases",
@@ -19,8 +19,8 @@ window.IC_CALENDAR = {
       "url": "https://ive-official.jp/mob/news/diarKiji.php?site=DIVE&cd=DISCOGRAPHY",
       "topic": "发行",
       "checkedAt": "2026-11-19",
-      "attemptedAt": "2026-11-19",
-      "status": "ok"
+      "attemptedAt": "2026-11-20",
+      "status": "stale"
     },
     {
       "id": "illit-shows",
@@ -28,8 +28,8 @@ window.IC_CALENDAR = {
       "publisher": "ILLIT 日本官网",
       "url": "https://illit-official.jp/schedule",
       "topic": "节目",
-      "checkedAt": "2026-11-19",
-      "attemptedAt": "2026-11-19",
+      "checkedAt": "2026-11-20",
+      "attemptedAt": "2026-11-20",
       "status": "ok"
     },
     {
@@ -38,8 +38,8 @@ window.IC_CALENDAR = {
       "publisher": "环球音乐日本",
       "url": "https://www.universal-music.co.jp/meovv/news/",
       "topic": "节目",
-      "checkedAt": "2026-11-19",
-      "attemptedAt": "2026-11-19",
+      "checkedAt": "2026-11-20",
+      "attemptedAt": "2026-11-20",
       "status": "ok"
     },
     {
@@ -48,8 +48,8 @@ window.IC_CALENDAR = {
       "publisher": "环球音乐日本",
       "url": "https://www.universal-music.co.jp/meovv/discography/",
       "topic": "发行",
-      "checkedAt": "2026-11-19",
-      "attemptedAt": "2026-11-19",
+      "checkedAt": "2026-11-20",
+      "attemptedAt": "2026-11-20",
       "status": "ok"
     },
     {
@@ -58,8 +58,8 @@ window.IC_CALENDAR = {
       "publisher": "ILLIT 日本官网",
       "url": "https://illit-official.jp/discography",
       "topic": "发行",
-      "checkedAt": "2026-11-19",
-      "attemptedAt": "2026-11-19",
+      "checkedAt": "2026-11-20",
+      "attemptedAt": "2026-11-20",
       "status": "ok"
     },
     {
@@ -68,8 +68,8 @@ window.IC_CALENDAR = {
       "publisher": "SBS",
       "url": "https://programs.sbs.co.kr/enter/gayo/vods/54767",
       "topic": "节目",
-      "checkedAt": "2026-11-19",
-      "attemptedAt": "2026-11-19",
+      "checkedAt": "2026-11-20",
+      "attemptedAt": "2026-11-20",
       "status": "ok"
     }
   ],
