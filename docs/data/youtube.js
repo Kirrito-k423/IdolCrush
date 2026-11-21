@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-21T05:39:13+08:00",
+  "updatedAt": "2026-11-21T12:25:41+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:06+08:00",
+      "checkedAt": "2026-11-21T12:25:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:06+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:34+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:07+08:00",
+      "checkedAt": "2026-11-21T12:25:35+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:07+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:35+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:08+08:00",
+      "checkedAt": "2026-11-21T12:25:36+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:08+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:36+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:09+08:00",
+      "checkedAt": "2026-11-21T12:25:37+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:09+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:37+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:10+08:00",
+      "checkedAt": "2026-11-21T12:25:37+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:10+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:38+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:10+08:00",
+      "checkedAt": "2026-11-21T12:25:38+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:10+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:38+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:11+08:00",
+      "checkedAt": "2026-11-21T12:25:39+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:11+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:39+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T05:39:12+08:00",
+      "checkedAt": "2026-11-21T12:25:40+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:12+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:40+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,46 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-21T05:39:13+08:00",
+      "checkedAt": "2026-11-21T12:25:41+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T05:39:13+08:00",
+      "lastSuccessAt": "2026-11-21T12:25:41+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "iwr8b5VV1-0",
+      "title": "MEOVV 🤝 no na",
+      "date": "2026-11-21",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=iwr8b5VV1-0",
+      "description": "MEOVV 🤝 no na\n\n#MEOVV #미야오\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "H61xjsPAjLs",
+      "title": "how to pop pop poppin’ #Hearts2Hearts #하츠투하츠 #H2H#CandyBoxLover #Hearts2Hearts_CandyBoxLover",
+      "date": "2026-11-21",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=H61xjsPAjLs",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "FjrWFT5NsCE",
+      "title": "𝐀𝐋𝐋 𝐘𝐎𝐔 𝐍𝐄𝐄𝐃 𝐈𝐒 𝐀𝐇! 💫₊˚🎇🎉​#ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #shorts",
+      "date": "2026-11-21",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=FjrWFT5NsCE",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
     {
       "youtube": "zfky3wm_K5A",
       "title": "돌격 하투하 at MAMA #Hearts2Hearts #하츠투하츠 #H2H",
