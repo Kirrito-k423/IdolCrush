@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-21T12:25:41+08:00",
+  "updatedAt": "2026-11-21T20:34:40+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:34+08:00",
+      "checkedAt": "2026-11-21T20:34:32+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:34+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:32+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:35+08:00",
+      "checkedAt": "2026-11-21T20:34:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:35+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:33+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:36+08:00",
+      "checkedAt": "2026-11-21T20:34:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:36+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:34+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:37+08:00",
+      "checkedAt": "2026-11-21T20:34:35+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:37+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:35+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:37+08:00",
+      "checkedAt": "2026-11-21T20:34:36+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:38+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:36+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:38+08:00",
+      "checkedAt": "2026-11-21T20:34:37+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:38+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:37+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:39+08:00",
+      "checkedAt": "2026-11-21T20:34:38+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:39+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:38+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-21T12:25:40+08:00",
+      "checkedAt": "2026-11-21T20:34:39+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:40+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:39+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,46 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-21T12:25:41+08:00",
+      "checkedAt": "2026-11-21T20:34:39+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-21T12:25:41+08:00",
+      "lastSuccessAt": "2026-11-21T20:34:40+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "zvpw5jpgZ2U",
+      "title": "MAMA 🏆🤍#IVE #아이브 #MAMAAWARDS #2026MAMA #2026MAMAAWARDS #Shorts",
+      "date": "2026-11-21",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=zvpw5jpgZ2U",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "sjWBG844WGU",
+      "title": "not exactly but.. #Hearts2Hearts #하츠투하츠 #H2H#CandyBoxLover #Hearts2Hearts_CandyBoxLover",
+      "date": "2026-11-21",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=sjWBG844WGU",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "rapDWp7niRo",
+      "title": "𝑂ℎ 𝑚𝑦 ℎ𝑒𝑎𝑟𝑡 (◞♥ꈍ∇ꈍ)◞♥ #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #LovesickChallenge #shorts",
+      "date": "2026-11-21",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=rapDWp7niRo",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
     {
       "youtube": "iwr8b5VV1-0",
       "title": "MEOVV 🤝 no na",
@@ -139,6 +172,83 @@ window.IC_YOUTUBE = {
       "description": "MEOVV 🤝 no na\n\n#MEOVV #미야오\n#THEBLACKLABEL #더블랙레이블",
       "sources": [
         "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "aFiJ_0Om4LM",
+      "title": "파트 바꾸기 #체포하겠어 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-21",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=aFiJ_0Om4LM",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "WtFEEBWjeNs",
+      "title": "🦋🦋🦋 #ITZY #CHAERYEONG #채령#진실혹은대담",
+      "date": "2026-11-21",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=WtFEEBWjeNs",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "UbLhjKciZhA",
+      "title": "령수종 령자님 복복복🫳💗 #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #Chaeryeong_MoonlitClub #shorts",
+      "date": "2026-11-21",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=UbLhjKciZhA",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "TUYyp3RMPGA",
+      "title": "2026 MAMA 🏆❤️",
+      "date": "2026-11-21",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=TUYyp3RMPGA",
+      "description": "#RESCENE #리센느 #リセンヌ \n#challenge",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "QkglQRtsXCE",
+      "title": "[vlog] 제주부터 강원도까지 먹방 브이로그🍴 (With 에이나, 예온)ㅣ제주도 여행・수영장 달리기・흑돼지 먹방・속초에서 물회 한 그릇・행복해지는 소원빌기ㅣ어느 주은 날 EP.2",
+      "date": "2026-11-21",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=QkglQRtsXCE",
+      "description": "Stay tuned for more holiday vlogs! 📹\n\nHearts2Hearts' 1st Japan Single \"ICONIC HEART\" is out! \nListen and download on your favorite platform: https://lnk.to/H2H_ICONICHEART\n\n🪄 'ICONIC HEART' MV  https://youtu.be/chl0R8C4NJ8\n\nSubscribe to Hearts2Hearts Official YouTube Channel!\nhttps://www.youtube.com/@hearts2hearts.official?sub_confirmation=1\n\nHearts2Hearts Official\nhttps://www.youtube.com/@hearts2hearts.official\nhttps://twitter.com/Hearts2Hearts\nhttps://www.instagram.com/hearts2hearts/\nhttps://www.tiktok.com/@hearts2hearts\nhttps://www.facebook.com/hearts2heartsH2H\nhttps://weibo.com/u/7971304015\n\n#Hearts2Hearts #하츠투하츠 #H2H \n#JUUN #주은 #VLOG \n#어느_주은_날",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "N6OjbDZjB3g",
+      "title": "맛있게 #체포하겠어 🚨 with #맛있는녀석들 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-21",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=N6OjbDZjB3g",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "J2Z4ygM0naI",
+      "title": "#바다 님에게 빠져들지 Do you? @Bada_bebe",
+      "date": "2026-11-21",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=J2Z4ygM0naI",
+      "description": "#MINAMI #미나미 \n#ZENA #제나 \n#RESCENE #리센느\n#백화요란",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
       ]
     },
     {
@@ -153,6 +263,17 @@ window.IC_YOUTUBE = {
       ]
     },
     {
+      "youtube": "H2imHSvYzbQ",
+      "title": "나를 부르는 echo🔊 ꒰ 𝐖𝐢𝐭𝐡 ꒱ #엄지 선배님@EHSBUJ.official",
+      "date": "2026-11-21",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=H2imHSvYzbQ",
+      "description": "#LIV #리브 \n#RESCENE #리센느\n#With #With_challenge",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
       "youtube": "FjrWFT5NsCE",
       "title": "𝐀𝐋𝐋 𝐘𝐎𝐔 𝐍𝐄𝐄𝐃 𝐈𝐒 𝐀𝐇! 💫₊˚🎇🎉​#ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #shorts",
       "date": "2026-11-21",
@@ -161,6 +282,39 @@ window.IC_YOUTUBE = {
       "description": "",
       "sources": [
         "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "8L63OqeO_M8",
+      "title": "잘 놀았다 #whatsinmydrafts",
+      "date": "2026-11-21",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=8L63OqeO_M8",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "3BVH9sgwC9o",
+      "title": "#2026MAMA DanceBreak #2026MAMAAWARDS #ILLIT #아일릿",
+      "date": "2026-11-21",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=3BVH9sgwC9o",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "1lGvHyI8_SI",
+      "title": "#kdrama",
+      "date": "2026-11-21",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=1lGvHyI8_SI",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
       ]
     },
     {
