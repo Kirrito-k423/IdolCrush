@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-21T05:41:46+08:00",
+  "updatedAt": "2026-11-21T12:27:31+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -8,12 +8,13 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-21T05:39:27+08:00",
+      "checkedAt": "2026-11-21T12:25:52+08:00",
       "uploads": {
         "status": "partial",
-        "checkedAt": "2026-11-21T05:39:07+08:00",
-        "lastSuccessAt": "2026-11-21T05:39:21+08:00",
+        "checkedAt": "2026-11-21T12:25:36+08:00",
+        "lastSuccessAt": "2026-11-21T12:25:50+08:00",
         "headBvids": [
+          "BV1uWyhzPEEW",
           "BV1a1ysz9ESr",
           "BV193sq6oEND",
           "BV1vpyxzbEHb",
@@ -42,25 +43,22 @@ window.IC_BILIBILI = {
           "BV1rqWM6pEFZ",
           "BV1RCW46cEaY",
           "BV185Wb6fEhS",
-          "BV1pxW46CEYW",
-          "BV1EUWH6pE69"
+          "BV1pxW46CEYW"
         ],
         "pending": [],
         "error": "HTTP 412",
         "nextPage": 50,
-        "total": 1478,
+        "total": 1479,
         "pagesFetched": [
-          1,
-          48,
-          49
+          1
         ]
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:39:21+08:00",
-        "lastSuccessAt": "2026-11-21T05:39:27+08:00",
-        "headId": "1272796266635460615",
-        "historyOffset": "1237746872544657442",
+        "checkedAt": "2026-11-21T12:25:50+08:00",
+        "lastSuccessAt": "2026-11-21T12:25:52+08:00",
+        "headId": "1273001248285523973",
+        "historyOffset": "1235914892897157144",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -74,10 +72,10 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-21T05:39:44+08:00",
+      "checkedAt": "2026-11-21T12:26:03+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-21T05:39:27+08:00",
+        "status": "error",
+        "checkedAt": "2026-11-21T12:25:52+08:00",
         "lastSuccessAt": "2026-11-21T05:39:38+08:00",
         "headBvids": [
           "BV1ypyszzE2b",
@@ -115,21 +113,17 @@ window.IC_BILIBILI = {
         "error": "HTTP 412",
         "nextPage": 28,
         "total": 2172,
-        "pagesFetched": [
-          1,
-          27
-        ]
+        "pagesFetched": []
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-21T05:39:38+08:00",
-        "lastSuccessAt": "2026-11-20T22:07:31+08:00",
-        "headId": "1272701137445715991",
-        "historyOffset": "1208168021145681928",
+        "status": "ok",
+        "checkedAt": "2026-11-21T12:25:59+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:03+08:00",
+        "headId": "1272814421465366532",
+        "historyOffset": "1202592608129384448",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 2,
         "videosAdded": 0
       }
     },
@@ -139,12 +133,12 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/17379944/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "ok",
-      "checkedAt": "2026-11-21T05:39:55+08:00",
+      "status": "partial",
+      "checkedAt": "2026-11-21T12:26:22+08:00",
       "uploads": {
-        "status": "ok",
-        "checkedAt": "2026-11-21T05:39:44+08:00",
-        "lastSuccessAt": "2026-11-21T05:39:47+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-21T12:26:03+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:18+08:00",
         "headBvids": [
           "BV1CsyszMETJ",
           "BV1Lfsa6JEmp",
@@ -178,22 +172,19 @@ window.IC_BILIBILI = {
           "BV1bbnU6gEtZ"
         ],
         "pending": [],
+        "error": "HTTP 412",
+        "nextPage": 39,
         "total": 2021,
         "pagesFetched": [
-          1,
-          36,
-          37,
-          38
-        ],
-        "nextPage": 39,
-        "complete": false
+          1
+        ]
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:39:47+08:00",
-        "lastSuccessAt": "2026-11-21T05:39:55+08:00",
+        "checkedAt": "2026-11-21T12:26:18+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:22+08:00",
         "headId": "1272820846780481537",
-        "historyOffset": "1253931829671493635",
+        "historyOffset": "1252367452266823686",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -207,11 +198,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-21T05:40:09+08:00",
+      "checkedAt": "2026-11-21T12:26:36+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:39:55+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:03+08:00",
+        "checkedAt": "2026-11-21T12:26:22+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:25+08:00",
         "headBvids": [
           "BV18QyszDEpA",
           "BV1DFsS6XEuh",
@@ -255,8 +246,8 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "partial",
-        "checkedAt": "2026-11-21T05:40:03+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:09+08:00",
+        "checkedAt": "2026-11-21T12:26:25+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:36+08:00",
         "headId": "1272790124845858852",
         "historyOffset": "1116576924478472212",
         "historyComplete": false,
@@ -273,11 +264,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-21T05:40:22+08:00",
+      "checkedAt": "2026-11-21T12:26:45+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:40:09+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:18+08:00",
+        "checkedAt": "2026-11-21T12:26:36+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:44+08:00",
         "headBvids": [
           "BV1fRyxziEPR",
           "BV14cytzHEZG",
@@ -314,19 +305,19 @@ window.IC_BILIBILI = {
         "total": 1119,
         "pagesFetched": [
           1,
-          29,
-          30,
-          31
+          31,
+          32,
+          33
         ],
-        "nextPage": 32,
+        "nextPage": 34,
         "complete": false
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:40:18+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:22+08:00",
+        "checkedAt": "2026-11-21T12:26:44+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:45+08:00",
         "headId": "1272905217124335619",
-        "historyOffset": "1240200862235623432",
+        "historyOffset": "1238273676004032536",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -343,11 +334,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-21T05:40:32+08:00",
+      "checkedAt": "2026-11-21T12:26:49+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:40:22+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:30+08:00",
+        "checkedAt": "2026-11-21T12:26:45+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:47+08:00",
         "headBvids": [
           "BV1vEyWzWE64",
           "BV1LnWz6vEQS",
@@ -391,10 +382,10 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:40:30+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:32+08:00",
+        "checkedAt": "2026-11-21T12:26:47+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:49+08:00",
         "headId": "1272806686274355225",
-        "historyOffset": "1172783778483929093",
+        "historyOffset": "1168346218288381959",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -410,11 +401,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-21T05:40:54+08:00",
+      "checkedAt": "2026-11-21T12:26:56+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:40:32+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:50+08:00",
+        "checkedAt": "2026-11-21T12:26:49+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:54+08:00",
         "headBvids": [
           "BV1GxWq6sEd6",
           "BV1GUsH6jEwa",
@@ -451,19 +442,19 @@ window.IC_BILIBILI = {
         "total": 468,
         "pagesFetched": [
           1,
-          8,
-          9,
-          10
+          10,
+          11,
+          12
         ],
-        "nextPage": 11,
+        "nextPage": 13,
         "complete": false
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:40:50+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:54+08:00",
+        "checkedAt": "2026-11-21T12:26:54+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:56+08:00",
         "headId": "1271538820495441924",
-        "historyOffset": "1185586217000894512",
+        "historyOffset": "1176943054881292320",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -478,12 +469,12 @@ window.IC_BILIBILI = {
         "anna"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-21T05:41:07+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-21T12:26:59+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:40:54+08:00",
-        "lastSuccessAt": "2026-11-21T05:40:58+08:00",
+        "checkedAt": "2026-11-21T12:26:56+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:57+08:00",
         "headBvids": [
           "BV13Fsb6AEBe",
           "BV1g9sc6pE2A",
@@ -526,15 +517,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-21T05:40:58+08:00",
-        "lastSuccessAt": "2026-11-21T05:41:07+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-21T12:26:57+08:00",
+        "lastSuccessAt": "2026-11-21T12:26:59+08:00",
         "headId": "1272358403325296726",
-        "historyOffset": "1210034974737039378",
+        "historyOffset": "1205269186690940929",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 1,
+        "pagesFetched": 2,
         "videosAdded": 0
       }
     },
@@ -547,11 +537,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-21T05:41:18+08:00",
+      "checkedAt": "2026-11-21T12:27:09+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:41:07+08:00",
-        "lastSuccessAt": "2026-11-21T05:41:13+08:00",
+        "checkedAt": "2026-11-21T12:26:59+08:00",
+        "lastSuccessAt": "2026-11-21T12:27:00+08:00",
         "headBvids": [
           "BV15pyWzDETw",
           "BV19yWi6HEYh",
@@ -594,15 +584,15 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-21T05:41:13+08:00",
-        "lastSuccessAt": "2026-11-20T22:11:17+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-21T12:27:00+08:00",
+        "lastSuccessAt": "2026-11-21T12:27:09+08:00",
         "headId": "1272737906631376896",
         "historyOffset": "1136927755083972646",
         "historyComplete": false,
         "pending": [],
         "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -615,11 +605,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-21T05:41:40+08:00",
+      "checkedAt": "2026-11-21T12:27:27+08:00",
       "uploads": {
-        "status": "ok",
-        "checkedAt": "2026-11-21T05:41:18+08:00",
-        "lastSuccessAt": "2026-11-21T05:41:34+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-21T12:27:09+08:00",
+        "lastSuccessAt": "2026-11-21T12:27:23+08:00",
         "headBvids": [
           "BV1Aasq6VEqE",
           "BV1Rqsh6yE6p",
@@ -653,26 +643,22 @@ window.IC_BILIBILI = {
           "BV1wrxs6kETb"
         ],
         "pending": [],
+        "error": "HTTP 412",
+        "nextPage": 15,
         "total": 662,
         "pagesFetched": [
-          1,
-          12,
-          13,
-          14
-        ],
-        "nextPage": 15,
-        "complete": false
+          1
+        ]
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-21T05:41:34+08:00",
-        "lastSuccessAt": "2026-11-20T22:11:45+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-21T12:27:23+08:00",
+        "lastSuccessAt": "2026-11-21T12:27:27+08:00",
         "headId": "1272683961844236320",
-        "historyOffset": "1214466685188177925",
+        "historyOffset": "1205192008228929632",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 2,
         "videosAdded": 0
       }
     },
@@ -684,12 +670,12 @@ window.IC_BILIBILI = {
         "oa"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-21T05:41:46+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-21T12:27:31+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-21T05:41:40+08:00",
-        "lastSuccessAt": "2026-11-21T05:41:41+08:00",
+        "checkedAt": "2026-11-21T12:27:27+08:00",
+        "lastSuccessAt": "2026-11-21T12:27:28+08:00",
         "headBvids": [
           "BV1BxWe6dE2E",
           "BV1DExp6UEoN",
@@ -710,20 +696,43 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-21T05:41:41+08:00",
-        "lastSuccessAt": "2026-11-20T22:11:29+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-21T12:27:28+08:00",
+        "lastSuccessAt": "2026-11-21T12:27:31+08:00",
         "headId": "1270116408938725458",
         "historyOffset": "",
         "historyComplete": true,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     }
   ],
   "videos": [
+    {
+      "bvid": "BV1uWyhzPEEW",
+      "title": "【Hearts2Hearts】how to pop pop poppin’",
+      "date": "2026-11-21",
+      "publisher": "Hearts2Hearts 官号",
+      "source": "https://www.bilibili.com/video/BV1uWyhzPEEW/",
+      "cover": "https://i2.hdslb.com/bfs/archive/cb1bad5c60c9733cb47bf9b2a73b53aaa0bf2989.jpg",
+      "duration": "0:12",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1273001248285523973"
+        }
+      ]
+    },
     {
       "bvid": "BV1mLysz5ENK",
       "title": "【崔志宇 JIWOO】Hearts2Hearts 261120丨大阪 MAMA 2026 颁奖典礼 Day1 8K直拍合集",
@@ -836,6 +845,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1272814421465366532"
         }
       ]
     },
@@ -15944,6 +15958,11 @@ window.IC_BILIBILI = {
         {
           "uid": "17379944",
           "kind": "upload"
+        },
+        {
+          "uid": "17379944",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1253531878084837393"
         }
       ]
     },
@@ -16419,6 +16438,11 @@ window.IC_BILIBILI = {
         {
           "uid": "17379944",
           "kind": "upload"
+        },
+        {
+          "uid": "17379944",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1252683536099442706"
         }
       ]
     },
@@ -16510,6 +16534,11 @@ window.IC_BILIBILI = {
         {
           "uid": "17379944",
           "kind": "upload"
+        },
+        {
+          "uid": "17379944",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1252647686013714457"
         }
       ]
     },
@@ -16615,6 +16644,11 @@ window.IC_BILIBILI = {
         {
           "uid": "17379944",
           "kind": "upload"
+        },
+        {
+          "uid": "17379944",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1252397194924785668"
         }
       ]
     },
@@ -23490,6 +23524,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239724872486092871"
         }
       ]
     },
@@ -23533,6 +23572,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239439055250259974"
         }
       ]
     },
@@ -23552,6 +23596,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239731349266366482"
         }
       ]
     },
@@ -23619,6 +23668,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239686243546038297"
         }
       ]
     },
@@ -23734,6 +23788,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239723364909580307"
         }
       ]
     },
@@ -23777,6 +23836,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239259194893271095"
         }
       ]
     },
@@ -23796,6 +23860,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239411670554509318"
         }
       ]
     },
@@ -23834,6 +23903,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239424426622058513"
         }
       ]
     },
@@ -23853,6 +23927,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239306757415632913"
         }
       ]
     },
@@ -23896,6 +23975,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239418933323235333"
         }
       ]
     },
@@ -23915,6 +23999,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1239254693765447700"
         }
       ]
     },
@@ -24505,6 +24594,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1238273676004032536"
         }
       ]
     },
@@ -25171,6 +25265,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1237074280649326601"
         }
       ]
     },
@@ -25190,6 +25289,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1236997005556842520"
         }
       ]
     },
@@ -25252,6 +25356,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1237120709223776327"
         }
       ]
     },
@@ -25434,6 +25543,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1236023126036316196"
         }
       ]
     },
@@ -25529,6 +25643,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1236022915572432933"
         }
       ]
     },
@@ -25548,6 +25667,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1235992202249764880"
         }
       ]
     },
@@ -25567,6 +25691,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1235914892897157144"
         }
       ]
     },
@@ -25586,6 +25715,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1235961025131446291"
         }
       ]
     },
@@ -25605,6 +25739,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1235961278533468197"
         }
       ]
     },
@@ -25624,6 +25763,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1235976529912004677"
         }
       ]
     },
@@ -25643,6 +25787,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1236007453730013234"
         }
       ]
     },
@@ -25662,6 +25811,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1235992026181271559"
         }
       ]
     },
@@ -35893,6 +36047,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1213065752782831622"
         }
       ]
     },
@@ -36194,6 +36353,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1212242617998245894"
         }
       ]
     },
@@ -36442,6 +36606,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1211856002167603201"
         }
       ]
     },
@@ -36900,6 +37069,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1210391658889216023"
         }
       ]
     },
@@ -37158,6 +37332,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1209284871559577649"
         }
       ]
     },
@@ -37201,6 +37380,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1209258406008848438"
         }
       ]
     },
@@ -37287,6 +37471,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1208919644747857976"
         }
       ]
     },
@@ -37378,6 +37567,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1208887338014343190"
         }
       ]
     },
@@ -37592,6 +37786,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1208067875387998228"
         }
       ]
     },
@@ -37730,6 +37929,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207789621634662440"
         }
       ]
     },
@@ -37773,6 +37977,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207865513718317113"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207697447390806019"
         }
       ]
     },
@@ -37892,6 +38106,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207866785016053778"
         }
       ]
     },
@@ -38025,6 +38244,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207495699892011059"
         }
       ]
     },
@@ -38063,6 +38287,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207011064370167813"
         }
       ]
     },
@@ -38082,6 +38311,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207131409327587350"
         }
       ]
     },
@@ -38101,6 +38335,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1207124618993729545"
         }
       ]
     },
@@ -38168,6 +38407,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1206660809775644721"
         }
       ]
     },
@@ -38206,6 +38450,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1206621867313463304"
         }
       ]
     },
@@ -38225,6 +38474,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1206676336093954052"
         }
       ]
     },
@@ -38244,6 +38498,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1206402776739872786"
         }
       ]
     },
@@ -38420,6 +38679,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1206011363489480792"
         }
       ]
     },
@@ -38477,6 +38741,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1205411055876964360"
         }
       ]
     },
@@ -38515,6 +38784,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1205964105950691332"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1205646862447542294"
         }
       ]
     },
@@ -38672,6 +38951,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1205269193095643190"
         }
       ]
     },
@@ -38767,6 +39051,11 @@ window.IC_BILIBILI = {
         {
           "uid": "1185017133",
           "kind": "upload"
+        },
+        {
+          "uid": "1185017133",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1205192008228929632"
         }
       ]
     },
@@ -39505,6 +39794,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1203024686134329344"
         }
       ]
     },
@@ -39591,6 +39885,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1202625619248021526"
         }
       ]
     },
@@ -39610,6 +39909,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1202597560259182598"
         }
       ]
     },
@@ -39667,6 +39971,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1202592608129384448"
         }
       ]
     },
@@ -46018,6 +46327,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1184426623070371861"
         }
       ]
     },
@@ -46308,6 +46622,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1183653520327311394"
         }
       ]
     },
@@ -46327,6 +46646,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1183623842101198881"
         }
       ]
     },
@@ -46441,6 +46765,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1183622557956308996"
         }
       ]
     },
@@ -46460,6 +46789,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1183627703285186585"
         }
       ]
     },
@@ -46522,6 +46856,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1183626419140296729"
         }
       ]
     },
@@ -46579,6 +46918,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1183625126320537640"
         }
       ]
     },
@@ -47379,6 +47723,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1181829052577611894"
         }
       ]
     },
@@ -47793,6 +48142,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1180715758434385939"
         }
       ]
     },
@@ -47969,6 +48323,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1180360148052344854"
         }
       ]
     },
@@ -49049,6 +49408,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1177762577587896344"
         }
       ]
     },
@@ -49344,6 +49708,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1176943054881292320"
         }
       ]
     },
@@ -52003,6 +52372,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1172520926464442389"
         }
       ]
     },
@@ -52212,6 +52586,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1172523099694825481"
         }
       ]
     },
@@ -52307,6 +52686,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1172227146399088657"
         }
       ]
     },
@@ -52483,6 +52867,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1171856061220519970"
         }
       ]
     },
@@ -52773,6 +53162,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1171407700984070180"
         }
       ]
     },
@@ -53272,6 +53666,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1170371720525119513"
         }
       ]
     },
@@ -53310,6 +53709,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1170309937404837984"
         }
       ]
     },
@@ -53429,6 +53833,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1170000639647809587"
         }
       ]
     },
@@ -53619,6 +54028,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1169938869410332752"
         }
       ]
     },
@@ -53700,6 +54114,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1169567741341859840"
         }
       ]
     },
@@ -54413,6 +54832,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1168516294654296080"
         }
       ]
     },
@@ -54451,6 +54875,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1168346218288381959"
         }
       ]
     },
@@ -100329,6 +100758,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1qmoWY7EQe",
+      "title": "1ST DEBUT ANNIVERSARY | Silhouette Quiz | Unreleased pictures 📸 | ILLIT 记忆森林",
+      "date": "2025-03-25",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1qmoWY7EQe/",
+      "cover": "https://i0.hdslb.com/bfs/archive/84576afc0bcb11dad5d86da070ec9cce6040ca93.jpg",
+      "duration": "33:48",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1kkoxYbE7g",
       "title": "【ITZY】[ITZY?ITZY!] EP 191 l LIA Trick Kode",
       "date": "2025-03-25",
@@ -100438,6 +100886,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1GFomYBELG",
+      "title": "想见GLLIT的话就制作一个节目吧 ▶ ILLIT 'SUPER ILLIT' EP.15",
+      "date": "2025-03-24",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1GFomYBELG/",
+      "cover": "https://i2.hdslb.com/bfs/archive/adeb604e0d571642109823f0beb2176950cf663a.jpg",
+      "duration": "29:31",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -101013,6 +101480,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1feXVYrEwY",
+      "title": "Hong-dae chase | ILLIT in a Internet Cafe | ILLIT 'SUPER ILLIT' EP.13~14 Behind",
+      "date": "2025-03-19",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1feXVYrEwY/",
+      "cover": "https://i0.hdslb.com/bfs/archive/b0ba428a0871a0ab38a3dcb3bccdeadaeb8bcad2.jpg",
+      "duration": "8:13",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1Y9QoY9EY7",
       "title": "【Hearts2Hearts】今天的风格是AI 𖠌𖥔‧₊˚ | Hearts2Hearts《The Chase》MV BH2ND #2",
       "date": "2025-03-19",
@@ -101407,6 +101893,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546595561834774",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1VoQiYwEQ4",
+      "title": "ILLIT联盟 ▶ ILLIT 'SUPER ILLIT' EP.14",
+      "date": "2025-03-17",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1VoQiYwEQ4/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3bfb74652163a91a895efb7e4e803b4bd0355a24.jpg",
+      "duration": "29:53",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -102305,6 +102810,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV18YQJYCEDx",
+      "title": "WONHEE's Recording-LOG",
+      "date": "2025-03-12",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV18YQJYCEDx/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e162aad3a3dd08ab0e3677c246f999abc8af0047.jpg",
+      "duration": "0:59",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV163QJYZEJz",
       "title": "【Hearts2Hearts】(„•֊•„)(˶• ⁻̫•˵) zooom",
       "date": "2025-03-12",
@@ -102628,6 +103152,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1wARVYDEcr",
+      "title": "ILLIT Almond Chocolate (Korean Ver.) Performance Video",
+      "date": "2025-03-10",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1wARVYDEcr/",
+      "cover": "https://i2.hdslb.com/bfs/archive/89380339e0f2ef10e31539f09c7f505b3dea68cb.jpg",
+      "duration": "3:27",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1r2RVYnETq",
       "title": "【张元英】卷毛小狗奔赴巴黎时装周 | 250310 仁川机场新闻饭拍合集 (已更至22P)",
       "date": "2025-03-10",
@@ -102699,6 +103242,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1RERVYzEPs",
+      "title": "再见喽 姐姐们 ^^~♥ ▶ ILLIT 'SUPER ILLIT' EP.13",
+      "date": "2025-03-10",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1RERVYzEPs/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3f3ca963681383a1e338263040401fa1d78e5372.jpg",
+      "duration": "24:31",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -103426,6 +103988,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1u79dY7Ept",
+      "title": "Winter Athletics Championships | Back to the childhood | 'SUPER ILLIT' 11~12 BTS",
+      "date": "2025-03-05",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1u79dY7Ept/",
+      "cover": "https://i2.hdslb.com/bfs/archive/cb2d1b9ce5faeae3801218c9bb3504b322154696.jpg",
+      "duration": "11:00",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1rc9tYsEtt",
       "title": "【Hearts2Hearts】我的一半💔",
       "date": "2025-03-05",
@@ -103858,6 +104439,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546824314980440",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tS9BYaEvj",
+      "title": "ILLIT是我生的就好了...! ▶ ILLIT 'SUPER ILLIT' EP.12",
+      "date": "2025-03-03",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1tS9BYaEvj/",
+      "cover": "https://i2.hdslb.com/bfs/archive/6721ec68a38bf1e37c2301589798181bfcedabb5.jpg",
+      "duration": "36:37",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -104471,6 +105071,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV18T9MYUEfc",
+      "title": "ILLIT OFFICIAL LIGHT STICK TEASER",
+      "date": "2025-02-28",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV18T9MYUEfc/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f7848d61a724886de5b81f26dfc092394fe7d49a.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1479gYSEz1",
       "title": "【Hearts2Hearts】Getting ready for our first trip to Jejuᯓ✈︎ S2cret Diary ꒰ EP.1 ꒱",
       "date": "2025-02-28",
@@ -104851,6 +105470,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1V8Pae7EeP",
+      "title": "'Tick-Tack' One Breath Challenge Behind | ILLIT [BESIDE-IT]",
+      "date": "2025-02-26",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1V8Pae7EeP/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f9d1a6cfefcc6d027437bf0486527acfb424853f.jpg",
+      "duration": "2:30",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1FpPVegEMy",
       "title": "【IVE】在线回应中文花名！希望MV本人part出现什么弹幕？【声音速写ep100】",
       "date": "2025-02-26",
@@ -105193,6 +105831,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1PhPWeyE92",
+      "title": "宁愿冻死 也还是ILLIT ▶ ILLIT 'SUPER ILLIT' EP.11",
+      "date": "2025-02-24",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1PhPWeyE92/",
+      "cover": "https://i0.hdslb.com/bfs/archive/c00b3ad6d892991f5d947631c46a45f6e8d97e2a.jpg",
+      "duration": "29:12",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1G8AZeJER3",
       "title": "[IVE ON] 2024 MAMA AWARDS BEHIND #2",
       "date": "2025-02-24",
@@ -105440,6 +106097,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1ZGPTeQEQ9",
+      "title": "SUPER ILLIT is back! 👁️ 和我的朋友MINJU一起",
+      "date": "2025-02-22",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1ZGPTeQEQ9/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ff79e086a21f1bef07723d1100efcc39a4fd66e5.jpg",
+      "duration": "0:39",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1TyPuezEaz",
       "title": "Hearts2Hearts《The Chase》MV Teaser",
       "date": "2025-02-22",
@@ -105573,6 +106249,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1d6AoeXEY2",
+      "title": "Do whatever MAKNAE want | IROHA LOVERS CLUB | Video call | The Night of ILLIT",
+      "date": "2025-02-21",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1d6AoeXEY2/",
+      "cover": "https://i2.hdslb.com/bfs/archive/17897f930c954bf217710d136d64c9a6ddfc47ad.jpg",
+      "duration": "25:34",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1FwPceKEFD",
       "title": "【官方中字】给自己猫咪造型起名Marie丨［IVE ON］'REBEL HEART' 第一周BEHIND元英cut 250221",
       "date": "2025-02-21",
@@ -105625,6 +106320,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14cAZeuEhW",
+      "title": "SUPER ILLIT is back! 🎮 和我的朋友YUNAH一起",
+      "date": "2025-02-21",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV14cAZeuEhW/",
+      "cover": "https://i2.hdslb.com/bfs/archive/595c5e852c389dcda53100b0f49109533b9dc746.jpg",
+      "duration": "0:39",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -105706,6 +106420,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1ayAne5EBj",
+      "title": "SUPER ILLIT is back! 💪🏻 和我的朋友IROHA一起",
+      "date": "2025-02-20",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1ayAne5EBj/",
+      "cover": "https://i1.hdslb.com/bfs/archive/fa9ff1eb128fb63a209dc35a3005eb2b5d3c738c.jpg",
+      "duration": "0:39",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1UjApe3E6x",
       "title": "【张元英】𝐖𝐚𝐧𝐧𝐚 𝐛𝐞 𝐲𝐨𝐮𝐫 𝐥𝐨𝐯𝐞 𝐟𝐨𝐨𝐥 ❄",
       "date": "2025-02-20",
@@ -105758,6 +106491,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1bWA6e8EeD",
+      "title": "SUPER ILLIT is back! ☕️ 和我的朋友MOKA一起",
+      "date": "2025-02-19",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1bWA6e8EeD/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8ae22e4bdb80f8e66ec66cf6f441fed1ce30e0ad.jpg",
+      "duration": "0:39",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -105872,6 +106624,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1185017133",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1jiAaeJEct",
+      "title": "SUPER ILLIT is back! 🤭 和我的朋友WONHEE一起",
+      "date": "2025-02-18",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1jiAaeJEct/",
+      "cover": "https://i0.hdslb.com/bfs/archive/a2630ee9dba5b7d25358349ca76e8d026107debb.jpg",
+      "duration": "0:38",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -106100,6 +106871,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1PRwdehEQ1",
+      "title": "ILLIT 'I'LL LIKE IT! 2' [未公开特辑] 二刷就趁现在!",
+      "date": "2025-02-17",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1PRwdehEQ1/",
+      "cover": "https://i1.hdslb.com/bfs/archive/b3ff1f0979863958b132f72066982c07f7d2fc66.jpg",
+      "duration": "11:08",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -106846,6 +107636,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1q1KVe3E9S",
+      "title": "Year-End Music Show & Awards Behind | ILLIT [BEHIND-IT]",
+      "date": "2025-02-12",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1q1KVe3E9S/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f39480ba16c3be30fc2b2375cd3eb3ef260a5c9a.jpg",
+      "duration": "20:56",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1hFKjezEfD",
       "title": "【Hearts2Hearts】Hearts2Hearts《The Chase》Moving Clip #A-NA",
       "date": "2025-02-12",
@@ -107473,6 +108282,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV183NZeJEQ8",
+      "title": "ILLIT 'I'LL LIKE IT! 2' EP.3 可爱ILLIT拯救世界",
+      "date": "2025-02-10",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV183NZeJEQ8/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f5535cf62b1516c4c63f26071081f9315d2ab5d2.jpg",
+      "duration": "28:49",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV147NZeLEmd",
       "title": "【Hearts2Hearts】🔳🔳🔳🔳🔳🔳🔳🔳🔳",
       "date": "2025-02-10",
@@ -107943,6 +108771,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1txN8eKEPQ",
+      "title": "'V12 TIGERS Festa' Behind | ILLIT [BESIDE-IT]",
+      "date": "2025-02-07",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1txN8eKEPQ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/db53572182d23bc3366a60c5d048271fa5619f7c.jpg",
+      "duration": "4:42",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -108461,6 +109308,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1kkPqeCEFZ",
+      "title": "Zombie Apocalypse Roleplay | Cherish Music Show Backstage | ILLIT [BESIDE-IT]",
+      "date": "2025-02-05",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1kkPqeCEFZ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/bf48ab1701d3736a01822f637b0da3e2e56dea2b.jpg",
+      "duration": "1:31",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1ejP2epEjH",
       "title": "面对说出lucky bxxch发癫的网综的辛辣刺激 女王元英即使出故障打不起精神也还是回答 ｜GABEE GIRL综艺 250205",
       "date": "2025-02-05",
@@ -108779,6 +109645,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV12yPReKEyd",
+      "title": "ILLIT 'I'LL LIKE IT! 2' EP.2 吉祥物大田 ✷ 但混入了说谎者...",
+      "date": "2025-02-03",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV12yPReKEyd/",
+      "cover": "https://i2.hdslb.com/bfs/archive/2c9f82292494c0871fdf87c83ea2b38a99fd0a56.jpg",
+      "duration": "27:28",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -109145,6 +110030,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1rnFFebEtv",
+      "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 新春期间收听有助于年糕汤消化的 Kpop & Pop 歌单 ᕷ₊·ᩚ. | ILLIT [PLAY-IT]",
+      "date": "2025-01-30",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1rnFFebEtv/",
+      "cover": "https://i2.hdslb.com/bfs/archive/2e0b85dac8103151b11fab58bfab852a61ff48b1.jpg",
+      "duration": "1:02:52",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1cuF5ePEVT",
       "title": "【张元英】出道曲来袭 | 250129 M台 年末 ELEVEN 怼脸直拍 (含4K现场版舞台)",
       "date": "2025-01-30",
@@ -109235,6 +110139,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1185017133",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fCfsYdEQa",
+      "title": "ILLIT 2025 新春问候 🤍",
+      "date": "2025-01-29",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1fCfsYdEQa/",
+      "cover": "https://i1.hdslb.com/bfs/archive/131d45d8e63039cfda5fdb043b93963a33300de3.jpg",
+      "duration": "1:24",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -109354,6 +110277,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1Fuf6YKEXT",
+      "title": "新春赌上年糕汤的五姐妹家庭斗争开始🥊 | 用石子儿能击倒石碑吗? | 与众不同的踢毽子 & 射箭游戏 | ILLIT 抓福抓福 抓福吧!",
+      "date": "2025-01-28",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1Fuf6YKEXT/",
+      "cover": "https://i0.hdslb.com/bfs/archive/79d7978f42cdb2997bae647c1cd666fc781ccb4a.jpg",
+      "duration": "33:54",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV17ffJY3EaC",
       "title": "B站的朋友们！金蛇狂舞春添彩，连年喜气开门来！新年快乐！",
       "date": "2025-01-28",
@@ -109406,6 +110348,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546595561834774",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1WZFFePESB",
+      "title": "ILLIT 'I'LL LIKE IT! 2' EP.1 被骗去旅行 ✷ 吃播 大田吃播",
+      "date": "2025-01-27",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1WZFFePESB/",
+      "cover": "https://i0.hdslb.com/bfs/archive/1fc56ad4cad336de65211b28cc90268d1ba08d94.jpg",
+      "duration": "27:06",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -109962,6 +110923,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV195wpeUErJ",
+      "title": "[VERIFY-IT] Is it true? one's height is same as one's length of both arms| ILLIT",
+      "date": "2025-01-21",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV195wpeUErJ/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c9541912d8d487bb9154fa1fdbba6e89e63ba18f.jpg",
+      "duration": "0:56",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1oGwsefEDW",
       "title": "【张元英】麻花辫怼脸真是神迹 | 250118 音中 REBEL HEART初舞台怼脸直拍 (含4K舞台)",
       "date": "2025-01-20",
@@ -109995,6 +110975,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11YwpeiENW",
+      "title": "ILLIT 'I'LL LIKE IT! 2' TEASER ILLIT的寒假",
+      "date": "2025-01-20",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV11YwpeiENW/",
+      "cover": "https://i0.hdslb.com/bfs/archive/6d9aa3a5f280e7ffcb63c3f49b266a1adf382ad9.jpg",
+      "duration": "0:47",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -110242,6 +111241,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1EQwPerEnp",
+      "title": "WONHEE's PJ Party | Zombie & Attendance Game | The Night of ILLIT",
+      "date": "2025-01-18",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1EQwPerEnp/",
+      "cover": "https://i1.hdslb.com/bfs/archive/fc212ff03b4e2beed7ed1b3903505c0df127365e.jpg",
+      "duration": "22:39",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -110608,6 +111626,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1RJcneCEqP",
+      "title": "ILLIT The 39th GDA 'Intro & Cherish (My Love) (Moonlight Remix)' Dance Practice",
+      "date": "2025-01-10",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1RJcneCEqP/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3964ccce710b058a397e8171d45208ae867d08e1.jpg",
+      "duration": "3:53",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV19scnegEFn",
       "title": "【金韶情 Sowon】GFRIEND 十周年回归曲 'Season of Memories' 4K直拍合集 (持更ing",
       "date": "2025-01-10",
@@ -110817,6 +111854,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1aKraYWEbf",
+      "title": "2nd Mini Album 'I'LL LIKE YOU' Dance Challenge Behind | ILLIT [BEHIND-IT]",
+      "date": "2025-01-08",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1aKraYWEbf/",
+      "cover": "https://i1.hdslb.com/bfs/archive/ce1a3d3a20ba7a4b97dd25917a5eccc0053d1c00.jpg",
+      "duration": "21:40",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1HhraYTEPg",
       "title": "【塔咩中字】“下周竟然就要开始活动了”IVE REI直播 250108",
       "date": "2025-01-08",
@@ -110850,6 +111906,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1U8rQYzERG",
+      "title": "Best New Female Artist Winner🏆 | 2024 MAMA AWARDS in LA | ILLIT [BEHIND-IT]",
+      "date": "2025-01-07",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1U8rQYzERG/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f8fd70d4f8cb55d3b72eda83c2883a75b01f24af.jpg",
+      "duration": "12:14",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -110945,6 +112020,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1SHrPYzELP",
+      "title": "ILLIT的2025新年问候",
+      "date": "2025-01-06",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1SHrPYzELP/",
+      "cover": "https://i2.hdslb.com/bfs/archive/61cf434cec47253ae28588df9277e63a91d21b89.jpg",
+      "duration": "0:30",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Pgr5YZEZP",
+      "title": "ILLIT 2024 SBS 歌谣大典 'IYKYK (If You Know You Know)' Dance Practice",
+      "date": "2025-01-06",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1Pgr5YZEZP/",
+      "cover": "https://i1.hdslb.com/bfs/archive/fc20fad9e7436a943e689dec770400dfe697938a.jpg",
+      "duration": "2:05",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -111140,6 +112253,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1c36BYHEQh",
+      "title": "【申有娜 Yuna】241225 ITZY SBS歌谣大战 ‘Imaginary Friend + Mr.Vampire’ 自制4K HDR竖屏直拍",
+      "date": "2025-01-02",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1c36BYHEQh/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0a14a4acce0641ccc6f6e917278b15f3a7e6f17f.jpg",
+      "duration": "12:53",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1WD6BY9EDS",
       "title": "【RESCENE】[Re-log] in LA📸 #3",
       "date": "2025-01-02",
@@ -111154,6 +112286,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546595561834774",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV17P6rYXEMW",
+      "title": "【金玟庭 Winter】240922 aespa演唱会澳门场 Armageddon 4K直拍",
+      "date": "2025-01-02",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV17P6rYXEMW/",
+      "cover": "https://i2.hdslb.com/bfs/archive/65795a5c2dbde50364b3c760f71d2aa6f9db5468.jpg",
+      "duration": "2:53",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV13U6ZYoEao",
+      "title": "【申有娜 Yuna】241231 ITZY BGC新年演唱会 ‘Imaginary Friend + Gold + Wannabe...’ 直拍cut 合集",
+      "date": "2025-01-02",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV13U6ZYoEao/",
+      "cover": "https://i2.hdslb.com/bfs/archive/6a206ce47e4db02f66c2b9ed296aa33aea6d2017.jpg",
+      "duration": "18:38",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -111273,6 +112443,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1Vr6WYeEim",
+      "title": "WOOAH师妹团！【SEOJIN】 PROJECT H 241225 SBS歌谣大战‘Whiplash + Deja Vu + I AM 等’直拍",
+      "date": "2024-12-28",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1Vr6WYeEim/",
+      "cover": "https://i1.hdslb.com/bfs/archive/4badc64366f34201ceef1338b929de21b306578f.jpg",
+      "duration": "6:14",
+      "description": "ytb\nGOT ME GOOD + Deja Vu + Walk + I AM + Whiplash + 我最红 + Ante Up'  Cover直拍",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1UmCbY1E8W",
       "title": "【渡边麻友】独镜直拍 合集",
       "date": "2024-12-28",
@@ -111292,6 +112481,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1yACpYHEwY",
+      "title": "【徐多贤 Dahyun】241220 triples KBS音乐银行全球盛典 ‘Girls Never Die + First Love合作舞台’直拍合集",
+      "date": "2024-12-27",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1yACpYHEwY/",
+      "cover": "https://i1.hdslb.com/bfs/archive/9c522b39b6f760d8f8941e7aa0c8f7adbcb3ffd5.jpg",
+      "duration": "3:51",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1skCpYREyG",
+      "title": "【金祉攸/金旼祉 Jiu】Dreamcatcher 241224-25 ‘7 Doors of Christmas’圣诞节主题演唱会 首尔场 4K直拍合集",
+      "date": "2024-12-27",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1skCpYREyG/",
+      "cover": "https://i1.hdslb.com/bfs/archive/cdfd7996f547faa45961f9ac34a3eb85d5d0167e.jpg",
+      "duration": "13:49",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV17ZCpYyEr8",
       "title": "CATCH MEOVV | EP.3",
       "date": "2024-12-27",
@@ -111306,6 +112533,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546751115987218",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1u8CaYREQM",
+      "title": "【林知言 Jiun】241221 BEWAVE ENJ舞蹈派对 ‘Hard to get to you' 路演+随机舞蹈 直拍合集",
+      "date": "2024-12-26",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1u8CaYREQM/",
+      "cover": "https://i2.hdslb.com/bfs/archive/efa09e8f5ec23c50e10901dc2026c3886c5cd515.jpg",
+      "duration": "12:56",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -111368,6 +112614,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1AyCaYLEPz",
+      "title": "【嘉味元琴音 Kotone】241220 triples KBS音乐银行全球盛典 ‘Girls Never Die + First Love合作舞台’直拍合集",
+      "date": "2024-12-26",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1AyCaYLEPz/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0687772e41908e02bdc4e18ecfa4fade2ef6d340.jpg",
+      "duration": "23:16",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV12nCvYtEZM",
       "title": "【张元英】241225 IVE 圣诞物料视频合集",
       "date": "2024-12-26",
@@ -111382,6 +112647,82 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11WCvYxEHf",
+      "title": "【刘知珉/柳智敏 Karina】241225 aespa SBS歌谣大战 ‘Supernova + Pink Hoodie’ 4K直拍合集",
+      "date": "2024-12-26",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV11WCvYxEHf/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6af2ad0b35de947a75d358376913d62e2bcc3679.jpg",
+      "duration": "11:38",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1hDCYYFEHR",
+      "title": "【朴慜柱 Minju】241219 ILLIT KBS音乐银行全球盛典 ‘Magnetic + Tick-Tack + Dance break‘ 直拍合集",
+      "date": "2024-12-25",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1hDCYYFEHR/",
+      "cover": "https://i2.hdslb.com/bfs/archive/832235af8ceb5b677370328d9b100a7c72fdefe1.jpg",
+      "duration": "6:05",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1UTkoYXEAA",
+      "title": "年末高马尾面姐！【赵美延 Miyeon】241220 (G)I-DLE KBS音乐银行全球盛典 ‘Revenge + Super Lady’ 自制4K竖屏直拍",
+      "date": "2024-12-25",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1UTkoYXEAA/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e446fcef4236eeccfe6c73119e0d693c426d6dfb.jpg",
+      "duration": "20:00",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1SgCYY4EmL",
+      "title": "【金玟庭 Winter】241225 aespa SBS歌谣大战 ‘Pink Hoodie’ 直拍合集",
+      "date": "2024-12-25",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1SgCYY4EmL/",
+      "cover": "https://i2.hdslb.com/bfs/archive/cf79bac5941165608ae52633617b6afe3d7e4e7f.jpg",
+      "duration": "17:00",
+      "description": "ytb/X",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -111425,6 +112766,63 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1CWCYYmEWo",
+      "title": "【崔有真 Yujin】Kepler✖️UNIS✖️Triples合作舞台 ‘First Love (Clon)' 4K直拍 ｜KBS音乐银行全球盛典",
+      "date": "2024-12-25",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1CWCYYmEWo/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f4b1474dd96f7e81fb44859b82b3a266de541762.jpg",
+      "duration": "4:15",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV18ykoYtEmN",
+      "title": "【朴莳恩 Sieun】241219 STAYC KBS音乐银行全球盛典 ‘Mr.(KARA) + GPT + ASAP + Teddy Bear‘ 直拍合集",
+      "date": "2024-12-25",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV18ykoYtEmN/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ebc89ad4fcbeb7da35dc316ce17dad1900218a7d.jpg",
+      "duration": "14:11",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1x2kXY6EXp",
+      "title": "疯狂堆100个雪人⛄️ | 禁词游戏 (惩罚? 反而更好) | ILLIT的雪人大亨 | ILLIT",
+      "date": "2024-12-24",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1x2kXY6EXp/",
+      "cover": "https://i2.hdslb.com/bfs/archive/877576d697cfc849dfa7d931c39326487812e33f.jpg",
+      "duration": "14:32",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1iakRYZEvs",
       "title": "【RESCENE】 'Underneath the Tree' Special Live",
       "date": "2024-12-24",
@@ -111439,6 +112837,82 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546595561834774",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1h7CjYmEnF",
+      "title": "【金玟庭 Winter】241219 aespa KBS音乐银行全球盛典 ‘Whiplash + Armageddon’ 直拍合集",
+      "date": "2024-12-24",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1h7CjYmEnF/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f1b6bc9a234731c486a5d66998a1fc2db4311f54.jpg",
+      "duration": "27:37",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qDCTYPEEs",
+      "title": "【裴秀珉 Sumin】241219 STAYC KBS音乐银行全球盛典 ‘Mr.(KARA) + GPT + ASAP + Teddy Bear‘ 直拍合集",
+      "date": "2024-12-23",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1qDCTYPEEs/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4c3f067ff79ac600930adaafa5179eb8e154be06.jpg",
+      "duration": "18:22",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qAC5YJEx8",
+      "title": "【境萌花 Moka】241219 ILLIT KBS音乐银行全球盛典 ‘Magnetic + Tick-Tack + Dance break‘ 直拍合集",
+      "date": "2024-12-23",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1qAC5YJEx8/",
+      "cover": "https://i2.hdslb.com/bfs/archive/1f4052352d1b290b414943a4378a96a4db81e0c7.jpg",
+      "duration": "9:28",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1QZCNYDEdn",
+      "title": "Holiday special🎄 ILLIT 'Cherish (My Love)' Holidays Handbell Presentation🔔🎶",
+      "date": "2024-12-23",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1QZCNYDEdn/",
+      "cover": "https://i1.hdslb.com/bfs/archive/7a9eff0d8df36bcedd37f29813b6ff5a6c4fa698.jpg",
+      "duration": "4:16",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -111653,6 +113127,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV129k1YQEgS",
+      "title": "ILLIT 2024 MUSIC BANK GLOBAL FESTIVAL in JAPAN 'Tick-Tack' Dance Practice",
+      "date": "2024-12-20",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV129k1YQEgS/",
+      "cover": "https://i0.hdslb.com/bfs/archive/e11978122d670af7dfdc075ea82496fbdf21e122.jpg",
+      "duration": "3:59",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1gXkBYgENY",
       "title": "【张元英】肿肿Vampire圆 | 190926 IZ*ONE 涉谷塔店活动 饭拍合集",
       "date": "2024-12-19",
@@ -111691,6 +113184,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1qmrfYgEag",
+      "title": "'Cherish (My Love)' & 'Tick-Tack' Music Show Behind EP.02 | ILLIT [BEHIND-IT]",
+      "date": "2024-12-18",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1qmrfYgEag/",
+      "cover": "https://i0.hdslb.com/bfs/archive/1d4cc3ba3a831d243d747baa4b6b91565108a419.jpg",
+      "duration": "24:09",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1NtkJYyEUP",
       "title": "【张元英】190925 IZ*ONE 一巡演唱会 琦玉场 张元英饭拍预览合集",
       "date": "2024-12-17",
@@ -111705,6 +113217,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV199kHYeEX9",
+      "title": "【柳莎朗 Sarang】241215 izna 最新回归主打曲 ‘IZNA' 4K舞蹈版直拍｜SBS 人气歌谣",
+      "date": "2024-12-17",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV199kHYeEX9/",
+      "cover": "https://i1.hdslb.com/bfs/archive/622004ef3615969a0ae227d23d9e1b7679189795.jpg",
+      "duration": "3:10",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV187kJYHEsy",
+      "title": "【田中杏奈 ANNA】241215 MEOVV ‘BODY’ 横版4K直拍｜SBS 人气歌谣",
+      "date": "2024-12-17",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV187kJYHEsy/",
+      "cover": "https://i1.hdslb.com/bfs/archive/9c251331216d4b986c5a572488d6d57aaa581a5b.jpg",
+      "duration": "4:23",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -111743,6 +113293,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ovBFYYEZv",
+      "title": "【洪恩智 Eunji】241214 BBGirls 全球影响力博览会‘ChiMatBaRam + Rollin +We Ride' 8K直拍",
+      "date": "2024-12-15",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1ovBFYYEZv/",
+      "cover": "https://i2.hdslb.com/bfs/archive/962a12308b720516b787dd32c40908f6d41eb317.jpg",
+      "duration": "17:21",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -111862,6 +113431,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1qkq8YjEc4",
+      "title": "[VLOG] Hanlim Arts High School Transfer | School Uniform Fitting | ILLIT[LOG-IT]",
+      "date": "2024-12-12",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1qkq8YjEc4/",
+      "cover": "https://i1.hdslb.com/bfs/archive/2dd283a4e5e90c69ca5250f54a0e090665c3f658.jpg",
+      "duration": "6:00",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV14ZqtYtExH",
       "title": "CATCH MEOVV | EP.1 TEASER",
       "date": "2024-12-12",
@@ -111881,6 +113469,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1cbqDY2E9U",
+      "title": "【金定恩 KimLip】240622 ARTMS 线下签售 ‘Virtual Angel + Phototime‘ 直拍合集",
+      "date": "2024-12-11",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1cbqDY2E9U/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6a3ad860a047e304d71bf4e2a91a6cfcb96e116f.jpg",
+      "duration": "5:21",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1V2qDYNE8P",
       "title": "【张元英】190727 IZ*ONE TGC 富山 舞台合集 (含幕后花絮)",
       "date": "2024-12-11",
@@ -111895,6 +113502,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1HLqkYWEVy",
+      "title": "【柳智敏/刘知珉 Karina】230930 aespa世巡演唱会巴黎场 ‘Salty&Sweet + Thirsty’ 4K直拍",
+      "date": "2024-12-11",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1HLqkYWEVy/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f2f036e49b107a4884a2d40d1359ad68ac675497.jpg",
+      "duration": "6:44",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ySqkYFECX",
+      "title": "【崔乂园 Arin】241207 OH MY GIRL 雅加达Korea360两周年纪念日演唱会 ‘Dolphin + Dun Dun Dance‘ 4K直拍",
+      "date": "2024-12-10",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1ySqkYFECX/",
+      "cover": "https://i2.hdslb.com/bfs/archive/48d5b4836027c18f86f70b80b8b6435bfeb9b248.jpg",
+      "duration": "7:12",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112033,6 +113678,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1yFqLYUEWU",
+      "title": "【柳莎朗 Sarang】izna 最新回归非主打 ‘TIMEBOMB' 4K舞蹈版直拍｜STUDIO CHOOM",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1yFqLYUEWU/",
+      "cover": "https://i0.hdslb.com/bfs/archive/b5058f0ad3f8d3f6e274b06d8ed77e4daaefff3f.jpg",
+      "duration": "3:45",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1yFiCYbE1k",
       "title": "【张元英】221201 IVE一周年 物料视频合集",
       "date": "2024-12-07",
@@ -112047,6 +113711,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xhizYQEDa",
+      "title": "【名井南 MINA】241206 TWICE 李咏知的彩虹 最新回归曲 ‘Strategy’ 4K直拍",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1xhizYQEDa/",
+      "cover": "https://i1.hdslb.com/bfs/archive/3fa0295b54894e1269f2b1e294a5b999af5c9cdb.jpg",
+      "duration": "3:55",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112109,6 +113792,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1NjikYfEdv",
+      "title": "【李瑞渊 Seoyeon】240927 fromis_9 AKMF ‘DM + Supersonic’ 4K直拍合集",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1NjikYfEdv/",
+      "cover": "https://i2.hdslb.com/bfs/archive/35ea23daf507eadf0963a53eb6f3856ace5bc125.jpg",
+      "duration": "6:23",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1NJikYoEfa",
       "title": "【RESCENE】'APT.' Special Performance（补档）",
       "date": "2024-12-07",
@@ -112123,6 +113825,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546595561834774",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1JmirYUEeA",
+      "title": "【宇妍 Wooyeon】240620 WOOAH 'POM POM POM' 4K直拍 ｜MCOUNTDOW",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1JmirYUEeA/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0567dc384e66426f28260a3420f6d70d42efa714.jpg",
+      "duration": "4:12",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1JCizYCEBY",
+      "title": "【李宥姃 Yujeong】241205 LIGHTSUM 大邱室内体育馆半场表演 ‘POSE’ 4K直拍",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1JCizYCEBY/",
+      "cover": "https://i1.hdslb.com/bfs/archive/38168976140cb3f06f2d54cbda6cb517c60cfb42.jpg",
+      "duration": "2:54",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112147,6 +113887,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1ApikYREc4",
+      "title": "【李湵京 YuKyung】230507 ALICE 'SHOW DOWN' 4K竖屏直拍｜SBS 人气歌谣",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1ApikYREc4/",
+      "cover": "https://i0.hdslb.com/bfs/archive/fd4f9010a57d99e5ecc0fd1fcfd55ef49c16eae6.jpg",
+      "duration": "3:17",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV184izYsEbt",
       "title": "【RESCENE】'Pinball' MV (Performance ver.)（补档）",
       "date": "2024-12-07",
@@ -112161,6 +113920,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546595561834774",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14hizYQEKX",
+      "title": "【郑叡仁 Yein】241116/17 Lovelyz 'LOVELYZ 4 OF WINTER WORLD' 十周年演唱会首尔场 直拍合集",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV14hizYQEKX/",
+      "cover": "https://i0.hdslb.com/bfs/archive/53136ff650b8cad885a249b3cba01729c90a1594.jpg",
+      "duration": "7:07",
+      "description": "ytb\nytn",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV148izYpEAs",
+      "title": "【凑崎纱夏 SANA】241206 TWICE 李咏知的彩虹 最新回归曲 ‘Strategy’ 4K直拍",
+      "date": "2024-12-07",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV148izYpEAs/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8e7ef57854c4428a81a38d215d276227b449ff40.jpg",
+      "duration": "4:04",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112199,6 +113996,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546595561834774",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1TAiiY5E3j",
+      "title": "ILLIT PHOTOISM Behind📸 | 4-Cut Pose Tips | ILLIT Frame Open | ILLIT [BESIDE-IT]",
+      "date": "2024-12-06",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1TAiiY5E3j/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0f18eea460824b6d0730a03b71fa1a629671fae0.jpg",
+      "duration": "6:24",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -112318,6 +114134,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1e1idYjE7s",
+      "title": "【最智元 E.JI】241201 ICHILLIN' 最新回归曲 'Official' 打歌舞台4K直拍｜SBS 人气歌谣",
+      "date": "2024-12-05",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1e1idYjE7s/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f75602c2923c47cb6ee226af378e35523aa478ce.jpg",
+      "duration": "3:43",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1GJiDYfEw5",
+      "title": "【郑沅伊 WONI】241203 RESCENE 大邱室内体育馆半场表演 ‘Pinball + LOVE ATTACK’ 8K直拍合集",
+      "date": "2024-12-05",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1GJiDYfEw5/",
+      "cover": "https://i1.hdslb.com/bfs/archive/1d117c38b5e9ce3219bbf2238913fb8ee078893b.jpg",
+      "duration": "10:29",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1EViRYJEmj",
       "title": "‘BODY’ DANCE PRACTICE VIDEO",
       "date": "2024-12-05",
@@ -112332,6 +114186,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546751115987218",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1DRidYgEND",
+      "title": "【嘉味元琴音 Kotone】241026 tripleS Makestar 线下签售会 'Hit the Floor' 4K直拍",
+      "date": "2024-12-05",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1DRidYgEND/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9f455d5209a5308e72e94fd832a1043fa1b30d49.jpg",
+      "duration": "3:26",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112375,6 +114248,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1cv6TYeEZV",
+      "title": "【韩锐垣 HanYewon】241129 Mimiirose 东京涩谷 Tower Records粉丝见面会 ‘Doki + Flirting’ 4K自制直拍",
+      "date": "2024-12-03",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1cv6TYeEZV/",
+      "cover": "https://i2.hdslb.com/bfs/archive/bc7ae81d0dde275298b1c1db52eb2ee78d88ac46.jpg",
+      "duration": "6:05",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1PG6MYuEpQ",
       "title": "【张元英】190408 MEET & GREET 广播活动 饭拍&直播 (共2p)",
       "date": "2024-12-03",
@@ -112413,6 +114305,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1nrzZYBEgx",
+      "title": "【金叡姝 Yeju】241130 ICHILLIN' 线下粉丝签售会 最新回归曲 'Official' 直拍",
+      "date": "2024-12-01",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1nrzZYBEgx/",
+      "cover": "https://i1.hdslb.com/bfs/archive/b19dbdb1a9438df9a41513a737c0eba7b015fae3.jpg",
+      "duration": "6:22",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1gFzoYmEGk",
       "title": "【张元英】年末黑天鹅公主降临 | 241130 M/MA 红毯新闻饭拍合集 (已更至8P)",
       "date": "2024-12-01",
@@ -112427,6 +114338,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1TNzoY5EiX",
+      "title": "【裴珠泫 Irene】241130 最新Solo出道曲 ‘Like A Flower’ 官方4K竖屏直拍｜MBC 音乐中心",
+      "date": "2024-12-01",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1TNzoY5EiX/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6602c8a693774e3c86dca7ee29a6619f8b74f8e3.jpg",
+      "duration": "4:02",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1MAzoY1ENy",
+      "title": "【金玟庭 Winter】241130 aespa MMA2024颁奖典礼 ‘Whiplash + Supernova + Armageddon’ 直拍合集",
+      "date": "2024-12-01",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1MAzoY1ENy/",
+      "cover": "https://i0.hdslb.com/bfs/archive/50ab5e65f6bbeb293bfcf6183e97c6f650fa5e12.jpg",
+      "duration": "56:38",
+      "description": "ytb/weibo\n微博：@甘露寺也有狗郡王",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112451,6 +114400,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV17yzdYZEwF",
+      "title": "【赵美延 Miyeon】241130 (G)I-DLE MMA2024颁奖典礼 ‘Fate’ 4K横屏直拍",
+      "date": "2024-12-01",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV17yzdYZEwF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/ebb17486e17c059c22ffd118601dd71bbb56f986.jpg",
+      "duration": "3:05",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV15RzZYfEFJ",
+      "title": "发带裴姐！【裴珠泫 Irene】241201 最新Solo出道曲 ‘Like A Flower’ 官方4K竖屏直拍｜SBS 人气歌谣",
+      "date": "2024-12-01",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV15RzZYfEFJ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/79d44093687d46f5f967b49c2d0ec58b2f91e362.jpg",
+      "duration": "3:57",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV11DzoYkEK1",
       "title": "【张元英】241201 IVE三周年 物料视频合集",
       "date": "2024-12-01",
@@ -112465,6 +114452,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xfz6YAEiN",
+      "title": "首场打歌！【裴珠泫 Irene】241129 最新Solo出道曲 ‘Like A Flower’ 自制4K竖屏直拍｜KBS 音乐银行",
+      "date": "2024-11-30",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1xfz6YAEiN/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f557faf7302c7e64ea4653ec1ef764b339ffb8fa.jpg",
+      "duration": "6:30",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112622,6 +114628,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1pWBRY8E4J",
+      "title": "【金叡姝 Yeju】ICHILLIN' 最新回归曲 'Official' 打歌舞台4K直拍合集（持更ing）",
+      "date": "2024-11-27",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1pWBRY8E4J/",
+      "cover": "https://i2.hdslb.com/bfs/archive/ab7f630edae53774410910f55c5b6adc5fbfa848.jpg",
+      "duration": "13:54",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1eHBdYSE6K",
       "title": "【塔塔中字】椰奶电话连线小圆“哪位?” 张元英 《脸蛋天才车恩秀》电话cut 241127",
       "date": "2024-11-27",
@@ -112660,6 +114685,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1ZMz5Y3Eay",
+      "title": "【郑叡仁 Yein】241124 Lovelyz 'LOVELYZ 4 OF WINTER WORLD' 十周年演唱会澳门场 直拍合集",
+      "date": "2024-11-26",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1ZMz5Y3Eay/",
+      "cover": "https://i0.hdslb.com/bfs/archive/f2ce9c0b039efa9abebbec929edf8cf9b6f447b3.jpg",
+      "duration": "21:05",
+      "description": "ytn",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ZMz5Y3EEY",
+      "title": "【田中杏奈 ANNA】241124 MEOVV ‘BODY’ 横版4K直拍｜SBS 人气歌谣",
+      "date": "2024-11-26",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1ZMz5Y3EEY/",
+      "cover": "https://i1.hdslb.com/bfs/archive/47d807a71073695d91c97714b9544a3d6bcb2a82.jpg",
+      "duration": "7:25",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1KtzGYDEsy",
       "title": "‘TOXIC’ M/V MAKING FILM",
       "date": "2024-11-26",
@@ -112674,6 +114737,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "3546751115987218",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1o1zcYBEs4",
+      "title": "MINJU's Music Bank MC Debut Behind | ILLIT [BEHIND-IT]",
+      "date": "2024-11-25",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1o1zcYBEs4/",
+      "cover": "https://i0.hdslb.com/bfs/archive/77abd67d84be286a890635b9549e20353575d95a.jpg",
+      "duration": "11:32",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -112736,6 +114818,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1jdBHYbELm",
+      "title": "银白精灵！【田中杏奈 ANNA】241123 MEOVV MAMA2024颁奖典礼‘MEOW + Body’ 4K直拍",
+      "date": "2024-11-24",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1jdBHYbELm/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f83fa3eaf4b0276b81e7673d859d7f6a7fe8481e.jpg",
+      "duration": "6:36",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1byBtYwE7n",
       "title": "【张元英】冬日女神 | 241124 EIDER站台活动 新闻饭拍直拍&幕后花絮合集 (已更至28P)",
       "date": "2024-11-24",
@@ -112774,6 +114875,82 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1mWBBYsEGi",
+      "title": "Kpop不能没有金珉周！【金珉周 Minju】241122 ‘Blooming Story’ 粉丝见面会 ‘Mantra + IZ*ONE成员曲目串烧\" 直拍合",
+      "date": "2024-11-23",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1mWBBYsEGi/",
+      "cover": "https://i1.hdslb.com/bfs/archive/270966949f44da9e1143e13ea09ba0b2dbc31134.jpg",
+      "duration": "22:53",
+      "description": "ytb\n金珉周不当爱豆是Kpop的损失",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fyB6YUEkR",
+      "title": "【洪慧珠 Hyeju】241117 CLASS:y KGMA颁奖礼 最新回归曲 'Psycho and Beautiful'自制竖屏直拍",
+      "date": "2024-11-23",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1fyB6YUEkR/",
+      "cover": "https://i1.hdslb.com/bfs/archive/17d343f886596563a71a68dec19629498604bc5b.jpg",
+      "duration": "6:03",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1bRB1Y7EAS",
+      "title": "【柳智敏/刘知珉 Karina】241123 aespa MAMA2024颁奖典礼 ‘Whiplash + Supernova’ 4K直拍合集",
+      "date": "2024-11-23",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1bRB1Y7EAS/",
+      "cover": "https://i0.hdslb.com/bfs/archive/5ed735572c7693c5bd4f099c94b03bb5ac935709.jpg",
+      "duration": "12:30",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1PUBqYJEU8",
+      "title": "【名井南 MINA】MISAMO 【HAUTE COUTURE】演唱会 ‘Jealousy + Runaway + Identity等’ 4K直拍合集",
+      "date": "2024-11-23",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1PUBqYJEU8/",
+      "cover": "https://i1.hdslb.com/bfs/archive/8ba3fdd8df265c9f26ae2ed9c5e161cacb47ad3f.jpg",
+      "duration": "9:16",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1KwB2YCEwx",
       "title": "【张元英】烈焰玫瑰绽放 | 241122 M/AM/A JAPAN 2024 舞台&获奖合集 (含幕后花絮)",
       "date": "2024-11-23",
@@ -112788,6 +114965,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1keBBYmE5a",
+      "title": "【金玟庭 Winter】241117 KGMA颁奖礼 ‘Whiplash + Supernova’ 8K60p 双机位 直拍",
+      "date": "2024-11-22",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1keBBYmE5a/",
+      "cover": "https://i1.hdslb.com/bfs/archive/181185541d08978e91429b1620ef9abd6159dd66.jpg",
+      "duration": "14:08",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1bcBzYFEod",
+      "title": "短发小盒！【宋河英 Hayoung】241120 Fromis_9 明知大学校庆 ‘Supersonic + DM + WE GO' 4K直拍合集",
+      "date": "2024-11-22",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1bcBzYFEod/",
+      "cover": "https://i2.hdslb.com/bfs/archive/5cdaf38acaf09f231b80c52d60ff0f131b0df11c.jpg",
+      "duration": "12:43",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112812,6 +115027,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1HTBvYzEz2",
+      "title": "ILLIT 2024 MAMA Awards 'Magnetic & Cherish (My Love)' Dance Practice",
+      "date": "2024-11-22",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1HTBvYzEz2/",
+      "cover": "https://i2.hdslb.com/bfs/archive/bf85b4c005bf520b6cb86c65e42afcc4ab88468f.jpg",
+      "duration": "7:43",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1yyUyYhEJc",
+      "title": "【柳智敏 Karina】241117 KGMA颁奖礼 ‘Whiplash + Armageddon + Supernova’ 直拍合集",
+      "date": "2024-11-21",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1yyUyYhEJc/",
+      "cover": "https://i2.hdslb.com/bfs/archive/50b52d592a1ab7ba8bb6be8a1e47216f6eb67a59.jpg",
+      "duration": "17:21",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1ZtUDYiE2s",
       "title": "【塔塔中字】年度最菜答题王&灵魂画手 IVE LIZ提前一天的生日直播 241120",
       "date": "2024-11-21",
@@ -112826,6 +115079,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1QrUDYoE3Z",
+      "title": "美神降临！【田中杏奈 ANNA】MEOVV STUDIO CHOOM ‘BODY’ 舞蹈版4K直拍",
+      "date": "2024-11-21",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1QrUDYoE3Z/",
+      "cover": "https://i0.hdslb.com/bfs/archive/7e8a351fd5557d39f8a4ab50eef631eef06db174.jpg",
+      "duration": "3:26",
+      "description": "ytb\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112869,6 +115141,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1wdSuYcEJf",
+      "title": "【金秀妍 SHEON】241115 Billlie ENA Kpop拼盘演唱会 ‘记忆糖果’ 4K竖屏直拍",
+      "date": "2024-11-20",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1wdSuYcEJf/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6508bee7d2709a52e86f8cb7cd290b13a27eeaa0.jpg",
+      "duration": "3:08",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1tsSgY3E9B",
       "title": "'TOXIC' | NPOP LIMITED EDITION - SIDE A",
       "date": "2024-11-20",
@@ -112888,6 +115179,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1VtSTYrEVF",
+      "title": "'Cherish (My Love)' Music Show Behind | ILLIT [BEHIND-IT]",
+      "date": "2024-11-20",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1VtSTYrEVF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3e5085721e88c6984f3b2a0b771f57b78423284c.jpg",
+      "duration": "21:52",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1w7SFYKEVY",
+      "title": "\"1米也太过分了吧?!\" 瞒着老师吃零食跳舞 | 新奇的狡辩引来憋笑挑战🤣 | ILLIT课堂上发生的事🏫",
+      "date": "2024-11-19",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1w7SFYKEVY/",
+      "cover": "https://i2.hdslb.com/bfs/archive/ff2328a90f78f3224c01b321d450d430c0057efe.jpg",
+      "duration": "21:19",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1mwUxY7ESZ",
       "title": "【张元英】190205 IZ*ONE 涉谷109快闪店活动 饭拍直拍合集 (含幕后花絮 - 共3p)",
       "date": "2024-11-19",
@@ -112902,6 +115231,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qsUxYaEnS",
+      "title": "超清直拍上新！【金玟庭 Winter】241117 KGMA颁奖礼 ‘Spark‘ 直拍合集",
+      "date": "2024-11-18",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1qsUxYaEnS/",
+      "cover": "https://i1.hdslb.com/bfs/archive/c89926356d6eb9b845549d67dbd3de1889e85ab6.jpg",
+      "duration": "20:44",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1osUxYaEa7",
+      "title": "历代级妆造！【裴秀珉 SUMIN】241117 STAYC KGMA颁奖礼 ‘GPT + Cheeky Icy Thang' 4K直拍",
+      "date": "2024-11-18",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1osUxYaEa7/",
+      "cover": "https://i0.hdslb.com/bfs/archive/1afc1413feefc19e195505b8c690c1dfd4afa888.jpg",
+      "duration": "5:14",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -112983,6 +115350,82 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1LmUsYZEqe",
+      "title": "MeMeMe Cha！【洪慧珠 Hyeju】CLASS:y 最新回归曲Psycho and Beautiful 挑战录制",
+      "date": "2024-11-18",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1LmUsYZEqe/",
+      "cover": "https://i0.hdslb.com/bfs/archive/d13a791a88d63d304daa861129ee382d883aa0f0.jpg",
+      "duration": "0:14",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1JKU7YCEjL",
+      "title": "年末颁奖礼Solo！【金玟庭 Winter】241117 KGMA颁奖礼 ‘Spark + Whiplash+ Armageddon' 直拍合集",
+      "date": "2024-11-18",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1JKU7YCEjL/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6521ddc2245609ecf4ad0c7db23e53a8e3ec33dd.jpg",
+      "duration": "34:30",
+      "description": "ytb/weibo\nytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tbU7YoEGU",
+      "title": "【郑沅伊 WONI】241117 RESCENE 线下签售会 'Pinball + LOVE ATTACK’ 4K直拍",
+      "date": "2024-11-17",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1tbU7YoEGU/",
+      "cover": "https://i0.hdslb.com/bfs/archive/841ecabccae8581a8ce0a3116502be96fd2c6003.jpg",
+      "duration": "12:52",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1rCU6Y1EjD",
+      "title": "ILLIT 'Tick-Tack' Official MV (Performance ver.)",
+      "date": "2024-11-17",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1rCU6Y1EjD/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0250664260c67891893bfe8cc77845ed46e20ef1.jpg",
+      "duration": "2:17",
+      "description": "Creative Director: Serian Heu\nMusic Video Director: YUANN @kidzfrmnowhere\n\nⓒ BELIFT LAB Inc. All Rights Reserved",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1aKUCYBEeF",
       "title": "【张元英】冬日高马尾小圆 | 181102 音银上班路 饭拍&新闻合集 (已更至16P)",
       "date": "2024-11-17",
@@ -112997,6 +115440,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1UtU6YdEkE",
+      "title": "【名井南 MINA】MISAMO STUDIO CHOOM ‘Identity’ 舞蹈版4K直拍",
+      "date": "2024-11-17",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1UtU6YdEkE/",
+      "cover": "https://i1.hdslb.com/bfs/archive/6ae0bbc93b76462527402a47abb0f4b6267d1aad.jpg",
+      "duration": "3:10",
+      "description": "ytb",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
           "kind": "upload"
         }
       ]
@@ -113021,6 +115483,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1J3mfY4Ed5",
+      "title": "'Tick-Tack' MV Shoot Sketch | ILLIT [BEHIND-IT]",
+      "date": "2024-11-16",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1J3mfY4Ed5/",
+      "cover": "https://i1.hdslb.com/bfs/archive/bb6ddb65d4e88e0697c90ae6fd4d74e63404c9d9.jpg",
+      "duration": "19:16",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1FGUYYREY2",
       "title": "【张元英】松弛饭撒的黑长直女神 | 231231 M台 年末 饭拍直拍合集 (含团体直拍-共6p)",
       "date": "2024-11-16",
@@ -113035,6 +115516,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1gbmoYTEwa",
+      "title": "ILLIT 'Tick-Tack' Dance Practice",
+      "date": "2024-11-15",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1gbmoYTEwa/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ffc849b33169e749827acfc7c1ce2e78837a46ef.jpg",
+      "duration": "2:32",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -113078,6 +115578,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1tjU3YrEVv",
+      "title": "ILLIT 'Tick-Tack' Official MV",
+      "date": "2024-11-14",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1tjU3YrEVv/",
+      "cover": "https://i1.hdslb.com/bfs/archive/994dde3aedecb8246696826df254f8cddbcd3503.jpg",
+      "duration": "2:58",
+      "description": "Creative Director: Serian Heu\nMusic Video Director: YUANN @ kidzfrmnowhere\n\nⓒ BELIFT LAB Inc. All Rights Reserved\n\nSUMMER MOON with ILLIT",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1gLmDYQEuq",
       "title": "【塔塔中字】“怕剧透都不敢说话了” IVE金秋天直播 241114",
       "date": "2024-11-14",
@@ -113092,6 +115611,63 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1L1UVY8E26",
+      "title": "ILLIT 'Tick-Tack' Fanchant Guide",
+      "date": "2024-11-14",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1L1UVY8E26/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f0267d0d8e8d5ae8cbdb51bd31b07f1abb142b83.jpg",
+      "duration": "2:55",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1wfUNYUEje",
+      "title": "ILLIT 'Tick-Tack' Official Teaser",
+      "date": "2024-11-13",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1wfUNYUEje/",
+      "cover": "https://i2.hdslb.com/bfs/archive/1a21a4bbc7a9316bc88c012e3397c7ed2f761f1e.jpg",
+      "duration": "0:19",
+      "description": "Creative Director: Serian Heu\nMusic Video Director: YUANN @ kidzfrmnowhere\n\nⓒ BELIFT LAB Inc. All Rights Reserved",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1BUUKY5E5D",
+      "title": "[VERIFY-IT] Do the ears actually burn when someone's talking about me? | ILLIT",
+      "date": "2024-11-13",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1BUUKY5E5D/",
+      "cover": "https://i0.hdslb.com/bfs/archive/385596074120fc32ee1ebcd9cf5671a00a92f415.jpg",
+      "duration": "0:57",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -113149,6 +115725,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1TGm2YMEqe",
+      "title": "ILLIT 'Cherish (My Love)' Dance Practice Behind",
+      "date": "2024-11-11",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1TGm2YMEqe/",
+      "cover": "https://i1.hdslb.com/bfs/archive/31f1adba8c9f7ad697bff01960dc16f7f3efb1f4.jpg",
+      "duration": "21:11",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -113306,6 +115901,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1K2DSYpEh7",
+      "title": "ILLIT 'Cherish (My Love)' Recording Behind",
+      "date": "2024-11-07",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1K2DSYpEh7/",
+      "cover": "https://i2.hdslb.com/bfs/archive/7f1b7284d08f951595f2f6af4fc90d157208f1a3.jpg",
+      "duration": "24:26",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1CXDSYEEHX",
       "title": "VLOG l MEOVV MYSELF & I EP.2",
       "date": "2024-11-07",
@@ -113401,6 +116015,44 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1fLSEYEEzn",
+      "title": "[VERIFY-IT] Do Foreigners Have Taemong Too? | ILLIT",
+      "date": "2024-10-31",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1fLSEYEEzn/",
+      "cover": "https://i2.hdslb.com/bfs/archive/6be8ccc82b9b7d404220c09e871f803ba04f6843.jpg",
+      "duration": "1:01",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1gkS3YmEsm",
+      "title": "ILLIT 'Cherish (My Love)' MV Reaction",
+      "date": "2024-10-30",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1gkS3YmEsm/",
+      "cover": "https://i2.hdslb.com/bfs/archive/34809666653089e8c22c9c25c9b3694feaf9e218.jpg",
+      "duration": "12:27",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1PGS3YuEZo",
       "title": "六芙汗蒸",
       "date": "2024-10-30",
@@ -113434,6 +116086,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1kKStYjETg",
+      "title": "ILLIT 'Cherish (My Love)' Dance Practice (Moving Ver.)",
+      "date": "2024-10-29",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1kKStYjETg/",
+      "cover": "https://i1.hdslb.com/bfs/archive/681b7a3a960877a041ac5a879e4a803ac118fd9e.jpg",
+      "duration": "3:03",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1cuStYLEJu",
+      "title": "ILLIT 'Cherish (My Love)' Dance Practice (Fix Ver.)",
+      "date": "2024-10-29",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1cuStYLEJu/",
+      "cover": "https://i1.hdslb.com/bfs/archive/a311907347b467ff2641c3c0dfbc4561f22781b3.jpg",
+      "duration": "3:02",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -113548,6 +116238,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1fVy7YAEvs",
+      "title": "'Cherish (My Love)' MV Shoot Sketch | ILLIT [BEHIND-IT]",
+      "date": "2024-10-23",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1fVy7YAEvs/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f73e5465530756a89b87a78a4a5c9a6310a9684b.jpg",
+      "duration": "26:19",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
           "kind": "upload"
         }
       ]
@@ -119126,6 +121835,11 @@ window.IC_BILIBILI = {
         {
           "uid": "17379944",
           "kind": "upload"
+        },
+        {
+          "uid": "17379944",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1252400283012562949"
         }
       ]
     },
