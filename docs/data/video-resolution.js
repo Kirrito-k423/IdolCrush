@@ -265603,7 +265603,7 @@ window.IC_VIDEO_RESOLUTIONS = {
     }
   },
   "failures": {},
-  "updatedAt": "2026-11-22T12:24:36+08:00",
+  "updatedAt": "2026-11-22T12:26:20+08:00",
   "status": {
     "checkedAt": "2026-11-22T12:24:30+08:00",
     "attempted": 150,
@@ -266974,46 +266974,45 @@ window.IC_VIDEO_RESOLUTIONS = {
       "height": 2560,
       "duration": 19,
       "checkedAt": "2026-11-21T22:17:17+08:00"
-    }
-  },
-  "youtubeFailures": {
-    "H7WKZWixL6E": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T04:24:22+08:00",
-      "retryAfter": "2026-11-29T04:24:22+08:00",
-      "error": "视频暂不可公开播放"
     },
     "dFV7Q2wYRSA": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T12:24:31+08:00",
-      "retryAfter": "2026-11-29T12:24:31+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 19,
+      "checkedAt": "2026-11-22T12:26:12+08:00"
     },
     "cmSqOpYuFHg": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T12:24:32+08:00",
-      "retryAfter": "2026-11-29T12:24:32+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 13,
+      "checkedAt": "2026-11-22T12:26:14+08:00"
     },
     "GUipriNczq8": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T12:24:33+08:00",
-      "retryAfter": "2026-11-29T12:24:33+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 29,
+      "checkedAt": "2026-11-22T12:26:15+08:00"
     },
     "B8pRd5xZEPI": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T12:24:35+08:00",
-      "retryAfter": "2026-11-29T12:24:35+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 8,
+      "checkedAt": "2026-11-22T12:26:17+08:00"
+    },
+    "H7WKZWixL6E": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 8,
+      "checkedAt": "2026-11-22T12:26:19+08:00"
     }
   },
+  "youtubeFailures": {},
   "youtubeStatus": {
-    "checkedAt": "2026-11-22T12:24:36+08:00",
-    "attempted": 4,
-    "succeeded": 0,
+    "checkedAt": "2026-11-22T12:26:20+08:00",
+    "attempted": 5,
+    "succeeded": 5,
     "blocked": false,
-    "known": 227,
+    "known": 232,
     "total": 232
   }
 };
