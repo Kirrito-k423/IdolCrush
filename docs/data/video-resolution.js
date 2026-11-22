@@ -277755,7 +277755,7 @@ window.IC_VIDEO_RESOLUTIONS = {
     }
   },
   "failures": {},
-  "updatedAt": "2026-11-22T22:12:06+08:00",
+  "updatedAt": "2026-11-22T22:13:45+08:00",
   "status": {
     "checkedAt": "2026-11-22T22:12:02+08:00",
     "attempted": 120,
@@ -279156,118 +279156,117 @@ window.IC_VIDEO_RESOLUTIONS = {
       "height": 3840,
       "duration": 8,
       "checkedAt": "2026-11-22T12:26:19+08:00"
-    }
-  },
-  "youtubeFailures": {
-    "u-5wcOZkgS4": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:13+08:00",
-      "retryAfter": "2026-11-29T20:34:13+08:00",
-      "error": "视频标识不匹配"
-    },
-    "rBzWnqIa4pg": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:14+08:00",
-      "retryAfter": "2026-11-29T20:34:14+08:00",
-      "error": "视频标识不匹配"
-    },
-    "f8HMEeeCriU": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:16+08:00",
-      "retryAfter": "2026-11-29T20:34:16+08:00",
-      "error": "视频标识不匹配"
-    },
-    "cSDOa_9Uxck": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:17+08:00",
-      "retryAfter": "2026-11-29T20:34:17+08:00",
-      "error": "视频标识不匹配"
-    },
-    "_0DBc7f-T14": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:19+08:00",
-      "retryAfter": "2026-11-29T20:34:19+08:00",
-      "error": "视频标识不匹配"
-    },
-    "Zge03ADPziQ": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:21+08:00",
-      "retryAfter": "2026-11-29T20:34:21+08:00",
-      "error": "视频标识不匹配"
-    },
-    "XL9zheGBiMQ": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:22+08:00",
-      "retryAfter": "2026-11-29T20:34:22+08:00",
-      "error": "视频标识不匹配"
-    },
-    "VR4HctFJz3k": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:24+08:00",
-      "retryAfter": "2026-11-29T20:34:24+08:00",
-      "error": "视频标识不匹配"
-    },
-    "VDIGT03SjV4": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:25+08:00",
-      "retryAfter": "2026-11-29T20:34:25+08:00",
-      "error": "视频标识不匹配"
-    },
-    "U4R0PGCF2Fk": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:26+08:00",
-      "retryAfter": "2026-11-29T20:34:26+08:00",
-      "error": "视频标识不匹配"
-    },
-    "H95SQqf3IaA": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:28+08:00",
-      "retryAfter": "2026-11-29T20:34:28+08:00",
-      "error": "视频标识不匹配"
-    },
-    "Gf15OdrFj8M": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:29+08:00",
-      "retryAfter": "2026-11-29T20:34:29+08:00",
-      "error": "视频标识不匹配"
-    },
-    "Fqs1Xjn9rgk": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:31+08:00",
-      "retryAfter": "2026-11-29T20:34:31+08:00",
-      "error": "视频标识不匹配"
-    },
-    "CtBOsOVHcGo": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:32+08:00",
-      "retryAfter": "2026-11-29T20:34:32+08:00",
-      "error": "视频标识不匹配"
-    },
-    "AmmKvOae4CE": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T20:34:34+08:00",
-      "retryAfter": "2026-11-29T20:34:34+08:00",
-      "error": "视频标识不匹配"
     },
     "wZQ1TlU2YT4": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T22:12:03+08:00",
-      "retryAfter": "2026-11-29T22:12:03+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 49,
+      "checkedAt": "2026-11-22T22:13:13+08:00"
     },
     "vWc7WcUBwiU": {
-      "attempts": 1,
-      "checkedAt": "2026-11-22T22:12:05+08:00",
-      "retryAfter": "2026-11-29T22:12:05+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 34,
+      "checkedAt": "2026-11-22T22:13:15+08:00"
+    },
+    "u-5wcOZkgS4": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 18,
+      "checkedAt": "2026-11-22T22:13:16+08:00"
+    },
+    "rBzWnqIa4pg": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 19,
+      "checkedAt": "2026-11-22T22:13:18+08:00"
+    },
+    "f8HMEeeCriU": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 6,
+      "checkedAt": "2026-11-22T22:13:20+08:00"
+    },
+    "cSDOa_9Uxck": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 14,
+      "checkedAt": "2026-11-22T22:13:22+08:00"
+    },
+    "_0DBc7f-T14": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 23,
+      "checkedAt": "2026-11-22T22:13:24+08:00"
+    },
+    "Zge03ADPziQ": {
+      "width": 1080,
+      "height": 1920,
+      "duration": 22,
+      "checkedAt": "2026-11-22T22:13:26+08:00"
+    },
+    "XL9zheGBiMQ": {
+      "width": 1920,
+      "height": 1080,
+      "duration": 19,
+      "checkedAt": "2026-11-22T22:13:29+08:00"
+    },
+    "VR4HctFJz3k": {
+      "width": 3840,
+      "height": 2160,
+      "duration": 27,
+      "checkedAt": "2026-11-22T22:13:31+08:00"
+    },
+    "VDIGT03SjV4": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 7,
+      "checkedAt": "2026-11-22T22:13:33+08:00"
+    },
+    "U4R0PGCF2Fk": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 27,
+      "checkedAt": "2026-11-22T22:13:35+08:00"
+    },
+    "H95SQqf3IaA": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 18,
+      "checkedAt": "2026-11-22T22:13:37+08:00"
+    },
+    "Gf15OdrFj8M": {
+      "width": 3840,
+      "height": 2160,
+      "duration": 192,
+      "checkedAt": "2026-11-22T22:13:38+08:00"
+    },
+    "Fqs1Xjn9rgk": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 30,
+      "checkedAt": "2026-11-22T22:13:40+08:00"
+    },
+    "CtBOsOVHcGo": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 29,
+      "checkedAt": "2026-11-22T22:13:42+08:00"
+    },
+    "AmmKvOae4CE": {
+      "width": 2160,
+      "height": 3840,
+      "duration": 29,
+      "checkedAt": "2026-11-22T22:13:44+08:00"
     }
   },
+  "youtubeFailures": {},
   "youtubeStatus": {
-    "checkedAt": "2026-11-22T22:12:06+08:00",
-    "attempted": 2,
-    "succeeded": 0,
+    "checkedAt": "2026-11-22T22:13:45+08:00",
+    "attempted": 17,
+    "succeeded": 17,
     "blocked": false,
-    "known": 232,
+    "known": 249,
     "total": 249
   }
 };
