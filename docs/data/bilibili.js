@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-22T12:24:04+08:00",
+  "updatedAt": "2026-11-22T20:33:26+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -7,13 +7,14 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/3546824314980440/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-22T12:20:14+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-22T20:31:31+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-22T12:20:00+08:00",
-        "lastSuccessAt": "2026-11-22T12:20:08+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-22T20:31:23+08:00",
+        "lastSuccessAt": "2026-11-22T20:31:29+08:00",
         "headBvids": [
+          "BV1jey3zREjY",
           "BV1wwyGziEog",
           "BV1uWyhzPEjN",
           "BV1n4yezZEFf",
@@ -42,23 +43,23 @@ window.IC_BILIBILI = {
           "BV15WWq6dEAy",
           "BV1DhWj6bEq3",
           "BV1duWy67Ed6",
-          "BV1DaWj6ZEAn",
-          "BV1cqWM6WEuc"
+          "BV1DaWj6ZEAn"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 51,
-        "total": 1483,
+        "total": 1484,
         "pagesFetched": [
-          1
-        ]
+          1,
+          50
+        ],
+        "nextPage": 51,
+        "complete": true
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:20:08+08:00",
-        "lastSuccessAt": "2026-11-22T12:20:14+08:00",
-        "headId": "1273372333470384135",
-        "historyOffset": "1234121104086270024",
+        "checkedAt": "2026-11-22T20:31:29+08:00",
+        "lastSuccessAt": "2026-11-22T20:31:31+08:00",
+        "headId": "1273418719114035218",
+        "historyOffset": "1231964124237266978",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -72,11 +73,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-22T12:20:35+08:00",
+      "checkedAt": "2026-11-22T20:31:44+08:00",
       "uploads": {
         "status": "partial",
-        "checkedAt": "2026-11-22T12:20:14+08:00",
-        "lastSuccessAt": "2026-11-22T12:20:29+08:00",
+        "checkedAt": "2026-11-22T20:31:31+08:00",
+        "lastSuccessAt": "2026-11-22T20:31:40+08:00",
         "headBvids": [
           "BV1ZGyYzEEGH",
           "BV1AByhz9EoB",
@@ -115,20 +116,18 @@ window.IC_BILIBILI = {
         "total": 2174,
         "pagesFetched": [
           1,
-          33,
           34
         ]
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-22T12:20:29+08:00",
-        "lastSuccessAt": "2026-11-22T12:20:35+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-22T20:31:40+08:00",
+        "lastSuccessAt": "2026-11-22T20:31:44+08:00",
         "headId": "1273182478700380165",
-        "historyOffset": "1193782599456129033",
+        "historyOffset": "1187987112265252869",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 1,
+        "pagesFetched": 2,
         "videosAdded": 0
       }
     },
@@ -139,11 +138,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-22T12:20:47+08:00",
+      "checkedAt": "2026-11-22T20:32:02+08:00",
       "uploads": {
-        "status": "ok",
-        "checkedAt": "2026-11-22T12:20:35+08:00",
-        "lastSuccessAt": "2026-11-22T12:20:41+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-22T20:31:44+08:00",
+        "lastSuccessAt": "2026-11-22T20:31:53+08:00",
         "headBvids": [
           "BV11byhzfEQB",
           "BV1sdyazcEBn",
@@ -177,20 +176,19 @@ window.IC_BILIBILI = {
           "BV1o3HF6nEXv"
         ],
         "pending": [],
+        "error": "HTTP 412",
+        "nextPage": 46,
         "total": 2024,
         "pagesFetched": [
           1,
-          42,
-          43,
-          44
-        ],
-        "nextPage": 45,
-        "complete": false
+          44,
+          45
+        ]
       },
       "dynamic": {
         "status": "partial",
-        "checkedAt": "2026-11-22T12:20:41+08:00",
-        "lastSuccessAt": "2026-11-22T12:20:47+08:00",
+        "checkedAt": "2026-11-22T20:31:53+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:02+08:00",
         "headId": "1273366144431947779",
         "historyOffset": "1247955966841847829",
         "historyComplete": false,
@@ -206,12 +204,12 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/1495917219/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "ok",
-      "checkedAt": "2026-11-22T12:23:59+08:00",
+      "status": "partial",
+      "checkedAt": "2026-11-22T20:32:18+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:23:58+08:00",
-        "lastSuccessAt": "2026-11-22T12:23:58+08:00",
+        "checkedAt": "2026-11-22T20:32:02+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:10+08:00",
         "headBvids": [
           "BV1CJyezYE2M",
           "BV18QyszDEpA",
@@ -247,19 +245,21 @@ window.IC_BILIBILI = {
         "pending": [],
         "total": 623,
         "pagesFetched": [
-          1
+          1,
+          21
         ],
         "nextPage": 22,
-        "complete": false
+        "complete": true
       },
       "dynamic": {
-        "status": "ok",
-        "checkedAt": "2026-11-22T12:23:58+08:00",
-        "lastSuccessAt": "2026-11-22T12:23:59+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-22T20:32:10+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:18+08:00",
         "headId": "1273152100396695571",
         "historyOffset": "1116576924478472212",
         "historyComplete": false,
         "pending": [],
+        "error": "动态暂未返回内容",
         "pagesFetched": 1,
         "videosAdded": 0
       }
@@ -271,11 +271,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-22T12:21:06+08:00",
+      "checkedAt": "2026-11-22T20:32:21+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:01+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:05+08:00",
+        "checkedAt": "2026-11-22T20:32:18+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:20+08:00",
         "headBvids": [
           "BV1RJyvzHEL1",
           "BV11nyiz6Eso",
@@ -319,10 +319,10 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:05+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:06+08:00",
+        "checkedAt": "2026-11-22T20:32:20+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:21+08:00",
         "headId": "1273232489338372102",
-        "historyOffset": "1226810292357300243",
+        "historyOffset": "1218163037130719241",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -339,11 +339,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-22T12:21:14+08:00",
+      "checkedAt": "2026-11-22T20:32:34+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:06+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:08+08:00",
+        "checkedAt": "2026-11-22T20:32:21+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:30+08:00",
         "headBvids": [
           "BV1vEyWzWE64",
           "BV1LnWz6vEQS",
@@ -387,10 +387,10 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:08+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:14+08:00",
+        "checkedAt": "2026-11-22T20:32:30+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:34+08:00",
         "headId": "1272806686274355225",
-        "historyOffset": "1157754824604778534",
+        "historyOffset": "1146622269399760897",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -405,13 +405,15 @@ window.IC_BILIBILI = {
         "wonhee"
       ],
       "platform": "bilibili",
-      "status": "ok",
-      "checkedAt": "2026-11-22T12:21:17+08:00",
+      "status": "partial",
+      "checkedAt": "2026-11-22T20:32:48+08:00",
       "uploads": {
-        "status": "ok",
-        "checkedAt": "2026-11-22T12:21:14+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:16+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-22T20:32:34+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:44+08:00",
         "headBvids": [
+          "BV1Lds86CETT",
+          "BV1Lds86CEcN",
           "BV1GxWq6sEd6",
           "BV1GUsH6jEwa",
           "BV1hdWM6gE8b",
@@ -439,25 +441,22 @@ window.IC_BILIBILI = {
           "BV1i8HQ6FEwA",
           "BV1UeHs6kEqD",
           "BV1LQHr6NEqZ",
-          "BV1NGHk6DEg7",
-          "BV1wjaS6tEbZ",
-          "BV1HLaB6bEQd"
+          "BV1NGHk6DEg7"
         ],
         "pending": [],
-        "total": 468,
-        "pagesFetched": [
-          1,
-          16
-        ],
+        "error": "HTTP 412",
         "nextPage": 17,
-        "complete": true
+        "total": 470,
+        "pagesFetched": [
+          1
+        ]
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:16+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:17+08:00",
-        "headId": "1271538820495441924",
-        "historyOffset": "1146575978239098950",
+        "checkedAt": "2026-11-22T20:32:44+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:48+08:00",
+        "headId": "1273457378069577732",
+        "historyOffset": "1139556249326583830",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -473,11 +472,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-22T12:21:28+08:00",
+      "checkedAt": "2026-11-22T20:32:56+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:17+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:19+08:00",
+        "checkedAt": "2026-11-22T20:32:48+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:52+08:00",
         "headBvids": [
           "BV13Fsb6AEBe",
           "BV1g9sc6pE2A",
@@ -521,10 +520,10 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:19+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:28+08:00",
+        "checkedAt": "2026-11-22T20:32:52+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:56+08:00",
         "headId": "1272358403325296726",
-        "historyOffset": "1151755717356552208",
+        "historyOffset": "1146916165411405827",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -540,11 +539,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-22T12:21:49+08:00",
+      "checkedAt": "2026-11-22T20:33:06+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-22T12:21:28+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:38+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-22T20:32:56+08:00",
+        "lastSuccessAt": "2026-11-22T20:32:59+08:00",
         "headBvids": [
           "BV1qSyhzLEm9",
           "BV15pyWzDETw",
@@ -578,17 +577,18 @@ window.IC_BILIBILI = {
           "BV1XT8C6HEdJ"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 10,
         "total": 258,
         "pagesFetched": [
-          1
-        ]
+          1,
+          9
+        ],
+        "nextPage": 10,
+        "complete": true
       },
       "dynamic": {
         "status": "partial",
-        "checkedAt": "2026-11-22T12:21:38+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:49+08:00",
+        "checkedAt": "2026-11-22T20:32:59+08:00",
+        "lastSuccessAt": "2026-11-22T20:33:06+08:00",
         "headId": "1273116108570755080",
         "historyOffset": "1136927755083972646",
         "historyComplete": false,
@@ -606,13 +606,14 @@ window.IC_BILIBILI = {
         "yuna"
       ],
       "platform": "bilibili",
-      "status": "ok",
-      "checkedAt": "2026-11-22T12:22:09+08:00",
+      "status": "partial",
+      "checkedAt": "2026-11-22T20:33:18+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:21:49+08:00",
-        "lastSuccessAt": "2026-11-22T12:21:57+08:00",
+        "checkedAt": "2026-11-22T20:33:06+08:00",
+        "lastSuccessAt": "2026-11-22T20:33:13+08:00",
         "headBvids": [
+          "BV1wyyvzKESF",
           "BV1Aasq6VEqE",
           "BV1Rqsh6yE6p",
           "BV17bsb6VESX",
@@ -641,29 +642,28 @@ window.IC_BILIBILI = {
           "BV1Z14b6EE8Z",
           "BV1Br446VEge",
           "BV1n14g6iERC",
-          "BV1r14g6iET2",
-          "BV1wrxs6kETb"
+          "BV1r14g6iET2"
         ],
         "pending": [],
-        "total": 662,
+        "total": 663,
         "pagesFetched": [
           1,
-          20,
-          21,
-          22
+          22,
+          23
         ],
-        "nextPage": 23,
-        "complete": false
+        "nextPage": 24,
+        "complete": true
       },
       "dynamic": {
-        "status": "ok",
-        "checkedAt": "2026-11-22T12:21:57+08:00",
+        "status": "error",
+        "checkedAt": "2026-11-22T20:33:13+08:00",
         "lastSuccessAt": "2026-11-22T12:22:09+08:00",
         "headId": "1272683961844236320",
         "historyOffset": "1184411268523491368",
         "historyComplete": false,
         "pending": [],
-        "pagesFetched": 2,
+        "error": "动态暂未返回内容",
+        "pagesFetched": 0,
         "videosAdded": 0
       }
     },
@@ -676,11 +676,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-22T12:24:04+08:00",
+      "checkedAt": "2026-11-22T20:33:26+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:23:59+08:00",
-        "lastSuccessAt": "2026-11-22T12:24:00+08:00",
+        "checkedAt": "2026-11-22T20:33:18+08:00",
+        "lastSuccessAt": "2026-11-22T20:33:25+08:00",
         "headBvids": [
           "BV1BxWe6dE2E",
           "BV1DExp6UEoN",
@@ -702,8 +702,8 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-22T12:24:00+08:00",
-        "lastSuccessAt": "2026-11-22T12:24:04+08:00",
+        "checkedAt": "2026-11-22T20:33:25+08:00",
+        "lastSuccessAt": "2026-11-22T20:33:26+08:00",
         "headId": "1270116408938725458",
         "historyOffset": "",
         "historyComplete": true,
@@ -714,6 +714,25 @@ window.IC_BILIBILI = {
     }
   ],
   "videos": [
+    {
+      "bvid": "BV1wyyvzKESF",
+      "title": "【ITZY】CHAERYEONG “Lovesick” Dance Practice (Winter Ver.) (4K)",
+      "date": "2026-11-22",
+      "publisher": "ITZY 官号",
+      "source": "https://www.bilibili.com/video/BV1wyyvzKESF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/50fb76cbfd84cca924fcef760b3c3cc79d79d83c.jpg",
+      "duration": "3:12",
+      "description": "",
+      "sources": [
+        "1185017133"
+      ],
+      "provenance": [
+        {
+          "uid": "1185017133",
+          "kind": "upload"
+        }
+      ]
+    },
     {
       "bvid": "BV1wwyGziEog",
       "title": "【Hearts2Hearts】describing me?",
@@ -739,6 +758,30 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1jey3zREjY",
+      "title": "【Hearts2Hearts】不是说让我走嘛",
+      "date": "2026-11-22",
+      "publisher": "Hearts2Hearts 官号",
+      "source": "https://www.bilibili.com/video/BV1jey3zREjY/",
+      "cover": "https://i1.hdslb.com/bfs/archive/83552d0f4ed486bfd338d50928b3958b7938228f.jpg",
+      "duration": "0:07",
+      "description": "",
+      "sources": [
+        "3546824314980440"
+      ],
+      "provenance": [
+        {
+          "uid": "3546824314980440",
+          "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1273418719114035218"
+        }
+      ]
+    },
+    {
       "bvid": "BV1RJyvzHEL1",
       "title": "【张元英 WONYOUNG】IVE 261121丨大阪 MAMA 2026 颁奖典礼 Day2 8K直拍合集",
       "date": "2026-11-22",
@@ -759,6 +802,54 @@ window.IC_BILIBILI = {
           "uid": "83749720",
           "kind": "dynamic",
           "url": "https://t.bilibili.com/1273232489338372102"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Lds86CEcN",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film (A ver.)",
+      "date": "2026-11-22",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1Lds86CEcN/",
+      "cover": "https://i2.hdslb.com/bfs/archive/e3fd1b30e2125f3ff16304eebd3c2d302f7e5324.jpg",
+      "duration": "0:27",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1273456098226995255"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Lds86CETT",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film (B ver.)",
+      "date": "2026-11-22",
+      "publisher": "ILLIT 官号",
+      "source": "https://www.bilibili.com/video/BV1Lds86CETT/",
+      "cover": "https://i1.hdslb.com/bfs/archive/ae2fa7bd35b1d2eb5f7839ddb5b5bbb8b37135d5.jpg",
+      "duration": "0:20",
+      "description": "",
+      "sources": [
+        "3546608109095338"
+      ],
+      "provenance": [
+        {
+          "uid": "3546608109095338",
+          "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1273457378069577732"
         }
       ]
     },
@@ -27471,6 +27562,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1234043863403855943"
         }
       ]
     },
@@ -27634,6 +27730,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1233734514082054147"
         }
       ]
     },
@@ -27653,6 +27754,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1233765523752222809"
         }
       ]
     },
@@ -27672,6 +27778,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1233780981329035317"
         }
       ]
     },
@@ -27691,6 +27802,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1233788110979989510"
         }
       ]
     },
@@ -27710,6 +27826,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1233659309159612439"
         }
       ]
     },
@@ -27729,6 +27850,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1233719052172525584"
         }
       ]
     },
@@ -27868,6 +27994,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1233425319381172295"
         }
       ]
     },
@@ -27930,6 +28061,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1232923018638917654"
         }
       ]
     },
@@ -28045,6 +28181,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1232551680043647048"
         }
       ]
     },
@@ -28088,6 +28229,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1232180594920652867"
         }
       ]
     },
@@ -28198,6 +28344,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546824314980440",
           "kind": "upload"
+        },
+        {
+          "uid": "3546824314980440",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1231964124237266978"
         }
       ]
     },
@@ -30500,6 +30651,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1226807492048060423"
         }
       ]
     },
@@ -31226,6 +31382,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1224096474313261075"
         }
       ]
     },
@@ -31245,6 +31406,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1223898974514053128"
         }
       ]
     },
@@ -31607,6 +31773,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1223035557279432721"
         }
       ]
     },
@@ -31712,6 +31883,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1223059171011723285"
         }
       ]
     },
@@ -32299,6 +32475,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1221576616977629205"
         }
       ]
     },
@@ -32318,6 +32499,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1221572485206507538"
         }
       ]
     },
@@ -33617,6 +33803,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1218727941313134600"
         }
       ]
     },
@@ -33712,6 +33903,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1218721172398538754"
         }
       ]
     },
@@ -34212,6 +34408,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1218163037130719241"
         }
       ]
     },
@@ -44025,6 +44226,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1193698250559848456"
         }
       ]
     },
@@ -44202,6 +44408,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1193327113822797831"
         }
       ]
     },
@@ -44326,6 +44537,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1192804476459679751"
         }
       ]
     },
@@ -44383,6 +44599,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1192965842705317923"
         }
       ]
     },
@@ -44450,6 +44671,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1192462841888636929"
         }
       ]
     },
@@ -44488,6 +44714,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1192589410297708563"
         }
       ]
     },
@@ -44526,6 +44757,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1192613182890311698"
         }
       ]
     },
@@ -44746,6 +44982,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1191717587772243986"
         }
       ]
     },
@@ -45023,6 +45264,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1190787757367099425"
         }
       ]
     },
@@ -45390,6 +45636,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1189860100272029697"
         }
       ]
     },
@@ -45925,6 +46176,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1188183916315410432"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1187987112265252869"
         }
       ]
     },
@@ -60258,6 +60519,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1157383739406286851"
         }
       ]
     },
@@ -60372,6 +60638,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1157012658556239912"
         }
       ]
     },
@@ -60477,6 +60748,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1156641573399691280"
         }
       ]
     },
@@ -60782,6 +61058,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1155528313544900677"
         }
       ]
     },
@@ -60963,6 +61244,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1154786147493216260"
         }
       ]
     },
@@ -61482,6 +61768,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1152791564676759576"
         }
       ]
     },
@@ -61954,6 +62245,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1151817461815836713"
         }
       ]
     },
@@ -62568,6 +62864,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1149947862550839378"
         }
       ]
     },
@@ -62587,6 +62888,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1149962040222154776"
         }
       ]
     },
@@ -62606,6 +62912,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1149977798480232472"
         }
       ]
     },
@@ -62754,6 +63065,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1149822879013011456"
         }
       ]
     },
@@ -62773,6 +63089,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1149900132557258754"
         }
       ]
     },
@@ -62811,6 +63132,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1149560469390884880"
         }
       ]
     },
@@ -63615,6 +63941,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1148106610093064226"
         }
       ]
     },
@@ -63672,6 +64003,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1147951943998504969"
         }
       ]
     },
@@ -63777,6 +64113,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1147658279946551347"
         }
       ]
     },
@@ -63896,6 +64237,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1147287147469865016"
         }
       ]
     },
@@ -63939,6 +64285,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1147303305174581272"
         }
       ]
     },
@@ -64072,6 +64423,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546751115987218",
           "kind": "upload"
+        },
+        {
+          "uid": "3546751115987218",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1146931665929502758"
         }
       ]
     },
@@ -64091,6 +64447,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546837942274544",
           "kind": "upload"
+        },
+        {
+          "uid": "3546837942274544",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1146622269399760897"
         }
       ]
     },
@@ -64543,6 +64904,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1145493569142784023"
         }
       ]
     },
@@ -64824,6 +65190,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1144689628569141287"
         }
       ]
     },
@@ -65019,6 +65390,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143962937272041537"
         }
       ]
     },
@@ -65252,6 +65628,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143591860726399011"
         }
       ]
     },
@@ -65623,6 +66004,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143205296494084104"
         }
       ]
     },
@@ -65980,6 +66366,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1142494045577150497"
         }
       ]
     },
@@ -66199,6 +66590,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1141751879520223232"
         }
       ]
     },
@@ -66256,6 +66652,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1141388435141951507"
         }
       ]
     },
@@ -66294,6 +66695,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1141349784727060488"
         }
       ]
     },
@@ -66332,6 +66738,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1141025136728604721"
         }
       ]
     },
@@ -66689,6 +67100,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1139911885484720199"
         }
       ]
     },
@@ -66846,6 +67262,11 @@ window.IC_BILIBILI = {
         {
           "uid": "3546608109095338",
           "kind": "upload"
+        },
+        {
+          "uid": "3546608109095338",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1139556249326583830"
         }
       ]
     },
@@ -147921,6 +148342,139 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1tg411H7mi",
+      "title": "【张元英】肿成猪猪 | 191005 IZ*ONE TGC 北九州 走秀&舞台 饭拍直拍合集 (含生放送&幕后花絮-共8p)",
+      "date": "2022-12-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1tg411H7mi/",
+      "cover": "https://i0.hdslb.com/bfs/archive/ff2bb947d17840ee619b2753ae3b9136c350b574.png",
+      "duration": "55:25",
+      "description": "191005 TGC KITAKYUSHU 北九州 KITAKYUSHU",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1bG411u7cP",
+      "title": "【张元英】IVE时期 音银上班路&下班路 饭拍&新闻合集 Part.1 (已更至184P-240503)",
+      "date": "2022-12-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1bG411u7cP/",
+      "cover": "https://i2.hdslb.com/bfs/archive/73eb84038a7eed6e157c3fc4e91efda2f4f04414.png",
+      "duration": "2:23:00",
+      "description": "Music Bank\nIZ*ONE时期 BV1DM411671s\nIVE时期 Part.1 BV1bG411u7cP\nIVE时期 Part.2 BV1FsQUYkERb",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1aK411X7EU",
+      "title": "【张元英】190817 K/CON IN LA 张元英饭拍直拍合集 (含团体直拍&红毯)(已更新至9P)",
+      "date": "2022-12-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1aK411X7EU/",
+      "cover": "https://i1.hdslb.com/bfs/archive/38ff85c23ee4f40d71f52c40439c18aa918aeaf2.png",
+      "duration": "43:13",
+      "description": "190817 K/CON IN LA \r\nIZ*ONE - Violeta + Highlight + La Vie en Rose + Airplane + PICK ME",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1DM411671s",
+      "title": "【张元英】IZ*ONE时期 音银上班路&下班路 饭拍&新闻合集 (已更至30P)",
+      "date": "2022-12-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1DM411671s/",
+      "cover": "https://i1.hdslb.com/bfs/archive/bd33fccb8f8ae6f840e3e79090101096098910c1.png",
+      "duration": "56:33",
+      "description": "Music Bank\nIZ*ONE时期 BV1DM411671s\nIVE时期 Part.1 BV1bG411u7cP\nIVE时期 Part.2 BV1FsQUYkERb",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1BM41167fx",
+      "title": "【张元英】羽绒服圆圆 181103 音中迷你粉丝见面会 饭拍直拍合集 (含团体直拍-共24p)",
+      "date": "2022-12-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1BM41167fx/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3f5c9785688a768baae4aa8273b489b6203654d3.png",
+      "duration": "3:05:09",
+      "description": "181103 音乐中心 迷你粉丝见面会\r\nMini Fanmeeting",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1A24y1k7zc",
+      "title": "【张元英】紫发圆圆 190412 音银迷你粉丝见面会 饭拍直拍合集 (含团体直拍-共10p)",
+      "date": "2022-12-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1A24y1k7zc/",
+      "cover": "https://i1.hdslb.com/bfs/archive/7b23e332dda1de2e6b4c505591547085ab16178c.png",
+      "duration": "1:12:27",
+      "description": "190412 音乐银行 迷你粉丝见面会\r\nMini Fanmeeting",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11e4y1M7Ps",
+      "title": "【张元英】IZ*ONE时期 签售会饭拍直拍合集 (舞台&Focus-已更至91P)",
+      "date": "2022-12-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV11e4y1M7Ps/",
+      "cover": "https://i1.hdslb.com/bfs/archive/369b316b523644f3acda13e11455bdfec3f838e0.png",
+      "duration": "12:29:26",
+      "description": "FANSIGING EVENT\r\nIZ*ONE时期 BV11e4y1M7Ps\r\nIVE时期 BV1zN411J7xU",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1LP4y1Q7yk",
       "title": "【联合中字】TMI大爆料！ 兔兔逗狗~ IVE一周年直播 221201",
       "date": "2022-12-02",
@@ -147935,6 +148489,82 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV15g411H79b",
+      "title": "【张元英】点开就看小黄人圆圆",
+      "date": "2022-12-02",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV15g411H79b/",
+      "cover": "https://i0.hdslb.com/bfs/archive/23bced1ad5e01e53e41833558e5abeca8df7dc7e.png",
+      "duration": "0:34",
+      "description": "221201",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ED4y1v7AZ",
+      "title": "【张元英】绝美麻花辫~ | 221130 M/AM/A 2022 DAY-2 舞台&获奖&红毯合集 (含幕后花絮)",
+      "date": "2022-12-01",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1ED4y1v7AZ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/92116b43864dfefce3c8e14639c4fd2f8f398dfd.png",
+      "duration": "1:14:08",
+      "description": "221130 2022 M/AM/A AWARDS DAY-2 \r\nBest New Female Artist\r\nBest Dance Performance Female Group\r\nSong of the Year",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1nW4y1p7Uj",
+      "title": "【张元英】眼泪比珍珠珍贵 捂住耳朵向前跑吧 | 年歌获奖感言剪辑",
+      "date": "2022-11-30",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1nW4y1p7Uj/",
+      "cover": "https://i1.hdslb.com/bfs/archive/2f0688a61323bbb1fcd1c2f174d83a54ab5cf507.png",
+      "duration": "4:22",
+      "description": "MAMA",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1CG411M7xg",
+      "title": "【张元英】状态极佳! | 221129 M/AM/A 2022 DAY-1 舞台&获奖合集 (含幕后花絮)",
+      "date": "2022-11-30",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1CG411M7xg/",
+      "cover": "https://i1.hdslb.com/bfs/archive/393309711c6c2a6f6106e480808efb04c7afad89.png",
+      "duration": "44:57",
+      "description": "221129 2022 M/AM/A AWARDS DAY-1\r\nIVE & Kep1e r& NMIXX & LESSERAFIM & NewJeans - ELEVEN + WA DA DA + O.O + FEARLESS + Hype Boy + CHEER UP",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
           "kind": "upload"
         }
       ]
@@ -147978,6 +148608,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1pD4y1v7BY",
+      "title": "【张元英】星船师兄妹Reaction合集 | 221126 MMA 2022",
+      "date": "2022-11-28",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1pD4y1v7BY/",
+      "cover": "https://i0.hdslb.com/bfs/archive/c7daef4ba9c2ab88a87678caed879c70895569a6.png",
+      "duration": "19:13",
+      "description": "221126 Melon Music Awards 颁奖礼 2022",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1424y1y7vu",
       "title": "【ITZY】 \"Cheshire\" MV 预告 #2",
       "date": "2022-11-28",
@@ -148011,6 +148660,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1185017133",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV12W4y1H7Bw",
+      "title": "【张元英】神女下凡 | 221126 MMA怼脸直拍",
+      "date": "2022-11-27",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV12W4y1H7Bw/",
+      "cover": "https://i1.hdslb.com/bfs/archive/2ed5dcc5ea87327f7c38f7d342461c9c343a633a.png",
+      "duration": "7:55",
+      "description": "221126 MMA 2022 IVE - Intro + LOVE DIVE + After LIKE\r\ncr.for_102days",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1wd4y1b7Ji",
+      "title": "【张元英】美貌又杀疯了 | 221126 MMA 2022 舞台&获奖合集 (含幕后花絮)",
+      "date": "2022-11-26",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1wd4y1b7Ji/",
+      "cover": "https://i2.hdslb.com/bfs/archive/65c74677452ca98ed6a2d039a2029b79fb42768b.png",
+      "duration": "1:22:10",
+      "description": "221126 Melon Music Awards 颁奖礼 2022 IVE - COLORFUL ATLANTIS\r\nELEVEN (Piano ver.) + LOVE DIVE + Intro + After LIKE\r\nTOP10/Best Group - Female/New Artist of the Year/Best Song of the Year",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
           "kind": "upload"
         }
       ]
@@ -148054,6 +148741,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1cG4y157GX",
+      "title": "【张元英】绝美生唱4K现场 | 221125 青/龙奖祝贺舞台",
+      "date": "2022-11-25",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1cG4y157GX/",
+      "cover": "https://i2.hdslb.com/bfs/archive/fdb3ac9470b3740a7c50176cfbac8611ded86a56.png",
+      "duration": "10:12",
+      "description": "221125 The 43rd Blue Dragon Film Awards IVE - LOVE DIVE + After LIKE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1MP411u7EV",
       "title": "【ITZY】\"CHESHIRE\" Track Spoiler | 专辑歌曲试听",
       "date": "2022-11-24",
@@ -148092,6 +148798,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1Tg411i7zi",
+      "title": "【张元英】巴黎Vlog终于来了! | 圆圆家书",
+      "date": "2022-11-22",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Tg411i7zi/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2ecf674b66f676312114a0ca1df315eb36dfffba.png",
+      "duration": "24:58",
+      "description": "221122 [IVE LOG] WONYOUNG in PARIS | NYOUNG LOG",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1AD4y1x7XD",
       "title": "【塔塔中字】必备环节喜结怜栗 全程猫叫的IVE LIZ生日直播 221121",
       "date": "2022-11-22",
@@ -148111,6 +148836,101 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1yM411C7Uq",
+      "title": "【张元英】Fred品牌大使 新闻图的神 | 221119 Fred线下活动新闻直拍合集 (已更至15P)",
+      "date": "2022-11-20",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1yM411C7Uq/",
+      "cover": "https://i0.hdslb.com/bfs/archive/382dde00a8fa4a149924ccd5727e2f0e2bd2fb48.png",
+      "duration": "21:49",
+      "description": "221119 Fred线下活动\r\nFred 相关视频合集 BV1sd4y1G7aH\r\n公主的Fred巴黎之行 BV1uD4y127yK\r\n221119 Fred线下活动 BV1yM411C7Uq\r\n230531 Fred线下活动 BV11o4y1u7ZA",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1jK411d7rF",
+      "title": "【张元英】全英文采访 | 221119 Besties on Besties",
+      "date": "2022-11-19",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1jK411d7rF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/3f4a209eab7a9755a4d607b9529fb87c3b62e1bd.png",
+      "duration": "15:30",
+      "description": "221119 K-Pop Girl Group IVE Did NOT Want To Tell Us This | Besties on Besties | Seventeen",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1K8411776J",
+      "title": "【张元英】221118 GMA颁奖礼 张元英CUT (含获奖感言&花絮)",
+      "date": "2022-11-19",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1K8411776J/",
+      "cover": "https://i2.hdslb.com/bfs/archive/37a464a82a769d15875333b372a189df194bb0d9.png",
+      "duration": "21:31",
+      "description": "221108 Genie Music Awards IVE - Intro + LOVE DIVE + After LIKE\r\n221118 播出",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ue4y1p7hW",
+      "title": "【张元英】和JYP的惊喜合作舞台 Groove Back (4K)",
+      "date": "2022-11-18",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1ue4y1p7hW/",
+      "cover": "https://i1.hdslb.com/bfs/archive/0bf8ef641c2778494763a6d5d39e33ddeda5a2cf.png",
+      "duration": "7:26",
+      "description": "221118 Music Bank 朴振英 (J.Y. Park) - Groove Back (Feat.张元英)",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1m841187wL",
+      "title": "【张元英】红/白初登场 记者会见 张元英CUT",
+      "date": "2022-11-16",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1m841187wL/",
+      "cover": "https://i0.hdslb.com/bfs/archive/2f2f83fef08bfdc5059e6759da6218a7a86c4db1.png",
+      "duration": "12:21",
+      "description": "221116 第73回 紅/白/歌/合/戦 紅白",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1xD4y147Yb",
       "title": "【ITZY】 \"CHESHIRE\" 专辑概念影像 #2",
       "date": "2022-11-15",
@@ -148125,6 +148945,139 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1185017133",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1UD4y1x7Vk",
+      "title": "【张元英】女王走秀~ 泰国的空气有魔力 近景多角度饭拍合集",
+      "date": "2022-11-14",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1UD4y1x7Vk/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f9c5d8ddd43d0bcc06ea9f470556503407242791.png",
+      "duration": "24:54",
+      "description": "221113 Super Model Festival",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1rG411F7SF",
+      "title": "【张元英】经纪人日常 提及元英CUT",
+      "date": "2022-11-13",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1rG411F7SF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9ead9e8de16c17da2c8092e74a4ce794e270cb77.png",
+      "duration": "2:39",
+      "description": "E224.221112",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1q84y1v7TD",
+      "title": "【张元英】出差十五夜 X STARSHIP秋季郊游会 张元英CUT (已更齐-含随舞花絮)",
+      "date": "2022-11-11",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1q84y1v7TD/",
+      "cover": "https://i1.hdslb.com/bfs/archive/16326b006d40d51b53f837692ffa9deb98ffffe9.png",
+      "duration": "1:16:45",
+      "description": "出差十五夜2：STARSHIP秋季郊游会",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1jY411Z79S",
+      "title": "【张元英】泪钻公主ELEVEN KCON JAPAN 竖屏直拍",
+      "date": "2022-11-10",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1jY411Z79S/",
+      "cover": "https://i2.hdslb.com/bfs/archive/4af80fb8d5fd32791de9304785f47f83443bf506.png",
+      "duration": "11:56",
+      "description": "221015 KCON 2022 JAPAN DAY 2 IVE - ELEVEN",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Ue411F7KY",
+      "title": "【张元英】私服玩闹版After LIKE 练习室舞蹈 竖屏个人直拍",
+      "date": "2022-11-10",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Ue411F7KY/",
+      "cover": "https://i0.hdslb.com/bfs/archive/79b5d21ff238a5776d20094efcf05002c674bf1b.png",
+      "duration": "3:07",
+      "description": "自剪\r\n221015 [Focus] IVE - After LIKE Dance Practice (KCON 2022 JAPAN Ver.)",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1A14y157d2",
+      "title": "【张元英】2022 GMA颁奖礼 D神4K高清直拍合集",
+      "date": "2022-11-09",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1A14y157d2/",
+      "cover": "https://i1.hdslb.com/bfs/archive/5f2d715e92e1ec0d9f83823cf639679fad686a84.png",
+      "duration": "13:52",
+      "description": "221108 Genie Music Awards IVE - Intro + LOVE DIVE + After LIKE\r\nby DaftTaengk_K",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV13g411z75Z",
+      "title": "【张元英】泪钻公主降临 KCON JAPAN After LIKE直拍",
+      "date": "2022-11-09",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV13g411z75Z/",
+      "cover": "https://i0.hdslb.com/bfs/archive/208fea75cd99b689f8782b4ff21aeead07b490a1.png",
+      "duration": "12:11",
+      "description": "221015 KCON 2022 JAPAN DAY 2 IVE - After LIKE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
           "kind": "upload"
         }
       ]
@@ -148182,6 +149135,44 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1185017133",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV17e411G7Tv",
+      "title": "【张元英】220930 成均馆大学校庆 饭拍直拍合集 (含团体直拍-共26p)",
+      "date": "2022-10-30",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV17e411G7Tv/",
+      "cover": "https://i1.hdslb.com/bfs/archive/fd81a819d9dd58f25add2fea454a74848b9aff76.png",
+      "duration": "1:31:33",
+      "description": "220930 成均馆大学校庆 IVE - ELEVEN + After LIKE + ROYAL + LOVE DIVE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qV4y1g7az",
+      "title": "【张元英】IVE 日一单 幕后花絮 张元英CUT (已更至230716【中字】'The Prom Queens' in JAPAN BEHIND #2 cut)",
+      "date": "2022-10-29",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1qV4y1g7az/",
+      "cover": "https://i2.hdslb.com/bfs/archive/e8fff60eb8c6ee9a4bdf331bdfb516627a89a76f.png",
+      "duration": "1:01:14",
+      "description": "221019 IVE - 1st Single [ELEVEN -Japanese ver.-] Behind 官方中字 & 无字\r\n主打 ELEVEN -Japanese ver.-\r\n[IVE ON]",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
           "kind": "upload"
         }
       ]
@@ -150074,6 +151065,25 @@ window.IC_BILIBILI = {
       ]
     },
     {
+      "bvid": "BV1Kf4y1o7cu",
+      "title": "【ITZY】\"SNEAKERS\" M/V 预告 2",
+      "date": "2022-07-12",
+      "publisher": "ITZY 官号",
+      "source": "https://www.bilibili.com/video/BV1Kf4y1o7cu/",
+      "cover": "https://i0.hdslb.com/bfs/archive/e055eb77ba5a4735619d6876012d7c27e43c6c9f.jpg",
+      "duration": "0:15",
+      "description": "ITZY \"SNEAKERS\" M/V Teaser 2\n\nITZY <CHECKMATE> ALBUM RELEASE \n2022.7.15 FRI 1PM(KST) | 0AM(EST) \n\nPRE-SAVE & PRE-ORDER \nITZY.lnk.to/CHECKMATE",
+      "sources": [
+        "1185017133"
+      ],
+      "provenance": [
+        {
+          "uid": "1185017133",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
       "bvid": "BV1Ge4y1R7A9",
       "title": "【塔塔中字】练习室幕后 姐line谈心 IVE团综 <123 ive>第一季 ep.1",
       "date": "2022-07-12",
@@ -150088,6 +151098,25 @@ window.IC_BILIBILI = {
       "provenance": [
         {
           "uid": "1495917219",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV18a411n7UH",
+      "title": "【ITZY】\"SNEAKERS\" M/V 预告 1",
+      "date": "2022-07-11",
+      "publisher": "ITZY 官号",
+      "source": "https://www.bilibili.com/video/BV18a411n7UH/",
+      "cover": "https://i1.hdslb.com/bfs/archive/87f4782f6b655a6b22eb2469425ded915d36322e.jpg",
+      "duration": "0:20",
+      "description": "ITZY \"SNEAKERS\" M/V Teaser 1\n\nITZY <CHECKMATE> ALBUM RELEASE\n2022.7.15 FRI 1PM(KST) | 0AM(EST)\n\nPRE-SAVE & PRE-ORDER\nITZY.lnk.to/CHECKMATE",
+      "sources": [
+        "1185017133"
+      ],
+      "provenance": [
+        {
+          "uid": "1185017133",
           "kind": "upload"
         }
       ]
