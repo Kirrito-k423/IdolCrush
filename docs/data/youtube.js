@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-22T20:31:30+08:00",
+  "updatedAt": "2026-11-22T22:08:22+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:23+08:00",
+      "checkedAt": "2026-11-22T22:08:15+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:23+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:15+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:24+08:00",
+      "checkedAt": "2026-11-22T22:08:16+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:24+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:16+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:25+08:00",
+      "checkedAt": "2026-11-22T22:08:17+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:25+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:17+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:25+08:00",
+      "checkedAt": "2026-11-22T22:08:18+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:25+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:18+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:26+08:00",
+      "checkedAt": "2026-11-22T22:08:18+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:26+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:18+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:27+08:00",
+      "checkedAt": "2026-11-22T22:08:19+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:27+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:19+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:28+08:00",
+      "checkedAt": "2026-11-22T22:08:20+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:28+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:20+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T20:31:29+08:00",
+      "checkedAt": "2026-11-22T22:08:21+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:29+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:21+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,35 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-22T20:31:30+08:00",
+      "checkedAt": "2026-11-22T22:08:22+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T20:31:30+08:00",
+      "lastSuccessAt": "2026-11-22T22:08:22+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "wZQ1TlU2YT4",
+      "title": "tooooooo good to be RUDE! #Hearts2Hearts #하츠투하츠 #H2H#RUDE! #Hearts2Hearts_RUDE!",
+      "date": "2026-11-22",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=wZQ1TlU2YT4",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "vWc7WcUBwiU",
+      "title": "#미아 님과 #LovesickChallenge R-R-R-R Replay🔄 #ITZY #CHAERYEONG #BabyDONTCry #Mia #Chaeryeong_Lovesick",
+      "date": "2026-11-22",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=vWc7WcUBwiU",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
     {
       "youtube": "u-5wcOZkgS4",
       "title": "☃︎⋆˚ Winter #LovesickChallenge 에 𝐅𝐑𝐄𝐄𝐙𝐄! ❄️ #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #shorts",
@@ -198,7 +220,7 @@ window.IC_YOUTUBE = {
     },
     {
       "youtube": "_0DBc7f-T14",
-      "title": "#체포하겠어 🚨 with @mimi__minu #미미미누 #You_re_Under_Arrest #ILLIT #아일릿",
+      "title": "#체포하겠어 🚨 with ​⁠​⁠@mimiminu_official  #미미미누 #You_re_Under_Arrest #ILLIT #아일릿",
       "date": "2026-11-22",
       "publisher": "ILLIT · YouTube",
       "source": "https://www.youtube.com/watch?v=_0DBc7f-T14",
