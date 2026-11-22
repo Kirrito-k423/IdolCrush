@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-22T12:20:14+08:00",
+  "updatedAt": "2026-11-22T20:31:30+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:06+08:00",
+      "checkedAt": "2026-11-22T20:31:23+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:06+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:23+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:07+08:00",
+      "checkedAt": "2026-11-22T20:31:24+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:07+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:24+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:08+08:00",
+      "checkedAt": "2026-11-22T20:31:25+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:08+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:25+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:09+08:00",
+      "checkedAt": "2026-11-22T20:31:25+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:09+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:25+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:10+08:00",
+      "checkedAt": "2026-11-22T20:31:26+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:10+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:26+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:11+08:00",
+      "checkedAt": "2026-11-22T20:31:27+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:11+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:27+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:12+08:00",
+      "checkedAt": "2026-11-22T20:31:28+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:12+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:28+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-22T12:20:13+08:00",
+      "checkedAt": "2026-11-22T20:31:29+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:13+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:29+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,46 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-22T12:20:14+08:00",
+      "checkedAt": "2026-11-22T20:31:30+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-22T12:20:14+08:00",
+      "lastSuccessAt": "2026-11-22T20:31:30+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "u-5wcOZkgS4",
+      "title": "☃︎⋆˚ Winter #LovesickChallenge 에 𝐅𝐑𝐄𝐄𝐙𝐄! ❄️ #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #shorts",
+      "date": "2026-11-22",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=u-5wcOZkgS4",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "rBzWnqIa4pg",
+      "title": "I LOVE YOU 🎶💓",
+      "date": "2026-11-22",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=rBzWnqIa4pg",
+      "description": "#ZENA #제나 #ゼナ\n#RESCENE #리센느 #リセンヌ \n#challenge",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "f8HMEeeCriU",
+      "title": "아니 걸으라매 #Hearts2Hearts #하츠투하츠 #H2H #YUHA #A_NA",
+      "date": "2026-11-22",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=f8HMEeeCriU",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
     {
       "youtube": "dFV7Q2wYRSA",
       "title": "𝑆𝑛𝑎𝑘𝑒𝑠𝑘𝑖𝑛 #2026MAMA ver. #IVE #아이브 #MAMAAWARDS #2026MAMAAWARDS #Shorts",
@@ -153,6 +186,105 @@ window.IC_YOUTUBE = {
       ]
     },
     {
+      "youtube": "cSDOa_9Uxck",
+      "title": "잡을래말래",
+      "date": "2026-11-22",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=cSDOa_9Uxck",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "_0DBc7f-T14",
+      "title": "#체포하겠어 🚨 with @mimi__minu #미미미누 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-22",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=_0DBc7f-T14",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "Zge03ADPziQ",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film (B ver.)",
+      "date": "2026-11-22",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=Zge03ADPziQ",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "XL9zheGBiMQ",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film (B ver.)",
+      "date": "2026-11-22",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=XL9zheGBiMQ",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "VR4HctFJz3k",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film (A ver.)",
+      "date": "2026-11-22",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=VR4HctFJz3k",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "VDIGT03SjV4",
+      "title": "🤍",
+      "date": "2026-11-22",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=VDIGT03SjV4",
+      "description": "#WONI #원이 #ウォニ\n#RESCENE #리센느 #リセンヌ \n#challenge",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "U4R0PGCF2Fk",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film (A ver.)",
+      "date": "2026-11-22",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=U4R0PGCF2Fk",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "H95SQqf3IaA",
+      "title": "🦊➡️🍏➡️🌠 #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #shorts",
+      "date": "2026-11-22",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=H95SQqf3IaA",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "Gf15OdrFj8M",
+      "title": "CHAERYEONG “Lovesick” Dance Practice (Winter Ver.) (4K)",
+      "date": "2026-11-22",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=Gf15OdrFj8M",
+      "description": "CHAERYEONG “Lovesick” Dance Practice (Winter Ver.) (4K)\n\nCHAERYEONG 'Lovesick'\nhttp://CHAERYEONG.lnk.to/Lovesick\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #채령 #Chaeryeong_Lovesick\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
       "youtube": "GUipriNczq8",
       "title": "GO HARD with @nonawav #Christy & #Shaz 🌸🌻",
       "date": "2026-11-22",
@@ -164,6 +296,28 @@ window.IC_YOUTUBE = {
       ]
     },
     {
+      "youtube": "Fqs1Xjn9rgk",
+      "title": "언니즈도 체포하게떠 #체포하겠어 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-22",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=Fqs1Xjn9rgk",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "CtBOsOVHcGo",
+      "title": "기대해 🌹𓂃 𓈒𓏸⋆꙳ #ITZY #CHAERYEONG #채령 #기대해",
+      "date": "2026-11-22",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=CtBOsOVHcGo",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
       "youtube": "B8pRd5xZEPI",
       "title": "🅨🅞🅤 💚 #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #shorts",
       "date": "2026-11-22",
@@ -172,6 +326,17 @@ window.IC_YOUTUBE = {
       "description": "",
       "sources": [
         "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "AmmKvOae4CE",
+      "title": "#LEO, #ANXIN 님에게 빠져들지 Do you? @ALD1.official",
+      "date": "2026-11-22",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=AmmKvOae4CE",
+      "description": "#LIV #리브 \n#RESCENE #리센느\n#ALPHADRIVEONE #알파드라이브원 \n#백화요란",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
       ]
     },
     {
