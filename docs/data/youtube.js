@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-23T04:32:21+08:00",
+  "updatedAt": "2026-11-23T22:30:24+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:13+08:00",
+      "checkedAt": "2026-11-23T22:30:16+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:13+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:16+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:14+08:00",
+      "checkedAt": "2026-11-23T22:30:17+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:14+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:17+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:15+08:00",
+      "checkedAt": "2026-11-23T22:30:18+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:15+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:18+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:16+08:00",
+      "checkedAt": "2026-11-23T22:30:18+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:16+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:19+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:17+08:00",
+      "checkedAt": "2026-11-23T22:30:19+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:17+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:19+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:18+08:00",
+      "checkedAt": "2026-11-23T22:30:20+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:18+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:21+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:19+08:00",
+      "checkedAt": "2026-11-23T22:30:22+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:19+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:22+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T04:32:20+08:00",
+      "checkedAt": "2026-11-23T22:30:23+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:20+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:23+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,255 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-23T04:32:21+08:00",
+      "checkedAt": "2026-11-23T22:30:23+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T04:32:21+08:00",
+      "lastSuccessAt": "2026-11-23T22:30:24+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "zcASsNkO8VI",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #WONHEE",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=zcASsNkO8VI",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "xuUhlpAIYTQ",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #IROHA",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=xuUhlpAIYTQ",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "u3v-Jx_bNa4",
+      "title": "CHAERYEONG 'Lovesick' Performance Video BEHIND",
+      "date": "2026-11-23",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=u3v-Jx_bNa4",
+      "description": "CHAERYEONG 'Lovesick' Performance Video BEHIND\n\nCHAERYEONG 'Lovesick'\nhttp://CHAERYEONG.lnk.to/Lovesick\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #채령 #Chaeryeong_Lovesick\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "qp6jJjDXVFM",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #YUNAH",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=qp6jJjDXVFM",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT \n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "qkRj1rA-GL4",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #MINJU",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=qkRj1rA-GL4",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "nrbRqhq6RiU",
+      "title": "이번 주도 힘내🌼 월요팅❤️‍🔥 #ITZY #MIDZY #CHAERYEONG #YUNA #채령 #유나 #WayToGo #힘내 #Shorts",
+      "date": "2026-11-23",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=nrbRqhq6RiU",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "iocqXX77eb0",
+      "title": "RESCENE (리센느) 'With' Recording Behind",
+      "date": "2026-11-23",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=iocqXX77eb0",
+      "description": "RESCENE (리센느) 'With' Recording Behind\n4th Mini Album [PULSE]  http://rescene.lnk.to/PULSE\n\nRESCENE Plus Chat: https://artist.mnetplus.world/main/stg/rescene-official\nRESCENE Instagram: https://www.instagram.com/rescene_official\nRESCENE X: https://twitter.com/RESCENEofficial\nRESCENE Facebook: https://www.facebook.com/RESCENE.official\nRESCENE TikTok: https://www.tiktok.com/@rescene_official\nRESCENE Weibo: https://weibo.com/rescene\n\n#RESCENE #리센느 #リセンヌ\n#PULSE",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "hawmxnby8X4",
+      "title": "🧑‍🎄🎄˚⊹ 𓂃𓈒𓏸 𝐢𝐬 𝐂𝐨𝐦𝐢𝐧𝐠 .. #ITZY #CHAERYEONG #채령 #Chaeryeong_Lovesick #shorts",
+      "date": "2026-11-23",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=hawmxnby8X4",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "fIi0QeEvwew",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #YUNAH",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=fIi0QeEvwew",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "_nLPtQB-_k0",
+      "title": "IVE 아이브 '2027 SEASON'S GREETINGS' TEASER",
+      "date": "2026-11-23",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=_nLPtQB-_k0",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "VK5yQAv1FwM",
+      "title": "Squat with #ILLIT (don't be the whistle) #체포하겠어 #You_re_Under_Arrest #아일릿",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=VK5yQAv1FwM",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "S_rh9KQR4yg",
+      "title": "💙𓂃➶ 𝚝𝚞𝚛𝚗𝚒𝚗𝚐 𝚒𝚗𝚝𝚘 ..°✩ 💛 #ITZY #CHAERYEONG #Chaeryeong_Lovesick #Chaeryeong_MoonlitClub",
+      "date": "2026-11-23",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=S_rh9KQR4yg",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "R0GHUJWxZEg",
+      "title": "쌤몰래 dab #Hearts2Hearts #하츠투하츠 #H2H",
+      "date": "2026-11-23",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=R0GHUJWxZEg",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "QsqQRGR_bcQ",
+      "title": "晩餐歌 (만찬가) Covered by IVE GAEUL",
+      "date": "2026-11-23",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=QsqQRGR_bcQ",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "OpLcwrvZChs",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #WONHEE",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=OpLcwrvZChs",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "MRcAOGHdfzY",
+      "title": "#체포하겠어 🚨 with @KiiiKiii_starship  #KYA #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=MRcAOGHdfzY",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "KqJVng1QKQ0",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #IROHA",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=KqJVng1QKQ0",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "HNvcMt08l-g",
+      "title": "#LovesickChallenge 𝒎𝒂𝒌𝒆 𝒎𝒆 𝒇𝒆𝒆𝒍 𝒍𝒊𝒌𝒆 𝒇𝒍𝒚𝒊𝒏𝒈  ࣪˖ 🧚🏻‍♀️⋆˚✧ #ITZY #CHAERYEONG",
+      "date": "2026-11-23",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=HNvcMt08l-g",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "Dl23K3PGiI4",
+      "title": "이안이 혓바닥이 왜…그래?👅 충격! 수업 중 몰래 두쫀 먹는 학생들이 있다? 나를 맞혀봐부터 선생님 몰래 간식 먹기까지! 🏫수능 특집🏫 대환장 배꼽빠지高 | 둘셋하투하 EP.8",
+      "date": "2026-11-23",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=Dl23K3PGiI4",
+      "description": "Hearts2Hearts' 1st Japan Single \"ICONIC HEART\" is out! \nListen and download on your favorite platform: https://lnk.to/H2H_ICONICHEART\n\n🪄 'ICONIC HEART' MV  https://youtu.be/chl0R8C4NJ8\n✨ 'ICONIC HEART (Korean Ver.)' MV https://youtu.be/DK_dr_n2rM4\n\nSubscribe to Hearts2Hearts Official YouTube Channel!\nhttps://www.youtube.com/@hearts2hearts.official?sub_confirmation=1\n\nHearts2Hearts Official\nhttps://www.youtube.com/@hearts2hearts.official\nhttps://twitter.com/Hearts2Hearts\nhttps://www.instagram.com/hearts2hearts/\nhttps://www.tiktok.com/@hearts2hearts\nhttps://www.facebook.com/hearts2heartsH2H\nhttps://weibo.com/u/7971304015\n\n#Hearts2Hearts #하츠투하츠 #둘셋하투하 \n#TwoThreeH2H #H2H",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "3Qe3J48FOHQ",
+      "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #MINJU",
+      "date": "2026-11-23",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=3Qe3J48FOHQ",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "1XFk8q_vP2o",
+      "title": "i'm crazy about Tiffany!",
+      "date": "2026-11-23",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=1XFk8q_vP2o",
+      "description": "i'm crazy about Tiffany!\n\n#MEOVV #미야오 #GAWON #가원\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "0KV1FMD0E5Y",
+      "title": "#채민 님과 #LovesickChallenge du du du du du ✨ #ITZY #CHAERYEONG #채령 #NTOP #CHAEMIN #Chaeryeong_Lovesick",
+      "date": "2026-11-23",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=0KV1FMD0E5Y",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
     {
       "youtube": "wZQ1TlU2YT4",
       "title": "tooooooo good to be RUDE! #Hearts2Hearts #하츠투하츠 #H2H#RUDE! #Hearts2Hearts_RUDE!",
