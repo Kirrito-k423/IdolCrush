@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-23T22:32:37+08:00",
+  "updatedAt": "2026-11-23T23:27:17+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -203,13 +203,14 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/1495917219/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-23T22:31:14+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-23T23:27:17+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-23T22:30:58+08:00",
-        "lastSuccessAt": "2026-11-23T04:32:46+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-23T23:27:15+08:00",
+        "lastSuccessAt": "2026-11-23T23:27:16+08:00",
         "headBvids": [
+          "BV1QQySzdEXb",
           "BV1CJyezYE2M",
           "BV18QyszDEpA",
           "BV1DFsS6XEuh",
@@ -238,26 +239,26 @@ window.IC_BILIBILI = {
           "BV1Ax7H62Exa",
           "BV16XJW6XEEN",
           "BV16sEA6tEkc",
-          "BV1dhVo6sEBq",
-          "BV11KLG6DEDC"
+          "BV1dhVo6sEBq"
         ],
         "pending": [],
-        "error": "HTTP 412",
+        "total": 624,
+        "pagesFetched": [
+          1
+        ],
         "nextPage": 22,
-        "total": 623,
-        "pagesFetched": []
+        "complete": false
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-23T22:31:05+08:00",
-        "lastSuccessAt": "2026-11-23T22:31:14+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-23T23:27:16+08:00",
+        "lastSuccessAt": "2026-11-23T23:27:17+08:00",
         "headId": "1273891414608969745",
         "historyOffset": "1116576924478472212",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
         "pagesFetched": 1,
-        "videosAdded": 1
+        "videosAdded": 0
       }
     },
     {
@@ -847,6 +848,10 @@ window.IC_BILIBILI = {
           "uid": "1495917219",
           "kind": "dynamic",
           "url": "https://t.bilibili.com/1273891414608969745"
+        },
+        {
+          "uid": "1495917219",
+          "kind": "upload"
         }
       ]
     },
