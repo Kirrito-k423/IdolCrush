@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-24T22:48:31+08:00",
+  "updatedAt": "2026-11-25T07:20:55+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:22+08:00",
+      "checkedAt": "2026-11-25T07:20:47+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:22+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:47+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:23+08:00",
+      "checkedAt": "2026-11-25T07:20:48+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:23+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:48+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:24+08:00",
+      "checkedAt": "2026-11-25T07:20:49+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:24+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:49+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:25+08:00",
+      "checkedAt": "2026-11-25T07:20:50+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:25+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:50+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:26+08:00",
+      "checkedAt": "2026-11-25T07:20:51+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:26+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:51+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:27+08:00",
+      "checkedAt": "2026-11-25T07:20:52+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:27+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:52+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:28+08:00",
+      "checkedAt": "2026-11-25T07:20:53+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:28+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:53+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T22:48:29+08:00",
+      "checkedAt": "2026-11-25T07:20:54+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:30+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:54+08:00",
       "recentCount": 15
     },
     {
@@ -123,9 +123,9 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-24T22:48:30+08:00",
+      "checkedAt": "2026-11-25T07:20:55+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T22:48:31+08:00",
+      "lastSuccessAt": "2026-11-25T07:20:55+08:00",
       "recentCount": 15
     }
   ],
