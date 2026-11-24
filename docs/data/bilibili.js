@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-24T12:21:45+08:00",
+  "updatedAt": "2026-11-24T12:23:07+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -139,12 +139,12 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/17379944/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-24T12:20:17+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-24T12:23:07+08:00",
       "uploads": {
-        "status": "partial",
-        "checkedAt": "2026-11-24T12:19:54+08:00",
-        "lastSuccessAt": "2026-11-24T12:20:11+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-24T12:23:04+08:00",
+        "lastSuccessAt": "2026-11-24T12:23:06+08:00",
         "headBvids": [
           "BV11byhzfEQB",
           "BV1sdyazcEBn",
@@ -178,24 +178,22 @@ window.IC_BILIBILI = {
           "BV1o3HF6nEXv"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 50,
         "total": 2024,
         "pagesFetched": [
-          1,
-          49
-        ]
+          1
+        ],
+        "nextPage": 50,
+        "complete": false
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-24T12:20:11+08:00",
-        "lastSuccessAt": "2026-11-24T09:26:29+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-24T12:23:06+08:00",
+        "lastSuccessAt": "2026-11-24T12:23:07+08:00",
         "headId": "1273888601422168080",
         "historyOffset": "1240885187955392518",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -338,12 +336,12 @@ window.IC_BILIBILI = {
         "liz"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-24T12:20:52+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-24T12:22:45+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-24T12:20:36+08:00",
-        "lastSuccessAt": "2026-11-24T09:26:55+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-24T12:22:41+08:00",
+        "lastSuccessAt": "2026-11-24T12:22:44+08:00",
         "headBvids": [
           "BV1jUyJz7Eh4",
           "BV18Asb6cE2f",
@@ -377,20 +375,21 @@ window.IC_BILIBILI = {
           "BV12HpF6qEeW"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 11,
         "total": 288,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 11,
+        "complete": false
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-24T12:20:43+08:00",
-        "lastSuccessAt": "2026-11-24T12:20:52+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-24T12:22:44+08:00",
+        "lastSuccessAt": "2026-11-24T12:22:45+08:00",
         "headId": "1273879740906733641",
         "historyOffset": "1132754249497706519",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
         "pagesFetched": 1,
         "videosAdded": 0
       }
@@ -539,12 +538,12 @@ window.IC_BILIBILI = {
         "woni"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-24T12:21:27+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-24T12:22:55+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-24T12:21:14+08:00",
-        "lastSuccessAt": "2026-11-23T22:32:17+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-24T12:22:45+08:00",
+        "lastSuccessAt": "2026-11-24T12:22:52+08:00",
         "headBvids": [
           "BV1qSyhzLEm9",
           "BV15pyWzDETw",
@@ -578,20 +577,21 @@ window.IC_BILIBILI = {
           "BV1XT8C6HEdJ"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 10,
         "total": 258,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 10,
+        "complete": false
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-24T12:21:21+08:00",
-        "lastSuccessAt": "2026-11-24T12:21:27+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-24T12:22:52+08:00",
+        "lastSuccessAt": "2026-11-24T12:22:55+08:00",
         "headId": "1273116108570755080",
         "historyOffset": "1136927755083972646",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
         "pagesFetched": 1,
         "videosAdded": 0
       }
