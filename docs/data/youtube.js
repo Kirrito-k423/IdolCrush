@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-24T12:19:31+08:00",
+  "updatedAt": "2026-11-24T22:06:28+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:23+08:00",
+      "checkedAt": "2026-11-24T22:06:20+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:23+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:20+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:24+08:00",
+      "checkedAt": "2026-11-24T22:06:20+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:24+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:21+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:25+08:00",
+      "checkedAt": "2026-11-24T22:06:21+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:25+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:22+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:26+08:00",
+      "checkedAt": "2026-11-24T22:06:22+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:26+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:23+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:27+08:00",
+      "checkedAt": "2026-11-24T22:06:23+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:27+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:24+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:28+08:00",
+      "checkedAt": "2026-11-24T22:06:24+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:28+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:25+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:29+08:00",
+      "checkedAt": "2026-11-24T22:06:25+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:29+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:26+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-24T12:19:30+08:00",
+      "checkedAt": "2026-11-24T22:06:26+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:30+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:27+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,90 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-24T12:19:30+08:00",
+      "checkedAt": "2026-11-24T22:06:27+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-24T12:19:31+08:00",
+      "lastSuccessAt": "2026-11-24T22:06:28+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "umm3FmL7wxQ",
+      "title": "[ITZY?ITZY!] EP 277 | KGMA (Korea Grand Music Awards)",
+      "date": "2026-11-24",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=umm3FmL7wxQ",
+      "description": "[ITZY?ITZY!] EP 277 | KGMA (Korea Grand Music Awards)\n\nITZY 'Motto'\nhttps://itzy.lnk.to/Motto\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY \n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "r7_e9D30BNI",
+      "title": "🖤센둥이들🖤",
+      "date": "2026-11-24",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=r7_e9D30BNI",
+      "description": "#RESCENE #리센느 #リセンヌ \n#challenge",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "nt50dLI9vU8",
+      "title": "INSIDE MEOVV | 엘라 Nuflaat CAMPAIGN BEHIND",
+      "date": "2026-11-24",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=nt50dLI9vU8",
+      "description": "INSIDE MEOVV | 엘라 Nuflaat CAMPAIGN BEHIND\n\n► https://youtu.be/xyqlkD6UOJo\n\nMore about MEOVV @\nhttps://www.youtube.com/@MEOVV_OFFICIAL\nhttps://www.instagram.com/meovv\nhttps://www.facebook.com/MEOVV.OFFICIAL/\nhttps://www.tiktok.com/@meovv_official\nhttps://x.com/OFFICIAL_MEOVV\nhttps://weibo.com/u/7941496139\nhttps://download.churrrrr.io/\n\n#MEOVV #미야오 #INSIDEMEOVV\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "n8JeTg8sMbE",
+      "title": "#박진영 PD님과 춤을 춰 in JYP ✧˖°🌙#ITZY #CHAERYEONG #Chaeryeong_Lovesick #JYPark @JYPark",
+      "date": "2026-11-24",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=n8JeTg8sMbE",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "iK3kfrYRCcI",
+      "title": "#언차일드 님과 #LovesickChallenge 느껴 Ting Ting ミ★#ITZY #CHAERYEONG #채령 #UNCHILD #YEEUN #박예은 #AKO #아코",
+      "date": "2026-11-24",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=iK3kfrYRCcI",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "dgsM3d560SI",
+      "title": "#체포하겠어 🚨 with #문상민 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-24",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=dgsM3d560SI",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "b9-X7Ayu_2I",
+      "title": "Peek Inside 𝜗𝜚 Presented by ILLIT 🩵",
+      "date": "2026-11-24",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=b9-X7Ayu_2I",
+      "description": "🎀 PRE-ORDER : 26.11.25 11AM (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
     {
       "youtube": "aBbpRLuM3uc",
       "title": "기억하고 싶어 #Hearts2Hearts #하츠투하츠 #H2H",
@@ -139,6 +216,72 @@ window.IC_YOUTUBE = {
       "description": "",
       "sources": [
         "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "L9CDkoGpVdw",
+      "title": "어떻게 그래? #Hearts2Hearts #하츠투하츠 #H2H #A_NA #에이나",
+      "date": "2026-11-24",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=L9CDkoGpVdw",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "IIRN08ad7TM",
+      "title": "チューしよ~♥︎ #Hearts2Hearts #하츠투하츠 #H2H #JIWOO #STELLA",
+      "date": "2026-11-24",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=IIRN08ad7TM",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "ChHLXLjFwtg",
+      "title": "🫴 #체포하겠어 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-24",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=ChHLXLjFwtg",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "CMYj_0DDW_U",
+      "title": "GO HARD with #SUZU 🤍🖤",
+      "date": "2026-11-24",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=CMYj_0DDW_U",
+      "description": "GO HARD with #SUZU 🤍🖤\n\n#MEOVV #미야오 #ME_I\n#ANNA #안나 \n#GOHARD #MEOVV_GOHARD",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "Ai0l0la2yc4",
+      "title": "INSIDE MEOVV | 엘라 Nuflaat CAMPAIGN BEHIND",
+      "date": "2026-11-24",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=Ai0l0la2yc4",
+      "description": "INSIDE MEOVV | 엘라 Nuflaat CAMPAIGN BEHIND\n\n#MEOVV #미야오 #INSIDEMEOVV\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "4qdBgbg-iYs",
+      "title": "고백을 받으시겠습니까? [YES/NO] I 프러포즈 대작전 💍",
+      "date": "2026-11-24",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=4qdBgbg-iYs",
+      "description": "#ILLIT #아일릿 \n#체포하겠어 #You_re_Under_Arrest\n#BREAK_EVEN \n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
       ]
     },
     {
