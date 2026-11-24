@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-23T22:30:24+08:00",
+  "updatedAt": "2026-11-24T09:25:55+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:16+08:00",
+      "checkedAt": "2026-11-24T09:25:47+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:16+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:47+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:17+08:00",
+      "checkedAt": "2026-11-24T09:25:48+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:17+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:48+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:18+08:00",
+      "checkedAt": "2026-11-24T09:25:49+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:18+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:49+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:18+08:00",
+      "checkedAt": "2026-11-24T09:25:50+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:19+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:50+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:19+08:00",
+      "checkedAt": "2026-11-24T09:25:50+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:19+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:51+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:20+08:00",
+      "checkedAt": "2026-11-24T09:25:51+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:21+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:52+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:22+08:00",
+      "checkedAt": "2026-11-24T09:25:53+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:22+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:53+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-23T22:30:23+08:00",
+      "checkedAt": "2026-11-24T09:25:54+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:23+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:54+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,24 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-23T22:30:23+08:00",
+      "checkedAt": "2026-11-24T09:25:55+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-23T22:30:24+08:00",
+      "lastSuccessAt": "2026-11-24T09:25:55+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "aBbpRLuM3uc",
+      "title": "기억하고 싶어 #Hearts2Hearts #하츠투하츠 #H2H",
+      "date": "2026-11-24",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=aBbpRLuM3uc",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
     {
       "youtube": "zcASsNkO8VI",
       "title": "ILLIT 2027 SEASON'S GREETINGS Mood Film #WONHEE",
