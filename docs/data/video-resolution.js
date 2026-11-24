@@ -293134,7 +293134,7 @@ window.IC_VIDEO_RESOLUTIONS = {
     }
   },
   "failures": {},
-  "updatedAt": "2026-11-24T22:10:05+08:00",
+  "updatedAt": "2026-11-24T22:12:20+08:00",
   "status": {
     "checkedAt": "2026-11-24T22:09:45+08:00",
     "attempted": 68,
@@ -294775,94 +294775,93 @@ window.IC_VIDEO_RESOLUTIONS = {
       "height": 3840,
       "duration": 39,
       "checkedAt": "2026-11-24T12:23:59+08:00"
-    }
-  },
-  "youtubeFailures": {
+    },
     "umm3FmL7wxQ": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:46+08:00",
-      "retryAfter": "2026-12-01T22:09:46+08:00",
-      "error": "视频标识不匹配"
+      "width": 1920,
+      "height": 1080,
+      "duration": 1478,
+      "checkedAt": "2026-11-24T22:11:53+08:00"
     },
     "r7_e9D30BNI": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:47+08:00",
-      "retryAfter": "2026-12-01T22:09:47+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 15,
+      "checkedAt": "2026-11-24T22:11:54+08:00"
     },
     "nt50dLI9vU8": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:49+08:00",
-      "retryAfter": "2026-12-01T22:09:49+08:00",
-      "error": "视频标识不匹配"
+      "width": 3840,
+      "height": 2160,
+      "duration": 493,
+      "checkedAt": "2026-11-24T22:11:56+08:00"
     },
     "n8JeTg8sMbE": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:50+08:00",
-      "retryAfter": "2026-12-01T22:09:50+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 18,
+      "checkedAt": "2026-11-24T22:11:59+08:00"
     },
     "iK3kfrYRCcI": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:52+08:00",
-      "retryAfter": "2026-12-01T22:09:52+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 38,
+      "checkedAt": "2026-11-24T22:12:01+08:00"
     },
     "dgsM3d560SI": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:53+08:00",
-      "retryAfter": "2026-12-01T22:09:53+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 14,
+      "checkedAt": "2026-11-24T22:12:03+08:00"
     },
     "b9-X7Ayu_2I": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:55+08:00",
-      "retryAfter": "2026-12-01T22:09:55+08:00",
-      "error": "视频标识不匹配"
+      "width": 1080,
+      "height": 1920,
+      "duration": 42,
+      "checkedAt": "2026-11-24T22:12:05+08:00"
     },
     "L9CDkoGpVdw": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:56+08:00",
-      "retryAfter": "2026-12-01T22:09:56+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 13,
+      "checkedAt": "2026-11-24T22:12:07+08:00"
     },
     "IIRN08ad7TM": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:58+08:00",
-      "retryAfter": "2026-12-01T22:09:58+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 8,
+      "checkedAt": "2026-11-24T22:12:09+08:00"
     },
     "ChHLXLjFwtg": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:09:59+08:00",
-      "retryAfter": "2026-12-01T22:09:59+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 23,
+      "checkedAt": "2026-11-24T22:12:12+08:00"
     },
     "CMYj_0DDW_U": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:10:01+08:00",
-      "retryAfter": "2026-12-01T22:10:01+08:00",
-      "error": "视频标识不匹配"
+      "width": 1080,
+      "height": 1920,
+      "duration": 31,
+      "checkedAt": "2026-11-24T22:12:15+08:00"
     },
     "Ai0l0la2yc4": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:10:02+08:00",
-      "retryAfter": "2026-12-01T22:10:02+08:00",
-      "error": "视频标识不匹配"
+      "width": 1214,
+      "height": 2160,
+      "duration": 53,
+      "checkedAt": "2026-11-24T22:12:16+08:00"
     },
     "4qdBgbg-iYs": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:10:04+08:00",
-      "retryAfter": "2026-12-01T22:10:04+08:00",
-      "error": "视频标识不匹配"
+      "width": 1920,
+      "height": 1080,
+      "duration": 652,
+      "checkedAt": "2026-11-24T22:12:19+08:00"
     }
   },
+  "youtubeFailures": {},
   "youtubeStatus": {
-    "checkedAt": "2026-11-24T22:10:05+08:00",
+    "checkedAt": "2026-11-24T22:12:20+08:00",
     "attempted": 13,
-    "succeeded": 0,
+    "succeeded": 13,
     "blocked": false,
-    "known": 272,
+    "known": 285,
     "total": 285
   }
 };
