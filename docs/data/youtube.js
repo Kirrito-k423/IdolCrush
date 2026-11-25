@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-25T22:15:22+08:00",
+  "updatedAt": "2026-11-26T06:52:57+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:14+08:00",
+      "checkedAt": "2026-11-26T06:52:49+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:14+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:49+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:15+08:00",
+      "checkedAt": "2026-11-26T06:52:50+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:15+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:50+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:16+08:00",
+      "checkedAt": "2026-11-26T06:52:51+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:16+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:51+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:17+08:00",
+      "checkedAt": "2026-11-26T06:52:52+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:17+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:52+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:18+08:00",
+      "checkedAt": "2026-11-26T06:52:53+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:18+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:54+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:19+08:00",
+      "checkedAt": "2026-11-26T06:52:54+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:19+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:55+08:00",
       "recentCount": 12
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:20+08:00",
+      "checkedAt": "2026-11-26T06:52:55+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:20+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:56+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T22:15:21+08:00",
+      "checkedAt": "2026-11-26T06:52:56+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:21+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:56+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,24 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-25T22:15:22+08:00",
+      "checkedAt": "2026-11-26T06:52:57+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T22:15:22+08:00",
+      "lastSuccessAt": "2026-11-26T06:52:57+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "u8w776ELY1w",
+      "title": "Dancing in the moon with 🐈‍⬛🐈🌙 #ITZY #YEJI #CHAERYEONG #예지 #채령 #Chaeryeong_MoonlitClub",
+      "date": "2026-11-25",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=u8w776ELY1w",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
     {
       "youtube": "pC0e6g-uznA",
       "title": "아기 천사 #나연 선배님과 #LovesickChallenge ʚ₍ᐢ. .ᐢ₎ɞ ♡#ITZY #CHAERYEONG #TWICE #NAYEON @TWICE @IM_NAYEON_0922",
