@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-25T12:19:44+08:00",
+  "updatedAt": "2026-11-25T22:13:24+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:36+08:00",
+      "checkedAt": "2026-11-25T22:13:15+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:37+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:16+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:38+08:00",
+      "checkedAt": "2026-11-25T22:13:16+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:38+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:17+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:38+08:00",
+      "checkedAt": "2026-11-25T22:13:17+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:39+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:18+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:39+08:00",
+      "checkedAt": "2026-11-25T22:13:18+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:40+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:19+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:40+08:00",
+      "checkedAt": "2026-11-25T22:13:20+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:41+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:20+08:00",
       "recentCount": 15
     },
     {
@@ -81,10 +81,10 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:42+08:00",
+      "checkedAt": "2026-11-25T22:13:21+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:42+08:00",
-      "recentCount": 11
+      "lastSuccessAt": "2026-11-25T22:13:21+08:00",
+      "recentCount": 12
     },
     {
       "uid": "yt:UCn-SYb1TUz-1itK_uz4imUA",
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:42+08:00",
+      "checkedAt": "2026-11-25T22:13:22+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:43+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:22+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T12:19:43+08:00",
+      "checkedAt": "2026-11-25T22:13:23+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:44+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:23+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,46 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-25T12:19:44+08:00",
+      "checkedAt": "2026-11-25T22:13:24+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T12:19:44+08:00",
+      "lastSuccessAt": "2026-11-25T22:13:24+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "pC0e6g-uznA",
+      "title": "아기 천사 #나연 선배님과 #LovesickChallenge ʚ₍ᐢ. .ᐢ₎ɞ ♡#ITZY #CHAERYEONG #TWICE #NAYEON @TWICE @IM_NAYEON_0922",
+      "date": "2026-11-25",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=pC0e6g-uznA",
+      "description": "",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "kRowbbEGLQM",
+      "title": "흥 #Hearts2Hearts #하츠투하츠 #JUUN #A_NA #IAN",
+      "date": "2026-11-25",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=kRowbbEGLQM",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "hzCQHMoTkMA",
+      "title": "주먹 맛 좀 볼래 #Hearts2Hearts #하츠투하츠 #CARMEN #YUHA #YE_ON",
+      "date": "2026-11-25",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=hzCQHMoTkMA",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
     {
       "youtube": "exMczBuR3FU",
       "title": "Time to Cut the Ribbon 🎀✂️ #PRESENTED_BY_ILLIT",
@@ -139,6 +172,105 @@ window.IC_YOUTUBE = {
       "description": "🔗 https://go.weverse.io/qt3S/5pyna9fo\n🎀 RELEASE : 26.12.18 (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
       "sources": [
         "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "YFc7d_J1uvI",
+      "title": "리모와 MZ즈 🖤❤️",
+      "date": "2026-11-25",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=YFc7d_J1uvI",
+      "description": "(제목)\n4th Mini Album [PULSE]  http://rescene.lnk.to/PULSE\n\nRESCENE Plus Chat: https://artist.mnetplus.world/main/stg/rescene-official\nRESCENE Instagram: https://www.instagram.com/rescene_official\nRESCENE X: https://twitter.com/RESCENEofficial\nRESCENE Facebook: https://www.facebook.com/RESCENE.official\nRESCENE TikTok: https://www.tiktok.com/@rescene_official\nRESCENE Weibo: https://weibo.com/rescene\n\n#RESCENE #리센느 #リセンヌ\n#PULSE",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "Nu2p6q62Lqg",
+      "title": "#체포하겠어 🚨 with @P1Harmonyofficial  #JIUNG #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-25",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=Nu2p6q62Lqg",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "NSwVwqTiG1w",
+      "title": "One Year with ILLIT 💓✨",
+      "date": "2026-11-25",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=NSwVwqTiG1w",
+      "description": "🎀 RELEASE : 26.12.18 (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "FarMU41WQks",
+      "title": "#체포하겠어 🚨 with @LESSERAFIM_official  #KIMCHAEWON 🩷 #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-25",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=FarMU41WQks",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "C3CS5PcpJgE",
+      "title": "#엄지 선배님에게 빠져들지 Do you? @EHSBUJ.official",
+      "date": "2026-11-25",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=C3CS5PcpJgE",
+      "description": "#LIV #리브 \n#RESCENE #리센느\n#백화요란",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "7bkcfXCRLrY",
+      "title": "[vlog] 어머니와 제주도 여행 브이로그 🍊 | 5분 단위 스케줄 · 갈치조림 먹방 · 기니피그와의 만남 · 소품샵 투어 · 월정리 해수욕장 | 방가방가예온이 EP.2",
+      "date": "2026-11-25",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=7bkcfXCRLrY",
+      "description": "Stay tuned for more holiday vlogs! 📹\n\nHearts2Hearts' 1st Japan Single \"ICONIC HEART\" is out! \nListen and download on your favorite platform: https://lnk.to/H2H_ICONICHEART\n\n🪄 'ICONIC HEART' MV  https://youtu.be/chl0R8C4NJ8\n\nSubscribe to Hearts2Hearts Official YouTube Channel!\nhttps://www.youtube.com/@hearts2hearts.official?sub_confirmation=1\n\nHearts2Hearts Official\nhttps://www.youtube.com/@hearts2hearts.official\nhttps://twitter.com/Hearts2Hearts\nhttps://www.instagram.com/hearts2hearts/\nhttps://www.tiktok.com/@hearts2hearts\nhttps://www.facebook.com/hearts2heartsH2H\nhttps://weibo.com/u/7971304015\n\n#Hearts2Hearts #하츠투하츠 #H2H \n#YE_ON #예온 #VLOG \n#방가방가예온이",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "3tmwdaRWAIU",
+      "title": "[IVE ON] NOL FESTIVAL 2026 BEHIND",
+      "date": "2026-11-25",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=3tmwdaRWAIU",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "2u9jH92J7uQ",
+      "title": "A2O LITE 가을 소풍? LIKE THAT! 🧺 Ep.1",
+      "date": "2026-11-25",
+      "publisher": "A2O LITE · YouTube",
+      "source": "https://www.youtube.com/watch?v=2u9jH92J7uQ",
+      "description": "A2O LITE 가을 소풍? LIKE THAT! 🧺 Ep.1\n\nA2O LITE Official\nYouTube: https://www.youtube.com/@A2OLITE\nX: https://twitter.com/A2O_LITE\nInstagram: https://www.instagram.com/a2o.lite/\nTikTok: https://www.tiktok.com/@a2o.lite\nWeibo: https://weibo.com/u/8428908687\nDouyin: https://v.douyin.com/ZzHgu4mfISQ/\n\nA2O WORLD Official\nWebsite: https://www.a2oentertainment.world/\nYouTube: https://www.youtube.com/@a2oworld\nX: https://twitter.com/A2OWORLD\nInstagram: https://www.instagram.com/a2o.world/\nWeibo: https://weibo.com/u/7448795925\nBilibili: https://space.bilibili.com/670061998\n\n#A2O #A2OLITE #NEON #ZalLife\n\n© 2026 A2O Entertainment. All Rights Reserved.",
+      "sources": [
+        "yt:UCw98hcIDLRffhOC1_ttd4Zg"
+      ]
+    },
+    {
+      "youtube": "0HaPwxlO3W8",
+      "title": "여러분들도 모두 잘 놀다 가셨기를🥰｜[IVE ON] NOL FESTIVAL 2026 BEHIND PREVIEW #Shorts",
+      "date": "2026-11-25",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=0HaPwxlO3W8",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
       ]
     },
     {
