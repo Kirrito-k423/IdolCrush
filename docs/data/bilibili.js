@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-25T22:15:02+08:00",
+  "updatedAt": "2026-11-25T22:16:35+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -72,8 +72,8 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/15774483/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-25T22:13:38+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-25T22:16:31+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-25T22:13:23+08:00",
@@ -122,15 +122,14 @@ window.IC_BILIBILI = {
         "complete": false
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-25T22:13:33+08:00",
-        "lastSuccessAt": "2026-11-25T12:19:59+08:00",
-        "headId": "1274480413529604102",
+        "status": "ok",
+        "checkedAt": "2026-11-25T22:16:28+08:00",
+        "lastSuccessAt": "2026-11-25T22:16:31+08:00",
+        "headId": "1274649033979199509",
         "historyOffset": "1170042008780144644",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -410,8 +409,8 @@ window.IC_BILIBILI = {
         "wonhee"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-25T22:14:23+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-25T22:16:34+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-25T22:14:14+08:00",
@@ -458,15 +457,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-25T22:14:18+08:00",
-        "lastSuccessAt": "2026-11-25T12:21:09+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-25T22:16:31+08:00",
+        "lastSuccessAt": "2026-11-25T22:16:34+08:00",
         "headId": "1274213829192974386",
         "historyOffset": "1135753854631018533",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -614,8 +612,8 @@ window.IC_BILIBILI = {
         "yuna"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-25T22:14:57+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-25T22:16:35+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-25T22:14:48+08:00",
@@ -662,15 +660,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-25T22:14:52+08:00",
-        "lastSuccessAt": "2026-11-25T12:21:52+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-25T22:16:34+08:00",
+        "lastSuccessAt": "2026-11-25T22:16:35+08:00",
         "headId": "1274199995105411075",
         "historyOffset": "1136216456991604770",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -738,6 +735,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1274649033979199509"
         }
       ]
     },
@@ -805,6 +807,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1274585215009816585"
         }
       ]
     },
