@@ -298363,7 +298363,7 @@ window.IC_VIDEO_RESOLUTIONS = {
     }
   },
   "failures": {},
-  "updatedAt": "2026-11-25T12:25:00+08:00",
+  "updatedAt": "2026-11-25T12:26:44+08:00",
   "status": {
     "checkedAt": "2026-11-25T12:24:59+08:00",
     "attempted": 200,
@@ -300082,28 +300082,27 @@ window.IC_VIDEO_RESOLUTIONS = {
       "height": 1080,
       "duration": 652,
       "checkedAt": "2026-11-24T22:12:19+08:00"
-    }
-  },
-  "youtubeFailures": {
-    "R7ZHfYkVaGE": {
-      "attempts": 1,
-      "checkedAt": "2026-11-24T22:51:51+08:00",
-      "retryAfter": "2026-12-01T22:51:51+08:00",
-      "error": "视频标识不匹配"
     },
     "exMczBuR3FU": {
-      "attempts": 1,
-      "checkedAt": "2026-11-25T12:25:00+08:00",
-      "retryAfter": "2026-12-02T12:25:00+08:00",
-      "error": "视频标识不匹配"
+      "width": 1080,
+      "height": 1920,
+      "duration": 19,
+      "checkedAt": "2026-11-25T12:26:41+08:00"
+    },
+    "R7ZHfYkVaGE": {
+      "width": 3840,
+      "height": 2160,
+      "duration": 347,
+      "checkedAt": "2026-11-25T12:26:43+08:00"
     }
   },
+  "youtubeFailures": {},
   "youtubeStatus": {
-    "checkedAt": "2026-11-25T12:25:00+08:00",
-    "attempted": 1,
-    "succeeded": 0,
+    "checkedAt": "2026-11-25T12:26:44+08:00",
+    "attempted": 2,
+    "succeeded": 2,
     "blocked": false,
-    "known": 285,
+    "known": 287,
     "total": 287
   }
 };
