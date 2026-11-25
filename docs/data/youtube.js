@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-25T07:20:55+08:00",
+  "updatedAt": "2026-11-25T12:19:44+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:47+08:00",
+      "checkedAt": "2026-11-25T12:19:36+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:47+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:37+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:48+08:00",
+      "checkedAt": "2026-11-25T12:19:38+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:48+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:38+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:49+08:00",
+      "checkedAt": "2026-11-25T12:19:38+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:49+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:39+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:50+08:00",
+      "checkedAt": "2026-11-25T12:19:39+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:50+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:40+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:51+08:00",
+      "checkedAt": "2026-11-25T12:19:40+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:51+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:41+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:52+08:00",
+      "checkedAt": "2026-11-25T12:19:42+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:52+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:42+08:00",
       "recentCount": 11
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:53+08:00",
+      "checkedAt": "2026-11-25T12:19:42+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:53+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:43+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-25T07:20:54+08:00",
+      "checkedAt": "2026-11-25T12:19:43+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:54+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:44+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,24 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-25T07:20:55+08:00",
+      "checkedAt": "2026-11-25T12:19:44+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-25T07:20:55+08:00",
+      "lastSuccessAt": "2026-11-25T12:19:44+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "exMczBuR3FU",
+      "title": "Time to Cut the Ribbon 🎀✂️ #PRESENTED_BY_ILLIT",
+      "date": "2026-11-25",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=exMczBuR3FU",
+      "description": "🔗 https://go.weverse.io/qt3S/5pyna9fo\n🎀 RELEASE : 26.12.18 (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
     {
       "youtube": "umm3FmL7wxQ",
       "title": "[ITZY?ITZY!] EP 277 | KGMA (Korea Grand Music Awards)",
