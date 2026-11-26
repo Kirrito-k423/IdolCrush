@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-26T12:23:55+08:00",
+  "updatedAt": "2026-11-26T12:25:02+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -610,11 +610,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-26T12:23:51+08:00",
+      "checkedAt": "2026-11-26T12:25:02+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-26T12:23:35+08:00",
-        "lastSuccessAt": "2026-11-26T06:54:37+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-26T12:25:02+08:00",
+        "lastSuccessAt": "2026-11-26T12:25:02+08:00",
         "headBvids": [
           "BV1izyfzdEYF",
           "BV1h6ynzrEBb",
@@ -648,10 +648,12 @@ window.IC_BILIBILI = {
           "BV1Br446VEge"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 24,
         "total": 665,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 24,
+        "complete": false
       },
       "dynamic": {
         "status": "partial",
