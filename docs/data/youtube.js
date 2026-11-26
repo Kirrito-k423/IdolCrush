@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-26T12:21:57+08:00",
+  "updatedAt": "2026-11-26T21:49:45+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:50+08:00",
+      "checkedAt": "2026-11-26T21:49:38+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:50+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:38+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:51+08:00",
+      "checkedAt": "2026-11-26T21:49:39+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:51+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:39+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:51+08:00",
+      "checkedAt": "2026-11-26T21:49:39+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:52+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:40+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:52+08:00",
+      "checkedAt": "2026-11-26T21:49:40+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:52+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:40+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:53+08:00",
+      "checkedAt": "2026-11-26T21:49:41+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:53+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:41+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:54+08:00",
+      "checkedAt": "2026-11-26T21:49:42+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:54+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:42+08:00",
       "recentCount": 12
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:55+08:00",
+      "checkedAt": "2026-11-26T21:49:43+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:55+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:43+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-26T12:21:56+08:00",
+      "checkedAt": "2026-11-26T21:49:44+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:56+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:44+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,156 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-26T12:21:57+08:00",
+      "checkedAt": "2026-11-26T21:49:45+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-26T12:21:57+08:00",
+      "lastSuccessAt": "2026-11-26T21:49:45+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "ww_CDaxYezQ",
+      "title": "ILLIT 2027 SEASON'S GREETINGS SPOT",
+      "date": "2026-11-26",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=ww_CDaxYezQ",
+      "description": "🎀 RELEASE : 26.12.18 (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "kvB2qsGAaKc",
+      "title": "[Harvestrip] Report_1 | We can’t just end it here",
+      "date": "2026-11-26",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=kvB2qsGAaKc",
+      "description": "[Harvestrip] Report_1 | We can’t just end it here\n\nITZY 'Motto'\nhttps://itzy.lnk.to/Motto\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #있지 #수확여행\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "kgOVTqYA0WU",
+      "title": "ILLIT 2027 SEASON'S GREETINGS SPOT",
+      "date": "2026-11-26",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=kgOVTqYA0WU",
+      "description": "🎀 RELEASE : 26.12.18 (KST)\n\n#ILLIT #아일릿 #PRESENTED_BY_ILLIT\n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "fyNdVZU-CWk",
+      "title": "GO HARD with @issue_is_coming #RINO 💫✨",
+      "date": "2026-11-26",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=fyNdVZU-CWk",
+      "description": "GO HARD with @issue_is_coming #RINO 💫✨\n\n#MEOVV #ISSUE\n#ANNA  #안나 \n#GOHARD #MEOVV_GOHARD",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "YFzfou-8GGo",
+      "title": "0325Hz 합격체포주파수🚨합격을 강력하게 끌어당기는 주파수 확언 #합격 #응원 #ILLIT #아일릿",
+      "date": "2026-11-26",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=YFzfou-8GGo",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "RIZMBX8F07A",
+      "title": "너랑ㅎㅎ #Hearts2Hearts #하츠투하츠 #H2H #JIWOO #JUUN",
+      "date": "2026-11-26",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=RIZMBX8F07A",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "N7hYj8c8XiU",
+      "title": "06즈 둘이 ✌️",
+      "date": "2026-11-26",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=N7hYj8c8XiU",
+      "description": "#LIV #리브 #リブ\n#MINAMI #미나미 #ミナミ\n#RESCENE #리센느 #リセンヌ \n#challenge",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "LggaG2xwBAY",
+      "title": "아진짜 #Hearts2Hearts #하츠투하츠 #H2H #A_NA #에이나",
+      "date": "2026-11-26",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=LggaG2xwBAY",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "JXwG3LK2q_0",
+      "title": "FLAWLESS V. 🏁",
+      "date": "2026-11-26",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=JXwG3LK2q_0",
+      "description": "FLAWLESS V. 🏁\n\n#MEOVV #미야오\n#SOOIN #수인 #NARIN #나린\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "E1I-V06l8Wg",
+      "title": "#체포하겠어 🚨 with @TWICE #NAYEON #You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-26",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=E1I-V06l8Wg",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "BaLU8RQ1GEo",
+      "title": "교복 확대범 달달하게 체포하러왔지 말입니다 I 돌아온 릿반장",
+      "date": "2026-11-26",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=BaLU8RQ1GEo",
+      "description": "#ILLIT #아일릿 \n#체포하겠어 #You_re_Under_Arrest\n#BREAK_EVEN \n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "7FBLZIF08Ck",
+      "title": "훠궈 한번 먹기 쉽지 않네｜[IVE OFF] 홍콩에서도 밥심리즈 집합!🏃 PREVIEW #Shorts",
+      "date": "2026-11-26",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=7FBLZIF08Ck",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
+      ]
+    },
+    {
+      "youtube": "0o6xmNwixcY",
+      "title": "CHAERYEONG \"Lovesick\" Challenge BEHIND | #LovesickChallenge",
+      "date": "2026-11-26",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=0o6xmNwixcY",
+      "description": "CHAERYEONG \"Lovesick\" Challenge BEHIND | #LovesickChallenge\n\nCHAERYEONG 'Lovesick'\nhttp://CHAERYEONG.lnk.to/Lovesick\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #채령 #Chaeryeong_Lovesick\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
     {
       "youtube": "u8w776ELY1w",
       "title": "Dancing in the moon with 🐈‍⬛🐈🌙 #ITZY #YEJI #CHAERYEONG #예지 #채령 #Chaeryeong_MoonlitClub",
