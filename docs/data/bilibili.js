@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-26T23:00:41+08:00",
+  "updatedAt": "2026-11-26T23:02:43+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -203,8 +203,8 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/1495917219/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-26T22:59:20+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-26T23:02:03+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-26T22:59:13+08:00",
@@ -251,15 +251,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-26T22:59:15+08:00",
-        "lastSuccessAt": "2026-11-26T21:50:27+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-26T23:02:03+08:00",
+        "lastSuccessAt": "2026-11-26T23:02:03+08:00",
         "headId": "1273891414608969745",
         "historyOffset": "1116576924478472212",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -541,11 +540,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-26T23:00:25+08:00",
+      "checkedAt": "2026-11-26T23:02:43+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-26T23:00:11+08:00",
-        "lastSuccessAt": "2026-11-26T21:51:17+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-26T23:02:43+08:00",
+        "lastSuccessAt": "2026-11-26T23:02:43+08:00",
         "headBvids": [
           "BV1qSyhzLEm9",
           "BV15pyWzDETw",
@@ -579,10 +578,12 @@ window.IC_BILIBILI = {
           "BV1XT8C6HEdJ"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 10,
         "total": 258,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 10,
+        "complete": false
       },
       "dynamic": {
         "status": "partial",
