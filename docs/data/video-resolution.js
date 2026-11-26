@@ -306217,7 +306217,7 @@ window.IC_VIDEO_RESOLUTIONS = {
     }
   },
   "failures": {},
-  "updatedAt": "2026-11-26T12:26:50+08:00",
+  "updatedAt": "2026-11-26T12:28:12+08:00",
   "status": {
     "checkedAt": "2026-11-26T12:26:50+08:00",
     "attempted": 200,
@@ -308020,22 +308020,21 @@ window.IC_VIDEO_RESOLUTIONS = {
       "height": 1280,
       "duration": 28,
       "checkedAt": "2026-11-25T22:19:36+08:00"
-    }
-  },
-  "youtubeFailures": {
+    },
     "u8w776ELY1w": {
-      "attempts": 1,
-      "checkedAt": "2026-11-26T06:57:44+08:00",
-      "retryAfter": "2026-12-03T06:57:44+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 21,
+      "checkedAt": "2026-11-26T12:28:11+08:00"
     }
   },
+  "youtubeFailures": {},
   "youtubeStatus": {
-    "checkedAt": "2026-11-26T12:26:50+08:00",
-    "attempted": 0,
-    "succeeded": 0,
+    "checkedAt": "2026-11-26T12:28:12+08:00",
+    "attempted": 1,
+    "succeeded": 1,
     "blocked": false,
-    "known": 299,
+    "known": 300,
     "total": 300
   }
 };
