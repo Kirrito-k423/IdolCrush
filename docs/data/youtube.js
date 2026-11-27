@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-27T22:07:13+08:00",
+  "updatedAt": "2026-11-28T06:26:35+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:06+08:00",
+      "checkedAt": "2026-11-28T06:26:28+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:06+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:28+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:07+08:00",
+      "checkedAt": "2026-11-28T06:26:29+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:07+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:29+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:07+08:00",
+      "checkedAt": "2026-11-28T06:26:30+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:08+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:30+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:08+08:00",
+      "checkedAt": "2026-11-28T06:26:31+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:09+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:31+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:09+08:00",
+      "checkedAt": "2026-11-28T06:26:31+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:10+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:32+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:10+08:00",
+      "checkedAt": "2026-11-28T06:26:32+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:11+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:32+08:00",
       "recentCount": 12
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:11+08:00",
+      "checkedAt": "2026-11-28T06:26:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:12+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:33+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T22:07:12+08:00",
+      "checkedAt": "2026-11-28T06:26:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:12+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:34+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,24 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-27T22:07:13+08:00",
+      "checkedAt": "2026-11-28T06:26:35+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T22:07:13+08:00",
+      "lastSuccessAt": "2026-11-28T06:26:35+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "8mPNjs6M_9o",
+      "title": "도가니탕 좋아해?",
+      "date": "2026-11-28",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=8mPNjs6M_9o",
+      "description": "4th Mini Album [PULSE]  http://rescene.lnk.to/PULSE\n\nRESCENE Plus Chat: https://artist.mnetplus.world/main/stg/rescene-official\nRESCENE Instagram: https://www.instagram.com/rescene_official\nRESCENE X: https://twitter.com/RESCENEofficial\nRESCENE Facebook: https://www.facebook.com/RESCENE.official\nRESCENE TikTok: https://www.tiktok.com/@rescene_official\nRESCENE Weibo: https://weibo.com/rescene\n\n#RESCENE #리센느 #リセンヌ\n#PULSE",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
     {
       "youtube": "uzF0_Jfy4h0",
       "title": "누구의 고백을 받아줄래? #프로포즈게임 #ILLIT #아일릿",
