@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-27T06:43:09+08:00",
+  "updatedAt": "2026-11-27T12:36:40+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:02+08:00",
+      "checkedAt": "2026-11-27T12:36:31+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T06:43:02+08:00",
+      "lastSuccessAt": "2026-11-27T12:36:31+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:03+08:00",
+      "checkedAt": "2026-11-27T12:36:32+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T06:43:03+08:00",
+      "lastSuccessAt": "2026-11-27T12:36:32+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:04+08:00",
+      "checkedAt": "2026-11-27T12:36:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T06:43:04+08:00",
+      "lastSuccessAt": "2026-11-27T12:36:33+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:05+08:00",
+      "checkedAt": "2026-11-27T12:36:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T06:43:05+08:00",
+      "lastSuccessAt": "2026-11-27T12:36:34+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:06+08:00",
+      "checkedAt": "2026-11-27T12:36:35+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T06:43:06+08:00",
+      "lastSuccessAt": "2026-11-27T12:36:35+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:07+08:00",
+      "checkedAt": "2026-11-27T12:36:36+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T06:43:07+08:00",
+      "lastSuccessAt": "2026-11-27T12:36:36+08:00",
       "recentCount": 12
     },
     {
@@ -95,10 +95,10 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:07+08:00",
-      "status": "ok",
+      "checkedAt": "2026-11-27T12:36:37+08:00",
+      "status": "error",
       "lastSuccessAt": "2026-11-27T06:43:08+08:00",
-      "recentCount": 2
+      "error": "HTTP 503"
     },
     {
       "uid": "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw",
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T06:43:08+08:00",
+      "checkedAt": "2026-11-27T12:36:38+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T06:43:08+08:00",
+      "lastSuccessAt": "2026-11-27T12:36:39+08:00",
       "recentCount": 15
     },
     {
@@ -123,10 +123,10 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-27T06:43:09+08:00",
-      "status": "ok",
+      "checkedAt": "2026-11-27T12:36:39+08:00",
+      "status": "error",
       "lastSuccessAt": "2026-11-27T06:43:09+08:00",
-      "recentCount": 15
+      "error": "HTTP 503"
     }
   ],
   "videos": [
@@ -422,7 +422,7 @@ window.IC_YOUTUBE = {
       "date": "2026-11-25",
       "publisher": "A2O LITE · YouTube",
       "source": "https://www.youtube.com/watch?v=2u9jH92J7uQ",
-      "description": "A2O LITE 가을 소풍? LIKE THAT! 🧺 Ep.1\n\nA2O LITE Official\nYouTube: https://www.youtube.com/@A2OLITE\nX: https://twitter.com/A2O_LITE\nInstagram: https://www.instagram.com/a2o.lite/\nTikTok: https://www.tiktok.com/@a2o.lite\nWeibo: https://weibo.com/u/8428908687\nDouyin: https://v.douyin.com/ZzHgu4mfISQ/\n\nA2O WORLD Official\nWebsite: https://www.a2oentertainment.world/\nYouTube: https://www.youtube.com/@a2oworld\nX: https://twitter.com/A2OWORLD\nInstagram: https://www.instagram.com/a2o.world/\nWeibo: https://weibo.com/u/7448795925\nBilibili: https://space.bilibili.com/670061998\n\n#A2O #A2OLITE #NEON #ZalLife\n\n© 2026 A2O Entertainment. All Rights Reserved.",
+      "description": "A2O LITE 가을 소풍? LIKE THAT! 🧺 Ep.1\n\nA2O LITE Official\nYouTube: https://www.youtube.com/@A2OLITE\nX: https://twitter.com/A2O_LITE\nInstagram: https://www.instagram.com/a2o.lite/\nTikTok: https://www.tiktok.com/@a2o.lite\nWeibo: https://weibo.com/u/8428908687\nDouyin: https://v.douyin.com/ZzHgu4mfISQ/\n\nA2O WORLD Official\nWebsite: https://www.a2oentertainment.world/\nYouTube: https://www.youtube.com/@A2OWORLD\nX: https://twitter.com/A2OWORLD\nInstagram: https://www.instagram.com/a2o.world/\nWeibo: https://weibo.com/u/7448795925\nBilibili: https://space.bilibili.com/670061998\n\n#A2O #A2OLITE #NEON #ZalLife\n\n© 2026 A2O Entertainment. All Rights Reserved.",
       "sources": [
         "yt:UCw98hcIDLRffhOC1_ttd4Zg"
       ]
