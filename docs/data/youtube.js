@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-27T12:40:14+08:00",
+  "updatedAt": "2026-11-27T21:47:17+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:31+08:00",
+      "checkedAt": "2026-11-27T21:47:09+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:36:31+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:10+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:32+08:00",
+      "checkedAt": "2026-11-27T21:47:10+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:36:32+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:10+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:33+08:00",
+      "checkedAt": "2026-11-27T21:47:11+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:36:33+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:11+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:34+08:00",
+      "checkedAt": "2026-11-27T21:47:12+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:36:34+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:12+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:35+08:00",
+      "checkedAt": "2026-11-27T21:47:13+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:36:35+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:13+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:36+08:00",
+      "checkedAt": "2026-11-27T21:47:14+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:36:36+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:14+08:00",
       "recentCount": 12
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:40:13+08:00",
+      "checkedAt": "2026-11-27T21:47:15+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:40:13+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:15+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:38+08:00",
+      "checkedAt": "2026-11-27T21:47:16+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:36:39+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:16+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,123 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-27T12:40:14+08:00",
+      "checkedAt": "2026-11-27T21:47:17+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T12:40:14+08:00",
+      "lastSuccessAt": "2026-11-27T21:47:17+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "uzF0_Jfy4h0",
+      "title": "누구의 고백을 받아줄래? #프로포즈게임 #ILLIT #아일릿",
+      "date": "2026-11-27",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=uzF0_Jfy4h0",
+      "description": "#ILLIT #아일릿 \n\nConnect with ILLIT\n\nILLIT Weverse: https://weverse.io/illit\nOfficial YouTube: https://www.youtube.com/@ILLIT_official\nOfficial X (Twitter): https://x.com/ILLIT_official\nMember X (Twitter): https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nDouyin: https://v.douyin.com/ikgST6Sw/\nJapan X (Twitter): https://x.com/ILLITjpofficial",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "uyHkwnkTVwU",
+      "title": "이렇게 쉽게 시크릿이 나온다고?₍ᐢ◉0◉ᐢ₎ | Hearts2Hearts 하츠투하츠 in JAKARTA & RoV T-POP Tournament BH2ND",
+      "date": "2026-11-27",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=uyHkwnkTVwU",
+      "description": "Hearts2Hearts' new single \"Next Chapter\" is out!\nListen and download on your favorite platform: https://Hearts2Hearts.lnk.to/NextChapter\n\nArena of Valor's 10th Anniversary is coming! Celebrate with Hearts2Hearts ♡\n『Arena of Valor』 ©2026 Garena Arena of Valor\n\nSubscribe to Hearts2Hearts Official YouTube Channel!\nhttps://www.youtube.com/@hearts2hearts.official?sub_confirmation=1\n\nHearts2Hearts Official\nhttps://www.youtube.com/@hearts2hearts.official\nhttps://twitter.com/Hearts2Hearts\nhttps://www.instagram.com/hearts2hearts/\nhttps://www.tiktok.com/@hearts2hearts\nhttps://www.facebook.com/hearts2heartsH2H\nhttps://weibo.com/u/7971304015\n\nS2U (하츄) Official \nhttps://weverse.io/hearts2hearts/\n\n#Hearts2Hearts #하츠투하츠 #NextChapter \n#Hearts2Hearts_NextChapter #H2H\n#BH2ND",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "tubohWs4C3w",
+      "title": "#체포하겠어 🚨 with @LESSERAFIM_official #HONGEUNCHAE 🩵#You_re_Under_Arrest #ILLIT #아일릿",
+      "date": "2026-11-27",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=tubohWs4C3w",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "tkjx1-9o6Jk",
+      "title": "Boots 🤠👢 #Boykinz #BootsOn @TheBoykinz",
+      "date": "2026-11-27",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=tkjx1-9o6Jk",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "t2cbsysq45s",
+      "title": "어디로 가나 가나? 방콕 편 🇹🇭 | MEOVVGARINZ at Bangkok | vievv by GAWON & NARIN",
+      "date": "2026-11-27",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=t2cbsysq45s",
+      "description": "어디로 가나 가나? 방콕 편 🇹🇭 | MEOVVGARINZ at Bangkok | vievv by GAWON & NARIN\n\n► https://youtu.be/Q8KVxX8qltM\n\nMore about MEOVV @\nhttps://www.youtube.com/@MEOVV_OFFICIAL\nhttps://www.instagram.com/meovv\nhttps://www.facebook.com/MEOVV.OFFICIAL/\nhttps://www.tiktok.com/@meovv_official\nhttps://x.com/OFFICIAL_MEOVV\nhttps://weibo.com/u/7941496139\nhttps://download.churrrrr.io/\n\n#MEOVV #미야오 #vievv\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
+    {
+      "youtube": "ckEm_y-72ew",
+      "title": "10대 마지막 생일 🎂💜",
+      "date": "2026-11-27",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=ckEm_y-72ew",
+      "description": "#HAPPY_ZENA_DAY\n#ZENA #제나 #ゼナ",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "c0ft5iPAQPM",
+      "title": "럽식 4일 l CHAERYEONG \"Lovesick\" BEHIND #1",
+      "date": "2026-11-27",
+      "publisher": "ITZY · YouTube",
+      "source": "https://www.youtube.com/watch?v=c0ft5iPAQPM",
+      "description": "럽식 4일 l CHAERYEONG \"Lovesick\" BEHIND #1 \n\nCHAERYEONG 'Lovesick'\nhttp://CHAERYEONG.lnk.to/Lovesick\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n\n#ITZY #채령 #Chaeryeong_Lovesick\n\nCopyrights 2026 ⓒ JYP Entertainment. All Rights Reserved",
+      "sources": [
+        "yt:UCDhM2k2Cua-JdobAh5moMFg"
+      ]
+    },
+    {
+      "youtube": "Mpo3ewHttyQ",
+      "title": "HAPPY BIRTHDAY TO ZENA 🎂💜",
+      "date": "2026-11-27",
+      "publisher": "RESCENE · YouTube",
+      "source": "https://www.youtube.com/watch?v=Mpo3ewHttyQ",
+      "description": "(제목)\n4th Mini Album [PULSE]  http://rescene.lnk.to/PULSE\n\nRESCENE Plus Chat: https://artist.mnetplus.world/main/stg/rescene-official\nRESCENE Instagram: https://www.instagram.com/rescene_official\nRESCENE X: https://twitter.com/RESCENEofficial\nRESCENE Facebook: https://www.facebook.com/RESCENE.official\nRESCENE TikTok: https://www.tiktok.com/@rescene_official\nRESCENE Weibo: https://weibo.com/rescene\n\n#RESCENE #리센느 #リセンヌ\n#PULSE",
+      "sources": [
+        "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "MKD3h-sTkQg",
+      "title": "맞지 #Hearts2Hearts #하츠투하츠 #H2H #IAN #이안",
+      "date": "2026-11-27",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=MKD3h-sTkQg",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "-QQpPbg-ThU",
+      "title": "Vegas F1 Friday 🏎️🏟️",
+      "date": "2026-11-27",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=-QQpPbg-ThU",
+      "description": "Vegas F1 Friday 🏎️🏟️\n\n#MEOVV #미야오\n#SOOIN #수인 #NARIN #나린\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
     {
       "youtube": "ww_CDaxYezQ",
       "title": "ILLIT 2027 SEASON'S GREETINGS SPOT",
