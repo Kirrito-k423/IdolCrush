@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-27T12:36:40+08:00",
+  "updatedAt": "2026-11-27T12:40:14+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -95,10 +95,10 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-27T12:36:37+08:00",
-      "status": "error",
-      "lastSuccessAt": "2026-11-27T06:43:08+08:00",
-      "error": "HTTP 503"
+      "checkedAt": "2026-11-27T12:40:13+08:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-11-27T12:40:13+08:00",
+      "recentCount": 2
     },
     {
       "uid": "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw",
@@ -123,10 +123,10 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-27T12:36:39+08:00",
-      "status": "error",
-      "lastSuccessAt": "2026-11-27T06:43:09+08:00",
-      "error": "HTTP 503"
+      "checkedAt": "2026-11-27T12:40:14+08:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-11-27T12:40:14+08:00",
+      "recentCount": 15
     }
   ],
   "videos": [
