@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-27T22:09:26+08:00",
+  "updatedAt": "2026-11-27T22:12:54+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -7,12 +7,12 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/3546824314980440/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-27T22:07:20+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-27T22:10:43+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:07:06+08:00",
-        "lastSuccessAt": "2026-11-27T21:47:19+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:10:43+08:00",
+        "lastSuccessAt": "2026-11-27T22:10:43+08:00",
         "headBvids": [
           "BV1o61HzWENg",
           "BV1st1Wz3E86",
@@ -46,10 +46,12 @@ window.IC_BILIBILI = {
           "BV1E5s36fEyW"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 51,
         "total": 1497,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 51,
+        "complete": false
       },
       "dynamic": {
         "status": "ok",
@@ -200,8 +202,8 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/1495917219/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-27T22:08:13+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-27T22:10:44+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-27T22:07:59+08:00",
@@ -248,15 +250,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:08:07+08:00",
-        "lastSuccessAt": "2026-11-27T21:48:08+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:10:43+08:00",
+        "lastSuccessAt": "2026-11-27T22:10:44+08:00",
         "headId": "1273891414608969745",
         "historyOffset": "1116576924478472212",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -334,8 +335,8 @@ window.IC_BILIBILI = {
         "liz"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-27T22:08:27+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-27T22:11:19+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-27T22:08:21+08:00",
@@ -382,15 +383,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:08:22+08:00",
-        "lastSuccessAt": "2026-11-27T21:48:38+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:11:17+08:00",
+        "lastSuccessAt": "2026-11-27T22:11:19+08:00",
         "headId": "1275017735415267349",
         "historyOffset": "1132754249497706519",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -402,12 +402,12 @@ window.IC_BILIBILI = {
         "wonhee"
       ],
       "platform": "bilibili",
-      "status": "error",
-      "checkedAt": "2026-11-27T22:08:40+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-27T22:10:51+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:08:27+08:00",
-        "lastSuccessAt": "2026-11-27T21:48:48+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:10:49+08:00",
+        "lastSuccessAt": "2026-11-27T22:10:50+08:00",
         "headBvids": [
           "BV1cGyUzvEAf",
           "BV1RayrzBER3",
@@ -441,21 +441,22 @@ window.IC_BILIBILI = {
           "BV1stnc6vEfH"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 17,
         "total": 477,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 17,
+        "complete": false
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:08:35+08:00",
-        "lastSuccessAt": "2026-11-27T21:48:54+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:10:50+08:00",
+        "lastSuccessAt": "2026-11-27T22:10:51+08:00",
         "headId": "1274971397013110921",
         "historyOffset": "1135753854631018533",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -467,8 +468,8 @@ window.IC_BILIBILI = {
         "anna"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-27T22:08:47+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-27T22:10:52+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-27T22:08:40+08:00",
@@ -515,15 +516,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:08:42+08:00",
-        "lastSuccessAt": "2026-11-27T21:49:05+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:10:51+08:00",
+        "lastSuccessAt": "2026-11-27T22:10:52+08:00",
         "headId": "1275327162025508882",
         "historyOffset": "1132065113411420160",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -535,8 +535,8 @@ window.IC_BILIBILI = {
         "woni"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-27T22:09:01+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-27T22:12:54+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-27T22:08:47+08:00",
@@ -583,15 +583,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:08:56+08:00",
-        "lastSuccessAt": "2026-11-27T21:49:21+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:12:53+08:00",
+        "lastSuccessAt": "2026-11-27T22:12:54+08:00",
         "headId": "1275336988913827856",
         "historyOffset": "1136927755083972646",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -670,8 +669,8 @@ window.IC_BILIBILI = {
         "oa"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-27T22:09:26+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-27T22:10:59+08:00",
       "uploads": {
         "status": "ok",
         "checkedAt": "2026-11-27T22:09:18+08:00",
@@ -697,15 +696,14 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-27T22:09:21+08:00",
-        "lastSuccessAt": "2026-11-27T21:49:43+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-27T22:10:57+08:00",
+        "lastSuccessAt": "2026-11-27T22:10:59+08:00",
         "headId": "1274629521938579472",
         "historyOffset": "",
         "historyComplete": true,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     }
