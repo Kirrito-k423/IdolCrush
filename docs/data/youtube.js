@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-28T20:55:33+08:00",
+  "updatedAt": "2026-11-28T22:05:37+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:25+08:00",
+      "checkedAt": "2026-11-28T22:05:29+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:25+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:29+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:26+08:00",
+      "checkedAt": "2026-11-28T22:05:30+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:26+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:30+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:27+08:00",
+      "checkedAt": "2026-11-28T22:05:31+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:27+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:31+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:28+08:00",
+      "checkedAt": "2026-11-28T22:05:32+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:28+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:32+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:29+08:00",
+      "checkedAt": "2026-11-28T22:05:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:29+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:33+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:30+08:00",
+      "checkedAt": "2026-11-28T22:05:34+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:30+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:34+08:00",
       "recentCount": 12
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:31+08:00",
+      "checkedAt": "2026-11-28T22:05:35+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:31+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:35+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T20:55:32+08:00",
+      "checkedAt": "2026-11-28T22:05:36+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:32+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:36+08:00",
       "recentCount": 15
     },
     {
@@ -123,9 +123,9 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-28T20:55:33+08:00",
+      "checkedAt": "2026-11-28T22:05:37+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T20:55:33+08:00",
+      "lastSuccessAt": "2026-11-28T22:05:37+08:00",
       "recentCount": 15
     }
   ],
@@ -161,6 +161,17 @@ window.IC_YOUTUBE = {
       "description": "",
       "sources": [
         "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "WD5T5C45rf8",
+      "title": "huss that diva huss queens huss huss huss",
+      "date": "2026-11-28",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=WD5T5C45rf8",
+      "description": "huss that diva huss queens huss huss huss\n\n#MEOVV #미야오\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
       ]
     },
     {
