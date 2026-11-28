@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-28T06:28:33+08:00",
+  "updatedAt": "2026-11-28T12:21:25+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -8,11 +8,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:26:46+08:00",
+      "checkedAt": "2026-11-28T12:19:38+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-28T06:26:28+08:00",
-        "lastSuccessAt": "2026-11-27T22:10:43+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-28T12:19:21+08:00",
+        "lastSuccessAt": "2026-11-28T12:19:27+08:00",
         "headBvids": [
           "BV1o61HzWENg",
           "BV1st1Wz3E86",
@@ -46,15 +46,18 @@ window.IC_BILIBILI = {
           "BV1E5s36fEyW"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 51,
         "total": 1497,
-        "pagesFetched": []
+        "pagesFetched": [
+          1,
+          50
+        ],
+        "nextPage": 51,
+        "complete": true
       },
       "dynamic": {
         "status": "partial",
-        "checkedAt": "2026-11-28T06:26:35+08:00",
-        "lastSuccessAt": "2026-11-28T06:26:46+08:00",
+        "checkedAt": "2026-11-28T12:19:27+08:00",
+        "lastSuccessAt": "2026-11-28T12:19:38+08:00",
         "headId": "1275374647230070791",
         "historyOffset": "1202609788014297126",
         "historyComplete": false,
@@ -71,11 +74,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:26:56+08:00",
+      "checkedAt": "2026-11-28T12:19:50+08:00",
       "uploads": {
-        "status": "ok",
-        "checkedAt": "2026-11-28T06:26:46+08:00",
-        "lastSuccessAt": "2026-11-28T06:26:50+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-28T12:19:38+08:00",
+        "lastSuccessAt": "2026-11-28T12:19:46+08:00",
         "headBvids": [
           "BV1N514zmETa",
           "BV1RayrzqEf1",
@@ -109,26 +112,22 @@ window.IC_BILIBILI = {
           "BV1NhWM6tExM"
         ],
         "pending": [],
+        "error": "HTTP 412",
+        "nextPage": 60,
         "total": 2182,
         "pagesFetched": [
-          1,
-          57,
-          58,
-          59
-        ],
-        "nextPage": 60,
-        "complete": false
+          1
+        ]
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-28T06:26:50+08:00",
-        "lastSuccessAt": "2026-11-28T06:26:56+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-28T12:19:46+08:00",
+        "lastSuccessAt": "2026-11-28T12:19:50+08:00",
         "headId": "1275306992895787032",
-        "historyOffset": "1143951349490122758",
+        "historyOffset": "1142514051590389785",
         "historyComplete": false,
         "pending": [],
-        "error": "动态暂未返回内容",
-        "pagesFetched": 1,
+        "pagesFetched": 2,
         "videosAdded": 0
       }
     },
@@ -139,12 +138,13 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-28T06:27:08+08:00",
+      "checkedAt": "2026-11-28T12:20:06+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:26:56+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:04+08:00",
+        "checkedAt": "2026-11-28T12:19:50+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:00+08:00",
         "headBvids": [
+          "BV1WG1PzSEDA",
           "BV1Sw14zREzT",
           "BV1hxyyzuE5T",
           "BV1eJyyzVETd",
@@ -173,26 +173,25 @@ window.IC_BILIBILI = {
           "BV1f74563EWj",
           "BV1Hcxm6ME6j",
           "BV1y44P6sEkN",
-          "BV1Vyxt6TEuP",
-          "BV1fKxs6vErc"
+          "BV1Vyxt6TEuP"
         ],
         "pending": [],
-        "total": 2030,
+        "total": 2031,
         "pagesFetched": [
           1,
-          63,
-          64,
-          65
+          65,
+          66,
+          67
         ],
-        "nextPage": 66,
+        "nextPage": 68,
         "complete": false
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:27:04+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:08+08:00",
-        "headId": "1275352884622393364",
-        "historyOffset": "1217177174616834050",
+        "checkedAt": "2026-11-28T12:20:00+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:06+08:00",
+        "headId": "1275590293213675528",
+        "historyOffset": "1214936219593474057",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -206,11 +205,11 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:27:15+08:00",
+      "checkedAt": "2026-11-28T12:20:23+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:27:08+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:10+08:00",
+        "checkedAt": "2026-11-28T12:20:06+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:16+08:00",
         "headBvids": [
           "BV1QQySzdEXb",
           "BV1CJyezYE2M",
@@ -253,15 +252,15 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-28T06:27:10+08:00",
-        "lastSuccessAt": "2026-11-27T22:10:44+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-28T12:20:16+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:23+08:00",
         "headId": "1273891414608969745",
         "historyOffset": "1116576924478472212",
         "historyComplete": false,
         "pending": [],
         "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -271,12 +270,12 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/83749720/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "ok",
-      "checkedAt": "2026-11-28T06:27:28+08:00",
+      "status": "partial",
+      "checkedAt": "2026-11-28T12:20:35+08:00",
       "uploads": {
-        "status": "ok",
-        "checkedAt": "2026-11-28T06:27:15+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:21+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-28T12:20:23+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:31+08:00",
         "headBvids": [
           "BV1PW1HzKEfU",
           "BV1ta1EzAEie",
@@ -310,20 +309,19 @@ window.IC_BILIBILI = {
           "BV1i1W66TEt1"
         ],
         "pending": [],
+        "error": "HTTP 412",
+        "nextPage": 39,
         "total": 1134,
         "pagesFetched": [
-          1,
-          38
-        ],
-        "nextPage": 39,
-        "complete": true
+          1
+        ]
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:27:21+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:28+08:00",
+        "checkedAt": "2026-11-28T12:20:31+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:35+08:00",
         "headId": "1275110562560212992",
-        "historyOffset": "1169687944576892935",
+        "historyOffset": "1162808321805123639",
         "historyComplete": false,
         "pending": [],
         "pagesFetched": 2,
@@ -340,11 +338,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:27:35+08:00",
+      "checkedAt": "2026-11-28T12:20:45+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:27:28+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:29+08:00",
+        "checkedAt": "2026-11-28T12:20:35+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:39+08:00",
         "headBvids": [
           "BV1kbyfzYEF7",
           "BV1x1yDzSEEo",
@@ -388,7 +386,7 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "error",
-        "checkedAt": "2026-11-28T06:27:29+08:00",
+        "checkedAt": "2026-11-28T12:20:39+08:00",
         "lastSuccessAt": "2026-11-27T22:11:19+08:00",
         "headId": "1275017735415267349",
         "historyOffset": "1132754249497706519",
@@ -408,11 +406,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:27:48+08:00",
+      "checkedAt": "2026-11-28T12:20:52+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:27:35+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:43+08:00",
+        "checkedAt": "2026-11-28T12:20:45+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:46+08:00",
         "headBvids": [
           "BV1cGyUzvEAf",
           "BV1RayrzBER3",
@@ -455,15 +453,15 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-28T06:27:43+08:00",
-        "lastSuccessAt": "2026-11-27T22:10:51+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-28T12:20:46+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:52+08:00",
         "headId": "1274971397013110921",
         "historyOffset": "1135753854631018533",
         "historyComplete": false,
         "pending": [],
         "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -476,11 +474,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:27:56+08:00",
+      "checkedAt": "2026-11-28T12:21:03+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:27:48+08:00",
-        "lastSuccessAt": "2026-11-28T06:27:50+08:00",
+        "checkedAt": "2026-11-28T12:20:52+08:00",
+        "lastSuccessAt": "2026-11-28T12:20:56+08:00",
         "headBvids": [
           "BV11314zUENV",
           "BV13HyHzCEBC",
@@ -523,15 +521,15 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "error",
-        "checkedAt": "2026-11-28T06:27:50+08:00",
-        "lastSuccessAt": "2026-11-27T22:10:52+08:00",
+        "status": "partial",
+        "checkedAt": "2026-11-28T12:20:56+08:00",
+        "lastSuccessAt": "2026-11-28T12:21:03+08:00",
         "headId": "1275327162025508882",
         "historyOffset": "1132065113411420160",
         "historyComplete": false,
         "pending": [],
         "error": "动态暂未返回内容",
-        "pagesFetched": 0,
+        "pagesFetched": 1,
         "videosAdded": 0
       }
     },
@@ -544,11 +542,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:28:12+08:00",
+      "checkedAt": "2026-11-28T12:21:10+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-28T06:27:56+08:00",
-        "lastSuccessAt": "2026-11-27T22:08:56+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-28T12:21:03+08:00",
+        "lastSuccessAt": "2026-11-28T12:21:04+08:00",
         "headBvids": [
           "BV1Dc14zxEoL",
           "BV1qSyhzLEm9",
@@ -582,21 +580,24 @@ window.IC_BILIBILI = {
           "BV1eJtq6AEsx"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 10,
         "total": 259,
-        "pagesFetched": []
+        "pagesFetched": [
+          1,
+          9
+        ],
+        "nextPage": 10,
+        "complete": true
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-28T06:28:03+08:00",
+        "status": "error",
+        "checkedAt": "2026-11-28T12:21:04+08:00",
         "lastSuccessAt": "2026-11-28T06:28:12+08:00",
         "headId": "1275336988913827856",
         "historyOffset": "1136927755083972646",
         "historyComplete": false,
         "pending": [],
         "error": "动态暂未返回内容",
-        "pagesFetched": 1,
+        "pagesFetched": 0,
         "videosAdded": 0
       }
     },
@@ -609,11 +610,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T06:28:24+08:00",
+      "checkedAt": "2026-11-28T12:21:23+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:28:12+08:00",
-        "lastSuccessAt": "2026-11-28T06:28:16+08:00",
+        "checkedAt": "2026-11-28T12:21:10+08:00",
+        "lastSuccessAt": "2026-11-28T12:21:18+08:00",
         "headBvids": [
           "BV1dU1xzeEyS",
           "BV11R17ztEzB",
@@ -656,15 +657,15 @@ window.IC_BILIBILI = {
         "complete": true
       },
       "dynamic": {
-        "status": "partial",
-        "checkedAt": "2026-11-28T06:28:16+08:00",
+        "status": "error",
+        "checkedAt": "2026-11-28T12:21:18+08:00",
         "lastSuccessAt": "2026-11-28T06:28:24+08:00",
         "headId": "1275328858577436696",
         "historyOffset": "1136216456991604770",
         "historyComplete": false,
         "pending": [],
         "error": "动态暂未返回内容",
-        "pagesFetched": 1,
+        "pagesFetched": 0,
         "videosAdded": 0
       }
     },
@@ -677,11 +678,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "ok",
-      "checkedAt": "2026-11-28T06:28:33+08:00",
+      "checkedAt": "2026-11-28T12:21:25+08:00",
       "uploads": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:28:24+08:00",
-        "lastSuccessAt": "2026-11-28T06:28:32+08:00",
+        "checkedAt": "2026-11-28T12:21:23+08:00",
+        "lastSuccessAt": "2026-11-28T12:21:24+08:00",
         "headBvids": [
           "BV1vGykzgEyP",
           "BV1BxWe6dE2E",
@@ -704,8 +705,8 @@ window.IC_BILIBILI = {
       },
       "dynamic": {
         "status": "ok",
-        "checkedAt": "2026-11-28T06:28:32+08:00",
-        "lastSuccessAt": "2026-11-28T06:28:33+08:00",
+        "checkedAt": "2026-11-28T12:21:24+08:00",
+        "lastSuccessAt": "2026-11-28T12:21:25+08:00",
         "headId": "1274629521938579472",
         "historyOffset": "",
         "historyComplete": true,
@@ -716,6 +717,30 @@ window.IC_BILIBILI = {
     }
   ],
   "videos": [
+    {
+      "bvid": "BV1WG1PzSEDA",
+      "title": "【张元英】张元英个人及团体官方直拍合集Part.5 (260305 M/CD - 261031 音/中) (已更新至30p)",
+      "date": "2026-11-28",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1WG1PzSEDA/",
+      "cover": "https://i1.hdslb.com/bfs/archive/76d0a772d6f20fe45e6ae4731222ef7bcc287262.jpg",
+      "duration": "1:52:40",
+      "description": "PRODUCE48时期 + IZ*ONE时期 直拍Part.1 BV1x4411f7XQ\n音银MC + IVE ELEVEN + LOVE DIVE + After LIKE时期 直拍Part.2 BV1Mu411Z7RF\nAfter LIKE时期 直拍Part.3 BV1E8411n7jc\nHEYA + REBEL HEART + XOXZ + BANG BANG时期 直拍Part.4 BV1EUWfeUE3x\nBLACKHOLE + Looks Can Kill时期 直拍Part.5 BV1WG1Pz",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        },
+        {
+          "uid": "17379944",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1275590293213675528"
+        }
+      ]
+    },
     {
       "bvid": "BV1ta1EzAEie",
       "title": "【杨书赈 Seojin】HITGS 261121丨‹PAGE2 : Growing Up› 粉丝演唱会 8K直拍合集",
@@ -38575,6 +38600,11 @@ window.IC_BILIBILI = {
         {
           "uid": "17379944",
           "kind": "upload"
+        },
+        {
+          "uid": "17379944",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1214959704454725632"
         }
       ]
     },
@@ -59262,6 +59292,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1169681708274941952"
         }
       ]
     },
@@ -59281,6 +59316,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1169680209320869912"
         }
       ]
     },
@@ -59908,6 +59948,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1168951434989797382"
         }
       ]
     },
@@ -59927,6 +59972,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1168949948957327360"
         }
       ]
     },
@@ -60381,6 +60431,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1168522436457529361"
         }
       ]
     },
@@ -60539,6 +60594,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1167475559678083081"
         }
       ]
     },
@@ -60692,6 +60752,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1167480619154800659"
         }
       ]
     },
@@ -60964,6 +61029,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1166752781067878423"
         }
       ]
     },
@@ -61886,6 +61956,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1164389136068509714"
         }
       ]
     },
@@ -61905,6 +61980,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1164377655603101720"
         }
       ]
     },
@@ -61924,6 +62004,11 @@ window.IC_BILIBILI = {
         {
           "uid": "83749720",
           "kind": "upload"
+        },
+        {
+          "uid": "83749720",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1164377917594009621"
         }
       ]
     },
@@ -69936,6 +70021,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143869006388658179"
         }
       ]
     },
@@ -69979,6 +70069,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143877690792607747"
         }
       ]
     },
@@ -69998,6 +70093,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143433384981168128"
         }
       ]
     },
@@ -70193,6 +70293,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143439810295234568"
         }
       ]
     },
@@ -70269,6 +70374,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1142956338693799936"
         }
       ]
     },
@@ -70374,6 +70484,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143274174857347081"
         }
       ]
     },
@@ -70393,6 +70508,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143263969998274564"
         }
       ]
     },
@@ -70479,6 +70599,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143149234270240777"
         }
       ]
     },
@@ -70560,6 +70685,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143177980495790105"
         }
       ]
     },
@@ -70579,6 +70709,16 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1143867236838014980"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1142854882951168024"
         }
       ]
     },
@@ -70765,6 +70905,11 @@ window.IC_BILIBILI = {
         {
           "uid": "15774483",
           "kind": "upload"
+        },
+        {
+          "uid": "15774483",
+          "kind": "dynamic",
+          "url": "https://t.bilibili.com/1142514051590389785"
         }
       ]
     },
@@ -182435,6 +182580,1127 @@ window.IC_BILIBILI = {
       "cover": "https://i2.hdslb.com/bfs/archive/4529de8681adbc2f75b331627f39f7155d600320.jpg",
       "duration": "20:23",
       "description": "YOUTUBE\ncr.ONEZERO\n190706 KCON IN NY 张元英直拍合集（含团体直拍&官方现场）av80560890",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1GJ411W7sf",
+      "title": "【张元英】190706 K/CON IN NY 张元英饭拍直拍合集 (含红毯&团体直拍)(已更新至21P)",
+      "date": "2019-12-25",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1GJ411W7sf/",
+      "cover": "https://i1.hdslb.com/bfs/archive/967a1c92ea685e797a515e1c02db4eadb85424c1.jpg",
+      "duration": "1:20:49",
+      "description": "190706 K/CON IN NY 张元英饭拍直拍合集",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1EJ411W7SY",
+      "title": "【张元英】191217 [The Show Contact] 秘诀传授 MOMENT [THE SHOW 2019] 张元英CUT",
+      "date": "2019-12-25",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1EJ411W7SY/",
+      "cover": "https://i2.hdslb.com/bfs/archive/5845d8e702dd0d98689d7fc6044ac38e3c1401dc.jpg",
+      "duration": "0:58",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1aJ411t74W",
+      "title": "【张元英】191216 [The Show Contact] 完成任务 MOMENT [THE SHOW 2019] 张元英CUT",
+      "date": "2019-12-19",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1aJ411t74W/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0795e53b031b822ba0b90aa715737f73b8e0af0c.jpg",
+      "duration": "0:38",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19J411R7hn",
+      "title": "【朴志晟】练习室合集 (自马) (已更至44P-220718 Glitch Mode Dance Practice (7DREAM Ver.))",
+      "date": "2019-11-22",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV19J411R7hn/",
+      "cover": "https://i2.hdslb.com/bfs/archive/5e9012a782ca5360b5f0e8f54cfb5711a2294dfb.jpg",
+      "duration": "2:03:20",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1dJ411276V",
+      "title": "【张元英】190402 游击演唱会 张元英饭拍直拍 完整版（含Talk&舞台）",
+      "date": "2019-11-18",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1dJ411276V/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f0ee3adddd8cad183d29fa8895d527b995175d9b.jpg",
+      "duration": "1:00:03",
+      "description": "YOUTUBE\ncr.ODS\n190402 IZ*ONE CHU2 游击演唱会 张元英直拍合集 av62879577",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tE411e7GL",
+      "title": "【张元英】190929 KCON IN THAILAND IZONE - Sunflower 张元英饭拍直拍",
+      "date": "2019-11-12",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1tE411e7GL/",
+      "cover": "https://i0.hdslb.com/bfs/archive/621c03f83afaf3e023f3a32401e48452ec77b2c0.jpg",
+      "duration": "3:09",
+      "description": "YOUTUBE\ncr. upper east side",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1rE411v7Q6",
+      "title": "【张元英】191108 犯人就是你 第2季 张元英CUT",
+      "date": "2019-11-10",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1rE411v7Q6/",
+      "cover": "https://i2.hdslb.com/bfs/archive/7734bdf0da1afb3af8727991c77f6a4c6fd8ef5f.jpg",
+      "duration": "9:43",
+      "description": "E08 两个委托案件：他们和她们的案件记录\r\n没有保留剧情线，单纯剪的元英的part。B站有完整的中字。",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1TE411B7zN",
+      "title": "【张元英】IZONE BLOOM IZ COMEBACK SHOW回归秀 (Teaser) 张元英CUT",
+      "date": "2019-11-04",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1TE411B7zN/",
+      "cover": "https://i0.hdslb.com/bfs/archive/38d740f147fa16f70eaa2efc9133bddcaf325945.jpg",
+      "duration": "1:01",
+      "description": "",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1PE411b7yF",
+      "title": "【张元英】TMI NEWS.E20.191030 张元英CUT 脑性女爱豆 7位 张元英",
+      "date": "2019-11-03",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1PE411b7yF/",
+      "cover": "https://i2.hdslb.com/bfs/archive/00ef6a362179954bd6e9c4847de8e03cecbeafab.jpg",
+      "duration": "3:46",
+      "description": "YOUTUBE\n脑性女爱豆个人理解就是夸元英聪明kkkkkk",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1SE411h7JJ",
+      "title": "【张元英】IZONE Concept Trailer：When IZ your BLOOMing moment？CUT",
+      "date": "2019-10-30",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1SE411h7JJ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/bc972610a84624c4b82cff03e82d7168e88c616a.jpg",
+      "duration": "2:02",
+      "description": "",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ME411k7ni",
+      "title": "【张元英】PRODUCE48 舞台Ending cut合集",
+      "date": "2019-10-18",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1ME411k7ni/",
+      "cover": "https://i1.hdslb.com/bfs/archive/063d31de34eb02461e24e78f882803ff090888bb.jpg",
+      "duration": "1:15",
+      "description": "现场&直拍",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KE411d7Y6",
+      "title": "【朴志晟】舞蹈片段CUT (自马) (已更至119P-210707 Weekly Idol NCT DREAM - Random Dance)",
+      "date": "2019-10-13",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1KE411d7Y6/",
+      "cover": "https://i0.hdslb.com/bfs/archive/d1747824ea24d58183cdc6cb0fc21107e7690ae3.jpg",
+      "duration": "4:22:15",
+      "description": "Cr",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xJ411c7qo",
+      "title": "【张元英】投球小兔子 | 190913 偶运 张元英CUT (含幕后花絮)",
+      "date": "2019-09-16",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1xJ411c7qo/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f90200fae9032a991ef7d5459fa1d1b9bf1b065f.jpg",
+      "duration": "6:41",
+      "description": "偶/像/运/动/会\r\n190205 BV1o8411R7D5\r\n190913 BV1xJ411c7qo\r\n220912 BV1jG411V7tk",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xJ411A7zR",
+      "title": "【张元英】张Vicky MCD后台花絮可爱片段（撒娇太可爱了~",
+      "date": "2019-09-15",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1xJ411A7zR/",
+      "cover": "https://i2.hdslb.com/bfs/archive/c3578612c7fc0934f6159c888aecc3850cfc9453.jpg",
+      "duration": "0:57",
+      "description": "YOUTUBE\n姐妹之争后，当staff问起Vicky是谁我真的笑死kkkkkk",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1dJ411P7vc",
+      "title": "【张元英】IZONE日本三单Vampire MV 张元英CUT",
+      "date": "2019-09-13",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1dJ411P7vc/",
+      "cover": "https://i2.hdslb.com/bfs/archive/9f167d815c71b5ce21f31d93579bac4917fa04ef.jpg",
+      "duration": "1:43",
+      "description": "190913 IZONE - Vampire MV",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1SJ411P75z",
+      "title": "【张元英】TMI NEWS.E13.190911 张元英CUT 相见礼freepass长相张元英",
+      "date": "2019-09-12",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1SJ411P75z/",
+      "cover": "https://i2.hdslb.com/bfs/archive/a1f2a0beb69a8611645acb34d14ad5ec29fb3e01.jpg",
+      "duration": "0:52",
+      "description": "夸我女鹅好看很开心\n但她还小（。",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1JJ411P78M",
+      "title": "【张元英】190830 AICHI IMPACT 张元英饭拍直拍合集 (含官方现场-已更至4P)",
+      "date": "2019-09-12",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1JJ411P78M/",
+      "cover": "https://i2.hdslb.com/bfs/archive/ea8c4b426182ef9bcbd07807c2554a6388c33912.jpg",
+      "duration": "33:34",
+      "description": "190830 AICHI IMPACT\r\nIZ*ONE - 好きと言わせたい + 好きになっちゃうだろう + 天空之上 (Up)",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1j4411m7Rz",
+      "title": "【张元英】IZ*ONE - Airplane Special Film (in NY) 张元英CUT",
+      "date": "2019-08-31",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1j4411m7Rz/",
+      "cover": "https://i1.hdslb.com/bfs/archive/eb6cd4a79d6b10e4a0eaa0b991ffd5b5ab40c3bd.jpg",
+      "duration": "1:13",
+      "description": "190706 KCON IN NY 张元英饭拍直拍合集 BV1GJ411W7sf\r\n190831 IZONE - Airplane Special Film (in NY) cut\r\nVioleta MV BV1dq4y1z7Q3\r\nVioleta (Flower Ver.) MV BV1rN4y1Z7La\r\nAirplane Special Film (in NY) BV1j4411m7Rz\r\nIZ*ONE Mini2辑 幕后花絮 BV1Eb4y1b7TE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1x4411f7XQ",
+      "title": "【张元英】张元英个人及团体官方直拍合集 Part.1 (PRODUCE48 - Universe Fan Party D-D-DANCE)(共243p)",
+      "date": "2019-08-18",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1x4411f7XQ/",
+      "cover": "https://i1.hdslb.com/bfs/archive/145fc35b607db76e71345b68c764c2c06c31b95e.jpg",
+      "duration": "14:54:29",
+      "description": "PRODUCE48时期+IZ*ONE时期 直拍Part.1 BV1x4411f7XQ\r\n音银MC+IVE时期 直拍Part.2 BV1Mu411Z7RF\r\n音银MC+IVE时期 直拍Part.3 BV1E8411n7jc",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1U4411Z7mB",
+      "title": "【张元英】190812 偶运 张元英投球饭拍直拍合集 (已更至11p)",
+      "date": "2019-08-17",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1U4411Z7mB/",
+      "cover": "https://i0.hdslb.com/bfs/archive/093760b87225150973da60ae628b68c51adda2d6.jpg",
+      "duration": "30:17",
+      "description": "偶/像/运/动/会中/秋特/辑\r\n190913 张元英CUT av67924192",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1s4411X7bG",
+      "title": "【张元英】190607-190609 IZ*ONE 一巡演唱会 首尔场 张元英饭拍直拍合集 (已更至57P)",
+      "date": "2019-08-10",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1s4411X7bG/",
+      "cover": "https://i2.hdslb.com/bfs/archive/23163d908981d4ad8dda0bce056ec255d10f3d2e.jpg",
+      "duration": "3:09:28",
+      "description": "190607-190609 IZ*ONE 1ST CONCERT [EYES ON ME] IN SEOUL",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Nt411K7h3",
+      "title": "【张元英】190803 KB银行 Liiv Concert 张元英饭拍直拍合集 (含幕后花絮-已更至57P）",
+      "date": "2019-08-09",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Nt411K7h3/",
+      "cover": "https://i1.hdslb.com/bfs/archive/05a5bb1ac227754a8cd03e84699a3925892ebb68.jpg",
+      "duration": "4:09:18",
+      "description": "190803 KB国民银行 Liiv Concert\r\nIZ*ONE - Violeta + Airplane + 天空之上 (Up) + Highlight + La Vie en Rose",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Ft411K7HY",
+      "title": "【张元英】190402 IZ*ONE CHU2 游击演唱会 张元英饭拍直拍合集 (含团体直拍-已更至62P)",
+      "date": "2019-08-09",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Ft411K7HY/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0e0102d8399ff7ea87243c9e3e4af116cc7eb199.jpg",
+      "duration": "7:54:06",
+      "description": "190402 IZ*ONE CHU2 游击演唱会\r\nIZ*ONE - La Vie en Rose + 天空之上 (Up) + Violeta",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1At411K7GU",
+      "title": "【张元英】190801 MGMA 张元英饭拍直拍合集 (含团体直拍&Reaction)(已更至59P)",
+      "date": "2019-08-09",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1At411K7GU/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8172769618c8902d63b3e2746858b46d50d37135.jpg",
+      "duration": "4:39:18",
+      "description": "190801 MGMA IZONE - Highlight + Violeta\r\nVioleta(HEART*IZ)时期 张元英官方直拍合集 BV1YK4y1t7xv\r\nVioleta 张元英官方直拍合集 BV1Jb411p7Rp\r\n天空之上 (Up) 张元英官方直拍合集 BV14b411u77Q\r\n张元英个人及团体官方直拍合集 Part.1 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1pt411E7dX",
+      "title": "【张元英】PRODUCE X 101.E12.190719 张元英CUT",
+      "date": "2019-07-21",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1pt411E7dX/",
+      "cover": "https://i2.hdslb.com/bfs/archive/f4f1e84e8aa28ad721422945de79aaa8bad0993b.jpg",
+      "duration": "3:01",
+      "description": "PRODUCE X 101.E02.190510 张元英CUT BV1G4411e7K1",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Bt411n7T7",
+      "title": "【张元英】留学少女.E09.190718 IZONE CUT",
+      "date": "2019-07-20",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Bt411n7T7/",
+      "cover": "https://i0.hdslb.com/bfs/archive/1f57138d77dc7480f69b9efd9bf31b4610c4b9c1.jpg",
+      "duration": "3:04",
+      "description": "YOUTUBE\r\np2是第4期的预告，但这一期没放丸片段。到了最后一期才放。",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Nt411n7it",
+      "title": "【张元英】PRODUCE48 最终CENTER视频评价 以后请多多关照",
+      "date": "2019-07-19",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Nt411n7it/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f3d9d507000683612291400deef83df099dddc23.jpg",
+      "duration": "9:32",
+      "description": "YOUTUBE\n404决赛这天考古一下。",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1zx41197Pn",
+      "title": "【官方直拍】190628 音乐银行 张元英直拍 IZONE - Airplane + Violeta【含团体直拍】",
+      "date": "2019-06-29",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1zx41197Pn/",
+      "cover": "https://i1.hdslb.com/bfs/archive/f3f9dbdc94398df3456b9f83684733296d0ce7a3.jpg",
+      "duration": "10:06",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1a4411u77n",
+      "title": "【张元英】IZONE日本二单Buenos Aires MV 张元英CUT",
+      "date": "2019-06-22",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1a4411u77n/",
+      "cover": "https://i0.hdslb.com/bfs/archive/30204444bc5919b2575b3517af59a392714c40c0.jpg",
+      "duration": "1:54",
+      "description": "有的部分很凌乱因为镜头切换很碎，然后边角剪进来，因为原视频720P再加上放大就画质一般了。\r\n190628 IZONE - Buenos Aires MV",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1i4411n74P",
+      "title": "190419 [MU:CAM] IZONE 'Jang Wonyoung'  Mubeat in Show Champion",
+      "date": "2019-06-02",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1i4411n74P/",
+      "cover": "https://i2.hdslb.com/bfs/archive/166111792a4fc8ac9905bbcb3087043aae164a4b.jpg",
+      "duration": "0:51",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV184411n73n",
+      "title": "【张元英】190404 不朽 - 爱神派对 张元英饭拍直拍",
+      "date": "2019-06-02",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV184411n73n/",
+      "cover": "https://i2.hdslb.com/bfs/archive/ac5b7d3f7f1ef78ab66c73d749a39150a1af0ff1.jpg",
+      "duration": "4:01",
+      "description": "名曲\r\n不朽.E400.190420 张元英CUT (含舞台) BV1rb41137px\r\n不朽.E450.200404 张元英CUT BV17T4y1G7i3\r\n不朽.E451.200411 张元英CUT (含舞台和团体直拍) BV14y4y1T7uN\r\n不朽.E468.200808 张元英CUT (含舞台) BV1wb4y1C7G3",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1X4411H7Am",
+      "title": "【张元英】黄金渔场.E629.190529 张元英影像资料",
+      "date": "2019-05-31",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1X4411H7Am/",
+      "cover": "https://i2.hdslb.com/bfs/archive/b2b8f6c809831e4ac4fb5c7eb7c3f74afeac1c6d.jpg",
+      "duration": "0:11",
+      "description": "官方直拍合集 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1B4411j7qp",
+      "title": "【张元英】张元英和你唠嗑 (IZ*ONE时期V直播合集)",
+      "date": "2019-05-21",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1B4411j7qp/",
+      "cover": "https://i1.hdslb.com/bfs/archive/113998f658a8e59ab98db38f86fee017938e3f17.jpg",
+      "duration": "76:21:51",
+      "description": "V\r\n自压中字，没有的用英字、繁体中字或无字，部分站子做的中字也加里面了。\r\n元英在的直播都放上来了，有的视频是提到元英了也一起放上来了。\r\nIZ*ONE时期V直播合集 BV1B4411j7qp\r\nIVE时期V直播合集 BV1bv411u7v5\r\nIZ*ONE时期多平台直播合集 BV1ju4y1t73P",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1G4411e7K1",
+      "title": "【张元英】PRODUCE X 101.E02.190510 张元英CUT",
+      "date": "2019-05-11",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1G4411e7K1/",
+      "cover": "https://i0.hdslb.com/bfs/archive/8f425f9a9d3bdb1bb8fc4d14d8b8598b2c8788cc.jpg",
+      "duration": "1:05",
+      "description": "PRODUCE X 101 THE BEGINNING.E01.190426 张元英CUT BV1U4411b7Fw",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV194411t7Vn",
+      "title": "【张元英】大脑感性时代 问题性男子.E205.190429 张元英CUT",
+      "date": "2019-05-02",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV194411t7Vn/",
+      "cover": "https://i1.hdslb.com/bfs/archive/442c6b73772a980af4efbdea59532294457f515e.jpg",
+      "duration": "23:08",
+      "description": "官方直拍合集 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1e4411b7za",
+      "title": "【张元英】TMI NEWS.E01.190425 张元英CUT",
+      "date": "2019-04-28",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1e4411b7za/",
+      "cover": "https://i1.hdslb.com/bfs/archive/e3ef2276d7ba85618f66de54ba1102fbf55ca4f6.jpg",
+      "duration": "24:55",
+      "description": "",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1U4411b7Fw",
+      "title": "【张元英】PRODUCE X 101 THE BEGINNING.E01.190426 张元英CUT",
+      "date": "2019-04-28",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1U4411b7Fw/",
+      "cover": "https://i0.hdslb.com/bfs/archive/3fd86f7c5847fdc7854bac743d26d828c6234df8.jpg",
+      "duration": "12:35",
+      "description": "官方直拍合集 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1rb41137px",
+      "title": "【张元英】不朽.E400.190420 张元英CUT (含舞台)",
+      "date": "2019-04-22",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1rb41137px/",
+      "cover": "https://i1.hdslb.com/bfs/archive/4da9c2d2ea9e101386f9fe9a1e12b8da0d59f3b0.jpg",
+      "duration": "26:37",
+      "description": "名曲\r\n不朽 - 爱神派对 张元英饭拍直拍 BV184411n73n\r\n不朽.E450.200404 张元英CUT BV17T4y1G7i3\r\n不朽.E451.200411 张元英CUT (含舞台和团体直拍) BV14y4y1T7uN\r\n不朽.E468.200808 张元英CUT (含舞台) BV1wb4y1C7G3",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sb41137uJ",
+      "title": "【张元英】二村洞蜜拳 | 190410 周/偶 张元英CUT",
+      "date": "2019-04-21",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1sb41137uJ/",
+      "cover": "https://i0.hdslb.com/bfs/archive/de8248f95a3e4d5e0d0b3d71586e988f25fe9d1f.jpg",
+      "duration": "45:12",
+      "description": "W/eekly I/dol\r\n181031 BV1Mb411B72b\r\n190410 BV1sb41137uJ BV1Mb411K74d\r\n211208 BV1Tu4y1D7ow BV1r44y1a7Hc\r\n220406 BV1Qu411P7rC BV1hu411e72J\r\n220824 BV1Dy4y1F7yR BV1HU4y1k7s5",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Mb411K74d",
+      "title": "【张元英】紫发圆圆 | 190410 周/偶 张元英表演CUT (含直拍)",
+      "date": "2019-04-12",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Mb411K74d/",
+      "cover": "https://i1.hdslb.com/bfs/archive/18212b4eb1a494c9f04a37eb34e983b0bbe55192.jpg",
+      "duration": "11:19",
+      "description": "W/eekly I/dol\r\n181031 BV1Mb411B72b\r\n190410 BV1sb41137uJ BV1Mb411K74d\r\n211208 BV1Tu4y1D7ow BV1r44y1a7Hc\r\n220406 BV1Qu411P7rC BV1hu411e72J\r\n220824 BV1Dy4y1F7yR BV1HU4y1k7s5",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Cb411T7PC",
+      "title": "【张元英】IZ*ONE 2nd Mini Album 打歌现场中字cut（更新至190628【TSKS】Music Bank IZONE - Airplane）",
+      "date": "2019-04-10",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Cb411T7PC/",
+      "cover": "https://i0.hdslb.com/bfs/archive/cfc67ede4c38dbe1060945718fb1ee9b60b3370b.jpg",
+      "duration": "55:32",
+      "description": "",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV14b411u77Q",
+      "title": "【张元英】天空之上 (Up) 张元英官方直拍合集 (含团体直拍)(共11P-已更至190428 SBS Super Concert)",
+      "date": "2019-04-08",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV14b411u77Q/",
+      "cover": "https://i1.hdslb.com/bfs/archive/72ceb4f4e4f60a842c474d9f97d2a649c44a3b1c.jpg",
+      "duration": "36:21",
+      "description": "Violeta(HEART*IZ)时期 张元英官方直拍合集 BV1YK4y1t7xv\r\nVioleta 张元英官方直拍合集 BV1Jb411p7Rp\r\n天空之上 (Up) 张元英官方直拍合集 BV14b411u77Q\r\n张元英个人及团体官方直拍合集 Part.1 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19b411M7Pk",
+      "title": "【张元英】IZ*ONE COMEBACK SHOW: HEART TO 'HEART IZ' 张元英官方直拍合集 (含团体直拍)(共7P)",
+      "date": "2019-04-07",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV19b411M7Pk/",
+      "cover": "https://i1.hdslb.com/bfs/archive/ff4811e8b1ac64cf6c9858c97143d2b40d0fb6b4.jpg",
+      "duration": "25:09",
+      "description": "190401 IZ*ONE回归秀 HEART TO 'HEART IZ' 张元英官方直拍合集\r\nVioleta(HEART*IZ)时期 张元英官方直拍合集 BV1YK4y1t7xv\r\nVioleta 张元英官方直拍合集 BV1Jb411p7Rp\r\n天空之上 (Up) 张元英官方直拍合集 BV14b411u77Q\r\n张元英个人及团体官方直拍合集 Part.1 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ub4113761",
+      "title": "【张元英】点开看傻兔子在线撒娇",
+      "date": "2019-04-06",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1ub4113761/",
+      "cover": "https://i1.hdslb.com/bfs/archive/87164c2dd12bb9c3ffd67497c2e2cc876634f6a2.jpg",
+      "duration": "0:10",
+      "description": "真的笑死了跟亨敦撒娇想让他松口结果被无情拒绝哈哈哈哈哈哈哈哈哈",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Jb411p7Rp",
+      "title": "【张元英】Violeta 张元英官方直拍合集 (含团体直拍)(共40P-已更至200610 IZONE CHU 幻想演唱会)",
+      "date": "2019-04-02",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Jb411p7Rp/",
+      "cover": "https://i2.hdslb.com/bfs/archive/352417e506bda5ff28c3dcfc898c9ba60d46cbbf.jpg",
+      "duration": "2:23:57",
+      "description": "Violeta(HEART*IZ)时期 张元英官方直拍合集 BV1YK4y1t7xv\r\nVioleta 张元英官方直拍合集 BV1Jb411p7Rp\r\n天空之上 (Up) 张元英官方直拍合集 BV14b411u77Q\r\n张元英个人及团体官方直拍合集 Part.1 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1gb411s7pX",
+      "title": "【IZ*ONE】Violeta Comeback Stage Teaser合集",
+      "date": "2019-03-31",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1gb411s7pX/",
+      "cover": "https://i2.hdslb.com/bfs/archive/0baf098c0211eb01fbb1398cdd2cb2f2bbe77779.jpg",
+      "duration": "1:30",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Rb411W781",
+      "title": "【张元英】190330 Happy Together上班路",
+      "date": "2019-03-30",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Rb411W781/",
+      "cover": "https://i1.hdslb.com/bfs/archive/25e24d75845cc9fb0b1d2847e870dfaf69741e8c.jpg",
+      "duration": "9:01",
+      "description": "190330 Happy Together上班路",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19b411W7kh",
+      "title": "【张元英】我们是包饭酱's",
+      "date": "2019-03-30",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV19b411W7kh/",
+      "cover": "https://i1.hdslb.com/bfs/archive/39b436369a73351cc77169385f1ecec9d7463dd0.jpg",
+      "duration": "0:09",
+      "description": "ins",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV19b411W7dt",
+      "title": "【张元英cam】IZ*ONE 弘大街头采访（含PICK ME直拍）",
+      "date": "2019-03-30",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV19b411W7dt/",
+      "cover": "https://i1.hdslb.com/bfs/archive/66417c7dbb23ee3600bfcc91de909dd1655f62e2.jpg",
+      "duration": "55:43",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1tb411x7h5",
+      "title": "【张元英】IZ*ONE COMEBACK SHOW l HEART TO 'HEART IZ' Teaser及相关花絮",
+      "date": "2019-03-28",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1tb411x7h5/",
+      "cover": "https://i2.hdslb.com/bfs/archive/2f71cf6ed79274d05b0fccd076d9240a616296bd.jpg",
+      "duration": "1:25",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV11b41147xx",
+      "title": "【张元英】全民脱口秀Hello.E386.181029 张元英CUT",
+      "date": "2019-03-25",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV11b41147xx/",
+      "cover": "https://i0.hdslb.com/bfs/archive/968e78354c2efdce98eb42bfc17b45377b5c1c0d.jpg",
+      "duration": "13:10",
+      "description": "官方直拍合集 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Hb41147RV",
+      "title": "【张元英】IZ*ONE City.190118 张元英CUT",
+      "date": "2019-03-24",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Hb41147RV/",
+      "cover": "https://i2.hdslb.com/bfs/archive/7149da015f28108eb494b2336d244099296acb73.jpg",
+      "duration": "39:02",
+      "description": "官方直拍合集 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Hb41177P2",
+      "title": "【张元英】IZ*ONE CHU - 秘密朋友 张元英4期全CUT（已更齐）",
+      "date": "2019-03-23",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Hb41177P2/",
+      "cover": "https://i0.hdslb.com/bfs/archive/4ff5815c0587c14b2b156a6e6e69265931ca84e6.jpg",
+      "duration": "1:47:13",
+      "description": "背景板边角都剪进来了，元英相关的对话为了保持连贯也剪进来了。\n【第一季】IZ*ONE CHU cut BV1qb411E73W\n【第二季】IZ*ONE CHU - 秘密朋友 cut BV1Hb41177P2\n【第三季】IZ*ONE CHU - 幻想校园 cut BV1bt4y1y7He\n【第四季】IZ*ONE CHU - ON:TACT cut BV1ki4y1E73X",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Hb411778i",
+      "title": "【张元英】STARSHIP更新张元英相关",
+      "date": "2019-03-23",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1Hb411778i/",
+      "cover": "https://i1.hdslb.com/bfs/archive/04cd69b104cdea283c2e8b6468aee30cf9c0de29.jpg",
+      "duration": "1:53",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1xb411J7yg",
+      "title": "【张元英】Amigo TV第4季 - IZ*ONE 张元英3期全CUT（已更齐）（含无字花絮）",
+      "date": "2019-03-21",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1xb411J7yg/",
+      "cover": "https://i2.hdslb.com/bfs/archive/acc8257e8abdab759fe2f8758befbd512b5a23ff.jpg",
+      "duration": "30:01",
+      "description": "官方直拍合集 BV1x4411f7XQ",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1qb411E73W",
+      "title": "【张元英】IZ*ONE CHU 张元英4期全CUT（已更齐）",
+      "date": "2019-03-19",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1qb411E73W/",
+      "cover": "https://i0.hdslb.com/bfs/archive/9fef81efd9eb5811757b832cb66eda06413cd0ac.jpg",
+      "duration": "1:24:42",
+      "description": "【第一季】IZ*ONE CHU cut BV1qb411E73W\n【第二季】IZ*ONE CHU - 秘密朋友 cut BV1Hb41177P2\n【第三季】IZ*ONE CHU - 幻想校园 cut BV1bt4y1y7He\n【第四季】IZ*ONE CHU - ON:TACT cut BV1ki4y1E73X",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mb411n7E4",
+      "title": "【张元英】周一妖精",
+      "date": "2019-03-18",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1mb411n7E4/",
+      "cover": "https://i0.hdslb.com/bfs/archive/890d33ddc9ed6be77f3d58d1a35a4d1fd2ae44b1.jpg",
+      "duration": "0:22",
+      "description": "ins",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1hb411n7kq",
+      "title": "【张元英】IZ*ONE 2nd Mini Album 预告（已更齐）",
+      "date": "2019-03-18",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1hb411n7kq/",
+      "cover": "https://i2.hdslb.com/bfs/archive/23b564673eaf12fcc9b7d590e39a97387b053861.jpg",
+      "duration": "13:48",
+      "description": "YOUTUBE",
+      "sources": [
+        "17379944"
+      ],
+      "provenance": [
+        {
+          "uid": "17379944",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1hb411n7JM",
+      "title": "【张元英】IZ*ONE CHU - 秘密朋友 预告 & 花絮合集（已更齐）",
+      "date": "2019-03-18",
+      "publisher": "XXXErase",
+      "source": "https://www.bilibili.com/video/BV1hb411n7JM/",
+      "cover": "https://i2.hdslb.com/bfs/archive/45db8a8c214fef51ae46f2fd6c730b24714ab4ed.jpg",
+      "duration": "7:49",
+      "description": "YOUTUBE",
       "sources": [
         "17379944"
       ],
