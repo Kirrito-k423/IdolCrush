@@ -1,5 +1,5 @@
 window.IC_BILIBILI = {
-  "updatedAt": "2026-11-28T22:07:42+08:00",
+  "updatedAt": "2026-11-28T22:09:17+08:00",
   "sources": [
     {
       "uid": "3546824314980440",
@@ -7,12 +7,12 @@ window.IC_BILIBILI = {
       "url": "https://space.bilibili.com/3546824314980440/dynamic",
       "artists": [],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-28T22:05:44+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-28T22:08:42+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-28T22:05:30+08:00",
-        "lastSuccessAt": "2026-11-28T20:55:35+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-28T22:08:42+08:00",
+        "lastSuccessAt": "2026-11-28T22:08:42+08:00",
         "headBvids": [
           "BV1kB1NzDE2M",
           "BV1o61HzWENg",
@@ -46,10 +46,12 @@ window.IC_BILIBILI = {
           "BV1ybs26TEx8"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 51,
         "total": 1498,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 51,
+        "complete": false
       },
       "dynamic": {
         "status": "ok",
@@ -269,12 +271,14 @@ window.IC_BILIBILI = {
       "artists": [],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T22:06:22+08:00",
+      "checkedAt": "2026-11-28T22:09:17+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-28T22:06:09+08:00",
-        "lastSuccessAt": "2026-11-28T20:56:26+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-28T22:09:15+08:00",
+        "lastSuccessAt": "2026-11-28T22:09:17+08:00",
         "headBvids": [
+          "BV1Sa1uz3EQT",
+          "BV1Vx1uzjE5i",
           "BV1PW1HzKEfU",
           "BV1ta1EzAEie",
           "BV19J1Ez3Ed4",
@@ -302,15 +306,15 @@ window.IC_BILIBILI = {
           "BV1wwsr6nEHH",
           "BV1A6sT6xEEe",
           "BV1LgsN6MEKs",
-          "BV1PhsN69E98",
-          "BV1XgW66cEzY",
-          "BV1i1W66TEt1"
+          "BV1PhsN69E98"
         ],
         "pending": [],
-        "error": "HTTP 412",
+        "total": 1136,
+        "pagesFetched": [
+          1
+        ],
         "nextPage": 39,
-        "total": 1134,
-        "pagesFetched": []
+        "complete": false
       },
       "dynamic": {
         "status": "partial",
@@ -471,11 +475,11 @@ window.IC_BILIBILI = {
       ],
       "platform": "bilibili",
       "status": "partial",
-      "checkedAt": "2026-11-28T22:07:00+08:00",
+      "checkedAt": "2026-11-28T22:08:52+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-28T22:06:44+08:00",
-        "lastSuccessAt": "2026-11-28T12:20:56+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-28T22:08:49+08:00",
+        "lastSuccessAt": "2026-11-28T22:08:52+08:00",
         "headBvids": [
           "BV11314zUENV",
           "BV13HyHzCEBC",
@@ -509,10 +513,12 @@ window.IC_BILIBILI = {
           "BV1MhHe6iE65"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 11,
         "total": 273,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 11,
+        "complete": false
       },
       "dynamic": {
         "status": "partial",
@@ -670,12 +676,12 @@ window.IC_BILIBILI = {
         "oa"
       ],
       "platform": "bilibili",
-      "status": "partial",
-      "checkedAt": "2026-11-28T22:07:42+08:00",
+      "status": "ok",
+      "checkedAt": "2026-11-28T22:09:00+08:00",
       "uploads": {
-        "status": "error",
-        "checkedAt": "2026-11-28T22:07:29+08:00",
-        "lastSuccessAt": "2026-11-28T20:57:44+08:00",
+        "status": "ok",
+        "checkedAt": "2026-11-28T22:08:52+08:00",
+        "lastSuccessAt": "2026-11-28T22:09:00+08:00",
         "headBvids": [
           "BV1vGykzgEyP",
           "BV1BxWe6dE2E",
@@ -689,10 +695,12 @@ window.IC_BILIBILI = {
           "BV1HEHQ6BE2T"
         ],
         "pending": [],
-        "error": "HTTP 412",
-        "nextPage": 2,
         "total": 10,
-        "pagesFetched": []
+        "pagesFetched": [
+          1
+        ],
+        "nextPage": 2,
+        "complete": true
       },
       "dynamic": {
         "status": "ok",
@@ -797,6 +805,29 @@ window.IC_BILIBILI = {
           "uid": "83749720",
           "kind": "dynamic",
           "url": "https://t.bilibili.com/1275745612114952193"
+        },
+        {
+          "uid": "83749720",
+          "kind": "upload"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1Sa1uz3EQT",
+      "title": "aespa 261128丨 ‹MY 보고싶다 ae가› 六周年 FAN MEETING Day1 全体4K直拍",
+      "date": "2026-11-28",
+      "publisher": "Ampilu",
+      "source": "https://www.bilibili.com/video/BV1Sa1uz3EQT/",
+      "cover": "https://i0.hdslb.com/bfs/archive/0902e9f838ba0eeb36398637c92864da14f62cb4.jpg",
+      "duration": "9:08",
+      "description": "",
+      "sources": [
+        "83749720"
+      ],
+      "provenance": [
+        {
+          "uid": "83749720",
+          "kind": "upload"
         }
       ]
     },
