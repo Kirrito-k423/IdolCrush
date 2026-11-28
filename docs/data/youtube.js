@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-28T06:26:35+08:00",
+  "updatedAt": "2026-11-28T12:19:29+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:28+08:00",
+      "checkedAt": "2026-11-28T12:19:20+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:28+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:20+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:29+08:00",
+      "checkedAt": "2026-11-28T12:19:21+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:29+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:21+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:30+08:00",
+      "checkedAt": "2026-11-28T12:19:22+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:30+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:22+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:31+08:00",
+      "checkedAt": "2026-11-28T12:19:23+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:31+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:23+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:31+08:00",
+      "checkedAt": "2026-11-28T12:19:24+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:32+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:24+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:32+08:00",
+      "checkedAt": "2026-11-28T12:19:25+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:32+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:25+08:00",
       "recentCount": 12
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:33+08:00",
+      "checkedAt": "2026-11-28T12:19:26+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:33+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:26+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T06:26:34+08:00",
+      "checkedAt": "2026-11-28T12:19:27+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:34+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:27+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,24 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-28T06:26:35+08:00",
+      "checkedAt": "2026-11-28T12:19:28+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T06:26:35+08:00",
+      "lastSuccessAt": "2026-11-28T12:19:29+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "QCLM8RbQjtY",
+      "title": "𝐵𝑢𝑡 𝐼…",
+      "date": "2026-11-28",
+      "publisher": "MEOVV · YouTube",
+      "source": "https://www.youtube.com/watch?v=QCLM8RbQjtY",
+      "description": "𝐵𝑢𝑡 𝐼…\n\n#MEOVV #미야오 #ELLA #엘라\n#THEBLACKLABEL #더블랙레이블",
+      "sources": [
+        "yt:UCowiwt93gqGlNG4k5VDxO-w"
+      ]
+    },
     {
       "youtube": "8mPNjs6M_9o",
       "title": "도가니탕 좋아해?",
