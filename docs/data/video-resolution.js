@@ -346576,17 +346576,45 @@ window.IC_VIDEO_RESOLUTIONS = {
         }
       ],
       "checkedAt": "2026-11-28T22:08:46+08:00"
+    },
+    "BV1Sa1uz3EQT": {
+      "width": 3840,
+      "height": 2160,
+      "pages": [
+        {
+          "page": 1,
+          "cid": "44000152548",
+          "width": 3840,
+          "height": 2160,
+          "duration": 185
+        },
+        {
+          "page": 2,
+          "cid": "44000349276",
+          "width": 3840,
+          "height": 2160,
+          "duration": 198
+        },
+        {
+          "page": 3,
+          "cid": "44000282119",
+          "width": 3840,
+          "height": 2160,
+          "duration": 165
+        }
+      ],
+      "checkedAt": "2026-11-28T22:11:34+08:00"
     }
   },
   "failures": {},
-  "updatedAt": "2026-11-28T22:10:38+08:00",
+  "updatedAt": "2026-11-28T22:12:06+08:00",
   "status": {
-    "checkedAt": "2026-11-28T22:10:37+08:00",
-    "attempted": 200,
-    "succeeded": 200,
+    "checkedAt": "2026-11-28T22:11:34+08:00",
+    "attempted": 1,
+    "succeeded": 1,
     "blocked": false,
-    "known": 9145,
-    "total": 9145
+    "known": 9146,
+    "total": 9146
   },
   "youtube": {
     "ELLCf9W2vAo": {
@@ -348544,46 +348572,45 @@ window.IC_VIDEO_RESOLUTIONS = {
       "height": 1280,
       "duration": 1958,
       "checkedAt": "2026-11-28T12:26:56+08:00"
-    }
-  },
-  "youtubeFailures": {
+    },
     "ucRJ83Q8XB8": {
-      "attempts": 1,
-      "checkedAt": "2026-11-28T21:00:39+08:00",
-      "retryAfter": "2026-12-05T21:00:39+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 11,
+      "checkedAt": "2026-11-28T22:11:49+08:00"
     },
     "dpbw2HRgO4M": {
-      "attempts": 1,
-      "checkedAt": "2026-11-28T21:00:40+08:00",
-      "retryAfter": "2026-12-05T21:00:40+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 15,
+      "checkedAt": "2026-11-28T22:11:53+08:00"
     },
     "bYj7Fu93r-w": {
-      "attempts": 1,
-      "checkedAt": "2026-11-28T21:00:42+08:00",
-      "retryAfter": "2026-12-05T21:00:42+08:00",
-      "error": "视频标识不匹配"
-    },
-    "12Lvg_S00Tk": {
-      "attempts": 1,
-      "checkedAt": "2026-11-28T21:00:43+08:00",
-      "retryAfter": "2026-12-05T21:00:43+08:00",
-      "error": "视频标识不匹配"
+      "width": 2160,
+      "height": 3840,
+      "duration": 27,
+      "checkedAt": "2026-11-28T22:11:57+08:00"
     },
     "WD5T5C45rf8": {
-      "attempts": 1,
-      "checkedAt": "2026-11-28T22:10:38+08:00",
-      "retryAfter": "2026-12-05T22:10:38+08:00",
-      "error": "视频标识不匹配"
+      "width": 1080,
+      "height": 1920,
+      "duration": 18,
+      "checkedAt": "2026-11-28T22:12:00+08:00"
+    },
+    "12Lvg_S00Tk": {
+      "width": 720,
+      "height": 1280,
+      "duration": 20,
+      "checkedAt": "2026-11-28T22:12:05+08:00"
     }
   },
+  "youtubeFailures": {},
   "youtubeStatus": {
-    "checkedAt": "2026-11-28T22:10:38+08:00",
-    "attempted": 1,
-    "succeeded": 0,
+    "checkedAt": "2026-11-28T22:12:06+08:00",
+    "attempted": 5,
+    "succeeded": 5,
     "blocked": false,
-    "known": 326,
+    "known": 331,
     "total": 331
   }
 };
