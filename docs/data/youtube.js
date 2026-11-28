@@ -1,5 +1,5 @@
 window.IC_YOUTUBE = {
-  "updatedAt": "2026-11-28T12:19:29+08:00",
+  "updatedAt": "2026-11-28T20:55:33+08:00",
   "sources": [
     {
       "uid": "yt:UC-Fnix71vRP64WXeo0ikd0Q",
@@ -11,9 +11,9 @@ window.IC_YOUTUBE = {
         "liz"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:20+08:00",
+      "checkedAt": "2026-11-28T20:55:25+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:20+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:25+08:00",
       "recentCount": 15
     },
     {
@@ -25,9 +25,9 @@ window.IC_YOUTUBE = {
         "wonhee"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:21+08:00",
+      "checkedAt": "2026-11-28T20:55:26+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:21+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:26+08:00",
       "recentCount": 15
     },
     {
@@ -39,9 +39,9 @@ window.IC_YOUTUBE = {
         "anna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:22+08:00",
+      "checkedAt": "2026-11-28T20:55:27+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:22+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:27+08:00",
       "recentCount": 15
     },
     {
@@ -53,9 +53,9 @@ window.IC_YOUTUBE = {
         "woni"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:23+08:00",
+      "checkedAt": "2026-11-28T20:55:28+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:23+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:28+08:00",
       "recentCount": 15
     },
     {
@@ -67,9 +67,9 @@ window.IC_YOUTUBE = {
         "yuna"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:24+08:00",
+      "checkedAt": "2026-11-28T20:55:29+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:24+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:29+08:00",
       "recentCount": 15
     },
     {
@@ -81,9 +81,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:25+08:00",
+      "checkedAt": "2026-11-28T20:55:30+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:25+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:30+08:00",
       "recentCount": 12
     },
     {
@@ -95,9 +95,9 @@ window.IC_YOUTUBE = {
         "oa"
       ],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:26+08:00",
+      "checkedAt": "2026-11-28T20:55:31+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:26+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:31+08:00",
       "recentCount": 2
     },
     {
@@ -107,9 +107,9 @@ window.IC_YOUTUBE = {
       "url": "https://www.youtube.com/@hearts2hearts.official",
       "artists": [],
       "alwaysArtists": [],
-      "checkedAt": "2026-11-28T12:19:27+08:00",
+      "checkedAt": "2026-11-28T20:55:32+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:27+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:32+08:00",
       "recentCount": 15
     },
     {
@@ -123,13 +123,46 @@ window.IC_YOUTUBE = {
       "alwaysArtists": [
         "woni"
       ],
-      "checkedAt": "2026-11-28T12:19:28+08:00",
+      "checkedAt": "2026-11-28T20:55:33+08:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-28T12:19:29+08:00",
+      "lastSuccessAt": "2026-11-28T20:55:33+08:00",
       "recentCount": 15
     }
   ],
   "videos": [
+    {
+      "youtube": "ucRJ83Q8XB8",
+      "title": "짜포하겠어🦾#체포하겠어 #You_re_Under_Arrest #아일릿",
+      "date": "2026-11-28",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=ucRJ83Q8XB8",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
+    {
+      "youtube": "dpbw2HRgO4M",
+      "title": "미안이제곶감라고하면단감?지금이게몇시야홍시야연시야미안이제곶감라고하면단감?지금이게몇시야홍시야연시야괜찮으세요손? #Hearts2Hearts #하츠투하츠 #H2H #YUHA #YE_ON",
+      "date": "2026-11-28",
+      "publisher": "Hearts2Hearts · YouTube",
+      "source": "https://www.youtube.com/watch?v=dpbw2HRgO4M",
+      "description": "",
+      "sources": [
+        "yt:UC7Q3HUnJA3nvjZR2JeMn2Cw"
+      ]
+    },
+    {
+      "youtube": "bYj7Fu93r-w",
+      "title": "It's @LNGSHOT4SHO #OHYUL #RYUL 🍌🍌 #Its_Me #ILLIT #아일릿",
+      "date": "2026-11-28",
+      "publisher": "ILLIT · YouTube",
+      "source": "https://www.youtube.com/watch?v=bYj7Fu93r-w",
+      "description": "",
+      "sources": [
+        "yt:UCEpFoWeCMCo5z3EvWaz6hQQ"
+      ]
+    },
     {
       "youtube": "QCLM8RbQjtY",
       "title": "𝐵𝑢𝑡 𝐼…",
@@ -150,6 +183,17 @@ window.IC_YOUTUBE = {
       "description": "4th Mini Album [PULSE]  http://rescene.lnk.to/PULSE\n\nRESCENE Plus Chat: https://artist.mnetplus.world/main/stg/rescene-official\nRESCENE Instagram: https://www.instagram.com/rescene_official\nRESCENE X: https://twitter.com/RESCENEofficial\nRESCENE Facebook: https://www.facebook.com/RESCENE.official\nRESCENE TikTok: https://www.tiktok.com/@rescene_official\nRESCENE Weibo: https://weibo.com/rescene\n\n#RESCENE #리센느 #リセンヌ\n#PULSE",
       "sources": [
         "yt:UCtKtCiaWRz-d3EZn2xd1mdA"
+      ]
+    },
+    {
+      "youtube": "12Lvg_S00Tk",
+      "title": "빛을 머금은 듯 촉촉하게 빛나는 리즈의 눈빛👀✨｜[IVE ON] LIZ X mizel BEHIND PREVIEW #Shorts",
+      "date": "2026-11-28",
+      "publisher": "IVE · YouTube",
+      "source": "https://www.youtube.com/watch?v=12Lvg_S00Tk",
+      "description": "STARSHIP SQUARE (Domestic) : https://www.starship-square.com\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com\n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\nIVE Discord: https://discord.com/invite/ivestarship\n\n#IVE #아이브 #アイヴ",
+      "sources": [
+        "yt:UC-Fnix71vRP64WXeo0ikd0Q"
       ]
     },
     {
